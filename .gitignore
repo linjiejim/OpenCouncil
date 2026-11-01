@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.env
+*.local
+.turbo/
+packages/content/data/
+
+# OS
+.DS_Store
+Thumbs.db
+.cache/

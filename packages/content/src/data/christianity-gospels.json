@@ -1,0 +1,623 @@
+{
+  "work": {
+    "titleEn": "The Gospels (Selected Teachings)",
+    "titleZh": "福音书（精选教导）",
+    "titleOrig": "Τὰ Εὐαγγέλια",
+    "language": "koine-greek",
+    "circaYear": 80,
+    "description": "Selected teachings of Jesus from the four Gospels. Koine Greek from the SBL Greek New Testament (© 2010 Society of Biblical Literature and Logos Bible Software, CC BY 4.0), reassembled word by word from the MorphGNT edition, with the public-domain World English Bible (WEB) translation.",
+    "copyright": "Greek CC BY 4.0 · English PD",
+    "sourceUrl": "https://sblgnt.com"
+  },
+  "chapters": [
+    {
+      "titleEn": "The Gospel of Matthew",
+      "titleZh": "马太福音",
+      "titleOrig": "Κατὰ Μαθθαῖον",
+      "passages": [
+        {
+          "originalText": "Μακάριοι οἱ πτωχοὶ τῷ πνεύματι, ὅτι αὐτῶν ἐστιν ἡ βασιλεία τῶν οὐρανῶν.",
+          "englishText": "“Blessed are the poor in spirit, for theirs is the Kingdom of Heaven.",
+          "transliteration": null,
+          "canonicalRef": "Matthew 5:3",
+          "originalLang": "koine-greek",
+          "translator": "World English Bible (WEB)",
+          "sourceUrl": "https://www.biblegateway.com/passage/?search=matthew%205%3A3&version=WEB",
+          "license": "Greek: CC BY 4.0 (SBLGNT); English: public domain (WEB)",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "Being humble and recognizing one's spiritual poverty leads to divine blessing and belonging in God's kingdom.",
+          "summaryZh": "内心谦卑、承认自己灵里贫穷的人是有福的，因为天国是他们的。",
+          "similarQuestions": [
+            "What does it mean to be truly blessed?",
+            "How can I find spiritual fulfillment?",
+            "Why is humility considered a virtue?",
+            "What is the key to entering the Kingdom of Heaven?"
+          ],
+          "contextNote": "This is the first Beatitude from Jesus' Sermon on the Mount, emphasizing humility and dependence on God as foundational to Christian ethics. It is primarily addressed to followers seeking spiritual guidance.",
+          "tags": [
+            "faith",
+            "simplicity",
+            "soul",
+            "happiness"
+          ],
+          "weight": 5
+        },
+        {
+          "originalText": "μακάριοι οἱ εἰρηνοποιοί, ὅτι αὐτοὶ υἱοὶ θεοῦ κληθήσονται.",
+          "englishText": "Blessed are the peacemakers, for they shall be called children of God.",
+          "transliteration": null,
+          "canonicalRef": "Matthew 5:9",
+          "originalLang": "koine-greek",
+          "translator": "World English Bible (WEB)",
+          "sourceUrl": "https://www.biblegateway.com/passage/?search=matthew%205%3A9&version=WEB",
+          "license": "Greek: CC BY 4.0 (SBLGNT); English: public domain (WEB)",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "Those who actively work for peace are blessed and will be recognized as God's children.",
+          "summaryZh": "缔造和平的人是有福的，因为他们要被称为上帝的儿子。",
+          "similarQuestions": [
+            "How can I bring peace to my family?",
+            "What does it mean to be a peacemaker in a conflict?",
+            "Is there a blessing for those who reconcile others?",
+            "How can I be a child of God?"
+          ],
+          "contextNote": "This is from the Sermon on the Mount in the Gospel of Matthew, a core teaching of Jesus emphasizing reconciliation and peace as a divine attribute. It is addressed to followers but has universal resonance.",
+          "tags": [
+            "benevolence",
+            "virtue",
+            "divinity",
+            "justice"
+          ],
+          "weight": 4
+        },
+        {
+          "originalText": "ἐγὼ δὲ λέγω ὑμῖν, ἀγαπᾶτε τοὺς ἐχθροὺς ὑμῶν καὶ προσεύχεσθε ὑπὲρ τῶν διωκόντων ὑμᾶς·",
+          "englishText": "But I tell you, love your enemies, bless those who curse you, do good to those who hate you, and pray for those who mistreat you and persecute you,",
+          "transliteration": null,
+          "canonicalRef": "Matthew 5:44",
+          "originalLang": "koine-greek",
+          "translator": "World English Bible (WEB)",
+          "sourceUrl": "https://www.biblegateway.com/passage/?search=matthew%205%3A44&version=WEB",
+          "license": "Greek: CC BY 4.0 (SBLGNT); English: public domain (WEB)",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "Jesus commands his followers to love their enemies and pray for those who persecute them, embodying a radical ethic of non-retaliation and universal love.",
+          "summaryZh": "耶稣命令他的跟随者要爱仇敌，为逼迫他们的人祷告，体现了非报复和普世爱的激进伦理。",
+          "similarQuestions": [
+            "How can I love someone who has hurt me deeply?",
+            "What does it mean to pray for my enemies?",
+            "How do I respond to hatred without becoming hateful myself?",
+            "Is it possible to genuinely love those who mistreat me?"
+          ],
+          "contextNote": "This verse is from the Sermon on the Mount, a core teaching of Jesus addressing how his followers should respond to persecution and personal enemies within a first-century Jewish context under Roman occupation.",
+          "tags": [
+            "love",
+            "compassion",
+            "benevolence",
+            "faith"
+          ],
+          "weight": 5
+        },
+        {
+          "originalText": "ὅπου γάρ ἐστιν ὁ θησαυρός σου, ἐκεῖ ἔσται καὶ ἡ καρδία σου.",
+          "englishText": "for where your treasure is, there your heart will be also.",
+          "transliteration": null,
+          "canonicalRef": "Matthew 6:21",
+          "originalLang": "koine-greek",
+          "translator": "World English Bible (WEB)",
+          "sourceUrl": "https://www.biblegateway.com/passage/?search=matthew%206%3A21&version=WEB",
+          "license": "Greek: CC BY 4.0 (SBLGNT); English: public domain (WEB)",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "What you value most determines where your true loyalty and focus lie.",
+          "summaryZh": "你的财宝在哪里，你的心也在那里。",
+          "similarQuestions": [
+            "What should I prioritize in life?",
+            "How do I know what I truly care about?",
+            "Why do I feel divided between my values and my actions?",
+            "How can I align my heart with what matters most?"
+          ],
+          "contextNote": "This verse from Jesus' Sermon on the Mount in the Gospel of Matthew contrasts earthly and heavenly treasures, teaching that one's true priorities are revealed by where one invests time, resources, and affection. While originally a religious teaching, it is widely applicable to anyone examining their deepest commitments.",
+          "tags": [
+            "wealth",
+            "desire",
+            "wisdom",
+            "meaning-of-life"
+          ],
+          "weight": 4
+        },
+        {
+          "originalText": "Οὐδεὶς δύναται δυσὶ κυρίοις δουλεύειν· ἢ γὰρ τὸν ἕνα μισήσει καὶ τὸν ἕτερον ἀγαπήσει, ἢ ἑνὸς ἀνθέξεται καὶ τοῦ ἑτέρου καταφρονήσει. οὐ δύνασθε θεῷ δουλεύειν καὶ μαμωνᾷ.",
+          "englishText": "“No one can serve two masters, for either he will hate the one and love the other; or else he will be devoted to one and despise the other. You can’t serve both God and Mammon.",
+          "transliteration": null,
+          "canonicalRef": "Matthew 6:24",
+          "originalLang": "koine-greek",
+          "translator": "World English Bible (WEB)",
+          "sourceUrl": "https://www.biblegateway.com/passage/?search=matthew%206%3A24&version=WEB",
+          "license": "Greek: CC BY 4.0 (SBLGNT); English: public domain (WEB)",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "You cannot divide your loyalty between God and wealth; ultimately you will serve one and reject the other.",
+          "summaryZh": "你不能既侍奉上帝又侍奉金钱，最终你会忠于一个而厌弃另一个。",
+          "similarQuestions": [
+            "Can I pursue financial success without compromising my faith?",
+            "How do I know if I am serving money instead of God?",
+            "Is it possible to be devoted to both my career and my spiritual life?",
+            "What does it mean to have divided loyalties in my life?"
+          ],
+          "contextNote": "This saying is part of Jesus' Sermon on the Mount, addressing the impossibility of serving two opposing masters—God and wealth (Mammon). It warns against materialism and calls for undivided devotion to God.",
+          "tags": [
+            "choice",
+            "wealth",
+            "faith",
+            "virtue"
+          ],
+          "weight": 4
+        },
+        {
+          "originalText": "μὴ οὖν μεριμνήσητε εἰς τὴν αὔριον, ἡ γὰρ αὔριον μεριμνήσει αὑτῆς· ἀρκετὸν τῇ ἡμέρᾳ ἡ κακία αὐτῆς.",
+          "englishText": "Therefore don’t be anxious for tomorrow, for tomorrow will be anxious for itself. Each day’s own evil is sufficient.",
+          "transliteration": null,
+          "canonicalRef": "Matthew 6:34",
+          "originalLang": "koine-greek",
+          "translator": "World English Bible (WEB)",
+          "sourceUrl": "https://www.biblegateway.com/passage/?search=matthew%206%3A34&version=WEB",
+          "license": "Greek: CC BY 4.0 (SBLGNT); English: public domain (WEB)",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "Don't worry about tomorrow because each day has its own troubles; focus on today.",
+          "summaryZh": "不要为明天忧虑，因为明天自有明天的忧虑；一天的难处一天当就够了。",
+          "similarQuestions": [
+            "Why should I stop worrying about the future?",
+            "How can I cope with anxiety about what's coming?",
+            "Isn't it responsible to plan ahead?",
+            "How do I live in the present moment?"
+          ],
+          "contextNote": "From Jesus' Sermon on the Mount, this verse addresses anxiety about material needs, urging trust in God's provision. It does not forbid prudent planning but warns against paralyzing worry.",
+          "tags": [
+            "suffering",
+            "faith",
+            "simplicity",
+            "impermanence"
+          ],
+          "weight": 4
+        },
+        {
+          "originalText": "Μὴ κρίνετε, ἵνα μὴ κριθῆτε·",
+          "englishText": "“Don’t judge, so that you won’t be judged.",
+          "transliteration": null,
+          "canonicalRef": "Matthew 7:1",
+          "originalLang": "koine-greek",
+          "translator": "World English Bible (WEB)",
+          "sourceUrl": "https://www.biblegateway.com/passage/?search=matthew%207%3A1&version=WEB",
+          "license": "Greek: CC BY 4.0 (SBLGNT); English: public domain (WEB)",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "Avoid judging others, because you will be judged by the same standard.",
+          "summaryZh": "不要评判别人，以免自己也被评判。",
+          "similarQuestions": [
+            "Why shouldn't I judge others?",
+            "How can I avoid being hypocritical when pointing out others' faults?",
+            "What does it mean to truly not judge someone?",
+            "Is it ever okay to evaluate someone's actions?"
+          ],
+          "contextNote": "This saying from Jesus's Sermon on the Mount emphasizes mercy and humility, cautioning against hypocritical judgment while not forbidding all discernment.",
+          "tags": [
+            "compassion",
+            "justice",
+            "virtue"
+          ],
+          "weight": 5
+        },
+        {
+          "originalText": "Πάντα οὖν ὅσα ἐὰν θέλητε ἵνα ποιῶσιν ὑμῖν οἱ ἄνθρωποι, οὕτως καὶ ὑμεῖς ποιεῖτε αὐτοῖς· οὗτος γάρ ἐστιν ὁ νόμος καὶ οἱ προφῆται.",
+          "englishText": "Therefore whatever you desire for men to do to you, you shall also do to them; for this is the law and the prophets.",
+          "transliteration": null,
+          "canonicalRef": "Matthew 7:12",
+          "originalLang": "koine-greek",
+          "translator": "World English Bible (WEB)",
+          "sourceUrl": "https://www.biblegateway.com/passage/?search=matthew%207%3A12&version=WEB",
+          "license": "Greek: CC BY 4.0 (SBLGNT); English: public domain (WEB)",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "Treat others the way you want to be treated.",
+          "summaryZh": "你们希望别人怎样对待你们，你们也要怎样对待别人。",
+          "similarQuestions": [
+            "How should I treat other people?",
+            "What is the fundamental rule for ethical behavior?",
+            "How can I live a good life in relation to others?"
+          ],
+          "contextNote": "Part of Jesus' Sermon on the Mount in the Gospel of Matthew; it summarizes the ethical core of the Jewish law and prophets.",
+          "tags": [
+            "compassion",
+            "justice",
+            "benevolence",
+            "love"
+          ],
+          "weight": 5
+        },
+        {
+          "originalText": "Δεῦτε πρός με πάντες οἱ κοπιῶντες καὶ πεφορτισμένοι, κἀγὼ ἀναπαύσω ὑμᾶς.",
+          "englishText": "“Come to me, all you who labor and are heavily burdened, and I will give you rest.",
+          "transliteration": null,
+          "canonicalRef": "Matthew 11:28",
+          "originalLang": "koine-greek",
+          "translator": "World English Bible (WEB)",
+          "sourceUrl": "https://www.biblegateway.com/passage/?search=matthew%2011%3A28&version=WEB",
+          "license": "Greek: CC BY 4.0 (SBLGNT); English: public domain (WEB)",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "Jesus invites those who are tired and weighed down by burdens to come to him, promising them rest.",
+          "summaryZh": "耶稣邀请一切劳苦担重担的人到他那里去，应许使他们得安息。",
+          "similarQuestions": [
+            "I am exhausted from life's struggles; where can I find peace?",
+            "How can I find rest for my soul?",
+            "Is there relief from my burdens?",
+            "Who can understand my weariness?"
+          ],
+          "contextNote": "This verse is part of Jesus' invitation to discipleship in the Gospel of Matthew, likely addressing first-century Jews weary from religious legalism, but has been universally applied as a promise of spiritual rest for all believers.",
+          "tags": [
+            "suffering",
+            "compassion",
+            "faith",
+            "divinity"
+          ],
+          "weight": 5
+        },
+        {
+          "originalText": "Δευτέρα δὲ ὁμοία αὐτῇ· Ἀγαπήσεις τὸν πλησίον σου ὡς σεαυτόν.",
+          "englishText": "A second likewise is this, ‘You shall love your neighbor as yourself.’",
+          "transliteration": null,
+          "canonicalRef": "Matthew 22:39",
+          "originalLang": "koine-greek",
+          "translator": "World English Bible (WEB)",
+          "sourceUrl": "https://www.biblegateway.com/passage/?search=matthew%2022%3A39&version=WEB",
+          "license": "Greek: CC BY 4.0 (SBLGNT); English: public domain (WEB)",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "You should love other people as much as you love yourself.",
+          "summaryZh": "你要爱邻人如同爱自己。",
+          "similarQuestions": [
+            "How should I treat my neighbor?",
+            "What is the essence of ethical living?",
+            "How can I live a good life with others?",
+            "What does true love for others look like?"
+          ],
+          "contextNote": "This is part of the Great Commandment in the New Testament, summarizing the Law and the Prophets. It applies to all relationships, emphasizing selfless love.",
+          "tags": [
+            "compassion",
+            "benevolence",
+            "love",
+            "community"
+          ],
+          "weight": 5
+        }
+      ]
+    },
+    {
+      "titleEn": "The Gospel of Mark",
+      "titleZh": "马可福音",
+      "titleOrig": "Κατὰ Μᾶρκον",
+      "passages": [
+        {
+          "originalText": "τί γὰρ ὠφελεῖ ἄνθρωπον κερδῆσαι τὸν κόσμον ὅλον καὶ ζημιωθῆναι τὴν ψυχὴν αὐτοῦ;",
+          "englishText": "For what does it profit a man, to gain the whole world, and forfeit his life?",
+          "transliteration": null,
+          "canonicalRef": "Mark 8:36",
+          "originalLang": "koine-greek",
+          "translator": "World English Bible (WEB)",
+          "sourceUrl": "https://www.biblegateway.com/passage/?search=mark%208%3A36&version=WEB",
+          "license": "Greek: CC BY 4.0 (SBLGNT); English: public domain (WEB)",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "This passage asks what value there is in achieving everything you could want in the world if you lose your own soul or life in the process.",
+          "summaryZh": "这段经文问，人若赚得全世界，却赔上自己的生命，有什么益处呢？",
+          "similarQuestions": [
+            "Is it worth sacrificing my integrity for success?",
+            "Why do I feel empty after achieving my goals?",
+            "What matters more: worldly success or my inner self?",
+            "Should I prioritize my spiritual well-being over material gain?"
+          ],
+          "contextNote": "Jesus said this as part of a teaching on discipleship, emphasizing that following him may require sacrificing earthly gains. It speaks to anyone questioning the value of material success versus deeper spiritual or moral fulfillment.",
+          "tags": [
+            "meaning-of-life",
+            "soul",
+            "wealth",
+            "choice"
+          ],
+          "weight": 4
+        },
+        {
+          "originalText": "δευτέρα αὕτη· Ἀγαπήσεις τὸν πλησίον σου ὡς σεαυτόν. μείζων τούτων ἄλλη ἐντολὴ οὐκ ἔστιν.",
+          "englishText": "The second is like this, ‘You shall love your neighbor as yourself.’ There is no other commandment greater than these.”",
+          "transliteration": null,
+          "canonicalRef": "Mark 12:31",
+          "originalLang": "koine-greek",
+          "translator": "World English Bible (WEB)",
+          "sourceUrl": "https://www.biblegateway.com/passage/?search=mark%2012%3A31&version=WEB",
+          "license": "Greek: CC BY 4.0 (SBLGNT); English: public domain (WEB)",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "Jesus teaches that loving your neighbor as yourself is the second greatest commandment, equal in importance to loving God.",
+          "summaryZh": "耶稣教导说，爱邻如己是第二条最大的诫命，与爱神同等重要。",
+          "similarQuestions": [
+            "How should I treat people I meet every day?",
+            "What does it mean to truly love others?",
+            "Is there a simple rule to guide my actions toward others?"
+          ],
+          "contextNote": "This verse is part of Jesus' response to a scribe asking which commandment is greatest. It emphasizes that love for neighbor is inseparable from love for God.",
+          "tags": [
+            "love",
+            "community",
+            "compassion"
+          ],
+          "weight": 5
+        }
+      ]
+    },
+    {
+      "titleEn": "The Gospel of Luke",
+      "titleZh": "路加福音",
+      "titleOrig": "Κατὰ Λουκᾶν",
+      "passages": [
+        {
+          "originalText": "Καὶ μὴ κρίνετε, καὶ οὐ μὴ κριθῆτε· καὶ μὴ καταδικάζετε, καὶ οὐ μὴ καταδικασθῆτε. ἀπολύετε, καὶ ἀπολυθήσεσθε·",
+          "englishText": "Don’t judge, and you won’t be judged. Don’t condemn, and you won’t be condemned. Set free, and you will be set free.",
+          "transliteration": null,
+          "canonicalRef": "Luke 6:37",
+          "originalLang": "koine-greek",
+          "translator": "World English Bible (WEB)",
+          "sourceUrl": "https://www.biblegateway.com/passage/?search=luke%206%3A37&version=WEB",
+          "license": "Greek: CC BY 4.0 (SBLGNT); English: public domain (WEB)",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "Stop judging others, and you will not be judged; stop condemning, and you will not be condemned; forgive others, and you will be forgiven.",
+          "summaryZh": "不要论断人，就不被论断；不要定人的罪，就不被定罪；要饶恕人，就必蒙饶恕。",
+          "similarQuestions": [
+            "Why do I feel judged by others?",
+            "How can I stop being so critical of people?",
+            "What does it mean to truly forgive someone?",
+            "How can I break free from resentment?"
+          ],
+          "contextNote": "This saying is from Jesus' Sermon on the Plain in the Gospel of Luke, emphasizing reciprocal ethics and forgiveness. It is part of a broader teaching on mercy and non-retaliation, but should not be taken as a prohibition of all discernment or justice.",
+          "tags": [
+            "compassion",
+            "justice",
+            "freedom",
+            "practice"
+          ],
+          "weight": 5
+        },
+        {
+          "originalText": "ὁ δὲ ἀποκριθεὶς εἶπεν· Ἀγαπήσεις κύριον τὸν θεόν σου ἐξ ὅλης τῆς καρδίας σου καὶ ἐν ὅλῃ τῇ ψυχῇ σου καὶ ἐν ὅλῃ τῇ ἰσχύϊ σου καὶ ἐν ὅλῃ τῇ διανοίᾳ σου, καὶ τὸν πλησίον σου ὡς σεαυτόν.",
+          "englishText": "He answered, “You shall love the Lord your God with all your heart, with all your soul, with all your strength, and with all your mind; and your neighbor as yourself.”",
+          "transliteration": null,
+          "canonicalRef": "Luke 10:27",
+          "originalLang": "koine-greek",
+          "translator": "World English Bible (WEB)",
+          "sourceUrl": "https://www.biblegateway.com/passage/?search=luke%2010%3A27&version=WEB",
+          "license": "Greek: CC BY 4.0 (SBLGNT); English: public domain (WEB)",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "Love God completely and love your neighbor as yourself, summing up the essence of ethical and spiritual life.",
+          "summaryZh": "尽心、尽性、尽力、尽意爱主你的神，又要爱邻舍如同自己。",
+          "similarQuestions": [
+            "How can I live a meaningful life?",
+            "What is the most important thing in life?",
+            "How should I treat others?"
+          ],
+          "contextNote": "This verse is part of a dialogue where Jesus answers a lawyer's question about inheriting eternal life, summarizing the law. It is foundational to Christian ethics.",
+          "tags": [
+            "love",
+            "faith",
+            "goodness",
+            "community"
+          ],
+          "weight": 5
+        },
+        {
+          "originalText": "εἶπεν δὲ πρὸς αὐτούς· Ὁρᾶτε καὶ φυλάσσεσθε ἀπὸ πάσης πλεονεξίας, ὅτι οὐκ ἐν τῷ περισσεύειν τινὶ ἡ ζωὴ αὐτοῦ ἐστιν ἐκ τῶν ὑπαρχόντων αὐτῷ.",
+          "englishText": "He said to them, “Beware! Keep yourselves from covetousness, for a man’s life doesn’t consist of the abundance of the things which he possesses.”",
+          "transliteration": null,
+          "canonicalRef": "Luke 12:15",
+          "originalLang": "koine-greek",
+          "translator": "World English Bible (WEB)",
+          "sourceUrl": "https://www.biblegateway.com/passage/?search=luke%2012%3A15&version=WEB",
+          "license": "Greek: CC BY 4.0 (SBLGNT); English: public domain (WEB)",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "A person's life is not defined by how much they own, so beware of greed.",
+          "summaryZh": "人的生命不在于拥有多少财物，所以要警惕贪婪。",
+          "similarQuestions": [
+            "Why do I feel like I need more money to be happy?",
+            "How can I find meaning beyond material wealth?",
+            "What truly matters in life if not possessions?",
+            "Why am I never satisfied with what I have?"
+          ],
+          "contextNote": "This saying is part of a larger discourse on worry and trust in God. It addresses the universal human tendency to equate wealth with wellbeing, but the focus is on inner values rather than external goods.",
+          "tags": [
+            "wealth",
+            "desire",
+            "meaning-of-life",
+            "simplicity"
+          ],
+          "weight": 4
+        },
+        {
+          "originalText": "ὁ δὲ Ἰησοῦς ἔλεγεν· Πάτερ, ἄφες αὐτοῖς, οὐ γὰρ οἴδασιν τί ποιοῦσιν. διαμεριζόμενοι δὲ τὰ ἱμάτια αὐτοῦ ἔβαλον κλήρους.",
+          "englishText": "Jesus said, “Father, forgive them, for they don’t know what they are doing.” Dividing his garments among them, they cast lots.",
+          "transliteration": null,
+          "canonicalRef": "Luke 23:34",
+          "originalLang": "koine-greek",
+          "translator": "World English Bible (WEB)",
+          "sourceUrl": "https://www.biblegateway.com/passage/?search=luke%2023%3A34&version=WEB",
+          "license": "Greek: CC BY 4.0 (SBLGNT); English: public domain (WEB)",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "Jesus asks God to forgive his executioners, acknowledging that they do not understand what they are doing.",
+          "summaryZh": "耶稣请求上帝宽恕处死他的人，因为他们不明白自己在做什么。",
+          "similarQuestions": [
+            "How can I forgive someone who has deeply hurt me?",
+            "Is it possible to feel compassion for those who wrong me?",
+            "What does it mean to forgive without condition?",
+            "How do I deal with resentment and anger?"
+          ],
+          "contextNote": "This passage is from Jesus' crucifixion, a central event in Christianity. It exemplifies radical forgiveness and is often cited in discussions on reconciliation and mercy.",
+          "tags": [
+            "compassion",
+            "love",
+            "faith",
+            "virtue"
+          ],
+          "weight": 5
+        }
+      ]
+    },
+    {
+      "titleEn": "The Gospel of John",
+      "titleZh": "约翰福音",
+      "titleOrig": "Κατὰ Ἰωάννην",
+      "passages": [
+        {
+          "originalText": "Οὕτως γὰρ ἠγάπησεν ὁ θεὸς τὸν κόσμον ὥστε τὸν υἱὸν τὸν μονογενῆ ἔδωκεν, ἵνα πᾶς ὁ πιστεύων εἰς αὐτὸν μὴ ἀπόληται ἀλλὰ ἔχῃ ζωὴν αἰώνιον.",
+          "englishText": "For God so loved the world, that he gave his one and only Son, that whoever believes in him should not perish, but have eternal life.",
+          "transliteration": null,
+          "canonicalRef": "John 3:16",
+          "originalLang": "koine-greek",
+          "translator": "World English Bible (WEB)",
+          "sourceUrl": "https://www.biblegateway.com/passage/?search=john%203%3A16&version=WEB",
+          "license": "Greek: CC BY 4.0 (SBLGNT); English: public domain (WEB)",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "God's immense love for the world led him to offer his only Son, so that everyone who believes in him will have eternal life rather than perish.",
+          "summaryZh": "上帝深爱世人，甚至将他独生子赐给他们，让一切信他的人不致灭亡，反得永生。",
+          "similarQuestions": [
+            "How can I be sure of God's love for me?",
+            "What must I do to have eternal life?",
+            "Why did Jesus have to die?",
+            "Is belief in Jesus the only way to salvation?"
+          ],
+          "contextNote": "This verse from the Gospel of John summarizes the core Christian belief in salvation through faith in Jesus Christ. It is widely considered the most well-known Bible verse, but its interpretation varies among denominations.",
+          "tags": [
+            "love",
+            "faith",
+            "divinity",
+            "destiny"
+          ],
+          "weight": 5
+        },
+        {
+          "originalText": "καὶ γνώσεσθε τὴν ἀλήθειαν, καὶ ἡ ἀλήθεια ἐλευθερώσει ὑμᾶς.",
+          "englishText": "You will know the truth, and the truth will make you free.”",
+          "transliteration": null,
+          "canonicalRef": "John 8:32",
+          "originalLang": "koine-greek",
+          "translator": "World English Bible (WEB)",
+          "sourceUrl": "https://www.biblegateway.com/passage/?search=john%208%3A32&version=WEB",
+          "license": "Greek: CC BY 4.0 (SBLGNT); English: public domain (WEB)",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "Knowing the truth leads to freedom.",
+          "summaryZh": "认识真理，真理必使你自由。",
+          "similarQuestions": [
+            "How can I find true freedom in my life?",
+            "What does it mean to know the truth?",
+            "How can seeking truth set me free from my struggles?"
+          ],
+          "contextNote": "Spoken by Jesus in the Gospel of John, addressed to believers, emphasizing spiritual liberation through divine truth.",
+          "tags": [
+            "truth",
+            "freedom",
+            "self-knowledge"
+          ],
+          "weight": 5
+        },
+        {
+          "originalText": "ἐντολὴν καινὴν δίδωμι ὑμῖν ἵνα ἀγαπᾶτε ἀλλήλους, καθὼς ἠγάπησα ὑμᾶς ἵνα καὶ ὑμεῖς ἀγαπᾶτε ἀλλήλους.",
+          "englishText": "A new commandment I give to you, that you love one another. Just as I have loved you, you also love one another.",
+          "transliteration": null,
+          "canonicalRef": "John 13:34",
+          "originalLang": "koine-greek",
+          "translator": "World English Bible (WEB)",
+          "sourceUrl": "https://www.biblegateway.com/passage/?search=john%2013%3A34&version=WEB",
+          "license": "Greek: CC BY 4.0 (SBLGNT); English: public domain (WEB)",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "Jesus commands his followers to love one another as he has loved them.",
+          "summaryZh": "耶稣吩咐他的门徒要彼此相爱，正如他爱他们一样。",
+          "similarQuestions": [
+            "How can I learn to love others unconditionally?",
+            "What does it mean to love someone as Jesus loved?",
+            "How do I put love into action in my daily life?",
+            "What is the most important rule for how I treat others?"
+          ],
+          "contextNote": "This verse is part of Jesus' farewell discourse at the Last Supper, emphasizing love as the defining mark of his disciples. It applies broadly to interpersonal relationships within any community, though its original context is specifically for his followers.",
+          "tags": [
+            "love",
+            "compassion",
+            "duty",
+            "community"
+          ],
+          "weight": 5
+        },
+        {
+          "originalText": "λέγει αὐτῷ ὁ Ἰησοῦς· Ἐγώ εἰμι ἡ ὁδὸς καὶ ἡ ἀλήθεια καὶ ἡ ζωή· οὐδεὶς ἔρχεται πρὸς τὸν πατέρα εἰ μὴ δι’ ἐμοῦ.",
+          "englishText": "Jesus said to him, “I am the way, the truth, and the life. No one comes to the Father, except through me.",
+          "transliteration": null,
+          "canonicalRef": "John 14:6",
+          "originalLang": "koine-greek",
+          "translator": "World English Bible (WEB)",
+          "sourceUrl": "https://www.biblegateway.com/passage/?search=john%2014%3A6&version=WEB",
+          "license": "Greek: CC BY 4.0 (SBLGNT); English: public domain (WEB)",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "Jesus declares that he alone is the path to God, embodying ultimate truth and life.",
+          "summaryZh": "耶稣宣称他自己是通往上帝的唯一道路，是真理和生命。",
+          "similarQuestions": [
+            "How can I find true purpose in life?",
+            "Is there only one way to reach God?",
+            "What does it mean to follow Jesus as the way?",
+            "How do I know what is true and how to live?"
+          ],
+          "contextNote": "This verse is part of Jesus' farewell discourse to his disciples, emphasizing the exclusivity of his role as mediator between humanity and God. It is foundational for Christian theology and soteriology, but may not be applicable in interfaith or pluralistic contexts.",
+          "tags": [
+            "truth",
+            "faith",
+            "meaning-of-life",
+            "divinity"
+          ],
+          "weight": 5
+        },
+        {
+          "originalText": "μείζονα ταύτης ἀγάπην οὐδεὶς ἔχει, ἵνα τις τὴν ψυχὴν αὐτοῦ θῇ ὑπὲρ τῶν φίλων αὐτοῦ.",
+          "englishText": "Greater love has no one than this, that someone lay down his life for his friends.",
+          "transliteration": null,
+          "canonicalRef": "John 15:13",
+          "originalLang": "koine-greek",
+          "translator": "World English Bible (WEB)",
+          "sourceUrl": "https://www.biblegateway.com/passage/?search=john%2015%3A13&version=WEB",
+          "license": "Greek: CC BY 4.0 (SBLGNT); English: public domain (WEB)",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "The greatest love is shown when someone is willing to sacrifice their own life for their friends.",
+          "summaryZh": "最大的爱莫过于为朋友牺牲生命。",
+          "similarQuestions": [
+            "What is the greatest act of love?",
+            "How can I demonstrate true love for my friends?",
+            "What does it mean to be a selfless friend?",
+            "Is sacrificing for others the ultimate expression of love?"
+          ],
+          "contextNote": "This verse is part of Jesus' farewell discourse in the Gospel of John, where he teaches his disciples about love and sacrifice. It is often interpreted as the ideal of selfless love, but its application can vary across different ethical and religious frameworks.",
+          "tags": [
+            "love",
+            "friendship",
+            "courage",
+            "death"
+          ],
+          "weight": 5
+        }
+      ]
+    }
+  ]
+}

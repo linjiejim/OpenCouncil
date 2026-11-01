@@ -1,0 +1,23 @@
+{
+  "name": "@opencouncil/content",
+  "version": "0.0.1",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "collect": "tsx src/collect.ts",
+    "expand": "tsx src/expand.ts",
+    "import": "tsx src/import.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@opencouncil/db": "workspace:*",
+    "@opencouncil/types": "workspace:*",
+    "dotenv": "^16.4.0",
+    "postgres": "^3.4.9",
+    "drizzle-orm": "^0.45.2"
+  },
+  "devDependencies": {
+    "tsx": "^4.19.0",
+    "typescript": "^5.8.0"
+  }
+}

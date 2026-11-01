@@ -1,0 +1,264 @@
+{
+  "work": {
+    "titleEn": "Moral Letters & Dialogues (Selected Passages)",
+    "titleZh": "道德书简与对话录（精选）",
+    "titleOrig": "Epistulae Morales ad Lucilium / Dialogi",
+    "language": "latin",
+    "circaYear": 63,
+    "description": "Selected passages from Seneca’s Moral Letters to Lucilius and his Dialogues (On the Shortness of Life, On Providence, On Anger). Latin of the Letters from the Perseus Digital Library (CC BY-SA 4.0) and of the Dialogues from Latin Wikisource. English of the Dialogues in the public-domain translation of Aubrey Stewart (1889), via Project Gutenberg; English of the Letters in Richard M. Gummere’s Loeb translation (1917–1925), public domain in the US, via English Wikisource.",
+    "copyright": "Latin CC BY-SA 4.0 or PD · English PD (US)",
+    "sourceUrl": "https://www.gutenberg.org/ebooks/64576"
+  },
+  "chapters": [
+    {
+      "titleEn": "On the Shortness of Life",
+      "titleZh": "论生命之短暂",
+      "titleOrig": "De Brevitate Vitae",
+      "passages": [
+        {
+          "originalText": "Ita est: non accipimus brevem vitam, sed facimus, nec inopes eius sed prodigi sumus.",
+          "englishText": "Thus it is: we do not receive a short life, but we make it a short one, and we are not poor in days, but wasteful of them.",
+          "transliteration": null,
+          "canonicalRef": "De Brevitate Vitae 1.4",
+          "originalLang": "latin",
+          "translator": "Aubrey Stewart (1889)",
+          "sourceUrl": "https://www.gutenberg.org/ebooks/64576",
+          "license": "Latin: public domain (Latin Wikisource); English: public domain",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "We are not given a short life; we make it short. We are not poor in time but wasteful of it.",
+          "summaryZh": "我们得到的生命并不短，是我们把它变短了；我们不是缺少时间，而是在挥霍时间。",
+          "similarQuestions": [
+            "Is life too short?",
+            "How to stop wasting time?",
+            "Am I spending my time wisely?",
+            "Why does time fly by so fast?",
+            "How to make the most of my life?"
+          ],
+          "contextNote": "From the first chapter of “On the Shortness of Life”, written around 49 CE to Paulinus. Just before this sentence Seneca argues that life is long enough for the greatest achievements if the whole of it is well spent.",
+          "tags": [
+            "meaning-of-life",
+            "death",
+            "discipline"
+          ],
+          "weight": 5
+        },
+        {
+          "originalText": "Nihil minus est hominis occupati quam vivere; nullius rei difficilior scientia est. Professores aliarum artium volgo multique sunt, quasdam vero ex his pueri admodum ita percepisse visi sunt, ut etiam praecipere possent. Vivere tota vita discendum est et, quod magis fortasse miraberis, tota vita discendum est mori.",
+          "englishText": "No man knows less about living than a business man: there is nothing about which it is more difficult to gain knowledge. Other arts have many folk everywhere who profess to teach them: some of them can be so thoroughly learned by mere boys, that they are able to teach them to others: but one’s whole life must be spent in learning how to live, and, which may perhaps surprise you more, one’s whole life must be spent in learning how to die.",
+          "transliteration": null,
+          "canonicalRef": "De Brevitate Vitae 7.3",
+          "originalLang": "latin",
+          "translator": "Aubrey Stewart (1889)",
+          "sourceUrl": "https://www.gutenberg.org/ebooks/64576",
+          "license": "Latin: public domain (Latin Wikisource); English: public domain",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "Busy people know least about living. Other arts can be learned even by boys, but it takes a whole life to learn how to live — and, more surprisingly, a whole life to learn how to die.",
+          "summaryZh": "忙碌的人最不懂得生活。别的技艺连孩子都学得会，但学会生活需要一辈子——更令人惊讶的是，学会死亡也需要一辈子。",
+          "similarQuestions": [
+            "How to prepare for death?",
+            "Is it too late to start living?",
+            "What is the art of living?",
+            "How to live without regret?",
+            "Why is life so hard to figure out?"
+          ],
+          "contextNote": "From chapter 7 of “On the Shortness of Life”. Seneca’s target is the occupati, people absorbed in business and ambition. For the Stoics, contemplating death is not morbid: it focuses attention on what matters.",
+          "tags": [
+            "death",
+            "wisdom",
+            "meaning-of-life"
+          ],
+          "weight": 4
+        }
+      ]
+    },
+    {
+      "titleEn": "Moral Letters to Lucilius",
+      "titleZh": "道德书简",
+      "titleOrig": "Epistulae Morales ad Lucilium",
+      "passages": [
+        {
+          "originalText": "Ita fac, mi Lucili; vindica te tibi, et tempus, quod adhuc aut auferebatur aut subripiebatur aut excidebat, collige et serva. Persuade tibi hoc sic esse, ut scribo: quaedam tempora eripiuntur nobis, quaedam subducuntur, quaedam effluunt. Turpissima tamen est iactura, quae per neglegentiam fit. Et si volueris attendere, maxima pars vitae elabitur male agentibus, magna nihil agentibus, tota vita aliud agentibus.",
+          "englishText": "Continue to act thus, my dear Lucilius—set yourself free for your own sake; gather and save your time, which till lately has been forced from you, or filched away, or has merely slipped from your hands. Make yourself believe the truth of my words,—that certain moments are torn from us, that some are gently removed, and that others glide beyond our reach. The most disgraceful kind of loss, however, is that due to carelessness. Furthermore, if you will pay close heed to the problem, you will find that the largest portion of our life passes while we are doing ill, a goodly share while we are doing nothing, and the whole while we are doing that which is not to the purpose.",
+          "transliteration": null,
+          "canonicalRef": "Letters to Lucilius 1.1",
+          "originalLang": "latin",
+          "translator": "Richard M. Gummere (1917–1925)",
+          "sourceUrl": "https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_1",
+          "license": "Latin: CC BY-SA 4.0 (Perseus); English: public domain in the US (published 1917–1925)",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "Set yourself free for your own sake: gather and save the time that is taken from you, stolen, or slips away. The most disgraceful loss is the one due to carelessness — most of life passes in doing ill, much in doing nothing, and all of it in doing what is beside the point.",
+          "summaryZh": "为了你自己，把自己解放出来：把被夺走、被偷走或悄悄溜走的时间收回来、守住。最可耻的损失是因疏忽造成的——人生大半在做坏事中度过，许多在无所事事中度过，而整个一生都在做不相干的事。",
+          "similarQuestions": [
+            "How to take back control of my time?",
+            "Why am I always busy but never productive?",
+            "Am I living someone else’s life?",
+            "How to prioritize?",
+            "Am I wasting my life?"
+          ],
+          "contextNote": "The opening of the first letter to Lucilius: Seneca begins the whole collection with time. “Vindica te tibi” is often rendered “claim yourself for yourself”. Written in the last years of his life, around 62–65 CE.",
+          "tags": [
+            "freedom",
+            "discipline",
+            "meaning-of-life"
+          ],
+          "weight": 5
+        },
+        {
+          "originalText": "Quem mihi dabis, qui aliquod pretium tempori ponat, qui diem aestimet, qui intellegat se cotidie mori? In hoc enim fallimur, quod mortem prospicimus; magna pars eius iam praeterit. Quicquid aetatis retro est, mors tenet. Fac ergo, mi Lucili, quod facere te scribis, omnes horas conplectere. Sic fiet, ut minus ex crastino pendeas, si hodierno manum inieceris. Dum differtur, vita transcurrit. Omnia, Lucili, aliena sunt, tempus tantum nostrum est.",
+          "englishText": "What man can you show me who places any value on his time, who reckons the worth of each day, who understands that he is dying daily? For we are mistaken when we look forward to death; the major portion of death has already passed. Whatever years lie behind us are in death’s hands. Therefore, Lucilius, do as you write me that you are doing: hold every hour in your grasp. Lay hold of to-day’s task, and you will not need to depend so much upon to-morrow’s. While we are postponing, life speeds by. Nothing, Lucilius, is ours, except time.",
+          "transliteration": null,
+          "canonicalRef": "Letters to Lucilius 1.2–3",
+          "originalLang": "latin",
+          "translator": "Richard M. Gummere (1917–1925)",
+          "sourceUrl": "https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_1",
+          "license": "Latin: CC BY-SA 4.0 (Perseus); English: public domain in the US (published 1917–1925)",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "We die daily: most of death already lies behind us. So hold every hour in your grasp and seize today’s task, for while we postpone, life speeds by. Nothing is truly ours except time.",
+          "summaryZh": "我们每天都在死去：死亡的大半已在身后。所以要抓住每一个小时，做好今天的事，因为在我们拖延之时，生命匆匆而过。除了时间，没有什么真正属于我们。",
+          "similarQuestions": [
+            "How to stop procrastinating?",
+            "How to live in the present?",
+            "Am I putting off my real life?",
+            "How to make today count?",
+            "Why do I always think I’ll start tomorrow?"
+          ],
+          "contextNote": "Letter 1. The Latin “Dum differtur vita transcurrit” (while we postpone, life speeds by) is one of the most quoted Stoic sayings.",
+          "tags": [
+            "death",
+            "impermanence",
+            "discipline"
+          ],
+          "weight": 5
+        },
+        {
+          "originalText": "Illud autem vide, ne ista lectio auctorum multorum et omnis generis voluminum habeat aliquid vagum et instabile. Certis ingeniis inmorari et innutriri oportet, si velis aliquid trahere, quod in animo fideliter sedeat. Nusquam est, qui ubique est. Vitam in peregrinatione exigentibus hoc evenit, ut multa hospitia habeant, nullas amicitias. Idem accidat necesse est iis, qui nullius se ingenio familiariter applicant, sed omnia cursim et properantes transmittunt. Non prodest cibus nec corpori accedit, qui statim sumptus emittitur; nihil aeque sanitatem impedit quam remediorum crebra mutatio; non venit vulnus ad cicatricem, in quo medicamenta temptantur; non convalescit planta, quae saepe transfertur. Nihil tam utile est, ut in transitu prosit. Distringit librorum multitudo. Itaque cum legere non possis, quantum habueris, satis est habere, quantum legas.",
+          "englishText": "Be careful, however, lest this reading of many authors and books of every sort may tend to make you discursive and unsteady. You must linger among a limited number of master-thinkers, and digest their works, if you would derive ideas which shall win firm hold in your mind. Everywhere means nowhere. When a person spends all his time in foreign travel, he ends by having many acquaintances, but no friends. And the same thing must hold true of men who seek intimate acquaintance with no single author, but visit them all in a hasty and hurried manner. Food does no good and is not assimilated into the body if it leaves the stomach as soon as it is eaten; nothing hinders a cure so much as frequent change of medicine; no wound will heal when one salve is tried after another; a plant which is often moved can never grow strong. There is nothing so efficacious that it can be helpful while it is being shifted about. And in reading of many books is distraction. Accordingly, since you cannot read all the books which you may possess, it is enough to possess only as many books as you can read.",
+          "transliteration": null,
+          "canonicalRef": "Letters to Lucilius 2.2–3",
+          "originalLang": "latin",
+          "translator": "Richard M. Gummere (1917–1925)",
+          "sourceUrl": "https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_2",
+          "license": "Latin: CC BY-SA 4.0 (Perseus); English: public domain in the US (published 1917–1925)",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "Reading many authors of every kind makes the mind scattered. Linger with a few master thinkers and digest them; everywhere means nowhere. Since you cannot read all the books you own, own only as many as you can read.",
+          "summaryZh": "博览各类作者会让心智散乱。要与少数大师长久相处、消化他们的思想；无处不在等于无处可在。既然读不完拥有的书，那么拥有能读完的书就够了。",
+          "similarQuestions": [
+            "How to learn effectively?",
+            "Am I reading too much without understanding?",
+            "Is information overload making me dumber?",
+            "How to develop deep knowledge?",
+            "What should I read?"
+          ],
+          "contextNote": "Letter 2, “On discursiveness in reading”. Seneca compares the restless reader to a traveller with many hosts and no friends, and to a plant that never takes root because it is moved too often.",
+          "tags": [
+            "education",
+            "discipline",
+            "simplicity"
+          ],
+          "weight": 4
+        },
+        {
+          "originalText": "In supervacuis subtilitas teritur; non faciunt bonos ista, sed doctos. Apertior res est sapere, immo simpliciter satius est ad mentem bonam uti litteris, sed nos ut cetera in supervacuum diffundimus, ita philosophiam ipsam. Quemadmodum omnium rerum, sic litterarum quoque intemperantia laboramus; non vitae sed scholae discimus.",
+          "englishText": "We dull our fine edge by such superfluous pursuits; these things make men clever, but not good. Wisdom is a plainer thing than that; nay, it is clearly better to use literature for the improvement of the mind, instead of wasting philosophy itself as we waste other efforts on superfluous things. Just as we suffer from excess in all things, so we suffer from excess in literature; thus we learn our lessons, not for life, but for the lecture-room.",
+          "transliteration": null,
+          "canonicalRef": "Letters to Lucilius 106.11–12",
+          "originalLang": "latin",
+          "translator": "Richard M. Gummere (1917–1925)",
+          "sourceUrl": "https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_106",
+          "license": "Latin: CC BY-SA 4.0 (Perseus); English: public domain in the US (published 1917–1925)",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "Hair-splitting about superfluous questions makes people clever but not good. Wisdom is plainer than that; literature should improve the mind. As in everything, we suffer from excess in learning — we learn for the lecture-room, not for life.",
+          "summaryZh": "在无用的问题上钻牛角尖，只会让人变得聪明，而不会让人变得善良。智慧要朴素得多；读书应当用来改善心灵。我们在学问上也像在一切事上一样过度——我们是为课堂而学，不是为生活而学。",
+          "similarQuestions": [
+            "What is the purpose of education?",
+            "Is school teaching me what I need?",
+            "How to apply what I learn?",
+            "What knowledge is most useful?"
+          ],
+          "contextNote": "The close of Letter 106. Seneca actually wrote “non vitae sed scholae discimus” — we learn for school, not for life — as a complaint. The popular motto “Non scholae sed vitae discimus” reverses his wording to state the ideal he implies.",
+          "tags": [
+            "education",
+            "wisdom",
+            "goodness"
+          ],
+          "weight": 4
+        }
+      ]
+    },
+    {
+      "titleEn": "On Providence",
+      "titleZh": "论天意",
+      "titleOrig": "De Providentia",
+      "passages": [
+        {
+          "originalText": "Languida ingenia et in somnum itura aut in uigiliam somno simillimam inertibus nectuntur elementis: ut efficiatur uir cum cura dicendus, fortiore fato opus est. Non erit illi planum iter: sursum oportet ac deorsum eat, fluctuetur ac nauigium in turbido regat. Contra fortunam illi tenendus est cursus; multa accident dura, aspera, sed quae molliat et conplanet ipse. Ignis aurum probat, miseria fortes uiros.",
+          "englishText": "Dull minds, tending to sleep or to a waking state exactly like sleep, are composed of sluggish elements: it requires stronger stuff to form a man meriting careful description. His course will not be straightforward; he must go upwards and downwards, be tossed about, and guide his vessel through troubled waters: he must make his way in spite of fortune: he will meet with much that is hard which he must soften, much that is rough that he must make smooth. Fire tries gold, misfortune tries brave men.",
+          "transliteration": null,
+          "canonicalRef": "De Providentia 5.9",
+          "originalLang": "latin",
+          "translator": "Aubrey Stewart (1889)",
+          "sourceUrl": "https://www.gutenberg.org/ebooks/64576",
+          "license": "Latin: public domain (Latin Wikisource); English: public domain",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "Sluggish natures are made of sluggish stuff; a person worth the name needs a harder fate. Their road goes up and down through troubled waters, and they must smooth what is rough. Fire tries gold, misfortune tries brave men.",
+          "summaryZh": "迟钝的心灵由迟钝的材料构成；要成为值得一提的人，需要更严酷的命运。他的路起伏不平，要在风浪中掌舵，把坎坷磨平。火炼真金，逆境炼勇者。",
+          "similarQuestions": [
+            "How to face adversity?",
+            "Is suffering useful?",
+            "How to build resilience?",
+            "Does struggle make you stronger?",
+            "Why do bad things happen to good people?"
+          ],
+          "contextNote": "From “On Providence”, which answers Lucilius’ question why misfortunes befall good men if providence rules the world. The related saying “It is not because things are difficult that we do not dare; it is because we do not dare that they are difficult” comes from Letter 104.26, not from this passage.",
+          "tags": [
+            "suffering",
+            "courage",
+            "perseverance"
+          ],
+          "weight": 5
+        }
+      ]
+    },
+    {
+      "titleEn": "On Anger, Book II",
+      "titleZh": "论愤怒·第二卷",
+      "titleOrig": "De Ira, Liber II",
+      "passages": [
+        {
+          "originalText": "Maximum remedium irae mora est. Hoc ab illa pete initio, non ut ignoscat sed ut iudicet: graues habet impetus primos; desinet, si expectat. Nec uniuersam illam temptaueris tollere: tota uincetur, dum partibus carpitur.",
+          "englishText": "The greatest remedy for anger is delay: beg anger to grant you this at the first, not in order that it may pardon the offence, but that it may form a right judgment about it: if it delays, it will come to an end. Do not attempt to quell it all at once, for its first impulses are fierce; by plucking away its parts we shall remove the whole.",
+          "transliteration": null,
+          "canonicalRef": "De Ira 2.29.1",
+          "originalLang": "latin",
+          "translator": "Aubrey Stewart (1889)",
+          "sourceUrl": "https://www.gutenberg.org/ebooks/64576",
+          "license": "Latin: public domain (Latin Wikisource); English: public domain",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "The greatest remedy for anger is delay: ask it at first not to pardon but to judge. Its first impulses are fierce, but it will subside if it waits; do not try to quell it all at once, but take it apart piece by piece.",
+          "summaryZh": "治愤怒最好的良药是拖延：一开始不求它宽恕，只求它先作判断。愤怒初起时来势凶猛，但只要等一等就会平息；不要妄图一下子消灭它，而要一部分一部分地拆解。",
+          "similarQuestions": [
+            "How to control my anger?",
+            "Why do I get angry so easily?",
+            "How to stop overreacting?",
+            "How to stay calm under pressure?"
+          ],
+          "contextNote": "From “On Anger”, written for Seneca’s brother Novatus — in effect an ancient manual of anger management. The motto sometimes attached to it, “Ira initium insaniae est” (anger is the beginning of madness), is from Ennius, not Seneca.",
+          "tags": [
+            "discipline",
+            "reason",
+            "practice"
+          ],
+          "weight": 5
+        }
+      ]
+    }
+  ]
+}

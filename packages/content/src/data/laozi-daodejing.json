@@ -1,0 +1,589 @@
+{
+  "work": {
+    "titleEn": "Tao Te Ching (Selected Chapters)",
+    "titleZh": "道德经（精选）",
+    "titleOrig": "道德經",
+    "language": "classical-chinese",
+    "circaYear": -400,
+    "description": "Selected chapters of the Tao Te Ching. Classical Chinese text via the Chinese Text Project (ctext.org) with the public-domain English translation of James Legge (Sacred Books of the East v39, 1891), via Wikisource.",
+    "copyright": "public-domain",
+    "sourceUrl": "https://ctext.org/dao-de-jing"
+  },
+  "chapters": [
+    {
+      "titleEn": "Dao Jing (The Way)",
+      "titleZh": "道经",
+      "titleOrig": "道經",
+      "passages": [
+        {
+          "originalText": "道可道，非常道。名可名，非常名。無名天地之始；有名萬物之母。故常無欲，以觀其妙；常有欲，以觀其徼。此兩者，同出而異名，同謂之玄。玄之又玄，衆妙之門。",
+          "englishText": "The Tao that can be described is not the enduring and unchanging Tao. The name that can be named is not the enduring and unchanging name. (Conceived of as) having no name, it is the Originator of heaven and earth; (conceived of as) having a name, it is the Mother of all things. Always without desire we must be found, If its deep mystery we would sound; But if desire always within us be, Its outer fringe is all that we shall see. Under these two aspects, it is really the same; but as development takes place, it receives the different names. Together we call them the Mystery. Where the Mystery is the deepest is the gate of all that is subtle and wonderful.",
+          "transliteration": null,
+          "canonicalRef": "Tao Te Ching 1",
+          "originalLang": "classical-chinese",
+          "translator": "James Legge",
+          "sourceUrl": "https://ctext.org/dao-de-jing/1",
+          "license": "public-domain",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "The ultimate reality (Tao) cannot be fully described or named; experiencing it requires letting go of fixed concepts and desires.",
+          "summaryZh": "终极的道无法用语言描述，理解它需要超越欲望和命名。",
+          "similarQuestions": [
+            "How can I understand something that cannot be put into words?",
+            "Why do I feel limited by my own concepts?",
+            "Is there a deeper reality beyond what I can name?",
+            "How can I experience life without always wanting things?"
+          ],
+          "contextNote": "This is the opening of the Tao Te Ching, a foundational Daoist text attributed to Laozi (6th century BCE). It sets the tone for the entire work, emphasizing the limitations of language and the importance of direct experience. The passage is not meant to be taken as a logical proposition but as an invitation to shift perspective.",
+          "tags": [
+            "meaning-of-life",
+            "wisdom",
+            "nature",
+            "simplicity"
+          ],
+          "weight": 5
+        },
+        {
+          "originalText": "天下皆知美之為美，斯惡已。皆知善之為善，斯不善已。故有無相生，難易相成，長短相較，高下相傾，音聲相和，前後相隨。是以聖人處無為之事，行不言之教；萬物作焉而不辭，生而不有。為而不恃，功成而弗居。夫唯弗居，是以不去。",
+          "englishText": "All in the world know the beauty of the beautiful, and in doing this they have (the idea of) what ugliness is; they all know the skill of the skilful, and in doing this they have (the idea of) what the want of skill is. So it is that existence and non-existence give birth the one to (the idea of) the other; that difficulty and ease produce the one (the idea of) the other; that length and shortness fashion out the one the figure of the other; that (the ideas of) height and lowness arise from the contrast of the one with the other; that the musical notes and tones become harmonious through the relation of one with another; and that being before and behind give the idea of one following another. Therefore the sage manages affairs without doing anything, and conveys his instructions without the use of speech. All things spring up, and there is not one which declines to show itself; they grow, and there is no claim made for their ownership; they go through their processes, and there is no expectation (of a reward for the results). The work is accomplished, and there is no resting in it (as an achievement). The work is done, but how no one can see; 'Tis this that makes the power not cease to be.",
+          "transliteration": null,
+          "canonicalRef": "Tao Te Ching 2",
+          "originalLang": "classical-chinese",
+          "translator": "James Legge",
+          "sourceUrl": "https://ctext.org/dao-de-jing/2",
+          "license": "public-domain",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "This passage teaches that concepts like beauty and ugliness are interdependent, and advises acting without attachment or self-importance.",
+          "summaryZh": "这段文字说明美与丑、善与恶等概念相互依存，并倡导无为而不居功的态度。",
+          "similarQuestions": [
+            "Why do judgments of good and bad cause conflict?",
+            "How can I find peace without striving for perfection?",
+            "How can I act without being attached to outcomes?",
+            "Why do I feel that my efforts are not recognized?"
+          ],
+          "contextNote": "This is from the Tao Te Ching, a foundational Daoist text attributed to Laozi, dating to around 6th-4th century BCE. It emphasizes the Daoist principle of wu wei (non-action) and the relativity of all opposites. The passage is widely applicable but should not be taken as advocating inaction in all life situations.",
+          "tags": [
+            "wisdom",
+            "nature",
+            "non-action",
+            "simplicity"
+          ],
+          "weight": 5
+        },
+        {
+          "originalText": "上善若水。水善利萬物而不爭，處衆人之所惡，故幾於道。居善地，心善淵，與善仁，言善信，正善治，事善能，動善時。夫唯不爭，故無尤。",
+          "englishText": "The highest excellence is like (that of) water. The excellence of water appears in its benefiting all things, and in its occupying, without striving (to the contrary), the low place which all men dislike. Hence (its way) is near to (that of) the Tao. The excellence of a residence is in (the suitability of) the place; that of the mind is in abysmal stillness; that of associations is in their being with the virtuous; that of government is in its securing good order; that of (the conduct of) affairs is in its ability; and that of (the initiation of) any movement is in its timeliness. And when (one with the highest excellence) does not wrangle (about his low position), no one finds fault with him.",
+          "transliteration": null,
+          "canonicalRef": "Tao Te Ching 8",
+          "originalLang": "classical-chinese",
+          "translator": "James Legge",
+          "sourceUrl": "https://ctext.org/dao-de-jing/8",
+          "license": "public-domain",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "The highest virtue, like water, benefits all without conflict and willingly takes the lowest place, thereby avoiding blame.",
+          "summaryZh": "最高的善就像水一样，利益万物而不争，甘居众人厌恶的低处，因此没有过失。",
+          "similarQuestions": [
+            "How can I be good without drawing attention or conflict?",
+            "Why is humility considered a strength in Daoism?",
+            "How can I live in harmony with others without competing?",
+            "What does it mean to be 'like water' in daily life?"
+          ],
+          "contextNote": "This chapter is from the Tao Te Ching, attributed to Laozi, foundational text of Daoism (c. 6th-4th century BCE). The water metaphor illustrates wu-wei (non-action) and humility. It applies to personal conduct, leadership, and harmony with nature.",
+          "tags": [
+            "non-action",
+            "simplicity",
+            "virtue",
+            "wisdom"
+          ],
+          "weight": 5
+        },
+        {
+          "originalText": "持而盈之，不如其已；揣而銳之，不可長保。金玉滿堂，莫之能守；富貴而驕，自遺其咎。功遂身退天之道。",
+          "englishText": "It is better to leave a vessel unfilled, than to attempt to carry it when it is full. If you keep feeling a point that has been sharpened, the point cannot long preserve its sharpness. When gold and jade fill the hall, their possessor cannot keep them safe. When wealth and honours lead to arrogancy, this brings its evil on itself. When the work is done, and one's name is becoming distinguished, to withdraw into obscurity is the way of Heaven.",
+          "transliteration": null,
+          "canonicalRef": "Tao Te Ching 9",
+          "originalLang": "classical-chinese",
+          "translator": "James Legge",
+          "sourceUrl": "https://ctext.org/dao-de-jing/9",
+          "license": "public-domain",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "Trying to keep something full leads to loss; sharpness cannot last; wealth and pride bring trouble; it is wise to step back when work is done.",
+          "summaryZh": "容器装得太满容易溢出，锋芒太露难以持久；富贵而骄会招祸，功成身退才是天道。",
+          "similarQuestions": [
+            "How can I avoid burnout from always pushing for more?",
+            "What is the danger of pride and overconfidence?",
+            "When should I step back from success?",
+            "Why do wealthy people often lose their fortune?"
+          ],
+          "contextNote": "From the Tao Te Ching (c. 4th century BCE), a foundational Daoist text. This passage advises against excess and arrogance, emphasizing the natural principle (Dao) of retreat after accomplishment. It is applicable to personal conduct and leadership, but should not be misinterpreted as advocating passivity or avoiding all ambition.",
+          "tags": [
+            "simplicity",
+            "non-action",
+            "wisdom",
+            "wealth"
+          ],
+          "weight": 4
+        },
+        {
+          "originalText": "三十輻，共一轂，當其無，有車之用。埏埴以為器，當其無，有器之用。鑿戶牖以為室，當其無，有室之用。故有之以為利，無之以為用。",
+          "englishText": "The thirty spokes unite in the one nave; but it is on the empty space (for the axle), that the use of the wheel depends. Clay is fashioned into vessels; but it is on their empty hollowness, that their use depends. The door and windows are cut out (from the walls) to form an apartment; but it is on the empty space (within), that its use depends. Therefore, what has a (positive) existence serves for profitable adaptation, and what has not that for (actual) usefulness.",
+          "transliteration": null,
+          "canonicalRef": "Tao Te Ching 11",
+          "originalLang": "classical-chinese",
+          "translator": "James Legge",
+          "sourceUrl": "https://ctext.org/dao-de-jing/11",
+          "license": "public-domain",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "Emptiness or absence is what makes things useful, just as the space within a wheel, vessel, or room gives them their function.",
+          "summaryZh": "虚空或无才是事物有用的关键，就像车轮、器皿和房间内部的空间使其发挥作用。",
+          "similarQuestions": [
+            "Why is emptiness or nothingness important in my life?",
+            "How can I find value in what is not there?",
+            "What does it mean that usefulness comes from emptiness?",
+            "How can I apply the principle of 'non-action' in daily life?"
+          ],
+          "contextNote": "This is a core Daoist passage from the Tao Te Ching, emphasizing the interplay of being and non-being. It is often used to illustrate the value of openness, receptivity, and simplicity, but should not be taken as advocating pure nihilism.",
+          "tags": [
+            "non-action",
+            "simplicity",
+            "wisdom",
+            "nature"
+          ],
+          "weight": 4
+        },
+        {
+          "originalText": "曲則全，枉則直，窪則盈，弊則新，少則得，多則惑。是以聖人抱一為天下式。不自見，故明；不自是，故彰；不自伐，故有功；不自矜，故長。夫唯不爭，故天下莫能與之爭。古之所謂曲則全者，豈虛言哉！誠全而歸之。",
+          "englishText": "The partial becomes complete; the crooked, straight; the empty, full; the worn out, new. He whose (desires) are few gets them; he whose (desires) are many goes astray. Therefore the sage holds in his embrace the one thing (of humility), and manifests it to all the world. He is free from self-display, and therefore he shines; from self-assertion, and therefore he is distinguished; from self-boasting, and therefore his merit is acknowledged; from self-complacency, and therefore he acquires superiority. It is because he is thus free from striving that therefore no one in the world is able to strive with him. That saying of the ancients that 'the partial becomes complete' was not vainly spoken:--all real completion is comprehended under it.",
+          "transliteration": null,
+          "canonicalRef": "Tao Te Ching 22",
+          "originalLang": "classical-chinese",
+          "translator": "James Legge",
+          "sourceUrl": "https://ctext.org/dao-de-jing/22",
+          "license": "public-domain",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "By embracing humility and avoiding self-display, one can achieve true completion and superiority without striving.",
+          "summaryZh": "通过谦逊和不自我表现，人可以获得真正的圆满和崇高，无需争斗。",
+          "similarQuestions": [
+            "Why is humility considered a strength?",
+            "How can I achieve more by doing less?",
+            "What does it mean to be complete in life?",
+            "How can I stop competing with others and find peace?"
+          ],
+          "contextNote": "This passage is from the Tao Te Ching, a foundational text of Daoism attributed to Laozi (6th century BCE). It advises against ego-driven striving, reflecting the Daoist principle of wu-wei (non-action) and the power of yielding.",
+          "tags": [
+            "non-action",
+            "simplicity",
+            "virtue",
+            "wisdom"
+          ],
+          "weight": 5
+        },
+        {
+          "originalText": "企者不立；跨者不行；自見者不明；自是者不彰；自伐者無功；自矜者不長。其在道也，曰：餘食贅行。物或惡之，故有道者不處。",
+          "englishText": "He who stands on his tiptoes does not stand firm; he who stretches his legs does not walk (easily). (So), he who displays himself does not shine; he who asserts his own views is not distinguished; he who vaunts himself does not find his merit acknowledged; he who is self-conceited has no superiority allowed to him. Such conditions, viewed from the standpoint of the Tao, are like remnants of food, or a tumour on the body, which all dislike. Hence those who pursue (the course) of the Tao do not adopt and allow them.",
+          "transliteration": null,
+          "canonicalRef": "Tao Te Ching 24",
+          "originalLang": "classical-chinese",
+          "translator": "James Legge",
+          "sourceUrl": "https://ctext.org/dao-de-jing/24",
+          "license": "public-domain",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "Trying to show off or force things, like standing on tiptoes or overstriding, leads to instability and failure, so a wise person avoids such self-promotion.",
+          "summaryZh": "刻意展示自己、自以为是、自我夸耀的人，反而无法得到认可，就像踮脚站立不稳、迈大步走不远一样，有道之人不会这样做。",
+          "similarQuestions": [
+            "Why does trying so hard to impress others often backfire?",
+            "How can I stop feeling the need to boast about my achievements?",
+            "What is the Taoist approach to humility and natural action?",
+            "Is it better to let my actions speak for themselves than to promote myself?"
+          ],
+          "contextNote": "From Chapter 24 of the Tao Te Ching, this passage warns against excessive self-assertion and unnatural striving, common in competitive societies. Its advice is practical for everyday life but assumes a Taoist worldview of effortless action (wu wei).",
+          "tags": [
+            "self-knowledge",
+            "wisdom",
+            "simplicity",
+            "non-action"
+          ],
+          "weight": 4
+        },
+        {
+          "originalText": "善行無轍迹，善言無瑕讁；善數不用籌策；善閉無關楗而不可開，善結無繩約而不可解。是以聖人常善救人，故無棄人；常善救物，故無棄物。是謂襲明。故善人者，不善人之師；不善人者，善人之資。不貴其師，不愛其資，雖智大迷，是謂要妙。",
+          "englishText": "The skilful traveller leaves no traces of his wheels or footsteps; the skilful speaker says nothing that can be found fault with or blamed; the skilful reckoner uses no tallies; the skilful closer needs no bolts or bars, while to open what he has shut will be impossible; the skilful binder uses no strings or knots, while to unloose what he has bound will be impossible. In the same way the sage is always skilful at saving men, and so he does not cast away any man; he is always skilful at saving things, and so he does not cast away anything. This is called 'Hiding the light of his procedure.' Therefore the man of skill is a master (to be looked up to) by him who has not the skill; and he who has not the skill is the helper of (the reputation of) him who has the skill. If the one did not honour his master, and the other did not rejoice in his helper, an (observer), though intelligent, might greatly err about them. This is called 'The utmost degree of mystery.'",
+          "transliteration": null,
+          "canonicalRef": "Tao Te Ching 27",
+          "originalLang": "classical-chinese",
+          "translator": "James Legge",
+          "sourceUrl": "https://ctext.org/dao-de-jing/27",
+          "license": "public-domain",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "The sage acts skillfully without leaving traces, saves everyone and everything, and teaches that both the skilled and unskilled are valuable to each other.",
+          "summaryZh": "圣人善于行无痕，救人不弃，救物不废，善人与不善人相互为用。",
+          "similarQuestions": [
+            "How can I help others without making them feel dependent?",
+            "Why should I value people who are less skilled than me?",
+            "What does it mean to act without leaving a trace?",
+            "How can I be more effective in my actions without forcing things?"
+          ],
+          "contextNote": "This chapter from the Tao Te Ching (circa 6th-4th century BCE) emphasizes wu wei (non-action) and the subtle influence of the sage. It applies to leadership, personal development, and interpersonal relations, but not to situations requiring explicit rules or direct intervention.",
+          "tags": [
+            "wisdom",
+            "non-action",
+            "simplicity",
+            "self-knowledge"
+          ],
+          "weight": 4
+        },
+        {
+          "originalText": "知人者智，自知者明。勝人者有力，自勝者強。知足者富。強行者有志。不失其所者久。死而不亡者壽。",
+          "englishText": "He who knows other men is discerning; he who knows himself is intelligent. He who overcomes others is strong; he who overcomes himself is mighty. He who is satisfied with his lot is rich; he who goes on acting with energy has a (firm) will. He who does not fail in the requirements of his position, continues long; he who dies and yet does not perish, has longevity.",
+          "transliteration": null,
+          "canonicalRef": "Tao Te Ching 33",
+          "originalLang": "classical-chinese",
+          "translator": "James Legge",
+          "sourceUrl": "https://ctext.org/dao-de-jing/33",
+          "license": "public-domain",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "True wisdom and strength come from knowing and mastering oneself, not from dominating others, and lasting fulfillment is found in contentment and persistent action.",
+          "summaryZh": "真正的智慧和力量来自认识并战胜自己，而非胜过他人；满足于现状并坚持行动，才能获得长久的幸福和不朽。",
+          "similarQuestions": [
+            "How can I truly know myself?",
+            "What is the key to inner strength?",
+            "How do I find lasting contentment?",
+            "What makes a life meaningful beyond death?"
+          ],
+          "contextNote": "This passage from the Tao Te Ching, a foundational Daoist text from ancient China (circa 4th-3rd century BCE), emphasizes inner cultivation over external achievements. It is widely applicable to personal growth but less so to social or relational contexts.",
+          "tags": [
+            "self-knowledge",
+            "virtue",
+            "discipline",
+            "perseverance"
+          ],
+          "weight": 5
+        },
+        {
+          "originalText": "道常無為而無不為。侯王若能守之，萬物將自化。化而欲作，吾將鎮之以無名之樸。無名之樸，夫亦將無欲。不欲以靜，天下將自定。",
+          "englishText": "The Tao in its regular course does nothing (for the sake of doing it), and so there is nothing which it does not do. If princes and kings were able to maintain it, all things would of themselves be transformed by them. If this transformation became to me an object of desire, I would express the desire by the nameless simplicity. Simplicity without a name Is free from all external aim. With no desire, at rest and still, All things go right as of their will.",
+          "transliteration": null,
+          "canonicalRef": "Tao Te Ching 37",
+          "originalLang": "classical-chinese",
+          "translator": "James Legge",
+          "sourceUrl": "https://ctext.org/dao-de-jing/37",
+          "license": "public-domain",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "By aligning with the Tao's principle of non-action and embracing simplicity, leaders and individuals can foster natural harmony and self-correction in the world.",
+          "summaryZh": "顺应道的无为原则，持守淳朴，就能让万物自然化育，天下自定。",
+          "similarQuestions": [
+            "How can I lead without forcing or controlling outcomes?",
+            "What does it mean to act without striving?",
+            "How do I find peace when my desires keep arising?",
+            "How can I bring order to my life without overcomplicating it?"
+          ],
+          "contextNote": "This passage from the Tao Te Ching (chapter 37) addresses rulers, but its principle of wuwei (non-action) and simplicity applies broadly to personal conduct and governance in Daoist philosophy.",
+          "tags": [
+            "non-action",
+            "simplicity",
+            "governance",
+            "desire"
+          ],
+          "weight": 4
+        }
+      ]
+    },
+    {
+      "titleEn": "De Jing (Virtue)",
+      "titleZh": "德经",
+      "titleOrig": "德經",
+      "passages": [
+        {
+          "originalText": "名與身孰親？身與貨孰多？得與亡孰病？是故甚愛必大費；多藏必厚亡。知足不辱，知止不殆，可以長久。",
+          "englishText": "Or fame or life, Which do you hold more dear? Or life or wealth, To which would you adhere? Keep life and lose those other things; Keep them and lose your life:--which brings Sorrow and pain more near? Thus we may see, Who cleaves to fame Rejects what is more great; Who loves large stores Gives up the richer state. Who is content Needs fear no shame. Who knows to stop Incurs no blame. From danger free Long live shall he.",
+          "transliteration": null,
+          "canonicalRef": "Tao Te Ching 44",
+          "originalLang": "classical-chinese",
+          "translator": "James Legge",
+          "sourceUrl": "https://ctext.org/dao-de-jing/44",
+          "license": "public-domain",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "Fame and wealth are less important than life; excessive attachment leads to loss, and contentment with what one has brings safety and longevity.",
+          "summaryZh": "名声和财富都不如生命重要；过度贪恋会导致更大的损失，知足常乐才能远离羞辱和危险。",
+          "similarQuestions": [
+            "Should I sacrifice my health for career success or wealth?",
+            "How do I find balance between pursuing my goals and taking care of myself?",
+            "Is it worth giving up personal well-being for recognition or money?",
+            "How can I learn to be content with what I have?"
+          ],
+          "contextNote": "This is from the Tao Te Ching, a foundational Daoist text traditionally attributed to Laozi, likely composed around 4th-3rd century BCE. It advises rulers and individuals on simplicity and moderation, but its wisdom extends to anyone struggling with materialism or ambition.",
+          "tags": [
+            "wisdom",
+            "desire",
+            "non-action",
+            "simplicity"
+          ],
+          "weight": 4
+        },
+        {
+          "originalText": "天下有道，卻走馬以糞。天下無道，戎馬生於郊。禍莫大於不知足；咎莫大於欲得。故知足之足，常足矣。",
+          "englishText": "When the Tao prevails in the world, they send back their swift horses to (draw) the dung-carts. When the Tao is disregarded in the world, the war-horses breed in the border lands. There is no guilt greater than to sanction ambition; no calamity greater than to be discontented with one's lot; no fault greater than the wish to be getting. Therefore the sufficiency of contentment is an enduring and unchanging sufficiency.",
+          "transliteration": null,
+          "canonicalRef": "Tao Te Ching 46",
+          "originalLang": "classical-chinese",
+          "translator": "James Legge",
+          "sourceUrl": "https://ctext.org/dao-de-jing/46",
+          "license": "public-domain",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "Contentment with one's lot brings lasting peace, while ambition and discontent lead to great calamity.",
+          "summaryZh": "知足者常足，贪欲是最大的祸患。",
+          "similarQuestions": [
+            "Why do I always feel dissatisfied with what I have?",
+            "How can I find peace without constantly wanting more?",
+            "Is ambition always bad?",
+            "What is the root cause of conflict in the world?"
+          ],
+          "contextNote": "This chapter from the Tao Te Ching, attributed to Laozi (6th-4th century BCE), contrasts a world governed by the Tao with one where the Tao is ignored. It warns against the dangers of desire and ambition, but should be understood in the context of ancient Chinese philosophy emphasizing harmony with nature and non-action. It is not a rejection of all striving but of excessive craving.",
+          "tags": [
+            "desire",
+            "simplicity",
+            "non-action",
+            "happiness"
+          ],
+          "weight": 5
+        },
+        {
+          "originalText": "為學日益，為道日損。損之又損，以至於無為。無為而無不為。取天下常以無事，及其有事，不足以取天下。",
+          "englishText": "He who devotes himself to learning (seeks) from day to day to increase (his knowledge); he who devotes himself to the Tao (seeks) from day to day to diminish (his doing). He diminishes it and again diminishes it, till he arrives at doing nothing (on purpose). Having arrived at this point of non-action, there is nothing which he does not do. He who gets as his own all under heaven does so by giving himself no trouble (with that end). If one take trouble (with that end), he is not equal to getting as his own all under heaven.",
+          "transliteration": null,
+          "canonicalRef": "Tao Te Ching 48",
+          "originalLang": "classical-chinese",
+          "translator": "James Legge",
+          "sourceUrl": "https://ctext.org/dao-de-jing/48",
+          "license": "public-domain",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "Letting go of deliberate effort and excessive knowledge leads to effective action without force.",
+          "summaryZh": "减少刻意作为，归于无为，反而能成就一切。",
+          "similarQuestions": [
+            "Why do I feel that more knowledge and effort don't always lead to success?",
+            "How can I achieve more by doing less?",
+            "What does it mean to live in harmony with the natural flow of things?",
+            "Is there a way to accomplish goals without forcing them?"
+          ],
+          "contextNote": "From Laozi's Tao Te Ching, a foundational Daoist text from ancient China (6th-4th century BCE). This passage emphasizes wu wei (non-action/effortless action), a core Daoist concept cautioning against overactivity and control, especially relevant in governance and personal conduct.",
+          "tags": [
+            "non-action",
+            "simplicity",
+            "wisdom",
+            "practice"
+          ],
+          "weight": 5
+        },
+        {
+          "originalText": "知者不言，言者不知。塞其兑，閉其門，挫其銳，解其分，和其光，同其塵，是謂玄同。故不可得而親，不可得而踈；不可得而利，不可得而害；不可得而貴，不可得而賤。故為天下貴。",
+          "englishText": "He who knows (the Tao) does not (care to) speak (about it); he who is (ever ready to) speak about it does not know it. He (who knows it) will keep his mouth shut and close the portals (of his nostrils). He will blunt his sharp points and unravel the complications of things; he will attemper his brightness, and bring himself into agreement with the obscurity (of others). This is called 'the Mysterious Agreement.' (Such an one) cannot be treated familiarly or distantly; he is beyond all consideration of profit or injury; of nobility or meanness:--he is the noblest man under heaven.",
+          "transliteration": null,
+          "canonicalRef": "Tao Te Ching 56",
+          "originalLang": "classical-chinese",
+          "translator": "James Legge",
+          "sourceUrl": "https://ctext.org/dao-de-jing/56",
+          "license": "public-domain",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "One who truly knows the Tao does not speak of it; the sage achieves a state of mysterious unity by blending with the world, transcending distinctions of intimacy, profit, or status.",
+          "summaryZh": "真正了解道的人不会谈论它；圣人通过和光同尘达到玄同的境界，超越了亲疏、利害、贵贱等分别。",
+          "similarQuestions": [
+            "Why do wise people often seem quiet or reserved?",
+            "How can I find peace amidst conflict and difference?",
+            "How do I stop being controlled by desires for gain or status?",
+            "What does it mean to be in harmony with the world?"
+          ],
+          "contextNote": "From the Tao Te Ching, traditionally attributed to Laozi (6th century BCE). This chapter describes the sage's behavior and the concept of 'mysterious unity' (xuan tong), emphasizing non-verbal wisdom and transcendence of conventional distinctions. Applicable to those seeking inner peace and detachment from worldly judgments.",
+          "tags": [
+            "wisdom",
+            "simplicity",
+            "non-action",
+            "self-knowledge"
+          ],
+          "weight": 4
+        },
+        {
+          "originalText": "為無為，事無事，味無味。大小多少，報怨以德。圖難於其易，為大於其細；天下難事，必作於易，天下大事，必作於細。是以聖人終不為大，故能成其大。夫輕諾必寡信，多易必多難。是以聖人猶難之，故終無難矣。",
+          "englishText": "(It is the way of the Tao) to act without (thinking of) acting; to conduct affairs without (feeling the) trouble of them; to taste without discerning any flavour; to consider what is small as great, and a few as many; and to recompense injury with kindness. (The master of it) anticipates things that are difficult while they are easy, and does things that would become great while they are small. All difficult things in the world are sure to arise from a previous state in which they were easy, and all great things from one in which they were small. Therefore the sage, while he never does what is great, is able on that account to accomplish the greatest things. He who lightly promises is sure to keep but little faith; he who is continually thinking things easy is sure to find them difficult. Therefore the sage sees difficulty even in what seems easy, and so never has any difficulties.",
+          "transliteration": null,
+          "canonicalRef": "Tao Te Ching 63",
+          "originalLang": "classical-chinese",
+          "translator": "James Legge",
+          "sourceUrl": "https://ctext.org/dao-de-jing/63",
+          "license": "public-domain",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "Accomplish great things by starting with small, easy tasks and acting without force or desire, recompensing harm with kindness.",
+          "summaryZh": "通过从小事、易事入手，以无为之态行事，用德行回报怨恨，成就大业。",
+          "similarQuestions": [
+            "How can I achieve big goals without feeling overwhelmed?",
+            "Why do I often fail to keep my promises or complete easy tasks?",
+            "How should I respond to someone who has hurt me?",
+            "What does it mean to act without striving?",
+            "How can I handle difficulties more effectively?"
+          ],
+          "contextNote": "This passage from the Tao Te Ching (circa 6th century BCE) presents the Daoist principle of wu wei (non-action) and the strategy of starting small to handle great difficulties. It is widely applicable to personal development and leadership, but may not suit situations requiring immediate, forceful intervention.",
+          "tags": [
+            "non-action",
+            "simplicity",
+            "wisdom",
+            "practice"
+          ],
+          "weight": 4
+        },
+        {
+          "originalText": "其安易持，其未兆易謀。其脆易泮，其微易散。為之於未有，治之於未亂。合抱之木，生於毫末；九層之臺，起於累土；千里之行，始於足下。為者敗之，執者失之。是以聖人無為故無敗；無執故無失。民之從事，常於幾成而敗之。慎終如始，則無敗事，是以聖人欲不欲，不貴難得之貨；學不學，復衆人之所過，以輔萬物之自然，而不敢為。",
+          "englishText": "That which is at rest is easily kept hold of; before a thing has given indications of its presence, it is easy to take measures against it; that which is brittle is easily broken; that which is very small is easily dispersed. Action should be taken before a thing has made its appearance; order should be secured before disorder has begun. The tree which fills the arms grew from the tiniest sprout; the tower of nine storeys rose from a (small) heap of earth; the journey of a thousand li commenced with a single step. He who acts (with an ulterior purpose) does harm; he who takes hold of a thing (in the same way) loses his hold. The sage does not act (so), and therefore does no harm; he does not lay hold (so), and therefore does not lose his bold. (But) people in their conduct of affairs are constantly ruining them when they are on the eve of success. If they were careful at the end, as (they should be) at the beginning, they would not so ruin them. Therefore the sage desires what (other men) do not desire, and does not prize things difficult to get; he learns what (other men) do not learn, and turns back to what the multitude of men have passed by. Thus he helps the natural development of all things, and does not dare to act (with an ulterior purpose of his own).",
+          "transliteration": null,
+          "canonicalRef": "Tao Te Ching 64",
+          "originalLang": "classical-chinese",
+          "translator": "James Legge",
+          "sourceUrl": "https://ctext.org/dao-de-jing/64",
+          "license": "public-domain",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "Handle things before they arise; great achievements start from small beginnings, and by remaining careful from start to finish without forced action, you can avoid failure.",
+          "summaryZh": "在事情未发生前就着手处理，伟大的成就始于微小，始终谨慎而不妄为，便能避免失败。",
+          "similarQuestions": [
+            "How can I prevent problems before they start?",
+            "Why do I often fail just before success?",
+            "How can I cultivate patience and persistence in long-term goals?",
+            "What does it mean to act without forcing?"
+          ],
+          "contextNote": "This passage from the Tao Te Ching, traditionally attributed to Laozi (6th century BCE), emphasizes wu wei (non-action) and natural development. It cautions against forceful intervention and highlights the importance of timely action and consistent care.",
+          "tags": [
+            "non-action",
+            "simplicity",
+            "nature",
+            "wisdom"
+          ],
+          "weight": 5
+        },
+        {
+          "originalText": "江海所以能為百谷王者，以其善下之，故能為百谷王。是以聖人欲上民，必以言下之；欲先民，必以身後之。是以聖人處上而民不重，處前而民不害。是以天下樂推而不厭。以其不爭，故天下莫能與之爭。",
+          "englishText": "That whereby the rivers and seas are able to receive the homage and tribute of all the valley streams, is their skill in being lower than they;--it is thus that they are the kings of them all. So it is that the sage (ruler), wishing to be above men, puts himself by his words below them, and, wishing to be before them, places his person behind them. In this way though he has his place above them, men do not feel his weight, nor though he has his place before them, do they feel it an injury to them. Therefore all in the world delight to exalt him and do not weary of him. Because he does not strive, no one finds it possible to strive with him.",
+          "transliteration": null,
+          "canonicalRef": "Tao Te Ching 66",
+          "originalLang": "classical-chinese",
+          "translator": "James Legge",
+          "sourceUrl": "https://ctext.org/dao-de-jing/66",
+          "license": "public-domain",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "The sage leads by placing themselves below and behind others, so that people willingly support them without feeling burdened or harmed.",
+          "summaryZh": "圣人通过把自己放在下面和后面来领导，因此人们心甘情愿地支持他们，而不感到负担或伤害。",
+          "similarQuestions": [
+            "How can I gain respect as a leader without being bossy?",
+            "Why does humility make people more willing to follow me?",
+            "How can I lead effectively without creating resentment?",
+            "What does it mean to lead by serving?"
+          ],
+          "contextNote": "This passage from the Tao Te Ching reflects the Daoist ideal of wu-wei (non-action) in governance, advocating for a leader who is humble and unobtrusive. It is a foundational text for Daoist political philosophy, often applied to leadership in any hierarchical setting.",
+          "tags": [
+            "non-action",
+            "governance",
+            "wisdom",
+            "character"
+          ],
+          "weight": 5
+        },
+        {
+          "originalText": "人之生也柔弱，其死也堅強。萬物草木之生也柔脆，其死也枯槁。故堅強者死之徒，柔弱者生之徒。是以兵強則不勝，木強則共。強大處下，柔弱處上。",
+          "englishText": "Man at his birth is supple and weak; at his death, firm and strong. (So it is with) all things. Trees and plants, in their early growth, are soft and brittle; at their death, dry and withered. Thus it is that firmness and strength are the concomitants of death; softness and weakness, the concomitants of life. Hence he who (relies on) the strength of his forces does not conquer; and a tree which is strong will fill the out-stretched arms, (and thereby invites the feller.) Therefore the place of what is firm and strong is below, and that of what is soft and weak is above.",
+          "transliteration": null,
+          "canonicalRef": "Tao Te Ching 76",
+          "originalLang": "classical-chinese",
+          "translator": "James Legge",
+          "sourceUrl": "https://ctext.org/dao-de-jing/76",
+          "license": "public-domain",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "Softness and flexibility are signs of life and vitality, while hardness and rigidity lead to destruction; thus true strength lies in yielding.",
+          "summaryZh": "柔软灵活是生命的象征，僵硬刚强则走向死亡；因此，真正的强大在于柔弱和顺应。",
+          "similarQuestions": [
+            "Why should I be gentle instead of forceful when dealing with opposition?",
+            "How can softness be a form of strength?",
+            "What does it mean to be flexible in life?",
+            "Is it better to be rigid or adaptable?"
+          ],
+          "contextNote": "This passage from the Tao Te Ching uses observations of human and plant life to illustrate the Daoist principle of wu wei (non-action) and the value of softness over hardness. It warns against military aggression and excessive force, relevant to ancient Chinese political philosophy but also applicable to personal conduct.",
+          "tags": [
+            "nature",
+            "wisdom",
+            "non-action",
+            "simplicity"
+          ],
+          "weight": 4
+        },
+        {
+          "originalText": "天下莫柔弱於水，而攻堅強者莫之能勝，其無以易之。弱之勝強，柔之勝剛，天下莫不知，莫能行。是以聖人云：受國之垢，是謂社稷主；受國不祥，是謂天下王。正言若反。",
+          "englishText": "There is nothing in the world more soft and weak than water, and yet for attacking things that are firm and strong there is nothing that can take precedence of it;--for there is nothing (so effectual) for which it can be changed. Every one in the world knows that the soft overcomes the hard, and the weak the strong, but no one is able to carry it out in practice. Therefore a sage has said, 'He who accepts his state's reproach, Is hailed therefore its altars' lord; To him who bears men's direful woes They all the name of King accord.' Words that are strictly true seem to be paradoxical.",
+          "transliteration": null,
+          "canonicalRef": "Tao Te Ching 78",
+          "originalLang": "classical-chinese",
+          "translator": "James Legge",
+          "sourceUrl": "https://ctext.org/dao-de-jing/78",
+          "license": "public-domain",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "Water's softness overcomes hardness, illustrating that apparent weakness can be a form of strength, though few practice this truth.",
+          "summaryZh": "水至柔却能克刚，表明表面柔弱实为强大，但世人知之却难践行。",
+          "similarQuestions": [
+            "Why does being gentle sometimes seem stronger than being forceful?",
+            "How can I deal with difficult situations without resorting to aggression?",
+            "What does it mean to accept criticism or hardship as a leader?",
+            "Why do wise teachings often seem backwards or paradoxical?"
+          ],
+          "contextNote": "This passage from the Tao Te Ching (circa 4th-3rd century BCE) uses water as a metaphor for the Daoist principle of non-action (wu wei) and the power of yielding. It advises leaders to embrace humility and bear the burdens of their people, but should not be taken as advocating passivity in all situations.",
+          "tags": [
+            "non-action",
+            "power",
+            "wisdom",
+            "governance"
+          ],
+          "weight": 5
+        },
+        {
+          "originalText": "信言不美，美言不信。善者不辯，辯者不善。知者不博，博者不知。聖人不積，既以為人己愈有，既以與人己愈多。天之道，利而不害；聖人之道，為而不爭。",
+          "englishText": "Sincere words are not fine; fine words are not sincere. Those who are skilled (in the Tao) do not dispute (about it); the disputatious are not skilled in it. Those who know (the Tao) are not extensively learned; the extensively learned do not know it. The sage does not accumulate (for himself). The more that he expends for others, the more does he possess of his own; the more that he gives to others, the more does he have himself. With all the sharpness of the Way of Heaven, it injures not; with all the doing in the way of the sage he does not strive. | translation = }} Category:Taoism Category:Works originally in Chinese Category:Texts without a source fr:Œuvre de Lao-tseu",
+          "transliteration": null,
+          "canonicalRef": "Tao Te Ching 81",
+          "originalLang": "classical-chinese",
+          "translator": "James Legge",
+          "sourceUrl": "https://ctext.org/dao-de-jing/81",
+          "license": "public-domain",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "Sincere words are plain, goodness does not argue, true wisdom is not learned; the sage gives freely and gains more, acting without striving.",
+          "summaryZh": "真诚的话语不华丽，善良的人不争辩，智者不博学；圣人不断付出反而更富有，顺应天道而不争夺。",
+          "similarQuestions": [
+            "Why do honest words often sound plain?",
+            "How can giving to others increase my own well-being?",
+            "Is it better to be learned or to be wise?",
+            "How can I act without striving?"
+          ],
+          "contextNote": "This concluding chapter of the Tao Te Ching contrasts worldly values with the Way of Heaven, emphasizing non-contention and generosity as traits of the sage. It serves as a summary of Daoist ethics, but its ideal of non-action may not directly apply to active problem-solving.",
+          "tags": [
+            "honesty",
+            "wisdom",
+            "non-action",
+            "simplicity"
+          ],
+          "weight": 5
+        }
+      ]
+    }
+  ]
+}

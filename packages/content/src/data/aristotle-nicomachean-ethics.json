@@ -1,0 +1,306 @@
+{
+  "work": {
+    "titleEn": "Nicomachean Ethics, with the Politics (Selected Passages)",
+    "titleZh": "尼各马可伦理学（附政治学，精选）",
+    "titleOrig": "Ἠθικὰ Νικομάχεια",
+    "language": "ancient-greek",
+    "circaYear": -340,
+    "description": "Selected passages from Aristotle’s Nicomachean Ethics, on the good life, virtue, practical wisdom and friendship, with one passage from the Politics. Greek text from the Perseus Digital Library (Ethics ed. Bywater, Politics ed. Ross; CC BY-SA 4.0) with the public-domain English translations of D. P. Chase (Ethics, 1847) and William Ellis (Politics, 1776), via Project Gutenberg.",
+    "copyright": "Greek CC BY-SA 4.0 · English PD",
+    "sourceUrl": "https://www.gutenberg.org/ebooks/8438"
+  },
+  "chapters": [
+    {
+      "titleEn": "Book I - The Good Life",
+      "titleZh": "第一卷 · 至善",
+      "titleOrig": "Βιβλίον Α",
+      "passages": [
+        {
+          "originalText": "πᾶσα τέχνη καὶ πᾶσα μέθοδος, ὁμοίως δὲ πρᾶξίς τε καὶ προαίρεσις, ἀγαθοῦ τινὸς ἐφίεσθαι δοκεῖ· διὸ καλῶς ἀπεφήναντο τἀγαθόν, οὗ πάντʼ ἐφίεται.",
+          "englishText": "Every art, and every science reduced to a teachable form, and in like manner every action and moral choice, aims, it is thought, at some good: for which reason a common and by no means a bad description of the Chief Good is, “that which all things aim at.”",
+          "transliteration": null,
+          "canonicalRef": "Nicomachean Ethics 1094a",
+          "originalLang": "ancient-greek",
+          "translator": "D. P. Chase (1847)",
+          "sourceUrl": "https://www.gutenberg.org/cache/epub/8438/pg8438-images.html#chap01",
+          "license": "Greek: CC BY-SA 4.0 (Perseus); English: public domain",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "Every art, inquiry, action and choice seems to aim at some good, which is why the good has been well described as that at which all things aim.",
+          "summaryZh": "每一种技艺、每一种探究，以及每一个行动和选择，似乎都以某种善为目的；所以人们说得好：善就是万物所追求的东西。",
+          "similarQuestions": [
+            "What is the ultimate goal of life?",
+            "What am I really striving for?",
+            "What is the highest good?",
+            "What should I aim for in life?"
+          ],
+          "contextNote": "The opening sentence of the Nicomachean Ethics. Aristotle starts from the observation that all human activity is purposive, then asks what the highest good — the end sought for its own sake — might be.",
+          "tags": [
+            "goodness",
+            "meaning-of-life",
+            "choice"
+          ],
+          "weight": 5
+        },
+        {
+          "originalText": "εἰ δʼ ἐστὶν ἔργον ἀνθρώπου ψυχῆς ἐνέργεια κατὰ λόγον ἢ μὴ ἄνευ λόγου, τὸ δʼ αὐτό φαμεν ἔργον εἶναι τῷ γένει τοῦδε καὶ τοῦδε σπουδαίου, ὥσπερ κιθαριστοῦ καὶ σπουδαίου κιθαριστοῦ, καὶ ἁπλῶς δὴ τοῦτʼ ἐπὶ πάντων, προστιθεμένης τῆς κατὰ τὴν ἀρετὴν ὑπεροχῆς πρὸς τὸ ἔργον· κιθαριστοῦ μὲν γὰρ κιθαρίζειν, σπουδαίου δὲ τὸ εὖ· εἰ δʼ οὕτως, ἀνθρώπου δὲ τίθεμεν ἔργον ζωήν τινα, ταύτην δὲ ψυχῆς ἐνέργειαν καὶ πράξεις μετὰ λόγου, σπουδαίου δʼ ἀνδρὸς εὖ ταῦτα καὶ καλῶς, ἕκαστον δʼ εὖ κατὰ τὴν οἰκείαν ἀρετὴν ἀποτελεῖται· εἰ δʼ οὕτω, τὸ ἀνθρώπινον ἀγαθὸν ψυχῆς ἐνέργεια γίνεται κατʼ ἀρετήν, εἰ δὲ πλείους αἱ ἀρεταί, κατὰ τὴν ἀρίστην καὶ τελειοτάτην. ἔτι δʼ ἐν βίῳ τελείῳ. μία γὰρ χελιδὼν ἔαρ οὐ ποιεῖ, οὐδὲ μία ἡμέρα· οὕτω δὲ οὐδὲ μακάριον καὶ εὐδαίμονα μία ἡμέρα οὐδʼ ὀλίγος χρόνος.",
+          "englishText": "If then the work of Man is a working of the soul in accordance with reason, or at least not independently of reason, and we say that the work of any given subject, and of that subject good of its kind, are the same in kind (as, for instance, of a harp-player and a good harp-player, and so on in every case, adding to the work eminence in the way of excellence; I mean, the work of a harp-player is to play the harp, and of a good harp-player to play it well); if, I say, this is so, and we assume the work of Man to be life of a certain kind, that is to say a working of the soul, and actions with reason, and of a good man to do these things well and nobly, and in fact everything is finished off well in the way of the excellence which peculiarly belongs to it: if all this is so, then the Good of Man comes to be “a working of the Soul in the way of Excellence,” or, if Excellence admits of degrees, in the way of the best and most perfect Excellence. And we must add, ἐν βίῳ τελείῳ; for as it is not one swallow or one fine day that makes a spring, so it is not one day or a short time that makes a man blessed and happy.",
+          "transliteration": null,
+          "canonicalRef": "Nicomachean Ethics 1098a",
+          "originalLang": "ancient-greek",
+          "translator": "D. P. Chase (1847)",
+          "sourceUrl": "https://www.gutenberg.org/cache/epub/8438/pg8438-images.html#chap01",
+          "license": "Greek: CC BY-SA 4.0 (Perseus); English: public domain",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "The human good is an activity of the soul in accordance with excellence (virtue) — the best and most complete, if there are several — and in a complete life: one swallow or one fine day does not make a spring, and one day does not make a person happy.",
+          "summaryZh": "人的善是灵魂合乎德性（卓越）的活动；若德性不止一种，则合乎最好、最完满的那一种；而且要贯穿完整的一生：一只燕子或一个晴天造不成春天，一天也造不成一个幸福的人。",
+          "similarQuestions": [
+            "What is happiness?",
+            "How to be truly happy?",
+            "Is happiness a choice or a circumstance?",
+            "Can I be happy without being good?",
+            "What is the good life?",
+            "How to find fulfillment?"
+          ],
+          "contextNote": "Aristotle’s definition of eudaimonia, reached through the “function argument”: a good harpist plays well, so a good human lives well, exercising reason with excellence. Chase leaves the phrase “in a complete life” in Greek (ἐν βίῳ τελείῳ). Eudaimonia is better rendered “flourishing” than a passing feeling of happiness.",
+          "tags": [
+            "happiness",
+            "virtue",
+            "soul"
+          ],
+          "weight": 5
+        }
+      ]
+    },
+    {
+      "titleEn": "Book II - Virtue and the Golden Mean",
+      "titleZh": "第二卷 · 美德与中庸",
+      "titleOrig": "Βιβλίον Β",
+      "passages": [
+        {
+          "originalText": "τὰς δʼ ἀρετὰς λαμβάνομεν ἐνεργήσαντες πρότερον, ὥσπερ καὶ ἐπὶ τῶν ἄλλων τεχνῶν· ἃ γὰρ δεῖ μαθόντας ποιεῖν, ταῦτα ποιοῦντες μανθάνομεν, οἷον οἰκοδομοῦντες οἰκοδόμοι γίνονται καὶ κιθαρίζοντες κιθαρισταί· οὕτω δὴ καὶ τὰ μὲν δίκαια πράττοντες δίκαιοι γινόμεθα, τὰ δὲ σώφρονα σώφρονες, τὰ δʼ ἀνδρεῖα ἀνδρεῖοι. μαρτυρεῖ δὲ καὶ τὸ γινόμενον ἐν ταῖς πόλεσιν· οἱ γὰρ νομοθέται τοὺς πολίτας ἐθίζοντες ποιοῦσιν ἀγαθούς, καὶ τὸ μὲν βούλημα παντὸς νομοθέτου τοῦτʼ ἐστίν, ὅσοι δὲ μὴ εὖ αὐτὸ ποιοῦσιν ἁμαρτάνουσιν, καὶ διαφέρει τούτῳ πολιτεία πολιτείας ἀγαθὴ φαύλης. ἔτι ἐκ τῶν αὐτῶν καὶ διὰ τῶν αὐτῶν καὶ γίνεται πᾶσα ἀρετὴ καὶ φθείρεται, ὁμοίως δὲ καὶ τέχνη· ἐκ γὰρ τοῦ κιθαρίζειν καὶ οἱ ἀγαθοὶ καὶ κακοὶ γίνονται κιθαρισταί. ἀνάλογον δὲ καὶ οἰκοδόμοι καὶ οἱ λοιποὶ πάντες· ἐκ μὲν γὰρ τοῦ εὖ οἰκοδομεῖν ἀγαθοὶ οἰκοδόμοι ἔσονται, ἐκ δὲ τοῦ κακῶς κακοί. εἰ γὰρ μὴ οὕτως εἶχεν, οὐδὲν ἂν ἔδει τοῦ διδάξοντος, ἀλλὰ πάντες ἂν ἐγίνοντο ἀγαθοὶ ἢ κακοί. οὕτω δὴ καὶ ἐπὶ τῶν ἀρετῶν ἔχει· πράττοντες γὰρ τὰ ἐν τοῖς συναλλάγμασι τοῖς πρὸς τοὺς ἀνθρώπους γινόμεθα οἳ μὲν δίκαιοι οἳ δὲ ἄδικοι, πράττοντες δὲ τὰ ἐν τοῖς δεινοῖς καὶ ἐθιζόμενοι φοβεῖσθαι ἢ θαρρεῖν οἳ μὲν ἀνδρεῖοι οἳ δὲ δειλοί. ὁμοίως δὲ καὶ τὰ περὶ τὰς ἐπιθυμίας ἔχει καὶ τὰ περὶ τὰς ὀργάς· οἳ μὲν γὰρ σώφρονες καὶ πρᾶοι γίνονται, οἳ δʼ ἀκόλαστοι καὶ ὀργίλοι, οἳ μὲν ἐκ τοῦ οὑτωσὶ ἐν αὐτοῖς ἀναστρέφεσθαι, οἳ δὲ ἐκ τοῦ οὑτωσί. καὶ ἑνὶ δὴ λόγῳ ἐκ τῶν ὁμοίων ἐνεργειῶν αἱ ἕξεις γίνονται. διὸ δεῖ τὰς ἐνεργείας ποιὰς ἀποδιδόναι· κατὰ γὰρ τὰς τούτων διαφορὰς ἀκολουθοῦσιν αἱ ἕξεις. οὐ μικρὸν οὖν διαφέρει τὸ οὕτως ἢ οὕτως εὐθὺς ἐκ νέων ἐθίζεσθαι, ἀλλὰ πάμπολυ, μᾶλλον δὲ τὸ πᾶν.",
+          "englishText": "But the Virtues we get by first performing single acts of working, which, again, is the case of other things, as the arts for instance; for what we have to make when we have learned how, these we learn how to make by making: men come to be builders, for instance, by building; harp-players, by playing on the harp: exactly so, by doing just actions we come to be just; by doing the actions of self-mastery we come to be perfected in self-mastery; and by doing brave actions brave. And to the truth of this testimony is borne by what takes place in communities: because the law-givers make the individual members good men by habituation, and this is the intention certainly of every law-giver, and all who do not effect it well fail of their intent; and herein consists the difference between a good Constitution and a bad. Again, every Virtue is either produced or destroyed from and by the very same circumstances: art too in like manner; I mean it is by playing the harp that both the good and the bad harp-players are formed: and similarly builders and all the rest; by building well men will become good builders; by doing it badly bad ones: in fact, if this had not been so, there would have been no need of instructors, but all men would have been at once good or bad in their several arts without them. So too then is it with the Virtues: for by acting in the various relations in which we are thrown with our fellow men, we come to be, some just, some unjust: and by acting in dangerous positions and being habituated to feel fear or confidence, we come to be, some brave, others cowards. Similarly is it also with respect to the occasions of lust and anger: for some men come to be perfected in self-mastery and mild, others destitute of all self-control and passionate; the one class by behaving in one way under them, the other by behaving in another. Or, in one word, the habits are produced from the acts of working like to them: and so what we have to do is to give a certain character to these particular acts, because the habits formed correspond to the differences of these. So then, whether we are accustomed this way or that straight from childhood, makes not a small but an important difference, or rather I would say it makes all the difference.",
+          "transliteration": null,
+          "canonicalRef": "Nicomachean Ethics 1103a–b",
+          "originalLang": "ancient-greek",
+          "translator": "D. P. Chase (1847)",
+          "sourceUrl": "https://www.gutenberg.org/cache/epub/8438/pg8438-images.html#chap02",
+          "license": "Greek: CC BY-SA 4.0 (Perseus); English: public domain",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "We acquire the virtues by first exercising them, as with the arts: people become builders by building and harpists by playing, and we become just by doing just acts, self-controlled by self-controlled acts, brave by brave acts. Habits arise from repeated acts like them, so how we are trained from childhood makes all the difference.",
+          "summaryZh": "德性是先通过实践才获得的，技艺也是如此：人靠盖房子成为建筑师，靠弹琴成为琴师；同样，我们做公正的事才成为公正的人，做节制的事才成为节制的人，做勇敢的事才成为勇敢的人。品性由相应的活动反复养成，所以从小养成什么习惯，关系重大，甚至决定一切。",
+          "similarQuestions": [
+            "How to become a better person?",
+            "Is character innate or developed?",
+            "How to build good habits?",
+            "Can I change who I am?",
+            "How to develop self-discipline?"
+          ],
+          "contextNote": "The source of the popular line “We are what we repeatedly do. Excellence, then, is not an act, but a habit,” which is Will Durant’s 1926 summary of Aristotle, not a quotation. Aristotle’s point here is that moral virtue comes from habituation (ethos), which is also why he gives lawgivers and upbringing such a large role.",
+          "tags": [
+            "character",
+            "practice",
+            "virtue",
+            "education"
+          ],
+          "weight": 5
+        },
+        {
+          "originalText": "ἔστιν ἄρα ἡ ἀρετὴ ἕξις προαιρετική, ἐν μεσότητι οὖσα τῇ πρὸς ἡμᾶς, ὡρισμένῃ λόγῳ καὶ ᾧ ἂν ὁ φρόνιμος ὁρίσειεν. μεσότης δὲ δύο κακιῶν, τῆς μὲν καθʼ ὑπερβολὴν τῆς δὲ κατʼ ἔλλειψιν· καὶ ἔτι τῷ τὰς μὲν ἐλλείπειν τὰς δʼ ὑπερβάλλειν τοῦ δέοντος ἔν τε τοῖς πάθεσι καὶ ἐν ταῖς πράξεσι, τὴν δʼ ἀρετὴν τὸ μέσον καὶ εὑρίσκειν καὶ αἱρεῖσθαι. διὸ κατὰ μὲν τὴν οὐσίαν καὶ τὸν λόγον τὸν τὸ τί ἦν εἶναι λέγοντα μεσότης ἐστὶν ἡ ἀρετή, κατὰ δὲ τὸ ἄριστον καὶ τὸ εὖ ἀκρότης.",
+          "englishText": "Virtue then is “a state apt to exercise deliberate choice, being in the relative mean, determined by reason, and as the man of practical wisdom would determine.” It is a middle state between too faulty ones, in the way of excess on one side and of defect on the other: and it is so moreover, because the faulty states on one side fall short of, and those on the other exceed, what is right, both in the case of the feelings and the actions; but Virtue finds, and when found adopts, the mean. And so, viewing it in respect of its essence and definition, Virtue is a mean state; but in reference to the chief good and to excellence it is the highest state possible.",
+          "transliteration": null,
+          "canonicalRef": "Nicomachean Ethics 1106b–1107a",
+          "originalLang": "ancient-greek",
+          "translator": "D. P. Chase (1847)",
+          "sourceUrl": "https://www.gutenberg.org/cache/epub/8438/pg8438-images.html#chap02",
+          "license": "Greek: CC BY-SA 4.0 (Perseus); English: public domain",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "Virtue is a settled state of choosing, lying in the mean relative to us, determined by reason as a person of practical wisdom would determine it. It is a mean between two vices, one of excess and one of deficiency, finding and choosing what is right in feelings and actions; by its essence a mean, but in goodness the highest point.",
+          "summaryZh": "德性是一种做选择的稳定品质，它处在相对于我们而言的适中之处，由理性来确定，也就是明智之人会如何确定。它是两种恶之间的适中，一种是过度，一种是不及；它在情感和行动中找到并选择恰当之处。就本质而言它是适中，就善而言它是顶点。",
+          "similarQuestions": [
+            "How to find balance in life?",
+            "Am I being too cautious or too reckless?",
+            "What is the right amount of anything?",
+            "How to make good decisions?",
+            "Is moderation always best?"
+          ],
+          "contextNote": "Aristotle’s formal definition of moral virtue, the doctrine of the mean. Just before it he explains that feeling fear, anger or pity at the right times, about the right things, towards the right people, for the right reason and in the right way is the mean; so the mean is “relative to us,” not an arithmetic midpoint. Right after it he adds that some acts and feelings (envy, theft, murder) have no mean at all. Courage, for example, lies between cowardice and rashness (Book III). The idea is often compared with the Confucian Zhongyong (中庸).",
+          "tags": [
+            "virtue",
+            "choice",
+            "wisdom"
+          ],
+          "weight": 5
+        }
+      ]
+    },
+    {
+      "titleEn": "Book VI - Practical Wisdom",
+      "titleZh": "第六卷 · 实践智慧",
+      "titleOrig": "Βιβλίον ΣΤ",
+      "passages": [
+        {
+          "originalText": "λείπεται ἄρα αὐτὴν εἶναι ἕξιν ἀληθῆ μετὰ λόγου πρακτικὴν περὶ τὰ ἀνθρώπῳ ἀγαθὰ καὶ κακά. τῆς μὲν γὰρ ποιήσεως ἕτερον τὸ τέλος, τῆς δὲ πράξεως οὐκ ἂν εἴη· ἔστι γὰρ αὐτὴ ἡ εὐπραξία τέλος. διὰ τοῦτο Περικλέα καὶ τοὺς τοιούτους φρονίμους οἰόμεθα εἶναι, ὅτι τὰ αὑτοῖς ἀγαθὰ καὶ τὰ τοῖς ἀνθρώποις δύνανται θεωρεῖν· εἶναι δὲ τοιούτους ἡγούμεθα τοὺς οἰκονομικοὺς καὶ τοὺς πολιτικούς.",
+          "englishText": "It remains then that it must be “a state of mind true, conjoined with Reason, and apt to Do, having for its object those things which are good or bad for Man:” because of Making something beyond itself is always the object, but cannot be of Doing because the very well-doing is in itself an End. For this reason we think Pericles and men of that stamp to be Practically Wise, because they can see what is good for themselves and for men in general, and we also think those to be such who are skilled in domestic management or civil government.",
+          "transliteration": null,
+          "canonicalRef": "Nicomachean Ethics 1140b",
+          "originalLang": "ancient-greek",
+          "translator": "D. P. Chase (1847)",
+          "sourceUrl": "https://www.gutenberg.org/cache/epub/8438/pg8438-images.html#chap06",
+          "license": "Greek: CC BY-SA 4.0 (Perseus); English: public domain",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "Practical wisdom is a true state, accompanied by reason, apt to act with regard to what is good or bad for human beings. Unlike making, whose end lies beyond it, in action doing well is itself the end. That is why people like Pericles count as practically wise: they can see what is good for themselves and for people in general.",
+          "summaryZh": "实践智慧是一种与理性相伴、真实的、指向行动的品质，关乎对人而言的善与恶。制作的目的在制作之外，而行动本身做得好就是目的。所以像伯里克利这样的人被认为有实践智慧：他们能看清什么对自己、对众人是好的。",
+          "similarQuestions": [
+            "How to make better decisions?",
+            "What is practical wisdom?",
+            "How to develop good judgment?",
+            "Is wisdom different from intelligence?",
+            "How to know what the right thing to do is?"
+          ],
+          "contextNote": "Phronesis (practical wisdom) is defined by elimination: it cannot be scientific knowledge, because action concerns what can be otherwise, and it cannot be art, because doing differs from making. Aristotle later argues that one cannot be fully good without practical wisdom, nor practically wise without moral virtue.",
+          "tags": [
+            "wisdom",
+            "reason",
+            "choice"
+          ],
+          "weight": 5
+        }
+      ]
+    },
+    {
+      "titleEn": "Book VIII - Friendship",
+      "titleZh": "第八卷 · 友谊",
+      "titleOrig": "Βιβλίον Η",
+      "passages": [
+        {
+          "originalText": "μετὰ δὲ ταῦτα περὶ φιλίας ἕποιτʼ ἂν διελθεῖν· ἔστι γὰρ ἀρετή τις ἢ μετʼ ἀρετῆς, ἔτι δʼ ἀναγκαιότατον εἰς τὸν βίον. ἄνευ γὰρ φίλων οὐδεὶς ἕλοιτʼ ἂν ζῆν, ἔχων τὰ λοιπὰ ἀγαθὰ πάντα· καὶ γὰρ πλουτοῦσι καὶ ἀρχὰς καὶ δυναστείας κεκτημένοις δοκεῖ φίλων μάλιστʼ εἶναι χρεία· τί γὰρ ὄφελος τῆς τοιαύτης εὐετηρίας ἀφαιρεθείσης εὐεργεσίας, ἣ γίγνεται μάλιστα καὶ ἐπαινετωτάτη πρὸς φίλους; ἢ πῶς ἂν τηρηθείη καὶ σῴζοιτʼ ἄνευ φίλων; ὅσῳ γὰρ πλείων, τοσούτῳ ἐπισφαλεστέρα. ἐν πενίᾳ τε καὶ ταῖς λοιπαῖς δυστυχίαις μόνην οἴονται καταφυγὴν εἶναι τοὺς φίλους.",
+          "englishText": "Next would seem properly to follow a dissertation on Friendship: because, in the first place, it is either itself a virtue or connected with virtue; and next it is a thing most necessary for life, since no one would choose to live without friends though he should have all the other good things in the world: and, in fact, men who are rich or possessed of authority and influence are thought to have special need of friends: for where is the use of such prosperity if there be taken away the doing of kindnesses of which friends are the most usual and most commendable objects? Or how can it be kept or preserved without friends? because the greater it is so much the more slippery and hazardous: in poverty moreover and all other adversities men think friends to be their only refuge.",
+          "transliteration": null,
+          "canonicalRef": "Nicomachean Ethics 1155a",
+          "originalLang": "ancient-greek",
+          "translator": "D. P. Chase (1847)",
+          "sourceUrl": "https://www.gutenberg.org/cache/epub/8438/pg8438-images.html#chap08",
+          "license": "Greek: CC BY-SA 4.0 (Perseus); English: public domain",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "Friendship is a virtue or involves virtue, and it is most necessary for life: no one would choose to live without friends even with every other good. The rich and powerful need friends most, to do good to and to keep their fortune safe, and in poverty and misfortune friends are thought to be the only refuge.",
+          "summaryZh": "友爱是一种德性，或者与德性相伴，而且是生活中最必需的东西：即使拥有其他一切好东西，也没有人愿意过没有朋友的生活。富人和掌权者最需要朋友，既为了施惠，也为了守住所有；而在贫困和不幸中，人们认为朋友是唯一的避难所。",
+          "similarQuestions": [
+            "How important is friendship?",
+            "Can I be happy without friends?",
+            "Is success meaningless without someone to share it?",
+            "Why do I feel lonely despite having everything?"
+          ],
+          "contextNote": "The opening of Book VIII. Aristotle devotes two of the ten books of the Ethics (VIII and IX) to friendship (philia), a word that covers family bonds, partnerships and civic ties as well as personal friendship.",
+          "tags": [
+            "friendship",
+            "happiness",
+            "community"
+          ],
+          "weight": 5
+        },
+        {
+          "originalText": "τελεία δʼ ἐστὶν ἡ τῶν ἀγαθῶν φιλία καὶ κατʼ ἀρετὴν ὁμοίων· οὗτοι γὰρ τἀγαθὰ ὁμοίως βούλονται ἀλλήλοις ᾗ ἀγαθοί, ἀγαθοὶ δʼ εἰσὶ καθʼ αὑτούς. οἱ δὲ βουλόμενοι τἀγαθὰ τοῖς φίλοις ἐκείνων ἕνεκα μάλιστα φίλοι· διʼ αὑτοὺς γὰρ οὕτως ἔχουσι, καὶ οὐ κατὰ συμβεβηκός· διαμένει οὖν ἡ τούτων φιλία ἕως ἂν ἀγαθοὶ ὦσιν, ἡ δʼ ἀρετὴ μόνιμον.",
+          "englishText": "That then is perfect Friendship which subsists between those who are good and whose similarity consists in their goodness: for these men wish one another’s good in similar ways; in so far as they are good (and good they are in themselves); and those are specially friends who wish good to their friends for their sakes, because they feel thus towards them on their own account and not as a mere matter of result; so the Friendship between these men continues to subsist so long as they are good; and goodness, we know, has in it a principle of permanence.",
+          "transliteration": null,
+          "canonicalRef": "Nicomachean Ethics 1156b",
+          "originalLang": "ancient-greek",
+          "translator": "D. P. Chase (1847)",
+          "sourceUrl": "https://www.gutenberg.org/cache/epub/8438/pg8438-images.html#chap08",
+          "license": "Greek: CC BY-SA 4.0 (Perseus); English: public domain",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "Perfect friendship is between good people alike in virtue. They wish each other good for the friend’s own sake, not as a means to something else, so their friendship lasts as long as they remain good — and goodness is lasting.",
+          "summaryZh": "完美的友爱存在于德性相似的好人之间。他们为了朋友本身而希望朋友好，而不是把朋友当作手段，所以只要他们仍是好人，这种友爱就会持续；而德性是持久的。",
+          "similarQuestions": [
+            "What is true friendship?",
+            "How to find real friends?",
+            "Are most friendships transactional?",
+            "How to build deep connections?",
+            "Why do some friendships fade?"
+          ],
+          "contextNote": "Aristotle distinguishes friendships of utility, of pleasure and of virtue. The first two end when the advantage or pleasure ends; only the third is complete and lasting, and it is rare because good people are few and such friendship takes time.",
+          "tags": [
+            "friendship",
+            "virtue",
+            "character"
+          ],
+          "weight": 4
+        }
+      ]
+    },
+    {
+      "titleEn": "Book X - Contemplation",
+      "titleZh": "第十卷 · 沉思",
+      "titleOrig": "Βιβλίον Ι",
+      "passages": [
+        {
+          "originalText": "ὁ δὲ τοιοῦτος ἂν εἴη βίος κρείττων ἢ κατʼ ἄνθρωπον· οὐ γὰρ ᾗ ἄνθρωπός ἐστιν οὕτω βιώσεται, ἀλλʼ ᾗ θεῖόν τι ἐν αὐτῷ ὑπάρχει· ὅσον δὲ διαφέρει τοῦτο τοῦ συνθέτου, τοσοῦτον καὶ ἡ ἐνέργεια τῆς κατὰ τὴν ἄλλην ἀρετήν. εἰ δὴ θεῖον ὁ νοῦς πρὸς τὸν ἄνθρωπον, καὶ ὁ κατὰ τοῦτον βίος θεῖος πρὸς τὸν ἀνθρώπινον βίον. οὐ χρὴ δὲ κατὰ τοὺς παραινοῦντας ἀνθρώπινα φρονεῖν ἄνθρωπον ὄντα οὐδὲ θνητὰ τὸν θνητόν, ἀλλʼ ἐφʼ ὅσον ἐνδέχεται ἀθανατίζειν καὶ πάντα ποιεῖν πρὸς τὸ ζῆν κατὰ τὸ κράτιστον τῶν ἐν αὑτῷ· εἰ γὰρ καὶ τῷ ὄγκῳ μικρόν ἐστι, δυνάμει καὶ τιμιότητι πολὺ μᾶλλον πάντων ὑπερέχει.",
+          "englishText": "But such a life will be higher than mere human nature, because a man will live thus, not in so far as he is man but in so far as there is in him a divine Principle: and in proportion as this Principle excels his composite nature so far does the Working thereof excel that in accordance with any other kind of Excellence: and therefore, if pure Intellect, as compared with human nature, is divine, so too will the life in accordance with it be divine compared with man’s ordinary life. Yet must we not give ear to those who bid one as man to mind only man’s affairs, or as mortal only mortal things; but, so far as we can, make ourselves like immortals and do all with a view to living in accordance with the highest Principle in us, for small as it may be in bulk yet in power and preciousness it far more excels all the others.",
+          "transliteration": null,
+          "canonicalRef": "Nicomachean Ethics 1177b–1178a",
+          "originalLang": "ancient-greek",
+          "translator": "D. P. Chase (1847)",
+          "sourceUrl": "https://www.gutenberg.org/cache/epub/8438/pg8438-images.html#chap10",
+          "license": "Greek: CC BY-SA 4.0 (Perseus); English: public domain",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "The life of the intellect is higher than a merely human life, because we live it by virtue of something divine in us. So we should not heed those who tell mortals to think only mortal thoughts; as far as we can, we should make ourselves immortal and live by the best thing in us, which, though small in bulk, far surpasses everything else in power and worth.",
+          "summaryZh": "理智的生活高于单纯属人的生活，因为过这种生活靠的是我们身上神性的部分。所以不要听那些劝人“身为凡人只想凡人之事”的话；而要尽可能让自己不朽，按照我们身上最好的部分去生活。它体积虽小，力量和价值却远超一切。",
+          "similarQuestions": [
+            "What is the highest purpose of life?",
+            "Should I prioritize thinking or doing?",
+            "Is intellectual life worth pursuing?",
+            "What makes humans special?"
+          ],
+          "contextNote": "In the final book of the Ethics Aristotle argues that the contemplative life (bios theōrētikos) is the highest form of human flourishing, ranking it above the life of political and moral action, which he calls happy “in a secondary degree.”",
+          "tags": [
+            "reason",
+            "happiness",
+            "divinity"
+          ],
+          "weight": 4
+        }
+      ]
+    },
+    {
+      "titleEn": "From the Politics, Book I",
+      "titleZh": "政治学 · 第一卷",
+      "titleOrig": "Πολιτικά Α",
+      "passages": [
+        {
+          "originalText": "ἐκ τούτων οὖν φανερὸν ὅτι τῶν φύσει ἡ πόλις ἐστί, καὶ ὅτι ὁ ἄνθρωπος φύσει πολιτικὸν ζῷον, καὶ ὁ ἄπολις διὰ φύσιν καὶ οὐ διὰ τύχην ἤτοι φαῦλός ἐστιν, ἢ κρείττων ἢ ἄνθρωπος·",
+          "englishText": "Hence it is evident that a city is a natural production, and that man is naturally a political animal, and that whosoever is naturally and not accidentally unfit for society, must be either inferior or superior to man:",
+          "transliteration": null,
+          "canonicalRef": "Politics 1253a",
+          "originalLang": "ancient-greek",
+          "translator": "William Ellis (1776)",
+          "sourceUrl": "https://www.gutenberg.org/ebooks/6762",
+          "license": "Greek: CC BY-SA 4.0 (Perseus); English: public domain",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "The city exists by nature, and man is by nature a political animal. Anyone who is by nature, and not by accident, unfit for a city is either less or more than human.",
+          "summaryZh": "城邦是自然形成的，人天生是政治的动物。一个出于本性而非偶然不能过城邦生活的人，不是低于人，就是高于人。",
+          "similarQuestions": [
+            "Do I need other people?",
+            "Why is community important?",
+            "Can I achieve fulfillment alone?",
+            "What is human nature?"
+          ],
+          "contextNote": "From Book I of the Politics. “Political” means “belonging to the polis,” the city-community, not party politics. Aristotle goes on to say that humans alone have speech to discuss what is just and unjust, and that someone who needs no community is “either a beast or a god.”",
+          "tags": [
+            "community",
+            "nature",
+            "governance"
+          ],
+          "weight": 5
+        }
+      ]
+    }
+  ]
+}

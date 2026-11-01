@@ -1,0 +1,23 @@
+services:
+  postgres:
+    image: postgres:17-alpine
+    container_name: opencouncil-db
+    environment:
+      POSTGRES_USER: opencouncil
+      POSTGRES_PASSWORD: opencouncil
+      POSTGRES_DB: opencouncil
+    restart: unless-stopped
+    ports:
+      # Bind to loopback only — the DB must never be reachable from the public
+      # internet; apps connect via localhost. Host port overridable via OC_DB_PORT.
+      - '127.0.0.1:${OC_DB_PORT:-5433}:5432'
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ['CMD-SHELL', 'pg_isready -U opencouncil']
+      interval: 5s
+      timeout: 5s
+      retries: 5
+
+volumes:
+  pgdata:

@@ -1,0 +1,195 @@
+{
+  "work": {
+    "titleEn": "Meditations (Selected Passages)",
+    "titleZh": "沉思录（精选）",
+    "titleOrig": "Τὰ εἰς ἑαυτόν",
+    "language": "ancient-greek",
+    "circaYear": 175,
+    "description": "Selected passages from the private notebooks of the Roman emperor Marcus Aurelius. Greek text from the Perseus Digital Library (CC BY-SA 4.0) with the public-domain English translation of George Long (1862), via Project Gutenberg.",
+    "copyright": "Greek CC BY-SA 4.0 · English PD",
+    "sourceUrl": "https://www.gutenberg.org/ebooks/15877"
+  },
+  "chapters": [
+    {
+      "titleEn": "Book II",
+      "titleZh": "第二卷",
+      "titleOrig": "Βιβλίον Β",
+      "passages": [
+        {
+          "originalText": "Ἕωθεν προλέγειν ἑαυτῷ· συντεύξομαι περιέργῳ, ἀχαρίστῳ, ὑβριστῇ, δολερῷ, βασκάνῳ, ἀκοινωνήτῳ· πάντα ταῦτα συμβέβηκεν ἐκείνοις παρὰ τὴν ἄγνοιαν τῶν ἀγαθῶν καὶ κακῶν. ἐγὼ δὲ τεθεωρηκὼς τὴν φύσιν τοῦ ἀγαθοῦ ὅτι καλόν, καὶ τοῦ κακοῦ ὅτι αἰσχρόν, καὶ τὴν αὐτοῦ τοῦ ἁμαρτάνοντος φύσιν ὅτι μοι συγγενής, οὐχὶ αἵματος ἢ σπέρματος τοῦ αὐτοῦ, ἀλλὰ νοῦ καὶ θείας ἀπομοίρας μέτοχος, οὔτε βλαβῆναι ὑπό τινος αὐτῶν δύναμαι· αἰσχρῷ γάρ με οὐδεὶς περιβαλεῖ· οὔτε ὀργίζεσθαι τῷ συγγενεῖ δύναμαι οὔτε ἀπέχθεσθαι αὐτῷ. γεγόναμεν γὰρ πρὸς συνεργίαν ὡς πόδες, ὡς χεῖρες, ὡς βλέφαρα, ὡς οἱ στοῖχοι τῶν ἄνω καὶ κάτω ὀδόντων. τὸ οὖν ἀντιπράσσειν ἀλλήλοις παρὰ φύσιν· ἀντιπρακτικὸν δὲ τὸ ἀγανακτεῖν καὶ ἀποστρέφεσθαι.",
+          "englishText": "Begin the morning by saying to thyself, I shall meet with the busybody, the ungrateful, arrogant, deceitful, envious, unsocial. All these things happen to them by reason of their ignorance of what is good and evil. But I who have seen the nature of the good that it is beautiful, and of the bad that it is ugly, and the nature of him who does wrong, that it is akin to me; not [only] of the same blood or seed, but that it participates in [the same] intelligence and [the same] portion of the divinity, I can neither be injured by any of them, for no one can fix on me what is ugly, nor can I be angry with my kinsman, nor hate him. For we are made for co-operation, like feet, like hands, like eyelids, like the rows of the upper and lower teeth. To act against one another, then, is contrary to nature; and it is acting against one another to be vexed and to turn away.",
+          "transliteration": null,
+          "canonicalRef": "Meditations 2.1",
+          "originalLang": "ancient-greek",
+          "translator": "George Long (1862)",
+          "sourceUrl": "https://www.gutenberg.org/ebooks/15877#book-2",
+          "license": "Greek: CC BY-SA 4.0 (Perseus); English: public domain",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "Expect to meet difficult people each day. They act from ignorance of good and evil; since they share in the same reason as you, they cannot truly harm you, and you should not hate them.",
+          "summaryZh": "每天出门前就预料到会遇见难相处的人。他们出于对善恶的无知而行事；他们与你同样分有理性，所以既伤不了你，你也不该憎恨他们。",
+          "similarQuestions": [
+            "How to deal with difficult people?",
+            "How to start the day with the right mindset?",
+            "Why do people hurt others?",
+            "How to not take things personally?"
+          ],
+          "contextNote": "The opening of Book II, which a heading in the manuscripts places \"among the Quadi on the Granua\" — written while Marcus was on campaign on the Danube frontier.",
+          "tags": [
+            "character",
+            "community",
+            "discipline"
+          ],
+          "weight": 5
+        },
+        {
+          "originalText": "Ὡς ἤδη δυνατοῦ ὄντος ἐξιέναι τοῦ βίου, οὕτως ἕκαστα ποιεῖν καὶ λέγειν καὶ διανοεῖσθαι.",
+          "englishText": "Since it is possible that thou mayest depart from life this very moment, regulate every act and thought accordingly.",
+          "transliteration": null,
+          "canonicalRef": "Meditations 2.11",
+          "originalLang": "ancient-greek",
+          "translator": "George Long (1862)",
+          "sourceUrl": "https://www.gutenberg.org/ebooks/15877#book-2",
+          "license": "Greek: CC BY-SA 4.0 (Perseus); English: public domain",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "Since you could leave life at any moment, let that possibility govern every act and thought.",
+          "summaryZh": "你随时可能离开人世，那就让这一点来约束你的每一个行动和念头。",
+          "similarQuestions": [
+            "How to live without regret?",
+            "How to deal with fear of death?",
+            "What really matters in life?",
+            "How to stop wasting time?"
+          ],
+          "contextNote": "Remembering death is a recurring Stoic exercise in the Meditations. Marcus reigned through the Antonine Plague and long frontier wars.",
+          "tags": [
+            "death",
+            "meaning-of-life",
+            "discipline"
+          ],
+          "weight": 5
+        },
+        {
+          "originalText": "Ὅτι πᾶν ὑπόληψις. δῆλα μὲν γὰρ τὰ πρὸς τὸν Κυνικὸν Μόνιμον λεγόμενα· δῆλον δὲ καὶ τὸ χρήσιμον τοῦ λεγομένου, ἐάν τις αὐτοῦ τὸ νόστιμον μέχρι τοῦ ἀληθοῦς δέχηται.",
+          "englishText": "Remember that all is opinion. For what was said by the Cynic Monimus is manifest: and manifest too is the use of what was said, if a man receives what may be got out of it as far as it is true.",
+          "transliteration": null,
+          "canonicalRef": "Meditations 2.15",
+          "originalLang": "ancient-greek",
+          "translator": "George Long (1862)",
+          "sourceUrl": "https://www.gutenberg.org/ebooks/15877#book-2",
+          "license": "Greek: CC BY-SA 4.0 (Perseus); English: public domain",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "Everything depends on how we judge it. The saying is useful as far as it is true.",
+          "summaryZh": "一切取决于我们如何看待它。这句话在它为真的范围内是有用的。",
+          "similarQuestions": [
+            "Is everything just a matter of perspective?",
+            "How can I change how I feel about events?",
+            "Why do things upset me so much?"
+          ],
+          "contextNote": "Monimus was a Cynic philosopher who called everything \"vapour\" (typhos). Marcus endorses the point only \"as far as it is true\" — a qualified claim, not relativism.",
+          "tags": [
+            "self-knowledge",
+            "truth",
+            "wisdom"
+          ],
+          "weight": 4
+        }
+      ]
+    },
+    {
+      "titleEn": "Book V",
+      "titleZh": "第五卷",
+      "titleOrig": "Βιβλίον Ε",
+      "passages": [
+        {
+          "originalText": "Ὄρθρου, ὅταν δυσόκνως ἐξεγείρῃ, πρόχειρον ἔστω ὅτι ἐπὶ ἀνθρώπου ἔργον ἐγείρομαι· τί οὖν δυσκολαίνω, εἰ πορεύομαι ἐπὶ τὸ ποιεῖν ὧν ἕνεκεν γέγονα καὶ ὧν χάριν προῆγμαι εἰς τὸν κόσμον; ἢ ἐπὶ τοῦτο κατεσκεύασμαι, ἵνα κατακείμενος ἐν στρωματίοις ἐμαυτὸν θάλπω;",
+          "englishText": "In the morning when thou risest unwillingly, let this thought be present,--I am rising to the work of a human being. Why then am I dissatisfied if I am going to do the things for which I exist and for which I was brought into the world? Or have I been made for this, to lie in the bed-clothes and keep myself warm?",
+          "transliteration": null,
+          "canonicalRef": "Meditations 5.1",
+          "originalLang": "ancient-greek",
+          "translator": "George Long (1862)",
+          "sourceUrl": "https://www.gutenberg.org/ebooks/15877#book-5",
+          "license": "Greek: CC BY-SA 4.0 (Perseus); English: public domain",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "When you don’t want to get up, remember you are rising to do the work of a human being — the very thing you exist for.",
+          "summaryZh": "早上不想起床时，提醒自己：我起身是去做一个人该做的事——那正是我存在的目的。",
+          "similarQuestions": [
+            "How to find motivation in the morning?",
+            "How to overcome laziness?",
+            "What is my purpose?",
+            "Why should I work hard?"
+          ],
+          "contextNote": "One of the most human moments in the Meditations: the emperor arguing with himself about getting out of bed.",
+          "tags": [
+            "duty",
+            "discipline",
+            "meaning-of-life"
+          ],
+          "weight": 4
+        },
+        {
+          "originalText": "Οἷα ἂν πολλάκις φαντασθῇς, τοιαύτη σοι ἔσται ἡ διάνοια· βάπτεται γὰρ ὑπὸ τῶν φαντασιῶν ἡ ψυχή.",
+          "englishText": "Such as are thy habitual thoughts, such also will be the character of thy mind; for the soul is dyed by the thoughts.",
+          "transliteration": null,
+          "canonicalRef": "Meditations 5.16",
+          "originalLang": "ancient-greek",
+          "translator": "George Long (1862)",
+          "sourceUrl": "https://www.gutenberg.org/ebooks/15877#book-5",
+          "license": "Greek: CC BY-SA 4.0 (Perseus); English: public domain",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "Your habitual thoughts shape the character of your mind; the soul takes on the colour of its thoughts.",
+          "summaryZh": "你惯常的想法塑造了你心灵的品性；灵魂会被它的念头所浸染。",
+          "similarQuestions": [
+            "How do my thoughts affect my life?",
+            "How to become a more positive person?",
+            "Can I change my character?",
+            "How to train my mind?"
+          ],
+          "contextNote": "The image is of dyeing cloth: repeated impressions gradually colour the soul. It anticipates modern ideas of habit formation.",
+          "tags": [
+            "self-knowledge",
+            "character",
+            "practice"
+          ],
+          "weight": 5
+        }
+      ]
+    },
+    {
+      "titleEn": "Book VII",
+      "titleZh": "第七卷",
+      "titleOrig": "Βιβλίον Ζ",
+      "passages": [
+        {
+          "originalText": "τούτου μέμνησο ἀεὶ καὶ ἔτι ἐκείνου, ὅτι ἐν ὀλιγίστοις κεῖται τὸ εὐδαιμόνως βιῶσαι καὶ μή, ὅτι ἀπήλπισας διαλεκτικὸς καὶ φυσικὸς ἔσεσθαι, διὰ τοῦτο ἀπογνῷς καὶ ἐλεύθερος καὶ αἰδήμων καὶ κοινωνικὸς καὶ εὐπειθὴς θεῷ.",
+          "englishText": "Always bear this in mind; and another thing too, that very little indeed is necessary for living a happy life. And because thou hast despaired of becoming a dialectician and skilled in the knowledge of nature, do not for this reason renounce the hope of being both free and modest, and social and obedient to God.",
+          "transliteration": null,
+          "canonicalRef": "Meditations 7.67",
+          "originalLang": "ancient-greek",
+          "translator": "George Long (1862)",
+          "sourceUrl": "https://www.gutenberg.org/ebooks/15877#book-7",
+          "license": "Greek: CC BY-SA 4.0 (Perseus); English: public domain",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "Very little is needed for a happy life. Even if you will never be a great thinker, you can still be free, modest, social and obedient to God.",
+          "summaryZh": "幸福的生活所需极少。即使你成不了大学问家，也依然可以自由、谦逊、合群、顺从神意。",
+          "similarQuestions": [
+            "What do I really need to be happy?",
+            "Am I enough without achievements?",
+            "How to be content with less?"
+          ],
+          "contextNote": "Marcus consoles himself for not becoming the logician or natural philosopher he had hoped to be: the good life does not depend on such attainments.",
+          "tags": [
+            "happiness",
+            "simplicity",
+            "virtue"
+          ],
+          "weight": 4
+        }
+      ]
+    }
+  ]
+}

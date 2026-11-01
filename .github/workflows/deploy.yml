@@ -1,0 +1,121 @@
+# CI on every push (typecheck + tests); on main, also deploys the demo site (to self-host, see DEPLOY.md).
+# The deploy job only runs where the repository variable DEPLOY_ENVIRONMENT is set, so forks never deploy.
+# Repository variable: DEPLOY_ENVIRONMENT (name of a GitHub environment).
+# Secrets on that environment: DEV_SERVER_HOST / DEV_SERVER_PORT / DEV_SERVER_USERNAME / DEV_SERVER_SSH_KEY,
+# and DEPLOY_APP_DIR (the clone's directory on the server — kept in secrets so it is masked in public logs).
+# The server's clone fetches with whatever remote/credentials it is configured with; API_PORT comes from its .env.
+name: CI & deploy
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  # ── Parallel gate: typecheck + test ──
+  typecheck:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      - uses: pnpm/action-setup@v6
+      - uses: actions/setup-node@v6
+        with:
+          node-version: 22
+          cache: pnpm
+      - run: pnpm install --frozen-lockfile
+      - run: pnpm typecheck
+
+  test:
+    runs-on: ubuntu-latest
+    services:
+      postgres:
+        image: postgres:17-alpine
+        env:
+          POSTGRES_DB: opencouncil_test
+          POSTGRES_USER: opencouncil
+          POSTGRES_PASSWORD: opencouncil
+        ports:
+          - 5432:5432
+        options: >-
+          --health-cmd "pg_isready -U opencouncil -d opencouncil_test"
+          --health-interval 5s
+          --health-timeout 3s
+          --health-retries 5
+    steps:
+      - uses: actions/checkout@v6
+      - uses: pnpm/action-setup@v6
+      - uses: actions/setup-node@v6
+        with:
+          node-version: 22
+          cache: pnpm
+      - run: pnpm install --frozen-lockfile
+      - name: Initialize test database schema
+        run: npx drizzle-kit push --force
+        env:
+          DATABASE_URL: postgresql://opencouncil:opencouncil@localhost:5432/opencouncil_test
+      - run: pnpm test
+
+  # ── Deploy (after checks pass; main only, never in forks) ──
+  deploy:
+    needs: [typecheck, test]
+    if: vars.DEPLOY_ENVIRONMENT != '' && github.ref == 'refs/heads/main' && github.event_name != 'pull_request'
+    runs-on: ubuntu-latest
+    environment: ${{ vars.DEPLOY_ENVIRONMENT }}
+    concurrency:
+      group: deploy
+      cancel-in-progress: false
+    steps:
+      - name: Deploy via SSH
+        uses: appleboy/ssh-action@v1
+        with:
+          host: ${{ secrets.DEV_SERVER_HOST }}
+          port: ${{ secrets.DEV_SERVER_PORT }}
+          username: ${{ secrets.DEV_SERVER_USERNAME }}
+          key: ${{ secrets.DEV_SERVER_SSH_KEY }}
+          script: |
+            set -e
+            export NVM_DIR="$HOME/.nvm"; source "$NVM_DIR/nvm.sh"; nvm use 22 >/dev/null
+            APP_DIR="${{ secrets.DEPLOY_APP_DIR }}"
+            [ -n "$APP_DIR" ] || { echo "DEPLOY_APP_DIR is not set"; exit 1; }
+            cd "$APP_DIR"
+            export CI=true
+            if [ -f .env ]; then set -a; source .env; set +a; fi
+            mkdir -p logs
+
+            echo "📥 Pulling latest main..."
+            git fetch -q origin main
+            # Deploy exactly the commit that triggered this run (fails if origin doesn't have it).
+            git reset -q --hard "${{ github.sha }}"
+
+            NEW_HASH=$(md5sum pnpm-lock.yaml | cut -d' ' -f1)
+            OLD_HASH=$(cat .deploy-lock-hash 2>/dev/null || echo "")
+            if [ "$NEW_HASH" != "$OLD_HASH" ]; then
+              echo "📦 Lockfile changed — installing..."
+              pnpm install --frozen-lockfile
+              pnpm rebuild esbuild   # some hosts skip esbuild's install script
+              echo "$NEW_HASH" > .deploy-lock-hash
+            else
+              echo "✅ Dependencies unchanged"
+            fi
+
+            echo "🔨 Building web..."
+            pnpm --filter @opencouncil/web build
+
+            echo "🗃️  Syncing DB schema (drizzle push, non-interactive)..."
+            npx drizzle-kit push --force
+
+            echo "📚 Importing content (idempotent; reseeds + replaces verified works)..."
+            pnpm content:import
+
+            echo "🔄 Restarting..."
+            # PM2 prints every process on the host; keep that out of public run logs.
+            pm2 startOrRestart ecosystem.config.cjs --update-env >/dev/null
+            pm2 save >/dev/null
+
+            echo "🏥 Health check..."
+            for i in 1 2 3 4 5; do
+              if curl -fsS "localhost:${API_PORT:-3001}/api/health" >/dev/null 2>&1; then echo "✅ healthy"; exit 0; fi
+              sleep 3
+            done
+            echo "❌ health check failed (see logs/error.log on the server)"; exit 1

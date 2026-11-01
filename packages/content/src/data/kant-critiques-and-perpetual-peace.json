@@ -1,0 +1,333 @@
+{
+  "work": {
+    "titleEn": "The Critiques & Perpetual Peace (Selected Passages)",
+    "titleZh": "纯粹理性批判、实践理性批判与永久和平论（精选）",
+    "titleOrig": "Kritik der reinen Vernunft · Kritik der praktischen Vernunft · Zum ewigen Frieden",
+    "language": "german",
+    "circaYear": 1787,
+    "description": "Selected passages from Kant's Critique of Pure Reason (2nd ed., 1787), Critique of Practical Reason (1788) and Perpetual Peace (1795). German texts from Project Gutenberg; public-domain English translations by J. M. D. Meiklejohn (Critique of Pure Reason, 1855), T. K. Abbott (Critique of Practical Reason, 1873), both via Project Gutenberg, and William Hastie (Perpetual Peace, 1891, via English Wikisource).",
+    "copyright": "public-domain",
+    "sourceUrl": "https://www.gutenberg.org/ebooks/4280"
+  },
+  "chapters": [
+    {
+      "titleEn": "Critique of Pure Reason — Introduction",
+      "titleZh": "纯粹理性批判·导言",
+      "titleOrig": "Kritik der reinen Vernunft — Einleitung",
+      "passages": [
+        {
+          "originalText": "Daß alle unsere Erkenntnis mit der Erfahrung anfange, daran ist gar kein Zweifel; denn wodurch sollte das Erkenntnisvermögen sonst zur Ausübung erweckt werden, geschähe es nicht durch Gegenstände, die unsere Sinne rühren und teils von selbst Vorstellungen bewirken, teils unsere Verstandestätigkeit in Bewegung bringen, diese zu vergleichen, sie zu verknüpfen oder zu trennen, und so den rohen Stoff sinnlicher Eindrücke zu einer Erkenntnis der Gegenstände zu verarbeiten, die Erfahrung heißt? Der Zeit nach geht also keine Erkenntnis in uns vor der Erfahrung vorher, und mit dieser fängt alle an. Wenn aber gleich alle unsere Erkenntnis mit der Erfahrung anhebt, so entspringt sie darum doch nicht eben alle aus der Erfahrung.",
+          "englishText": "That all our knowledge begins with experience there can be no doubt. For how is it possible that the faculty of cognition should be awakened into exercise otherwise than by means of objects which affect our senses, and partly of themselves produce representations, partly rouse our powers of understanding into activity, to compare to connect, or to separate these, and so to convert the raw material of our sensuous impressions into a knowledge of objects, which is called experience? In respect of time, therefore, no knowledge of ours is antecedent to experience, but begins with it. But, though all our knowledge begins with experience, it by no means follows that all arises out of experience.",
+          "transliteration": null,
+          "canonicalRef": "Critique of Pure Reason B1",
+          "originalLang": "german",
+          "translator": "J. M. D. Meiklejohn (1855)",
+          "sourceUrl": "https://www.gutenberg.org/ebooks/4280",
+          "license": "German: public domain (Project Gutenberg); English: public domain",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "All our knowledge begins with experience: our senses must first be affected before we can know anything. But it does not follow that all knowledge arises out of experience — the mind may contribute something of its own.",
+          "summaryZh": "我们的一切知识都从经验开始：感官必须先受到触动，我们才能认识任何东西。但这并不意味着一切知识都来源于经验——心灵本身可能也贡献了某些东西。",
+          "similarQuestions": [
+            "Where does knowledge come from?",
+            "Is all knowledge learned from experience?",
+            "Can we know anything without the senses?"
+          ],
+          "contextNote": "The opening of the Introduction to the second edition (1787). In one stroke Kant grants the empiricists their starting point while preparing his central claim: that some knowledge is a priori, supplied by the structure of the mind itself.",
+          "tags": [
+            "reason",
+            "truth",
+            "wisdom"
+          ],
+          "weight": 4
+        }
+      ]
+    },
+    {
+      "titleEn": "Critique of Pure Reason — Transcendental Logic",
+      "titleZh": "纯粹理性批判·先验逻辑",
+      "titleOrig": "Kritik der reinen Vernunft — Transzendentale Logik",
+      "passages": [
+        {
+          "originalText": "Ohne Sinnlichkeit würde uns kein Gegenstand gegeben, und ohne Verstand keiner gedacht werden. Gedanken ohne Inhalt sind leer, Anschauungen ohne Begriffe sind blind. Daher ist es ebenso notwendig, seine Begriffe sinnlich zu machen, (d.i. ihnen den Gegenstand in der Anschauung beizufügen,) als seine Anschauungen sich verständlich zu machen (d.i. sie unter Begriffe zu bringen). Beide Vermögen, oder Fähigkeiten, können auch ihre Funktionen nicht vertauschen. Der Verstand vermag nichts anzuschauen, und die Sinne nichts zu denken. Nur daraus, daß sie sich vereinigen, kann Erkenntnis entspringen.",
+          "englishText": "Without the sensuous faculty no object would be given to us, and without the understanding no object would be thought. Thoughts without content are void; intuitions without conceptions, blind. Hence it is as necessary for the mind to make its conceptions sensuous (that is, to join to them the object in intuition), as to make its intuitions intelligible (that is, to bring them under conceptions). Neither of these faculties can exchange its proper function. Understanding cannot intuite, and the sensuous faculty cannot think. In no other way than from the united operation of both, can knowledge arise.",
+          "transliteration": null,
+          "canonicalRef": "Critique of Pure Reason A51/B75",
+          "originalLang": "german",
+          "translator": "J. M. D. Meiklejohn (1855)",
+          "sourceUrl": "https://www.gutenberg.org/ebooks/4280",
+          "license": "German: public domain (Project Gutenberg); English: public domain",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "Thoughts without content are empty; intuitions without concepts are blind. Knowledge arises only when the senses and the understanding work together — neither alone is sufficient.",
+          "summaryZh": "没有内容的思维是空的，没有概念的直观是盲的。只有感性与知性结合，才能产生知识——任何一方单独都不够。",
+          "similarQuestions": [
+            "How do we know things?",
+            "Is experience or reason more important?",
+            "What are the limits of knowledge?"
+          ],
+          "contextNote": "One of the most quoted lines of the Critique. Kant joins the rationalist (Descartes, Leibniz) and empiricist (Locke, Hume) traditions: concepts without experience are empty, and raw experience without concepts yields no knowledge. Meiklejohn renders \"leer\" as \"void\".",
+          "tags": [
+            "reason",
+            "truth",
+            "wisdom"
+          ],
+          "weight": 5
+        }
+      ]
+    },
+    {
+      "titleEn": "Critique of Pure Reason — Preface to the Second Edition",
+      "titleZh": "纯粹理性批判·第二版序言",
+      "titleOrig": "Kritik der reinen Vernunft — Vorrede zur zweiten Auflage",
+      "passages": [
+        {
+          "originalText": "Ich mußte also das Wissen aufheben, um zum Glauben Platz zu bekommen, und der Dogmatismus der Metaphysik, d.i. das Vorurteil, in ihr ohne Kritik der reinen Vernunft fortzukommen, ist die wahre Quelle alles der Moralität widerstreitenden Unglaubens, der jederzeit gar sehr dogmatisch ist.",
+          "englishText": "I must, therefore, abolish knowledge, to make room for belief. The dogmatism of metaphysics, that is, the presumption that it is possible to advance in metaphysics without previous criticism, is the true source of the unbelief (always dogmatic) which militates against morality.",
+          "transliteration": null,
+          "canonicalRef": "Critique of Pure Reason Bxxx",
+          "originalLang": "german",
+          "translator": "J. M. D. Meiklejohn (1855)",
+          "sourceUrl": "https://www.gutenberg.org/ebooks/4280",
+          "license": "German: public domain (Project Gutenberg); English: public domain",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "Kant had to limit the claims of knowledge to make room for belief. Metaphysics pursued without a prior critique of reason is the real source of the dogmatic unbelief that undermines morality.",
+          "summaryZh": "康德必须限制知识的僭越，以便为信仰留出地盘。未经理性批判就从事形而上学，正是那种与道德相冲突的独断式无信仰的真正根源。",
+          "similarQuestions": [
+            "Can science explain everything?",
+            "Is there room for faith in a rational world?",
+            "What are the limits of reason?"
+          ],
+          "contextNote": "From the Preface to the second edition (1787). By showing that speculative reason cannot prove or disprove God, freedom or immortality, Kant clears space for them as matters of practical (moral) belief. Meiklejohn translates \"aufheben\" as \"abolish\" and \"Glauben\" as \"belief\"; later translators often write \"deny knowledge to make room for faith\".",
+          "tags": [
+            "faith",
+            "reason",
+            "doubt"
+          ],
+          "weight": 4
+        }
+      ]
+    },
+    {
+      "titleEn": "Critique of Pure Reason — Canon of Pure Reason",
+      "titleZh": "纯粹理性批判·纯粹理性的法规",
+      "titleOrig": "Kritik der reinen Vernunft — Kanon der reinen Vernunft",
+      "passages": [
+        {
+          "originalText": "Alles Interesse meiner Vernunft (das spekulative sowohl, als das praktische) vereinigt sich in folgenden drei Fragen: 1. Was kann ich wissen? 2. Was soll ich tun? 3. Was darf ich hoffen?",
+          "englishText": "The whole interest of reason, speculative as well as practical, is centred in the three following questions: 1. WHAT CAN I KNOW? 2. WHAT OUGHT I TO DO? 3. WHAT MAY I HOPE?",
+          "transliteration": null,
+          "canonicalRef": "Critique of Pure Reason A805/B833",
+          "originalLang": "german",
+          "translator": "J. M. D. Meiklejohn (1855)",
+          "sourceUrl": "https://www.gutenberg.org/ebooks/4280",
+          "license": "German: public domain (Project Gutenberg); English: public domain",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "Every interest of reason comes down to three questions: What can I know? What ought I to do? What may I hope?",
+          "summaryZh": "理性的全部关切都归结为三个问题：我能知道什么？我应当做什么？我可以希望什么？",
+          "similarQuestions": [
+            "What are the most important questions in life?",
+            "What should philosophy try to answer?",
+            "How should I think about knowledge, duty and hope?"
+          ],
+          "contextNote": "From the Canon of Pure Reason near the end of the Critique. The three questions map onto Kant's life work: theory of knowledge, ethics, and religion. In his Logic lectures he added a fourth — \"What is man?\" — to which the other three refer.",
+          "tags": [
+            "meaning-of-life",
+            "reason",
+            "wisdom"
+          ],
+          "weight": 5
+        },
+        {
+          "originalText": "Das war die Beantwortung der ersten von den zwei Fragen der reinen Vernunft, die das praktische Interesse betrafen: Tue das, wodurch du würdig wirst, glücklich zu sein. Die zweite frägt nun: wie, wenn ich mich nun so verhalte, daß ich der Glückseligkeit nicht unwürdig sei, darf ich auch hoffen, ihrer dadurch teilhaftig werden zu können? Es kommt bei der Beantwortung derselben darauf an, ob die Prinzipien der reinen Vernunft, welche a priori das Gesetz vorschreiben, auch diese Hoffnung notwendigerweise damit verknüpfen.",
+          "englishText": "That is the answer to the first of the two questions of pure reason which relate to its practical interest: Do that which will render thee worthy of happiness. The second question is this: If I conduct myself so as not to be unworthy of happiness, may I hope thereby to obtain happiness? In order to arrive at the solution of this question, we must inquire whether the principles of pure reason, which prescribe à priori the law, necessarily also connect this hope with it.",
+          "transliteration": null,
+          "canonicalRef": "Critique of Pure Reason A808/B836",
+          "originalLang": "german",
+          "translator": "J. M. D. Meiklejohn (1855)",
+          "sourceUrl": "https://www.gutenberg.org/ebooks/4280",
+          "license": "German: public domain (Project Gutenberg); English: public domain",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "The moral answer to \"What ought I to do?\" is: Do that which will make you worthy of happiness. The next question is whether, having made oneself worthy, one may also hope to be happy.",
+          "summaryZh": "对\"我应当做什么\"的道德回答是：去做那使你配得上幸福的事。接下来的问题是：一个人若使自己配得上幸福，是否也可以希望获得幸福。",
+          "similarQuestions": [
+            "Should I pursue happiness or goodness?",
+            "Do good people deserve to be happy?",
+            "What is the point of being moral?"
+          ],
+          "contextNote": "Kant separates being happy from being worthy of happiness: morality does not teach how to become happy but how to deserve it. The hope that worthiness and happiness will finally coincide is, for Kant, what leads reason to postulate God and a future life.",
+          "tags": [
+            "happiness",
+            "virtue",
+            "duty"
+          ],
+          "weight": 4
+        }
+      ]
+    },
+    {
+      "titleEn": "Perpetual Peace — Second Section",
+      "titleZh": "永久和平论·第二节",
+      "titleOrig": "Zum ewigen Frieden — Zweyter Abschnitt",
+      "passages": [
+        {
+          "originalText": "Der Friedenszustand unter Menschen, die neben einander leben, ist kein Naturstand (status naturalis), der vielmehr ein Zustand des Krieges ist, d. i. wenn gleich nicht immer ein Ausbruch der Feindseligkeiten, doch immerwährende Bedrohung mit denselben. Er muß also gestiftet werden; denn die Unterlassung der letzteren ist noch nicht Sicherheit dafür, und, ohne daß sie einem Nachbar von dem andern geleistet wird (welches aber nur in einem gesetzlichen Zustande geschehen kann), kann jener diesen, welchen er dazu aufgefordert hat, als einen Feind behandeln.",
+          "englishText": "A state of Peace among men who live side by side with each other, is not the natural state. The state of Nature is rather a state of War; for although it may not always present the outbreak of hostilities, it is nevertheless continually threatened with them. The state of Peace must, therefore, be established; for the mere cessation of hostilities furnishes no security against their recurrence, and where there is no guarantee of peace between neighbouring States—which can only be furnished under conditions that are regulated by Law—the one may treat the other, when proclamation is made to that effect, as an enemy.",
+          "transliteration": null,
+          "canonicalRef": "Perpetual Peace, Second Section (Ak 8:348–349)",
+          "originalLang": "german",
+          "translator": "William Hastie (1891)",
+          "sourceUrl": "https://en.wikisource.org/wiki/Perpetual_Peace/Second_Section",
+          "license": "German: public domain (Project Gutenberg); English: public domain",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "Peace is not the natural condition of people living side by side; the state of nature is a state of war, or at least of constant threat. Peace must therefore be established — the mere absence of fighting is no guarantee of it.",
+          "summaryZh": "和平并不是比邻而居的人们的自然状态；自然状态是战争状态，至少是持续的威胁。因此和平必须被建立起来——仅仅没有交战并不能保障和平。",
+          "similarQuestions": [
+            "How do we achieve lasting peace?",
+            "Is conflict inevitable?",
+            "What creates stability between nations?"
+          ],
+          "contextNote": "The opening of the Second Section of Perpetual Peace (1795), which then sets out the \"definitive articles\": republican constitutions, a federation of free states, and cosmopolitan right. Kant's proposal is often cited as a precursor of the League of Nations and the United Nations.",
+          "tags": [
+            "governance",
+            "justice",
+            "community"
+          ],
+          "weight": 4
+        }
+      ]
+    },
+    {
+      "titleEn": "Perpetual Peace — First Supplement",
+      "titleZh": "永久和平论·第一条补充",
+      "titleOrig": "Zum ewigen Frieden — Erster Zusatz",
+      "passages": [
+        {
+          "originalText": "Das Problem der Staatserrichtung ist, so hart wie es auch klingt, selbst für ein Volk von Teufeln (wenn sie nur Verstand haben), auflösbar und lautet so: »Eine Menge von vernünftigen Wesen, die insgesammt allgemeine Gesetze für ihre Erhaltung verlangen, deren jedes aber in Geheim sich davon auszunehmen geneigt ist, so zu ordnen und ihre Verfassung einzurichten, daß, obgleich sie in ihren Privatgesinnungen einander entgegen streben, diese einander doch so aufhalten, daß in ihrem öffentlichen Verhalten der Erfolg eben derselbe ist, als ob sie keine solche böse Gesinnungen hätten.« Ein solches Problem muß auflöslich seyn.",
+          "englishText": "The problem of the institution of a State, however hard it may appear, would not be insoluble even for a race of devils, assuming only that they have intelligence, and it may be put as follows: 'A multitude of rational beings all requiring laws in common for their own preservation, and yet of such a nature that each of them is inclined secretly to except himself from their sway, have to be put under order, and a constitution has to be established among them so that, although they may be antagonistic to one another in their private sentiments, they have yet to be so organised that, in their public relations, their conduct will have the same result as if they had no such bad sentiments.' Such a problem must be capable of solution.",
+          "transliteration": null,
+          "canonicalRef": "Perpetual Peace, First Supplement (Ak 8:366)",
+          "originalLang": "german",
+          "translator": "William Hastie (1891)",
+          "sourceUrl": "https://en.wikisource.org/wiki/Perpetual_Peace/Supplements",
+          "license": "German: public domain (Project Gutenberg); English: public domain",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "Setting up a just state is a problem that could be solved even for a race of devils, provided they have intelligence: the constitution must be arranged so that selfish wills check one another and public conduct turns out as if people had no bad intentions.",
+          "summaryZh": "建立一个国家的问题，即使对一群魔鬼来说也是可以解决的，只要他们有理智：宪制必须安排得让各自的私心相互牵制，使公共行为的结果仿佛人们并无恶意一样。",
+          "similarQuestions": [
+            "Can good institutions work with imperfect people?",
+            "Do we need people to be good for society to work?",
+            "Why do checks and balances matter?"
+          ],
+          "contextNote": "Kant argues that a good political order does not depend on first making people morally good, but on the \"mechanism of nature\" — institutions that set self-interest against self-interest. It expresses the same realism about human nature as his line, in the 1784 essay on universal history, that nothing straight can be made from the crooked timber of humanity.",
+          "tags": [
+            "governance",
+            "power",
+            "character"
+          ],
+          "weight": 4
+        }
+      ]
+    },
+    {
+      "titleEn": "Critique of Practical Reason — Analytic",
+      "titleZh": "实践理性批判·分析论",
+      "titleOrig": "Kritik der praktischen Vernunft — Analytik",
+      "passages": [
+        {
+          "originalText": "Handle so, daß die Maxime deines Willens jederzeit zugleich als Princip einer allgemeinen Gesetzgebung gelten könne.",
+          "englishText": "Act so that the maxim of thy will can always at the same time hold good as a principle of universal legislation.",
+          "transliteration": null,
+          "canonicalRef": "Critique of Practical Reason §7 (Ak 5:30)",
+          "originalLang": "german",
+          "translator": "Thomas Kingsmill Abbott (1873)",
+          "sourceUrl": "https://www.gutenberg.org/ebooks/5683",
+          "license": "German: public domain (Project Gutenberg); English: public domain",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "The fundamental law of pure practical reason: act only on a maxim you could will to hold as a law for everyone.",
+          "summaryZh": "纯粹实践理性的基本法则：只按照你能同时意愿它成为普遍立法原则的准则去行动。",
+          "similarQuestions": [
+            "How do I know if an action is morally right?",
+            "What if everyone did what I am about to do?",
+            "Is it ever okay to make an exception for myself?",
+            "What is the categorical imperative?"
+          ],
+          "contextNote": "This is the categorical imperative as Kant states it in the Critique of Practical Reason (1788). The better-known wording (\"Act only according to that maxim…\") is from the Groundwork of the Metaphysics of Morals (1785), which is not in this collection; the test is the same: no exceptions for oneself.",
+          "tags": [
+            "duty",
+            "reason",
+            "goodness"
+          ],
+          "weight": 5
+        },
+        {
+          "originalText": "Der Mensch ist zwar unheilig genug, aber die Menschheit in seiner Person muß ihm heilig sein. In der ganzen Schöpfung kann alles, was man will, und worüber man etwas vermag, auch blos als Mittel gebraucht werden; nur der Mensch und mit ihm jedes vernünftige Geschöpf ist Zweck an sich selbst.",
+          "englishText": "Man is indeed unholy enough, but he must regard humanity in his own person as holy. In all creation every thing one chooses and over which one has any power, may be used merely as means; man alone, and with him every rational creature, is an end in himself.",
+          "transliteration": null,
+          "canonicalRef": "Critique of Practical Reason (Ak 5:87)",
+          "originalLang": "german",
+          "translator": "Thomas Kingsmill Abbott (1873)",
+          "sourceUrl": "https://www.gutenberg.org/ebooks/5683",
+          "license": "German: public domain (Project Gutenberg); English: public domain",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "People are far from holy, yet the humanity in each person must be held sacred: anything else may be used merely as a means, but every rational being is an end in itself.",
+          "summaryZh": "人远非圣洁，但每个人身上的人性必须被视为神圣：其余一切都可以仅仅被当作手段，唯有人和一切有理性的存在者是目的本身。",
+          "similarQuestions": [
+            "Is it wrong to use people?",
+            "Why does every person deserve respect?",
+            "What is human dignity?",
+            "Can I treat someone merely as a means to my goals?"
+          ],
+          "contextNote": "The idea behind the Groundwork's \"formula of humanity\" (treat humanity never merely as a means, always also as an end), here in Kant's own words from the Critique of Practical Reason.",
+          "tags": [
+            "equality",
+            "justice",
+            "duty"
+          ],
+          "weight": 5
+        }
+      ]
+    },
+    {
+      "titleEn": "Critique of Practical Reason — Conclusion",
+      "titleZh": "实践理性批判·结论",
+      "titleOrig": "Kritik der praktischen Vernunft — Beschluß",
+      "passages": [
+        {
+          "originalText": "Zwei Dinge erfüllen das Gemüth mit immer neuer und zunehmender Bewunderung und Ehrfurcht, je öfter und anhaltender sich das Nachdenken damit beschäftigt: der bestirnte Himmel über mir und das moralische Gesetz in mir. Beide darf ich nicht als in Dunkelheiten verhüllt, oder im Überschwenglichen, außer meinem Gesichtskreise suchen und blos vermuthen; ich sehe sie vor mir und verknüpfe sie unmittelbar mit dem Bewußtsein meiner Existenz.",
+          "englishText": "Two things fill the mind with ever new and increasing admiration and awe, the oftener and the more steadily we reflect on them: the starry heavens above and the moral law within. I have not to search for them and conjecture them as though they were veiled in darkness or were in the transcendent region beyond my horizon; I see them before me and connect them directly with the consciousness of my existence.",
+          "transliteration": null,
+          "canonicalRef": "Critique of Practical Reason, Conclusion (Ak 5:161)",
+          "originalLang": "german",
+          "translator": "Thomas Kingsmill Abbott (1873)",
+          "sourceUrl": "https://www.gutenberg.org/ebooks/5683",
+          "license": "German: public domain (Project Gutenberg); English: public domain",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "Two things fill the mind with ever-growing wonder and awe: the starry heavens above and the moral law within. Both are not distant speculations but directly bound up with one's own existence.",
+          "summaryZh": "有两样东西，越是经常而持久地思索，就越使心灵充满常新而日增的惊叹和敬畏：头上的星空和心中的道德法则。它们不是遥远的猜测，而与我自身的存在直接相连。",
+          "similarQuestions": [
+            "What gives life a sense of awe?",
+            "Where does morality come from?",
+            "How do I feel small and significant at the same time?",
+            "What is worth wondering about?"
+          ],
+          "contextNote": "The opening of the Conclusion of the Critique of Practical Reason (1788) — the line later engraved on Kant's memorial plaque in Königsberg.",
+          "tags": [
+            "cosmos",
+            "reason",
+            "meaning-of-life"
+          ],
+          "weight": 5
+        }
+      ]
+    }
+  ]
+}

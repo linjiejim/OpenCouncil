@@ -1,0 +1,806 @@
+{
+  "work": {
+    "titleEn": "The Analects (Selected Chapters)",
+    "titleZh": "论语（精选）",
+    "titleOrig": "論語",
+    "language": "classical-chinese",
+    "circaYear": -500,
+    "description": "Selected chapters of the Analects of Confucius. Classical Chinese text with the public-domain English translation of James Legge (The Chinese Classics, 1861), via Wikisource.",
+    "copyright": "public-domain",
+    "sourceUrl": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1"
+  },
+  "chapters": [
+    {
+      "titleEn": "Book 1 · Xue Er (Learning)",
+      "titleZh": "学而篇",
+      "titleOrig": "學而",
+      "passages": [
+        {
+          "originalText": "子曰、學而時習之、不亦說乎。有朋自遠方來、不亦樂乎。人不知而不慍、不亦君子乎。",
+          "englishText": "1. The Master said, \"Is it not pleasant to learn with a constant perseverance and application? 2. \"Is it not delightful to have friends coming from distant quarters? 3. \"Is he not a man of complete virtue, who feels no discomposure though men may take no note of him?\"",
+          "transliteration": null,
+          "canonicalRef": "Analects 1.1",
+          "originalLang": "classical-chinese",
+          "translator": "James Legge",
+          "sourceUrl": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/Confucian_Analects/I",
+          "license": "public-domain",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "Learning constantly and practicing what you've learned brings joy; having friends from afar is delightful; not being upset when unrecognized shows true virtue.",
+          "summaryZh": "学习并经常实践，是令人愉悦的；有志同道合的朋友远道而来，是令人高兴的；别人不了解自己也不怨恨，这才是君子的修养。",
+          "similarQuestions": [
+            "How can I find joy in my studies?",
+            "Why is it important to have friends who share my interests?",
+            "How do I stay calm when I feel overlooked or unappreciated?"
+          ],
+          "contextNote": "This is the opening passage of the Analects, setting the tone for Confucian self-cultivation through learning, friendship, and inner virtue. It applies to anyone seeking fulfillment in personal growth and social harmony.",
+          "tags": [
+            "education",
+            "friendship",
+            "virtue",
+            "happiness"
+          ],
+          "weight": 5
+        },
+        {
+          "originalText": "曾子曰、吾日三省吾身、爲人謀、而不忠乎、與朋友交、而不信乎、傳不習乎。",
+          "englishText": "The philosopher Tsang said, \"I daily examine myself on three points:—whether, in transacting business for others, I may have been not faithful;—whether, in intercourse with friends, I may have been not sincere;—whether I may have not mastered and practised the instructions of my teacher.\"",
+          "transliteration": null,
+          "canonicalRef": "Analects 1.4",
+          "originalLang": "classical-chinese",
+          "translator": "James Legge",
+          "sourceUrl": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/Confucian_Analects/I",
+          "license": "public-domain",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "I daily examine myself on three points: whether I was faithful in business for others, sincere with friends, and whether I practiced what my teacher taught.",
+          "summaryZh": "我每天多次反省自己：为别人办事是否尽心？与朋友交往是否诚实？老师传授的知识是否复习和实践了？",
+          "similarQuestions": [
+            "How can I improve myself daily?",
+            "What should I reflect on to be a better person?",
+            "How do I ensure I am trustworthy in my relationships?",
+            "How do I integrate learning into my life?"
+          ],
+          "contextNote": "This passage from the Analects emphasizes self-cultivation through daily reflection on loyalty, sincerity, and learning. It is a practical guide for moral self-improvement in Confucian thought.",
+          "tags": [
+            "self-knowledge",
+            "honesty",
+            "virtue",
+            "practice"
+          ],
+          "weight": 5
+        },
+        {
+          "originalText": "子曰、不患人之不己知、患不知人也。",
+          "englishText": "The Master said, \"I will not be afflicted at men's not knowing me; I will be afflicted that I do not know men.\"",
+          "transliteration": null,
+          "canonicalRef": "Analects 1.16",
+          "originalLang": "classical-chinese",
+          "translator": "James Legge",
+          "sourceUrl": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/Confucian_Analects/I",
+          "license": "public-domain",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "Do not worry about being unrecognized by others; worry instead about your own failure to understand others.",
+          "summaryZh": "不要担忧别人不了解自己，而应担忧自己不了解别人。",
+          "similarQuestions": [
+            "Why do people not appreciate me?",
+            "How can I stop worrying about others' opinions?",
+            "What should I focus on instead of seeking approval?",
+            "How can I better understand the people around me?"
+          ],
+          "contextNote": "This saying from Confucius highlights the importance of self-cultivation and empathy over seeking fame or validation. It appears early in the Analects, setting a tone of inward reflection and social awareness.",
+          "tags": [
+            "self-knowledge",
+            "wisdom",
+            "virtue",
+            "community"
+          ],
+          "weight": 4
+        }
+      ]
+    },
+    {
+      "titleEn": "Book 2 · Wei Zheng (Governance)",
+      "titleZh": "为政篇",
+      "titleOrig": "為政",
+      "passages": [
+        {
+          "originalText": "子曰、爲政以德、譬如北辰、居其所、而眾星共之。",
+          "englishText": "The Master said, \"He who exercises government by means of his virtue may be compared to the north polar star, which keeps its place and all the stars turn towards it.\"",
+          "transliteration": null,
+          "canonicalRef": "Analects 2.1",
+          "originalLang": "classical-chinese",
+          "translator": "James Legge",
+          "sourceUrl": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/Confucian_Analects/II",
+          "license": "public-domain",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "A leader who governs through virtue is like the North Star, which stays fixed while all others revolve around it.",
+          "summaryZh": "以德治国的人，就像北极星一样，安居其位，众星都围绕它运转。",
+          "similarQuestions": [
+            "How can I lead effectively without force?",
+            "What makes a good ruler or leader?",
+            "How can virtue influence others?",
+            "Is it better to lead by example or by rules?"
+          ],
+          "contextNote": "This passage from the Analects reflects Confucius's political philosophy emphasizing moral example over coercion. It applies to leadership contexts but may oversimplify complex governance challenges.",
+          "tags": [
+            "governance",
+            "virtue",
+            "wisdom",
+            "non-action"
+          ],
+          "weight": 5
+        },
+        {
+          "originalText": "子曰、吾十有五而志于學。三十而立。四十而不惑。五十而知天命。六十而耳順。七十而從心所欲、不踰矩。",
+          "englishText": "1. The Master said, \"At fifteen, I had my mind bent on learning. 2. \"At thirty, I stood firm. 3. \"At forty, I had no doubts. 4. \"At fifty, I knew the decrees of Heaven. 5. \"At sixty, my ear was an obedient organ for the reception of truth. 6. \"At seventy, I could follow what my heart desired, without transgressing what was right.\"",
+          "transliteration": null,
+          "canonicalRef": "Analects 2.4",
+          "originalLang": "classical-chinese",
+          "translator": "James Legge",
+          "sourceUrl": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/Confucian_Analects/II",
+          "license": "public-domain",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "Confucius describes his lifelong journey of self-cultivation, from learning at fifteen to achieving moral freedom at seventy.",
+          "summaryZh": "孔子讲述自己从十五岁立志学习到七十岁随心所欲不逾矩的修身历程。",
+          "similarQuestions": [
+            "How can I grow and improve myself throughout my life?",
+            "What does it mean to be truly mature and wise?",
+            "How do I develop moral character and self-discipline?",
+            "Is there a natural progression to spiritual or ethical development?"
+          ],
+          "contextNote": "This is an autobiographical passage from the Analects, where Confucius outlines his own spiritual and moral development as a model for others. It emphasizes lifelong learning and the gradual attainment of wisdom.",
+          "tags": [
+            "self-knowledge",
+            "discipline",
+            "education",
+            "wisdom"
+          ],
+          "weight": 5
+        },
+        {
+          "originalText": "子曰、溫故而知新、可以爲師矣。",
+          "englishText": "The Master said, \"If a man keeps cherishing his old knowledge, so as continually to be acquiring new, he may be a teacher of others.\"",
+          "transliteration": null,
+          "canonicalRef": "Analects 2.11",
+          "originalLang": "classical-chinese",
+          "translator": "James Legge",
+          "sourceUrl": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/Confucian_Analects/II",
+          "license": "public-domain",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "By reflecting on what you already know while continually seeking new understanding, you become qualified to teach others.",
+          "summaryZh": "通过温习旧知识并不断获得新见解，你就可以教导他人。",
+          "similarQuestions": [
+            "How can I turn my accumulated knowledge into wisdom?",
+            "What is the best way to learn deeply and then share that learning?",
+            "How can I become a more effective teacher or mentor?",
+            "How do I balance learning from the past with being open to new ideas?"
+          ],
+          "contextNote": "This passage from Confucius's Analects emphasizes the Confucian value of continuous learning and the role of a teacher. It applies to anyone seeking to deepen knowledge and share it, not just professional educators.",
+          "tags": [
+            "education",
+            "wisdom",
+            "practice"
+          ],
+          "weight": 4
+        },
+        {
+          "originalText": "子曰、學而不思則罔、思而不學則殆。",
+          "englishText": "The Master said, \"Learning without thought is labour lost; thought without learning is perilous.\"",
+          "transliteration": null,
+          "canonicalRef": "Analects 2.15",
+          "originalLang": "classical-chinese",
+          "translator": "James Legge",
+          "sourceUrl": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/Confucian_Analects/II",
+          "license": "public-domain",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "Studying without thinking leads to confusion, but thinking without studying is dangerous.",
+          "summaryZh": "只学习不思考就会迷惑，只思考不学习就会危险。",
+          "similarQuestions": [
+            "How can I make sure my studying is actually useful?",
+            "I feel like I think a lot but don't have enough knowledge—what's the use?",
+            "Why is it important to balance learning and reflecting on my own?",
+            "What happens if I just memorize facts without understanding them?"
+          ],
+          "contextNote": "This advice from Confucius emphasizes the balance between acquiring knowledge and critical thinking. It warns against both passive learning and uninformed speculation, applicable to any field of study.",
+          "tags": [
+            "education",
+            "wisdom",
+            "practice",
+            "reason"
+          ],
+          "weight": 4
+        },
+        {
+          "originalText": "子曰、由、誨女知之乎、知之爲知之、不知爲不知、是知也。",
+          "englishText": "The Master said, \"Yu, shall I teach you what knowledge is? When you know a thing, to hold that you know it; and when you do not know a thing, to allow that you do not know it;—this is knowledge.\"",
+          "transliteration": null,
+          "canonicalRef": "Analects 2.17",
+          "originalLang": "classical-chinese",
+          "translator": "James Legge",
+          "sourceUrl": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/Confucian_Analects/II",
+          "license": "public-domain",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "When you know something, recognize that you know it; when you do not know, admit it—this is true knowledge.",
+          "summaryZh": "知道就是知道，不知道就是不知道，这才是真正的智慧。",
+          "similarQuestions": [
+            "How can I be more honest with myself about what I don't know?",
+            "What is the first step to gaining true knowledge?",
+            "How do I overcome the fear of appearing ignorant?"
+          ],
+          "contextNote": "This is from the Analects, a collection of sayings attributed to Confucius. The disciple Yu is being addressed. The passage emphasizes the virtue of intellectual humility and honesty as foundational to learning and wisdom.",
+          "tags": [
+            "self-knowledge",
+            "honesty",
+            "wisdom",
+            "truth"
+          ],
+          "weight": 5
+        }
+      ]
+    },
+    {
+      "titleEn": "Book 3 · Ba Yi",
+      "titleZh": "八佾篇",
+      "titleOrig": "八佾",
+      "passages": [
+        {
+          "originalText": "子曰、人而不仁、如禮何、人而不仁、如樂何。",
+          "englishText": "The Master said, \"If a man be without the virtues proper to humanity, what has he to do with the rites of propriety? If a man be without the virtues proper to humanity, what has he to do with music?\"",
+          "transliteration": null,
+          "canonicalRef": "Analects 3.3",
+          "originalLang": "classical-chinese",
+          "translator": "James Legge",
+          "sourceUrl": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/Confucian_Analects/III",
+          "license": "public-domain",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "A person lacking true humanity cannot meaningfully practice ritual or music, as inner virtue is the foundation for cultural forms.",
+          "summaryZh": "一个人如果没有仁德，礼仪和音乐对他来说都是空洞的。",
+          "similarQuestions": [
+            "Why do I feel empty even when I follow all the rules?",
+            "What's the point of going through the motions of tradition if my heart isn't in it?",
+            "How can I make my daily habits more meaningful?",
+            "Is it enough to just perform rituals correctly?"
+          ],
+          "contextNote": "This passage comes from the Analects, a collection of sayings of Confucius and his disciples. It emphasizes that external forms (rites, music) are meaningless without inner moral cultivation, a core Confucian teaching on the integration of inner and outer.",
+          "tags": [
+            "benevolence",
+            "virtue",
+            "character"
+          ],
+          "weight": 5
+        }
+      ]
+    },
+    {
+      "titleEn": "Book 4 · Li Ren (Benevolence)",
+      "titleZh": "里仁篇",
+      "titleOrig": "里仁",
+      "passages": [
+        {
+          "originalText": "子曰、朝聞道、夕死、可矣。",
+          "englishText": "The Master said, \"If a man in the morning hear the right way, he may die in the evening without regret.\"",
+          "transliteration": null,
+          "canonicalRef": "Analects 4.8",
+          "originalLang": "classical-chinese",
+          "translator": "James Legge",
+          "sourceUrl": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/Confucian_Analects/IV",
+          "license": "public-domain",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "If you come to understand the true way of life in the morning, you could die that evening without any regret.",
+          "summaryZh": "如果早上明白了人生的正道，即使晚上死去也没有遗憾。",
+          "similarQuestions": [
+            "What is the most important thing to achieve in life?",
+            "Is there a knowledge worth more than life itself?",
+            "How can I find peace with my own mortality?",
+            "What should I prioritize to live a meaningful life?"
+          ],
+          "contextNote": "This saying from the Analects underscores Confucius's belief that the pursuit of moral truth (the Way) is life's ultimate purpose. It does not advocate for premature death but expresses that once one has grasped the Way, life's goal is fulfilled.",
+          "tags": [
+            "meaning-of-life",
+            "death",
+            "wisdom",
+            "truth"
+          ],
+          "weight": 5
+        },
+        {
+          "originalText": "子曰、君子喻於義、小人喻於利。",
+          "englishText": "The Master said, \"The mind of the superior man is conversant with righteousness; the mind of the mean man is conversant with gain.\"",
+          "transliteration": null,
+          "canonicalRef": "Analects 4.16",
+          "originalLang": "classical-chinese",
+          "translator": "James Legge",
+          "sourceUrl": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/Confucian_Analects/IV",
+          "license": "public-domain",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "A gentleman understands righteousness, while a petty person understands personal profit.",
+          "summaryZh": "君子明白道义，小人只懂私利。",
+          "similarQuestions": [
+            "Should I focus on what is right or what benefits me?",
+            "How can I become a better person?",
+            "Why is it important to prioritize ethics over personal gain?",
+            "What does it mean to have moral character?"
+          ],
+          "contextNote": "This saying from the Analects contrasts the moral orientation of the junzi (gentleman) with the xiaoren (petty person), reflecting Confucius's emphasis on moral cultivation and the priority of righteousness over material benefit. It was addressed to rulers and officials but applies broadly to personal conduct.",
+          "tags": [
+            "virtue",
+            "justice",
+            "character",
+            "wisdom"
+          ],
+          "weight": 4
+        },
+        {
+          "originalText": "子曰、見賢思齊焉、見不賢而內自省也。",
+          "englishText": "The Master said, \"When we see men of worth, we should think of equalling them; when we see men of a contrary character, we should turn inwards and examine ourselves.\"",
+          "transliteration": null,
+          "canonicalRef": "Analects 4.17",
+          "originalLang": "classical-chinese",
+          "translator": "James Legge",
+          "sourceUrl": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/Confucian_Analects/IV",
+          "license": "public-domain",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "When you see a worthy person, strive to emulate them; when you see an unworthy person, reflect on your own character.",
+          "summaryZh": "看到贤德的人要向他看齐，看到不贤的人要反省自己。",
+          "similarQuestions": [
+            "How can I become a better person by learning from others?",
+            "What should I do when I notice someone's bad behavior?",
+            "How do I use others as mirrors for my own self-improvement?",
+            "Why is it important to reflect on my own faults when I see faults in others?"
+          ],
+          "contextNote": "This saying is from Confucius's Analects, a foundational text in Confucian ethics, emphasizing self-cultivation through social observation. It is broadly applicable for personal moral development but assumes a reflective and disciplined mindset.",
+          "tags": [
+            "self-knowledge",
+            "virtue",
+            "discipline",
+            "practice"
+          ],
+          "weight": 4
+        }
+      ]
+    },
+    {
+      "titleEn": "Book 6 · Yong Ye",
+      "titleZh": "雍也篇",
+      "titleOrig": "雍也",
+      "passages": [
+        {
+          "originalText": "子謂子夏曰、女爲君子儒、無爲小人儒。",
+          "englishText": "The Master said to Tsze-hsia, \"Do you be a scholar after the style of the superior man, and not after that of the mean man.\"",
+          "transliteration": null,
+          "canonicalRef": "Analects 6.11",
+          "originalLang": "classical-chinese",
+          "translator": "James Legge",
+          "sourceUrl": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/Confucian_Analects/VI",
+          "license": "public-domain",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "Confucius instructs his disciple to be a scholar who embodies the moral integrity of a superior person, not one who acts with the selfishness of a petty person.",
+          "summaryZh": "孔子告诫子夏，做学问要成为有德行的君子，而不是唯利是图的小人。",
+          "similarQuestions": [
+            "How should I approach my studies to become a better person?",
+            "What distinguishes a truly learned person from a merely clever one?",
+            "Should I focus on personal growth or external success in my education?",
+            "How can I ensure my learning serves moral ends rather than selfish ones?"
+          ],
+          "contextNote": "This saying is addressed to the disciple Zixia, who was known for his literary talents. Confucius emphasizes that being a scholar is not merely about intellectual achievement but about moral cultivation and character.",
+          "tags": [
+            "virtue",
+            "education",
+            "character",
+            "wisdom"
+          ],
+          "weight": 4
+        },
+        {
+          "originalText": "子曰、知之者、不如好之者、好之者、不如樂之者。",
+          "englishText": "The Master said, \"They who know the truth are not equal to those who love it, and they who love it are not equal to those who delight in it.\"",
+          "transliteration": null,
+          "canonicalRef": "Analects 6.18",
+          "originalLang": "classical-chinese",
+          "translator": "James Legge",
+          "sourceUrl": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/Confucian_Analects/VI",
+          "license": "public-domain",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "Understanding something is good, but loving it is better, and finding joy in it is best.",
+          "summaryZh": "了解不如喜爱，喜爱不如乐在其中。",
+          "similarQuestions": [
+            "How can I move from just knowing what's right to actually wanting to do it?",
+            "Why do I know I should study but lack motivation?",
+            "How can I find passion in my work or studies?",
+            "What makes a person truly devoted to a path?"
+          ],
+          "contextNote": "This passage from the Analects (6.18) highlights Confucius's teaching on the progression from intellectual knowledge to emotional engagement and ultimately to joyful immersion. It applies to learning, virtue, and any pursuit of excellence.",
+          "tags": [
+            "wisdom",
+            "education",
+            "happiness",
+            "virtue"
+          ],
+          "weight": 4
+        },
+        {
+          "originalText": "樊遲問知。子曰、務民之義、敬鬼神而遠之、可謂知矣。問仁。曰、仁者先難而後獲、可謂仁矣。",
+          "englishText": "Fan Ch'ih asked what constituted wisdom. The Master said, \"To give one's self earnestly to the duties due to men, and, while respecting spiritual beings, to keep aloof from them, may be called wisdom.\" He asked about perfect virtue. The Master said, \"The man of virtue makes the difficulty to be overcome his first business, and success only a subsequent consideration;—this may be called perfect virtue.\"",
+          "transliteration": null,
+          "canonicalRef": "Analects 6.20",
+          "originalLang": "classical-chinese",
+          "translator": "James Legge",
+          "sourceUrl": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/Confucian_Analects/VI",
+          "license": "public-domain",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "Wisdom means attending to human duties and respectfully keeping spiritual beings at a distance; virtue means tackling difficulties first and only then considering reward.",
+          "summaryZh": "智慧在于做好人的本分，敬鬼神而保持距离；仁德在于先克服困难而后考虑收获。",
+          "similarQuestions": [
+            "How should I balance my daily responsibilities with my spiritual beliefs?",
+            "Should I focus on doing the right thing even if it's hard, or aim for success?",
+            "What does it mean to be wise in dealing with the unseen world?",
+            "How can I cultivate virtue when I'm tempted to seek immediate rewards?"
+          ],
+          "contextNote": "This passage from the Analects reflects Confucius's this-worldly focus, emphasizing ethical duty over supernatural concerns. It advises respect for spirits without reliance on them, and prioritizes effort over outcomes—a key Confucian teaching.",
+          "tags": [
+            "duty",
+            "wisdom",
+            "virtue",
+            "practice"
+          ],
+          "weight": 5
+        },
+        {
+          "originalText": "子曰、知者樂水、仁者樂山、知者動、仁者靜、知者樂、仁者壽。",
+          "englishText": "The Master said, \"The wise find pleasure in water; the virtuous find pleasure in hills. The wise are active; the virtuous are tranquil. The wise are joyful; the virtuous are long-lived.\"",
+          "transliteration": null,
+          "canonicalRef": "Analects 6.21",
+          "originalLang": "classical-chinese",
+          "translator": "James Legge",
+          "sourceUrl": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/Confucian_Analects/VI",
+          "license": "public-domain",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "Wise people are active and joyful like water, while virtuous people are tranquil and long-lived like mountains.",
+          "summaryZh": "孔子说，智者喜欢水，仁者喜欢山；智者好动，仁者好静；智者快乐，仁者长寿。",
+          "similarQuestions": [
+            "Why do I find joy in different things than others?",
+            "Should I seek more activity or more tranquility in life?",
+            "How can I balance being wise and being virtuous?",
+            "Is there a connection between my character and my happiness?"
+          ],
+          "contextNote": "This passage from the Analects uses natural imagery to contrast the complementary virtues of wisdom (知) and benevolence (仁), common in Confucian thought.",
+          "tags": [
+            "wisdom",
+            "virtue",
+            "nature",
+            "happiness"
+          ],
+          "weight": 4
+        }
+      ]
+    },
+    {
+      "titleEn": "Book 7 · Shu Er",
+      "titleZh": "述而篇",
+      "titleOrig": "述而",
+      "passages": [
+        {
+          "originalText": "子曰、不憤不啟、不悱不發、擧一隅、不以三隅反、則不復也。",
+          "englishText": "The Master said, \"I do not open up the truth to one who is not eager to get knowledge, nor help out any one who is not anxious to explain himself. When I have presented one corner of a subject to any one, and he cannot from it learn the other three, I do not repeat my lesson.\"",
+          "transliteration": null,
+          "canonicalRef": "Analects 7.8",
+          "originalLang": "classical-chinese",
+          "translator": "James Legge",
+          "sourceUrl": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/Confucian_Analects/VII",
+          "license": "public-domain",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "Confucius emphasizes that teaching is most effective when the student is genuinely eager and actively thinking, and that one should not spoon-feed knowledge to a passive learner.",
+          "summaryZh": "孔子说，不主动求知就不开导，不主动表达就不启发；举一个角而不能类推其他三个角，就不再重复教导。",
+          "similarQuestions": [
+            "How can I become a more engaged learner?",
+            "Why does my teacher not give me direct answers?",
+            "What should I do if I don't understand a concept?",
+            "How can I develop my own thinking instead of just memorizing?"
+          ],
+          "contextNote": "This passage from the Analects reflects Confucius's educational philosophy, emphasizing the student's initiative and active participation in learning.",
+          "tags": [
+            "education",
+            "wisdom",
+            "character",
+            "self-knowledge"
+          ],
+          "weight": 4
+        },
+        {
+          "originalText": "子曰、三人行、必有我師焉、擇其善者而從之、其不善者而改之。",
+          "englishText": "The Master said, \"When I walk along with two others, they may serve me as my teachers. I will select their good qualities and follow them, their bad qualities and avoid them.\"",
+          "transliteration": null,
+          "canonicalRef": "Analects 7.21",
+          "originalLang": "classical-chinese",
+          "translator": "James Legge",
+          "sourceUrl": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/Confucian_Analects/VII",
+          "license": "public-domain",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "In any group, you can learn from others by adopting their strengths and reflecting on their weaknesses to improve yourself.",
+          "summaryZh": "与人同行，人人皆可为师，取其所长，鉴其所短以自省。",
+          "similarQuestions": [
+            "How can I learn from people around me, even those I don't admire?",
+            "How do I find good role models in everyday life?",
+            "What should I do when I see someone's bad habits?",
+            "How can I turn everyday interactions into opportunities for self-improvement?"
+          ],
+          "contextNote": "This saying emphasizes constant learning through social observation. It reflects Confucius' practical approach to self-cultivation without needing formal teachers. Applicable to any social setting, but note the cultural expectation of humility and continuous self-improvement.",
+          "tags": [
+            "education",
+            "wisdom",
+            "practice",
+            "self-knowledge"
+          ],
+          "weight": 4
+        },
+        {
+          "originalText": "子曰、天生德於予、桓魋其如予何。",
+          "englishText": "The Master said, \"Heaven produced the virtue that is in me. Hwan T'ui—what can he do to me?\"",
+          "transliteration": null,
+          "canonicalRef": "Analects 7.22",
+          "originalLang": "classical-chinese",
+          "translator": "James Legge",
+          "sourceUrl": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/Confucian_Analects/VII",
+          "license": "public-domain",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "Confucius asserts that his virtue is bestowed by Heaven, so no external threat can truly harm him.",
+          "summaryZh": "孔子说上天赋予他德行，因此桓魋不能对他怎样。",
+          "similarQuestions": [
+            "How can I remain unshaken by others' hostility?",
+            "Is my moral integrity safe from external harm?",
+            "How do I trust that my virtues are divinely supported?",
+            "What gives me confidence in the face of persecution?"
+          ],
+          "contextNote": "This passage reflects Confucius's confidence in his mission during a time of political danger; it underscores the Confucian belief that moral virtue has a cosmic foundation, but should not be taken as a guarantee of physical safety.",
+          "tags": [
+            "destiny",
+            "virtue",
+            "courage",
+            "faith"
+          ],
+          "weight": 4
+        }
+      ]
+    },
+    {
+      "titleEn": "Book 8 · Tai Bo",
+      "titleZh": "泰伯篇",
+      "titleOrig": "泰伯",
+      "passages": [
+        {
+          "originalText": "曾子曰、士、不可以不弘毅、任重而道遠。仁以爲己任、不亦重乎、死而後已、不亦遠乎。",
+          "englishText": "1. The philosopher Tsang said, \"The officer may not be without breadth of mind and vigorous endurance. His burden is heavy and his course is long. 2. \"Perfect virtue is the burden which he considers it is his to sustain;—is it not heavy? Only with death does his course stop;—is it not long?",
+          "transliteration": null,
+          "canonicalRef": "Analects 8.7",
+          "originalLang": "classical-chinese",
+          "translator": "James Legge",
+          "sourceUrl": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/Confucian_Analects/VIII",
+          "license": "public-domain",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "A person of noble aspiration must be broad-minded and persevering, for their lifelong duty to cultivate perfect virtue is both heavy and long.",
+          "summaryZh": "有志之士必须心胸宽广、坚韧不拔，因为他们肩负着终生践行仁德的重任。",
+          "similarQuestions": [
+            "How can I stay committed to my moral principles for a lifetime?",
+            "What does it mean to take virtue as one's personal responsibility?",
+            "Why is it important to be broad-minded and persistent in pursuing a meaningful life?",
+            "How do I find the strength to carry heavy responsibilities without giving up?"
+          ],
+          "contextNote": "This passage from the Analects is attributed to Zengzi, a disciple of Confucius. It highlights the Confucian ideal of the 'shi' (officer/scholar) as a moral agent whose lifelong duty is to cultivate and practice ren (benevolence). The emphasis is on endurance and commitment, not on immediate results.",
+          "tags": [
+            "duty",
+            "virtue",
+            "perseverance",
+            "character"
+          ],
+          "weight": 5
+        }
+      ]
+    },
+    {
+      "titleEn": "Book 9 · Zi Han",
+      "titleZh": "子罕篇",
+      "titleOrig": "子罕",
+      "passages": [
+        {
+          "originalText": "子曰、三軍可奪師也、匹夫不可奪志也。",
+          "englishText": "The Master said, \"The commander of the forces of a large state may be carried off, but the will of even a common man cannot be taken from him.\"",
+          "transliteration": null,
+          "canonicalRef": "Analects 9.25",
+          "originalLang": "classical-chinese",
+          "translator": "James Legge",
+          "sourceUrl": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/Confucian_Analects/IX",
+          "license": "public-domain",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "Even the most powerful commander can be captured, but no one can take away the will of an ordinary person.",
+          "summaryZh": "即使大军的主帅可以被夺走，但一个普通人的意志是不可被剥夺的。",
+          "similarQuestions": [
+            "How can I maintain my resolve when faced with overwhelming pressure?",
+            "What gives a person unshakable inner strength?",
+            "Can external circumstances ever truly defeat my spirit?",
+            "How do I stay true to my principles when everything around me changes?"
+          ],
+          "contextNote": "This passage from the Analects highlights Confucius's emphasis on individual moral autonomy and inner strength. It reflects a core Confucian belief that personal integrity and willpower are inviolable, even in the face of external threats.",
+          "tags": [
+            "courage",
+            "perseverance",
+            "character"
+          ],
+          "weight": 5
+        },
+        {
+          "originalText": "子曰、衣敝縕袍、與衣孤貉者立、而不恥者、其由也與。不忮不求、何用不臧。子路終身誦之、子曰、是道也、何足以臧。",
+          "englishText": "1. The Master said, \"Dressed himself in a tattered robe quilted with hemp, yet standing by the side of men dressed in furs, and not ashamed;—ah! it is Yu who is equal to this! 2. \"'He dislikes none, he covets nothing;—what can he do but what is good!'\" 3. Tsze-lu kept continually repeating these words of the ode, when the Master said, \"Those things are by no means sufficient to constitute (perfect) excellence.\"",
+          "transliteration": null,
+          "canonicalRef": "Analects 9.26",
+          "originalLang": "classical-chinese",
+          "translator": "James Legge",
+          "sourceUrl": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/Confucian_Analects/IX",
+          "license": "public-domain",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "Confucius praises Zilu for not feeling ashamed while wearing ragged clothes among the wealthy, but warns that not being envious or greedy alone is not enough to achieve perfect virtue.",
+          "summaryZh": "孔子称赞子路穿着破旧衣服与富人站在一起而不感到羞耻，但指出仅仅不嫉妒不贪求还不足以达到至善。",
+          "similarQuestions": [
+            "How can I be content with what I have and not feel inferior around others?",
+            "Why do I feel ashamed of my poverty or simple lifestyle?",
+            "What is the difference between basic goodness and true virtue?",
+            "How can I stop comparing myself to others and coveting what they have?"
+          ],
+          "contextNote": "This passage from the Analects shows Confucius teaching his disciple Zilu about the difference between a simple lack of envy and the full cultivation of virtue. It reflects the Confucian emphasis on inner character over external appearances.",
+          "tags": [
+            "virtue",
+            "character",
+            "simplicity",
+            "desire"
+          ],
+          "weight": 3
+        }
+      ]
+    },
+    {
+      "titleEn": "Book 12 · Yan Yuan",
+      "titleZh": "颜渊篇",
+      "titleOrig": "顏淵",
+      "passages": [
+        {
+          "originalText": "仲弓問仁。子曰、出門如見大賓、使民如承大祭、己所不欲、勿施於人、在邦無怨、在家無怨。仲弓曰、雍雖不敏、請事斯語矣。",
+          "englishText": "Chung-kung asked about perfect virtue. The Master said, \"It is, when you go abroad, to behave to every one as if you were receiving a great guest; to employ the people as if you were assisting at a great sacrifice; not to do to others as you would not wish done to yourself; to have no murmuring against you in the country, and none in the family.\" Chung-kung said, \"Though I am deficient in intelligence and vigour, I will make it my business to practise this lesson.\"",
+          "transliteration": null,
+          "canonicalRef": "Analects 12.2",
+          "originalLang": "classical-chinese",
+          "translator": "James Legge",
+          "sourceUrl": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/Confucian_Analects/XII",
+          "license": "public-domain",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "To cultivate perfect virtue, one should treat everyone with utmost respect, serve people with solemn care, never impose on others what one would not want for oneself, and thereby avoid resentment both in public and private life.",
+          "summaryZh": "修养仁德，就是要出门待人如见贵宾，役使民众如承大祭，己所不欲勿施于人，从而在邦国和家族中都没有怨恨。",
+          "similarQuestions": [
+            "How should I treat strangers and people I work with?",
+            "What is the best rule to avoid causing harm in my relationships?",
+            "How can I reduce conflict in my community and family?",
+            "What does it mean to truly respect others?"
+          ],
+          "contextNote": "This advice comes from Confucius's dialogue with his disciple Zhonggong (Ran Yong). It applies to personal conduct and governance, emphasizing reverence and reciprocity as foundations of social harmony.",
+          "tags": [
+            "virtue",
+            "compassion",
+            "community",
+            "governance"
+          ],
+          "weight": 5
+        },
+        {
+          "originalText": "司馬牛憂曰、人皆有兄弟、我獨亡。子夏曰、商聞之矣。死生有命、富貴在天。君子敬而無失、與人恭而有禮、四海之內、皆兄弟也、君子何患乎無兄弟也。",
+          "englishText": "1. Sze-ma Niu, full of anxiety, said, \"Other men all have their brothers, I only have not.\" 2. Tsze-hsia said to him, \"There is the following saying which I have heard:— 3. \"'Death and life have their determined appointment; riches and honours depend upon Heaven.' 4. \"Let the superior man never fail reverentially to order his own conduct, and let him be respectful to others and observant of propriety:—then all within the four seas will be his brothers. What has the superior man to do with being distressed because he has no brothers?\"",
+          "transliteration": null,
+          "canonicalRef": "Analects 12.5",
+          "originalLang": "classical-chinese",
+          "translator": "James Legge",
+          "sourceUrl": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/Confucian_Analects/XII",
+          "license": "public-domain",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "Though life and death are determined by fate and wealth by Heaven, a virtuous and respectful person can find kinship with everyone under heaven.",
+          "summaryZh": "虽然死生有命富贵在天，但君子通过敬慎行事、恭敬有礼，四海之内皆可为兄弟。",
+          "similarQuestions": [
+            "I feel lonely and like I have no close family or friends; how can I find a sense of belonging?",
+            "Why do some people seem to have everything while I struggle?",
+            "How can I overcome the fear of being alone in the world?",
+            "Is it possible to create a family of choice when my biological family is absent?"
+          ],
+          "contextNote": "This passage from the Analects (12.5) addresses Sze-ma Niu's personal anxiety about lacking brothers. It should not be interpreted as a guarantee of universal brotherhood but rather as an emphasis on personal cultivation as the foundation for social harmony.",
+          "tags": [
+            "friendship",
+            "community",
+            "virtue",
+            "destiny"
+          ],
+          "weight": 4
+        }
+      ]
+    },
+    {
+      "titleEn": "Book 13 · Zi Lu",
+      "titleZh": "子路篇",
+      "titleOrig": "子路",
+      "passages": [
+        {
+          "originalText": "子曰、君子和而不同、小人同而不和。",
+          "englishText": "The Master said, \"The superior man is affable, but not adulatory; the mean man is adulatory, but not affable.\"",
+          "transliteration": null,
+          "canonicalRef": "Analects 13.23",
+          "originalLang": "classical-chinese",
+          "translator": "James Legge",
+          "sourceUrl": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/Confucian_Analects/XIII",
+          "license": "public-domain",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "A virtuous person maintains harmony without blindly agreeing, while a petty person blindly agrees but lacks true harmony.",
+          "summaryZh": "君子与人和谐相处却不盲目附和，小人盲目附和却无法真正和谐。",
+          "similarQuestions": [
+            "How can I disagree with someone without being disagreeable?",
+            "How do I maintain my principles while getting along with others?",
+            "Why does fitting in often feel like compromising my values?",
+            "What is the difference between being agreeable and being a pushover?"
+          ],
+          "contextNote": "This passage from the Analects emphasizes Confucian ideals of social harmony through moral integrity, not mere conformity. It applies to personal relationships and leadership, cautioning against empty flattery.",
+          "tags": [
+            "virtue",
+            "community",
+            "character"
+          ],
+          "weight": 4
+        },
+        {
+          "originalText": "子曰、剛、毅、木、訥、近仁。",
+          "englishText": "The Master said, \"The firm, the enduring, the simple, and the modest are near to virtue.\"",
+          "transliteration": null,
+          "canonicalRef": "Analects 13.27",
+          "originalLang": "classical-chinese",
+          "translator": "James Legge",
+          "sourceUrl": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_1/Confucian_Analects/XIII",
+          "license": "public-domain",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "Confucius says that being firm, enduring, simple, and modest brings one close to virtue.",
+          "summaryZh": "孔子说，刚强、坚毅、质朴、慎言，这些品质就接近仁德了。",
+          "similarQuestions": [
+            "How can I become a better person?",
+            "What qualities should I cultivate to live a virtuous life?",
+            "How do I get closer to being truly good?",
+            "What does it mean to be near virtue?"
+          ],
+          "contextNote": "This is from the Analects, a collection of sayings by Confucius and his disciples, likely compiled in the Warring States period. It lists four personal qualities that are stepping stones to ren (virtue or benevolence), emphasizing inner strength and simplicity over eloquence or cleverness.",
+          "tags": [
+            "virtue",
+            "character",
+            "simplicity",
+            "discipline"
+          ],
+          "weight": 4
+        }
+      ]
+    }
+  ]
+}

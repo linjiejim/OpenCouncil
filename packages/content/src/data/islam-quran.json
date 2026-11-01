@@ -1,0 +1,1215 @@
+{
+  "work": {
+    "titleEn": "The Quran (Selected Verses)",
+    "titleZh": "古兰经（精选）",
+    "titleOrig": "القرآن",
+    "language": "arabic",
+    "circaYear": 632,
+    "description": "Selected verses of the Quran. Uthmani Arabic text © Tanzil Project (tanzil.net, CC BY 3.0, reproduced verbatim) with the public-domain English translation of Marmaduke Pickthall (1930), via the Quran.com API.",
+    "copyright": "Arabic CC BY 3.0 · English PD",
+    "sourceUrl": "https://quran.com"
+  },
+  "chapters": [
+    {
+      "titleEn": "Al-Baqarah (The Cow)",
+      "titleZh": "黄牛章",
+      "titleOrig": "البقرة",
+      "passages": [
+        {
+          "originalText": "فَٱذْكُرُونِىٓ أَذْكُرْكُمْ وَٱشْكُرُوا۟ لِى وَلَا تَكْفُرُونِ",
+          "englishText": "Therefore remember Me, I will remember you. Give thanks to Me, and reject not Me.",
+          "transliteration": "Fathkuroonee athkurkumwashkuroo lee wala takfuroon",
+          "canonicalRef": "Quran 2:152",
+          "originalLang": "arabic",
+          "translator": "Marmaduke Pickthall (1930)",
+          "sourceUrl": "https://quran.com/2/152",
+          "license": "Arabic: CC BY 3.0 (Tanzil); English: public domain",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "The verse calls believers to remember God, who promises to remember them in turn, and to be grateful rather than ungrateful.",
+          "summaryZh": "这节经文呼召信众记念真主，并应许真主也会记念他们；经文劝人感恩，不要忘恩。",
+          "similarQuestions": [
+            "How do I cultivate gratitude?",
+            "What is the value of remembrance?",
+            "How to feel close to God?"
+          ],
+          "contextNote": "A reciprocal promise central to Islamic devotional practice (dhikr) and gratitude (shukr).",
+          "tags": [
+            "faith",
+            "divinity",
+            "happiness"
+          ],
+          "weight": 4
+        },
+        {
+          "originalText": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱسْتَعِينُوا۟ بِٱلصَّبْرِ وَٱلصَّلَوٰةِ ۚ إِنَّ ٱللَّهَ مَعَ ٱلصَّـٰبِرِينَ",
+          "englishText": "O ye who believe! Seek help in steadfastness and prayer. Lo! Allah is with the steadfast.",
+          "transliteration": "Ya ayyuha allatheena amanooistaAAeenoo bissabri wassalatiinna Allaha maAAa assabireen",
+          "canonicalRef": "Quran 2:153",
+          "originalLang": "arabic",
+          "translator": "Marmaduke Pickthall (1930)",
+          "sourceUrl": "https://quran.com/2/153",
+          "license": "Arabic: CC BY 3.0 (Tanzil); English: public domain",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "Seek help through patience and prayer; God is with the steadfast.",
+          "summaryZh": "你们当借坚忍和礼拜而求祐助；真主确是与坚忍者同在的。",
+          "similarQuestions": [
+            "How do I cope with hardship?",
+            "Where do I find strength in difficulty?",
+            "What is the value of patience?"
+          ],
+          "contextNote": "Patience (ṣabr) paired with prayer is a recurring Quranic prescription for adversity.",
+          "tags": [
+            "perseverance",
+            "faith",
+            "suffering"
+          ],
+          "weight": 5
+        },
+        {
+          "originalText": "ٱلَّذِينَ إِذَآ أَصَـٰبَتْهُم مُّصِيبَةٌ قَالُوٓا۟ إِنَّا لِلَّهِ وَإِنَّآ إِلَيْهِ رَٰجِعُونَ",
+          "englishText": "Who say, when a misfortune striketh them: Lo! we are Allah's and lo! unto Him we are returning.",
+          "transliteration": "Allatheena itha asabat-hummuseebatun qaloo inna lillahi wa-innailayhi rajiAAoon",
+          "canonicalRef": "Quran 2:156",
+          "originalLang": "arabic",
+          "translator": "Marmaduke Pickthall (1930)",
+          "sourceUrl": "https://quran.com/2/156",
+          "license": "Arabic: CC BY 3.0 (Tanzil); English: public domain",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "Those who, struck by calamity, say: “To God we belong, and to Him we return.”",
+          "summaryZh": "当灾难降临时，他们说：\"我们确是真主所有的，我们必定只归依他。\"",
+          "similarQuestions": [
+            "How do I face loss and grief?",
+            "What to say in the face of death?",
+            "How to accept calamity?"
+          ],
+          "contextNote": "The istirjāʿ — words traditionally recited by Muslims at moments of death and disaster.",
+          "tags": [
+            "death",
+            "destiny",
+            "faith"
+          ],
+          "weight": 5
+        },
+        {
+          "originalText": "ٱللَّهُ لَآ إِلَـٰهَ إِلَّا هُوَ ٱلْحَىُّ ٱلْقَيُّومُ ۚ لَا تَأْخُذُهُۥ سِنَةٌ وَلَا نَوْمٌ ۚ لَّهُۥ مَا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۗ مَن ذَا ٱلَّذِى يَشْفَعُ عِندَهُۥٓ إِلَّا بِإِذْنِهِۦ ۚ يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ ۖ وَلَا يُحِيطُونَ بِشَىْءٍ مِّنْ عِلْمِهِۦٓ إِلَّا بِمَا شَآءَ ۚ وَسِعَ كُرْسِيُّهُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ ۖ وَلَا يَـُٔودُهُۥ حِفْظُهُمَا ۚ وَهُوَ ٱلْعَلِىُّ ٱلْعَظِيمُ",
+          "englishText": "Allah! There is no deity save Him, the Alive, the Eternal. Neither slumber nor sleep overtaketh Him. Unto Him belongeth whatsoever is in the heavens and whatsoever is in the earth. Who is he that intercedeth with Him save by His leave? He knoweth that which is in front of them and that which is behind them, while they encompass nothing of His knowledge save what He will. His throne includeth the heavens and the earth, and He is never weary of preserving them. He is the Sublime, the Tremendous.",
+          "transliteration": "Allahu la ilaha illahuwa alhayyu alqayyoomu la ta/khuthuhusinatun wala nawmun lahu ma fee assamawatiwama fee al-ardi man tha allatheeyashfaAAu AAindahu illa bi-ithnihi yaAAlamu mabayna aydeehim wama khalfahum wala yuheetoonabishay-in min AAilmihi illa bima shaawasiAAa kursiyyuhu assamawati wal-ardawala yaooduhu hifthuhumawahuwa alAAaliyyu alAAatheem",
+          "canonicalRef": "Quran 2:255",
+          "originalLang": "arabic",
+          "translator": "Marmaduke Pickthall (1930)",
+          "sourceUrl": "https://quran.com/2/255",
+          "license": "Arabic: CC BY 3.0 (Tanzil); English: public domain",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "The Throne Verse: God, the Living, the Eternal, whose knowledge and sovereignty encompass all things.",
+          "summaryZh": "宝座经文：真主，永生不灭的主宰，其知识与主权遍及万物。",
+          "similarQuestions": [
+            "What is the nature of God in Islam?",
+            "How is God described?",
+            "What does divine sovereignty mean?"
+          ],
+          "contextNote": "Āyat al-Kursī, among the most revered verses of the Quran, describing God’s majesty and omniscience.",
+          "tags": [
+            "divinity",
+            "cosmos",
+            "faith"
+          ],
+          "weight": 5
+        },
+        {
+          "originalText": "لَا يُكَلِّفُ ٱللَّهُ نَفْسًا إِلَّا وُسْعَهَا ۚ لَهَا مَا كَسَبَتْ وَعَلَيْهَا مَا ٱكْتَسَبَتْ ۗ رَبَّنَا لَا تُؤَاخِذْنَآ إِن نَّسِينَآ أَوْ أَخْطَأْنَا ۚ رَبَّنَا وَلَا تَحْمِلْ عَلَيْنَآ إِصْرًا كَمَا حَمَلْتَهُۥ عَلَى ٱلَّذِينَ مِن قَبْلِنَا ۚ رَبَّنَا وَلَا تُحَمِّلْنَا مَا لَا طَاقَةَ لَنَا بِهِۦ ۖ وَٱعْفُ عَنَّا وَٱغْفِرْ لَنَا وَٱرْحَمْنَآ ۚ أَنتَ مَوْلَىٰنَا فَٱنصُرْنَا عَلَى ٱلْقَوْمِ ٱلْكَـٰفِرِينَ",
+          "englishText": "Allah tasketh not a soul beyond its scope. For it (is only) that which it hath earned, and against it (only) that which it hath deserved. Our Lord! Condemn us not if we forget, or miss the mark! Our Lord! Lay not on us such a burden as thou didst lay on those before us! Our Lord! Impose not on us that which we have not the strength to bear! Pardon us, absolve us and have mercy on us, Thou, our Protector, and give us victory over the disbelieving folk.",
+          "transliteration": "La yukallifu Allahu nafsanilla wusAAaha laha ma kasabatwaAAalayha ma iktasabat rabbana latu-akhithna in naseena aw akhta/narabbana wala tahmil AAalayna isrankama hamaltahu AAala allatheena minqablina rabbana wala tuhammilnama la taqata lana bihi waAAfuAAanna waghfir lana warhamnaanta mawlana fansurna AAalaalqawmi alkafireen",
+          "canonicalRef": "Quran 2:286",
+          "originalLang": "arabic",
+          "translator": "Marmaduke Pickthall (1930)",
+          "sourceUrl": "https://quran.com/2/286",
+          "license": "Arabic: CC BY 3.0 (Tanzil); English: public domain",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "God burdens no soul beyond its capacity; each gains what it earns and bears what it earns.",
+          "summaryZh": "真主只依各人的能力而加以责成；各人行善有功，作恶有罪。",
+          "similarQuestions": [
+            "Is my burden too heavy?",
+            "Can I handle what I’m going through?",
+            "Does God give more than we can bear?"
+          ],
+          "contextNote": "A widely cited verse of consolation, affirming that hardship is always within human capacity.",
+          "tags": [
+            "suffering",
+            "destiny",
+            "perseverance"
+          ],
+          "weight": 5
+        },
+        {
+          "originalText": "۞ لَّيْسَ ٱلْبِرَّ أَن تُوَلُّوا۟ وُجُوهَكُمْ قِبَلَ ٱلْمَشْرِقِ وَٱلْمَغْرِبِ وَلَـٰكِنَّ ٱلْبِرَّ مَنْ ءَامَنَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ وَٱلْمَلَـٰٓئِكَةِ وَٱلْكِتَـٰبِ وَٱلنَّبِيِّـۧنَ وَءَاتَى ٱلْمَالَ عَلَىٰ حُبِّهِۦ ذَوِى ٱلْقُرْبَىٰ وَٱلْيَتَـٰمَىٰ وَٱلْمَسَـٰكِينَ وَٱبْنَ ٱلسَّبِيلِ وَٱلسَّآئِلِينَ وَفِى ٱلرِّقَابِ وَأَقَامَ ٱلصَّلَوٰةَ وَءَاتَى ٱلزَّكَوٰةَ وَٱلْمُوفُونَ بِعَهْدِهِمْ إِذَا عَـٰهَدُوا۟ ۖ وَٱلصَّـٰبِرِينَ فِى ٱلْبَأْسَآءِ وَٱلضَّرَّآءِ وَحِينَ ٱلْبَأْسِ ۗ أُو۟لَـٰٓئِكَ ٱلَّذِينَ صَدَقُوا۟ ۖ وَأُو۟لَـٰٓئِكَ هُمُ ٱلْمُتَّقُونَ",
+          "englishText": "It is not righteousness that ye turn your faces to the East and the West; but righteous is he who believeth in Allah and the Last Day and the angels and the Scripture and the prophets; and giveth wealth, for love of Him, to kinsfolk and to orphans and the needy and the wayfarer and to those who ask, and to set slaves free; and observeth proper worship and payeth the poor-due. And those who keep their treaty when they make one, and the patient in tribulation and adversity and time of stress. Such are they who are sincere. Such are the Allah-fearing.",
+          "transliteration": "Laysa albirra an tuwalloo wujoohakum qibalaalmashriqi walmaghribi walakinna albirra man amanabillahi walyawmi al-akhiri walmala-ikatiwalkitabi wannabiyyeena waataalmala AAala hubbihi thawee alqurbawalyatama walmasakeena wabnaalssabeeli wassa-ileena wafee arriqabiwaaqama assalata waataazzakata walmoofoona biAAahdihim ithaAAahadoo wassabireena fee alba/sa-iwaddarra-i waheena alba/si ola-ikaallatheena sadaqoo waola-ika humualmuttaqoon",
+          "canonicalRef": "Quran 2:177",
+          "originalLang": "arabic",
+          "translator": "Marmaduke Pickthall (1930)",
+          "sourceUrl": "https://quran.com/2/177",
+          "license": "Arabic: CC BY 3.0 (Tanzil); English: public domain",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "True righteousness is not about outward religious rituals but about genuine faith, charitable giving, regular prayer, keeping promises, and patience in hardship.",
+          "summaryZh": "真正的虔诚不在于表面的宗教仪式，而在于真实的信仰、慷慨施舍、遵守诺言和逆境中的忍耐。",
+          "similarQuestions": [
+            "What does it mean to be truly righteous?",
+            "How can I practice my faith in everyday life?",
+            "How should I treat those in need?",
+            "What qualities define a good person?"
+          ],
+          "contextNote": "This verse was revealed in Medina to address debates about the direction of prayer, emphasizing that righteousness is not merely ritual compliance but sincere faith and ethical actions.",
+          "tags": [
+            "faith",
+            "virtue",
+            "compassion",
+            "perseverance"
+          ],
+          "weight": 5
+        },
+        {
+          "originalText": "وَأَنفِقُوا۟ فِى سَبِيلِ ٱللَّهِ وَلَا تُلْقُوا۟ بِأَيْدِيكُمْ إِلَى ٱلتَّهْلُكَةِ ۛ وَأَحْسِنُوٓا۟ ۛ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُحْسِنِينَ",
+          "englishText": "Spend your wealth for the cause of Allah, and be not cast by your own hands to ruin; and do good. Lo! Allah loveth the beneficent.",
+          "transliteration": "Waanfiqoo fee sabeeli Allahi walatulqoo bi-aydeekum ila attahlukati waahsinooinna Allaha yuhibbu almuhsineen",
+          "canonicalRef": "Quran 2:195",
+          "originalLang": "arabic",
+          "translator": "Marmaduke Pickthall (1930)",
+          "sourceUrl": "https://quran.com/2/195",
+          "license": "Arabic: CC BY 3.0 (Tanzil); English: public domain",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "Spend your wealth in God's cause, avoid self-destruction, and do good, for God loves those who do good.",
+          "summaryZh": "为安拉之道施舍，勿自投灭亡，行善，安拉喜爱行善者。",
+          "similarQuestions": [
+            "How should I balance generosity with personal responsibility?",
+            "What does it mean to avoid self-destruction while helping others?",
+            "How can I ensure my charitable actions are pleasing to God?"
+          ],
+          "contextNote": "This verse from the Quran encourages charitable spending in God's cause (often interpreted as supporting the community and needy) while warning against reckless behavior that leads to ruin. It applies broadly but is often cited in discussions of financial ethics and social responsibility within Islam.",
+          "tags": [
+            "wealth",
+            "benevolence",
+            "faith",
+            "practice"
+          ],
+          "weight": 4
+        },
+        {
+          "originalText": "كُتِبَ عَلَيْكُمُ ٱلْقِتَالُ وَهُوَ كُرْهٌ لَّكُمْ ۖ وَعَسَىٰٓ أَن تَكْرَهُوا۟ شَيْـًٔا وَهُوَ خَيْرٌ لَّكُمْ ۖ وَعَسَىٰٓ أَن تُحِبُّوا۟ شَيْـًٔا وَهُوَ شَرٌّ لَّكُمْ ۗ وَٱللَّهُ يَعْلَمُ وَأَنتُمْ لَا تَعْلَمُونَ",
+          "englishText": "Warfare is ordained for you, though it is hateful unto you; but it may happen that ye hate a thing which is good for you, and it may happen that ye love a thing which is bad for you. Allah knoweth, ye know not.",
+          "transliteration": "Kutiba AAalaykumu alqitalu wahuwakurhun lakum waAAasa an takrahoo shay-an wahuwa khayrunlakum waAAasa an tuhibboo shay-an wahuwa sharrunlakum wallahu yaAAlamu waantum lataAAlamoon",
+          "canonicalRef": "Quran 2:216",
+          "originalLang": "arabic",
+          "translator": "Marmaduke Pickthall (1930)",
+          "sourceUrl": "https://quran.com/2/216",
+          "license": "Arabic: CC BY 3.0 (Tanzil); English: public domain",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "This verse teaches that what we dislike may be good for us, and what we love may be harmful, reminding us that our knowledge is limited while God's is complete.",
+          "summaryZh": "这节经文告诉我们，我们厌恶的事情可能是好的，喜爱的事情可能是坏的，真主全知，而我们无知。",
+          "similarQuestions": [
+            "Why does God command something I hate?",
+            "How can I trust that what is difficult is actually good for me?",
+            "Why do I often want things that turn out bad for me?",
+            "Is it okay to question God's commands when they seem harsh?"
+          ],
+          "contextNote": "This verse was revealed in the context of early Muslims being commanded to fight defensive battles in Medina. It is not a general command for perpetual warfare but addresses the specific obligation of military struggle in self-defense. It teaches trust in divine wisdom over personal preferences.",
+          "tags": [
+            "faith",
+            "duty",
+            "wisdom",
+            "choice"
+          ],
+          "weight": 4
+        },
+        {
+          "originalText": "لَآ إِكْرَاهَ فِى ٱلدِّينِ ۖ قَد تَّبَيَّنَ ٱلرُّشْدُ مِنَ ٱلْغَىِّ ۚ فَمَن يَكْفُرْ بِٱلطَّـٰغُوتِ وَيُؤْمِنۢ بِٱللَّهِ فَقَدِ ٱسْتَمْسَكَ بِٱلْعُرْوَةِ ٱلْوُثْقَىٰ لَا ٱنفِصَامَ لَهَا ۗ وَٱللَّهُ سَمِيعٌ عَلِيمٌ",
+          "englishText": "There is no compulsion in religion. The right direction is henceforth distinct from error. And he who rejecteth false deities and believeth in Allah hath grasped a firm handhold which will never break. Allah is Hearer, Knower.",
+          "transliteration": "La ikraha fee addeeniqad tabayyana arrushdu mina alghayyi faman yakfur bittaghootiwayu/min billahi faqadi istamsaka bilAAurwatialwuthqa la infisama laha wallahusameeAAun AAaleem",
+          "canonicalRef": "Quran 2:256",
+          "originalLang": "arabic",
+          "translator": "Marmaduke Pickthall (1930)",
+          "sourceUrl": "https://quran.com/2/256",
+          "license": "Arabic: CC BY 3.0 (Tanzil); English: public domain",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "This verse affirms that religious faith must be voluntary and not coerced, as truth is clearly distinguishable from falsehood.",
+          "summaryZh": "宗教无强迫，正邪已分明，信主者得坚固把持。",
+          "similarQuestions": [
+            "Do I have to follow a religion my family forces on me?",
+            "How can I be sure I'm choosing the right path?",
+            "Is it okay to question my faith?",
+            "What gives me a firm foundation in life?"
+          ],
+          "contextNote": "Revealed in Medina during a period when some Muslims were pressuring others to convert, this verse establishes the Islamic principle of religious freedom. It is a foundational text, though classical scholars debated its application to apostasy.",
+          "tags": [
+            "faith",
+            "freedom",
+            "choice",
+            "truth"
+          ],
+          "weight": 5
+        }
+      ]
+    },
+    {
+      "titleEn": "Ar-Raʿd (The Thunder)",
+      "titleZh": "雷霆章",
+      "titleOrig": "الرعد",
+      "passages": [
+        {
+          "originalText": "لَهُۥ مُعَقِّبَـٰتٌ مِّنۢ بَيْنِ يَدَيْهِ وَمِنْ خَلْفِهِۦ يَحْفَظُونَهُۥ مِنْ أَمْرِ ٱللَّهِ ۗ إِنَّ ٱللَّهَ لَا يُغَيِّرُ مَا بِقَوْمٍ حَتَّىٰ يُغَيِّرُوا۟ مَا بِأَنفُسِهِمْ ۗ وَإِذَآ أَرَادَ ٱللَّهُ بِقَوْمٍ سُوٓءًا فَلَا مَرَدَّ لَهُۥ ۚ وَمَا لَهُم مِّن دُونِهِۦ مِن وَالٍ",
+          "englishText": "For him are angels ranged before him and behind him, who guard him by Allah's command. Lo! Allah changeth not the condition of a folk until they (first) change that which is in their hearts; and if Allah willeth misfortune for a folk there is none that can repel it, nor have they a defender beside Him.",
+          "transliteration": "Lahu muAAaqqibatun min bayni yadayhiwamin khalfihi yahfathoonahu min amri Allahiinna Allaha la yughayyiru ma biqawmin hattayughayyiroo ma bi-anfusihim wa-itha aradaAllahu biqawmin soo-an fala maradda lahu wamalahum min doonihi min wal",
+          "canonicalRef": "Quran 13:11",
+          "originalLang": "arabic",
+          "translator": "Marmaduke Pickthall (1930)",
+          "sourceUrl": "https://quran.com/13/11",
+          "license": "Arabic: CC BY 3.0 (Tanzil); English: public domain",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "God does not change the condition of a people until they change what is in themselves.",
+          "summaryZh": "真主必不变更任何民众的境况，直到他们变更自己的内心。",
+          "similarQuestions": [
+            "How does real change happen?",
+            "Can I change my life?",
+            "Why must change start within?"
+          ],
+          "contextNote": "Frequently invoked in discussions of personal and social reform — change begins from within.",
+          "tags": [
+            "choice",
+            "practice",
+            "freedom"
+          ],
+          "weight": 5
+        },
+        {
+          "originalText": "ٱلَّذِينَ ءَامَنُوا۟ وَتَطْمَئِنُّ قُلُوبُهُم بِذِكْرِ ٱللَّهِ ۗ أَلَا بِذِكْرِ ٱللَّهِ تَطْمَئِنُّ ٱلْقُلُوبُ",
+          "englishText": "Who have believed and whose hearts have rest in the remembrance of Allah. Verily in the remembrance of Allah do hearts find rest!",
+          "transliteration": "Allatheena amanoo watatma-innuquloobuhum bithikri Allahi ala bithikriAllahi tatma-innu alquloob",
+          "canonicalRef": "Quran 13:28",
+          "originalLang": "arabic",
+          "translator": "Marmaduke Pickthall (1930)",
+          "sourceUrl": "https://quran.com/13/28",
+          "license": "Arabic: CC BY 3.0 (Tanzil); English: public domain",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "In the remembrance of God do hearts find rest.",
+          "summaryZh": "真主的记念，确能使心安宁。",
+          "similarQuestions": [
+            "How do I find inner peace?",
+            "Why is my heart restless?",
+            "What calms anxiety?"
+          ],
+          "contextNote": "A concise statement linking spiritual remembrance to tranquility of the heart.",
+          "tags": [
+            "happiness",
+            "faith",
+            "solitude"
+          ],
+          "weight": 4
+        }
+      ]
+    },
+    {
+      "titleEn": "An-Naḥl (The Bee)",
+      "titleZh": "蜜蜂章",
+      "titleOrig": "النحل",
+      "passages": [
+        {
+          "originalText": "۞ إِنَّ ٱللَّهَ يَأْمُرُ بِٱلْعَدْلِ وَٱلْإِحْسَـٰنِ وَإِيتَآئِ ذِى ٱلْقُرْبَىٰ وَيَنْهَىٰ عَنِ ٱلْفَحْشَآءِ وَٱلْمُنكَرِ وَٱلْبَغْىِ ۚ يَعِظُكُمْ لَعَلَّكُمْ تَذَكَّرُونَ",
+          "englishText": "Lo! Allah enjoineth justice and kindness, and giving to kinsfolk, and forbiddeth lewdness and abomination and wickedness. He exhorteth you in order that ye may take heed.",
+          "transliteration": "Inna Allaha ya/muru bilAAadliwal-ihsani wa-eeta-i theealqurba wayanha AAani alfahsha-i walmunkariwalbaghyi yaAAithukum laAAallakum tathakkaroon",
+          "canonicalRef": "Quran 16:90",
+          "originalLang": "arabic",
+          "translator": "Marmaduke Pickthall (1930)",
+          "sourceUrl": "https://quran.com/16/90",
+          "license": "Arabic: CC BY 3.0 (Tanzil); English: public domain",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "God enjoins justice, kindness, and generosity to kin, and forbids indecency, wrong, and oppression.",
+          "summaryZh": "真主命人公平、行善、施济亲戚，并禁止淫乱、作恶和压迫。",
+          "similarQuestions": [
+            "What does God ask of us?",
+            "What are the core ethics of Islam?",
+            "How should I treat others?"
+          ],
+          "contextNote": "Often called the most comprehensive ethical verse of the Quran; recited in every Friday sermon.",
+          "tags": [
+            "justice",
+            "goodness",
+            "compassion"
+          ],
+          "weight": 5
+        },
+        {
+          "originalText": "مَنْ عَمِلَ صَـٰلِحًا مِّن ذَكَرٍ أَوْ أُنثَىٰ وَهُوَ مُؤْمِنٌ فَلَنُحْيِيَنَّهُۥ حَيَوٰةً طَيِّبَةً ۖ وَلَنَجْزِيَنَّهُمْ أَجْرَهُم بِأَحْسَنِ مَا كَانُوا۟ يَعْمَلُونَ",
+          "englishText": "Whosoever doeth right, whether male or female, and is a believer, him verily we shall quicken with good life, and We shall pay them a recompense in proportion to the best of what they used to do.",
+          "transliteration": "Man AAamila salihan min thakarinaw ontha wahuwa mu/minun falanuhyiyannahu hayatantayyibatan walanajziyannahum ajrahum bi-ahsani makanoo yaAAmaloon",
+          "canonicalRef": "Quran 16:97",
+          "originalLang": "arabic",
+          "translator": "Marmaduke Pickthall (1930)",
+          "sourceUrl": "https://quran.com/16/97",
+          "license": "Arabic: CC BY 3.0 (Tanzil); English: public domain",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "Those who do good and believe in God will be granted a good life and rewarded for their best deeds.",
+          "summaryZh": "经文应许：凡行善而有信仰的人，无论男女，都将得到美好的生活，并按其最好的行为得到报偿。",
+          "similarQuestions": [
+            "How can I live a good life according to Islam?",
+            "Will God reward me for my good deeds?",
+            "Does Islam value men and women equally in spiritual reward?",
+            "What is the promised 'good life' for believers?"
+          ],
+          "contextNote": "This verse from the Quran emphasizes that righteous deeds performed with faith lead to a fulfilling life and divine reward, with explicit mention of gender equality.",
+          "tags": [
+            "goodness",
+            "justice",
+            "faith",
+            "happiness"
+          ],
+          "weight": 5
+        }
+      ]
+    },
+    {
+      "titleEn": "Az-Zumar (The Throngs)",
+      "titleZh": "队伍章",
+      "titleOrig": "الزمر",
+      "passages": [
+        {
+          "originalText": "۞ قُلْ يَـٰعِبَادِىَ ٱلَّذِينَ أَسْرَفُوا۟ عَلَىٰٓ أَنفُسِهِمْ لَا تَقْنَطُوا۟ مِن رَّحْمَةِ ٱللَّهِ ۚ إِنَّ ٱللَّهَ يَغْفِرُ ٱلذُّنُوبَ جَمِيعًا ۚ إِنَّهُۥ هُوَ ٱلْغَفُورُ ٱلرَّحِيمُ",
+          "englishText": "Say: O My slaves who have been prodigal to their own hurt! Despair not of the mercy of Allah, Who forgiveth all sins. Lo! He is the Forgiving, the Merciful.",
+          "transliteration": "Qul ya AAibadiya allatheenaasrafoo AAala anfusihim la taqnatoo min rahmatiAllahi inna Allaha yaghfiru aththunoobajameeAAan innahu huwa alghafooru arraheem",
+          "canonicalRef": "Quran 39:53",
+          "originalLang": "arabic",
+          "translator": "Marmaduke Pickthall (1930)",
+          "sourceUrl": "https://quran.com/39/53",
+          "license": "Arabic: CC BY 3.0 (Tanzil); English: public domain",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "Despair not of God’s mercy; God forgives all sins.",
+          "summaryZh": "你们不要绝望于真主的慈恩；真主必赦宥一切罪过。",
+          "similarQuestions": [
+            "Can I be forgiven?",
+            "Is it ever too late to change?",
+            "How to cope with guilt and shame?"
+          ],
+          "contextNote": "One of the most hopeful verses in the Quran, addressed to those overwhelmed by their failings.",
+          "tags": [
+            "faith",
+            "goodness",
+            "suffering"
+          ],
+          "weight": 5
+        }
+      ]
+    },
+    {
+      "titleEn": "Al-Ḥujurāt (The Rooms)",
+      "titleZh": "寝室章",
+      "titleOrig": "الحجرات",
+      "passages": [
+        {
+          "originalText": "يَـٰٓأَيُّهَا ٱلنَّاسُ إِنَّا خَلَقْنَـٰكُم مِّن ذَكَرٍ وَأُنثَىٰ وَجَعَلْنَـٰكُمْ شُعُوبًا وَقَبَآئِلَ لِتَعَارَفُوٓا۟ ۚ إِنَّ أَكْرَمَكُمْ عِندَ ٱللَّهِ أَتْقَىٰكُمْ ۚ إِنَّ ٱللَّهَ عَلِيمٌ خَبِيرٌ",
+          "englishText": "O mankind! Lo! We have created you male and female, and have made you nations and tribes that ye may know one another. Lo! the noblest of you, in the sight of Allah, is the best in conduct. Lo! Allah is Knower, Aware.",
+          "transliteration": "Ya ayyuha annasuinna khalaqnakum min thakarin waonthawajaAAalnakum shuAAooban waqaba-ila litaAAarafooinna akramakum AAinda Allahi atqakum inna AllahaAAaleemun khabeer",
+          "canonicalRef": "Quran 49:13",
+          "originalLang": "arabic",
+          "translator": "Marmaduke Pickthall (1930)",
+          "sourceUrl": "https://quran.com/49/13",
+          "license": "Arabic: CC BY 3.0 (Tanzil); English: public domain",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "Humanity is made into peoples and tribes to know one another; the noblest is the most righteous.",
+          "summaryZh": "经文说，人类被造成不同的民族和部落，是为了彼此认识；在真主看来，最尊贵的是最敬畏的人。",
+          "similarQuestions": [
+            "What is the basis of human equality?",
+            "How should we view other cultures?",
+            "What makes a person noble?"
+          ],
+          "contextNote": "A foundational verse on human equality and diversity, transcending tribe and race.",
+          "tags": [
+            "equality",
+            "community",
+            "justice"
+          ],
+          "weight": 5
+        },
+        {
+          "originalText": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا يَسْخَرْ قَوْمٌ مِّن قَوْمٍ عَسَىٰٓ أَن يَكُونُوا۟ خَيْرًا مِّنْهُمْ وَلَا نِسَآءٌ مِّن نِّسَآءٍ عَسَىٰٓ أَن يَكُنَّ خَيْرًا مِّنْهُنَّ ۖ وَلَا تَلْمِزُوٓا۟ أَنفُسَكُمْ وَلَا تَنَابَزُوا۟ بِٱلْأَلْقَـٰبِ ۖ بِئْسَ ٱلِٱسْمُ ٱلْفُسُوقُ بَعْدَ ٱلْإِيمَـٰنِ ۚ وَمَن لَّمْ يَتُبْ فَأُو۟لَـٰٓئِكَ هُمُ ٱلظَّـٰلِمُونَ",
+          "englishText": "O ye who believe! Let not a folk deride a folk who may be better than they (are), not let women (deride) women who may be better than they are; neither defame one another, nor insult one another by nicknames. Bad is the name of lewdness after faith. And whoso turneth not in repentance, such are evil-doers.",
+          "transliteration": "Ya ayyuha allatheena amanoola yaskhar qawmun min qawmin AAasa an yakoonookhayran minhum wala nisaon min nisa-in AAasaan yakunna khayran minhunna wala talmizoo anfusakum walatanabazoo bil-alqabi bi/sa al-ismualfusooqu baAAda al-eemani waman lam yatub faola-ikahumu aththalimoon",
+          "canonicalRef": "Quran 49:11",
+          "originalLang": "arabic",
+          "translator": "Marmaduke Pickthall (1930)",
+          "sourceUrl": "https://quran.com/49/11",
+          "license": "Arabic: CC BY 3.0 (Tanzil); English: public domain",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "People should not mock or insult others, because those they ridicule may actually be better than them, and such behavior is sinful without repentance.",
+          "summaryZh": "不要嘲笑他人，因为被嘲笑者或许比你们更好，不要互相诽谤或起绰号，这是信仰后的恶行。",
+          "similarQuestions": [
+            "Why should I avoid making fun of others?",
+            "Is it wrong to give someone a nickname?",
+            "How can I stop myself from insulting people?",
+            "What if someone deserves my criticism?"
+          ],
+          "contextNote": "This verse was revealed in Medina to address social harmony among believers, warning against arrogance and division. It applies broadly to all forms of ridicule and name-calling, but the prohibition is specifically within the community of faith.",
+          "tags": [
+            "compassion",
+            "community",
+            "virtue",
+            "character"
+          ],
+          "weight": 4
+        },
+        {
+          "originalText": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱجْتَنِبُوا۟ كَثِيرًا مِّنَ ٱلظَّنِّ إِنَّ بَعْضَ ٱلظَّنِّ إِثْمٌ ۖ وَلَا تَجَسَّسُوا۟ وَلَا يَغْتَب بَّعْضُكُم بَعْضًا ۚ أَيُحِبُّ أَحَدُكُمْ أَن يَأْكُلَ لَحْمَ أَخِيهِ مَيْتًا فَكَرِهْتُمُوهُ ۚ وَٱتَّقُوا۟ ٱللَّهَ ۚ إِنَّ ٱللَّهَ تَوَّابٌ رَّحِيمٌ",
+          "englishText": "O ye who believe! Shun much suspicion; for lo! some suspicion is a crime. And spy not, neither backbite one another. Would one of you love to eat the flesh of his dead brother? Ye abhor that (so abhor the other)! And keep your duty (to Allah). Lo! Allah is Relenting, Merciful.",
+          "transliteration": "Ya ayyuha allatheena amanooijtaniboo katheeran mina aththanni innabaAAda aththanni ithmun walatajassasoo wala yaghtab baAAdukum baAAdanayuhibbu ahadukum an ya/kula lahma akheehimaytan fakarihtumoohu wattaqoo Allaha inna Allahatawwabun raheem",
+          "canonicalRef": "Quran 49:12",
+          "originalLang": "arabic",
+          "translator": "Marmaduke Pickthall (1930)",
+          "sourceUrl": "https://quran.com/49/12",
+          "license": "Arabic: CC BY 3.0 (Tanzil); English: public domain",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "Avoid suspicion, spying, and backbiting, as they are harmful and sinful; treat others with respect and fear God.",
+          "summaryZh": "避免猜疑、窥探和背后议论，这些都是有害且有罪的；要尊重他人并敬畏真主。",
+          "similarQuestions": [
+            "How can I stop judging others unfairly?",
+            "Is it wrong to gossip about someone if it's true?",
+            "Why should I avoid being suspicious of others?",
+            "How can I build trust in my community?"
+          ],
+          "contextNote": "This verse from Surah Al-Hujurat addresses the Muslim community in Medina, emphasizing social ethics and mutual respect. It prohibits harmful speech and actions, applicable to all interpersonal relations.",
+          "tags": [
+            "honesty",
+            "community",
+            "compassion",
+            "virtue"
+          ],
+          "weight": 4
+        }
+      ]
+    },
+    {
+      "titleEn": "Ash-Sharḥ (Relief)",
+      "titleZh": "开拓章",
+      "titleOrig": "الشرح",
+      "passages": [
+        {
+          "originalText": "فَإِنَّ مَعَ ٱلْعُسْرِ يُسْرًا",
+          "englishText": "But lo! with hardship goeth ease,",
+          "transliteration": "Fa-inna maAAa alAAusri yusra",
+          "canonicalRef": "Quran 94:5",
+          "originalLang": "arabic",
+          "translator": "Marmaduke Pickthall (1930)",
+          "sourceUrl": "https://quran.com/94/5",
+          "license": "Arabic: CC BY 3.0 (Tanzil); English: public domain",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "For indeed, with hardship comes ease.",
+          "summaryZh": "与艰难相伴的，确有容易。",
+          "similarQuestions": [
+            "Will things get better?",
+            "How do I keep hope in hard times?",
+            "Is there relief after difficulty?"
+          ],
+          "contextNote": "Repeated emphatically across verses 5–6 for assurance during distress.",
+          "tags": [
+            "perseverance",
+            "suffering",
+            "happiness"
+          ],
+          "weight": 4
+        },
+        {
+          "originalText": "إِنَّ مَعَ ٱلْعُسْرِ يُسْرًا",
+          "englishText": "Lo! with hardship goeth ease;",
+          "transliteration": "Inna maAAa alAAusri yusra",
+          "canonicalRef": "Quran 94:6",
+          "originalLang": "arabic",
+          "translator": "Marmaduke Pickthall (1930)",
+          "sourceUrl": "https://quran.com/94/6",
+          "license": "Arabic: CC BY 3.0 (Tanzil); English: public domain",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "Indeed, with hardship comes ease.",
+          "summaryZh": "与艰难相伴的，确有容易。",
+          "similarQuestions": [
+            "Does relief always follow hardship?",
+            "How to endure suffering?",
+            "Where is hope in difficulty?"
+          ],
+          "contextNote": "The emphatic repetition of 94:5 — hardship is never the whole story.",
+          "tags": [
+            "perseverance",
+            "suffering",
+            "happiness"
+          ],
+          "weight": 4
+        }
+      ]
+    },
+    {
+      "titleEn": "Al-ʿAṣr (The Declining Day)",
+      "titleZh": "时光章",
+      "titleOrig": "العصر",
+      "passages": [
+        {
+          "originalText": "إِنَّ ٱلْإِنسَـٰنَ لَفِى خُسْرٍ",
+          "englishText": "Lo! man is a state of loss,",
+          "transliteration": "Inna al-insana lafee khusr",
+          "canonicalRef": "Quran 103:2",
+          "originalLang": "arabic",
+          "translator": "Marmaduke Pickthall (1930)",
+          "sourceUrl": "https://quran.com/103/2",
+          "license": "Arabic: CC BY 3.0 (Tanzil); English: public domain",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "By time — surely mankind is in loss.",
+          "summaryZh": "以时光盟誓，一切人确是在亏折之中。",
+          "similarQuestions": [
+            "Am I wasting my life?",
+            "What is the value of time?",
+            "What makes a life not wasted?"
+          ],
+          "contextNote": "From one of the shortest and most famous surahs; al-Shāfiʿī said reflecting on it alone would suffice as guidance.",
+          "tags": [
+            "meaning-of-life",
+            "practice",
+            "wisdom"
+          ],
+          "weight": 4
+        },
+        {
+          "originalText": "إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ وَتَوَاصَوْا۟ بِٱلْحَقِّ وَتَوَاصَوْا۟ بِٱلصَّبْرِ",
+          "englishText": "Save those who believe and do good works, and exhort one another to truth and exhort one another to endurance.",
+          "transliteration": "Illa allatheena amanoowaAAamiloo assalihati watawasaw bilhaqqiwatawasaw bissabr",
+          "canonicalRef": "Quran 103:3",
+          "originalLang": "arabic",
+          "translator": "Marmaduke Pickthall (1930)",
+          "sourceUrl": "https://quran.com/103/3",
+          "license": "Arabic: CC BY 3.0 (Tanzil); English: public domain",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "Except those who believe, do good, and counsel one another to truth and to patience.",
+          "summaryZh": "惟信道而行善，并以真理相劝、以坚忍相勉者除外。",
+          "similarQuestions": [
+            "What saves a life from waste?",
+            "What should I devote my life to?",
+            "What makes life meaningful?"
+          ],
+          "contextNote": "The conclusion of Sūrat al-ʿAṣr: faith, good works, and mutual encouragement toward truth and patience.",
+          "tags": [
+            "meaning-of-life",
+            "goodness",
+            "perseverance"
+          ],
+          "weight": 4
+        }
+      ]
+    },
+    {
+      "titleEn": "Āl ʿImrān (The Family of Imran)",
+      "titleZh": "仪姆兰的家属章",
+      "titleOrig": "آل عمران",
+      "passages": [
+        {
+          "originalText": "فَبِمَا رَحْمَةٍ مِّنَ ٱللَّهِ لِنتَ لَهُمْ ۖ وَلَوْ كُنتَ فَظًّا غَلِيظَ ٱلْقَلْبِ لَٱنفَضُّوا۟ مِنْ حَوْلِكَ ۖ فَٱعْفُ عَنْهُمْ وَٱسْتَغْفِرْ لَهُمْ وَشَاوِرْهُمْ فِى ٱلْأَمْرِ ۖ فَإِذَا عَزَمْتَ فَتَوَكَّلْ عَلَى ٱللَّهِ ۚ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُتَوَكِّلِينَ",
+          "englishText": "It was by the mercy of Allah that thou wast lenient with them (O Muhammad), for if thou hadst been stern and fierce of heart they would have dispersed from round about thee. So pardon them and ask forgiveness for them and consult with them upon the conduct of affairs. And when thou art resolved, then put thy trust in Allah. Lo! Allah loveth those who put their trust (in Him).",
+          "transliteration": "Fabima rahmatin mina Allahilinta lahum walaw kunta faththan ghaleethaalqalbi lanfaddoo min hawlika faAAfuAAanhum wastaghfir lahum washawirhum fee al-amrifa-itha AAazamta fatawakkal AAala Allahiinna Allaha yuhibbu almutawakkileen",
+          "canonicalRef": "Quran 3:159",
+          "originalLang": "arabic",
+          "translator": "Marmaduke Pickthall (1930)",
+          "sourceUrl": "https://quran.com/3/159",
+          "license": "Arabic: CC BY 3.0 (Tanzil); English: public domain",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "Treat others with mercy and leniency, for harshness drives people away; forgive them, seek forgiveness for them, consult them in affairs, and after deciding, trust in God.",
+          "summaryZh": "以仁慈和温和对待他人，因为严厉会使人远离；原谅他们，为他们求饶，在事务中与他们协商，决定后信托安拉。",
+          "similarQuestions": [
+            "How can I lead others without being harsh?",
+            "How do I balance forgiveness with decision-making?",
+            "Why is it important to consult others before making a decision?",
+            "How can I trust in God after I've made a choice?"
+          ],
+          "contextNote": "This verse was revealed after the Battle of Uhud, addressing the Prophet's compassionate leadership. It applies broadly to anyone in a position of authority or seeking harmonious relationships.",
+          "tags": [
+            "compassion",
+            "community",
+            "faith",
+            "governance"
+          ],
+          "weight": 5
+        }
+      ]
+    },
+    {
+      "titleEn": "An-Nisāʾ (The Women)",
+      "titleZh": "妇女章",
+      "titleOrig": "النساء",
+      "passages": [
+        {
+          "originalText": "۞ وَٱعْبُدُوا۟ ٱللَّهَ وَلَا تُشْرِكُوا۟ بِهِۦ شَيْـًٔا ۖ وَبِٱلْوَٰلِدَيْنِ إِحْسَـٰنًا وَبِذِى ٱلْقُرْبَىٰ وَٱلْيَتَـٰمَىٰ وَٱلْمَسَـٰكِينِ وَٱلْجَارِ ذِى ٱلْقُرْبَىٰ وَٱلْجَارِ ٱلْجُنُبِ وَٱلصَّاحِبِ بِٱلْجَنۢبِ وَٱبْنِ ٱلسَّبِيلِ وَمَا مَلَكَتْ أَيْمَـٰنُكُمْ ۗ إِنَّ ٱللَّهَ لَا يُحِبُّ مَن كَانَ مُخْتَالًا فَخُورًا",
+          "englishText": "And serve Allah. Ascribe no thing as partner unto Him. (Show) kindness unto parents, and unto near kindred, and orphans, and the needy, and unto the neighbour who is of kin (unto you) and the neighbour who is not of kin, and the fellow-traveller and the wayfarer and (the slaves) whom your right hands possess. Lo! Allah loveth not such as are proud and boastful,",
+          "transliteration": "WaAAbudoo Allaha walatushrikoo bihi shay-an wabilwalidayni ihsananwabithee alqurba walyatama walmasakeeniwaljari thee alqurba waljarialjunubi wassahibi biljanbi wabniassabeeli wama malakat aymanukum inna Allahala yuhibbu man kana mukhtalan fakhoora",
+          "canonicalRef": "Quran 4:36",
+          "originalLang": "arabic",
+          "translator": "Marmaduke Pickthall (1930)",
+          "sourceUrl": "https://quran.com/4/36",
+          "license": "Arabic: CC BY 3.0 (Tanzil); English: public domain",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "Worship God alone and show kindness to parents, relatives, orphans, the needy, neighbors, travelers, and those under your care; avoid pride.",
+          "summaryZh": "崇拜唯一的真主，善待父母、亲属、孤儿、穷人、邻居、旅客和仆役，不可骄傲自大。",
+          "similarQuestions": [
+            "How should I treat my parents and neighbors according to my faith?",
+            "What are my duties towards the needy and strangers?",
+            "How can I avoid being proud and boastful in my daily life?",
+            "What does Islam say about caring for orphans and the poor?"
+          ],
+          "contextNote": "This verse from the Qur'an (4:36) is part of a passage outlining ethical duties after affirming monotheism. It applies to Muslims as a direct divine command, but its emphasis on social responsibility and humility resonates across cultures.",
+          "tags": [
+            "duty",
+            "family",
+            "community",
+            "compassion"
+          ],
+          "weight": 5
+        },
+        {
+          "originalText": "۞ يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ كُونُوا۟ قَوَّٰمِينَ بِٱلْقِسْطِ شُهَدَآءَ لِلَّهِ وَلَوْ عَلَىٰٓ أَنفُسِكُمْ أَوِ ٱلْوَٰلِدَيْنِ وَٱلْأَقْرَبِينَ ۚ إِن يَكُنْ غَنِيًّا أَوْ فَقِيرًا فَٱللَّهُ أَوْلَىٰ بِهِمَا ۖ فَلَا تَتَّبِعُوا۟ ٱلْهَوَىٰٓ أَن تَعْدِلُوا۟ ۚ وَإِن تَلْوُۥٓا۟ أَوْ تُعْرِضُوا۟ فَإِنَّ ٱللَّهَ كَانَ بِمَا تَعْمَلُونَ خَبِيرًا",
+          "englishText": "O ye who believe! Be ye staunch in justice, witnesses for Allah, even though it be against yourselves or (your) parents or (your) kindred, whether (the case be of) a rich man or a poor man, for Allah is nearer unto both (them ye are). So follow not passion lest ye lapse (from truth) and if ye lapse or fall away, then lo! Allah is ever Informed of what ye do.",
+          "transliteration": "Ya ayyuha allatheena amanookoonoo qawwameena bilqisti shuhadaalillahi walaw AAala anfusikum awi alwalidayniwal-aqrabeena in yakun ghaniyyan aw faqeeran fallahuawla bihima fala tattabiAAoo alhawaan taAAdiloo wa-in talwoo aw tuAAridoo fa-inna Allahakana bima taAAmaloona khabeera",
+          "canonicalRef": "Quran 4:135",
+          "originalLang": "arabic",
+          "translator": "Marmaduke Pickthall (1930)",
+          "sourceUrl": "https://quran.com/4/135",
+          "license": "Arabic: CC BY 3.0 (Tanzil); English: public domain",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "Stand up for justice even if it goes against yourself or your close relatives, and do not let personal feelings or wealth bias your testimony.",
+          "summaryZh": "即使对自己或亲人不利，也要公正作证，不要顺从私欲或贫富偏见。",
+          "similarQuestions": [
+            "How can I be fair when my own family is involved?",
+            "What does my faith say about testifying against a loved one?",
+            "Why is justice important even when it hurts me personally?"
+          ],
+          "contextNote": "This Medinan verse commands believers to uphold justice impartially, warning against bias based on wealth or kinship. It applies to all legal and moral testimonies, emphasizing God's omniscience.",
+          "tags": [
+            "justice",
+            "truth",
+            "family",
+            "desire"
+          ],
+          "weight": 4
+        }
+      ]
+    },
+    {
+      "titleEn": "Al-Māʾidah (The Table Spread)",
+      "titleZh": "筵席章",
+      "titleOrig": "المائدة",
+      "passages": [
+        {
+          "originalText": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ كُونُوا۟ قَوَّٰمِينَ لِلَّهِ شُهَدَآءَ بِٱلْقِسْطِ ۖ وَلَا يَجْرِمَنَّكُمْ شَنَـَٔانُ قَوْمٍ عَلَىٰٓ أَلَّا تَعْدِلُوا۟ ۚ ٱعْدِلُوا۟ هُوَ أَقْرَبُ لِلتَّقْوَىٰ ۖ وَٱتَّقُوا۟ ٱللَّهَ ۚ إِنَّ ٱللَّهَ خَبِيرٌۢ بِمَا تَعْمَلُونَ",
+          "englishText": "O ye who believe! Be steadfast witnesses for Allah in equity, and let not hatred of any people seduce you that ye deal not justly. Deal justly, that is nearer to your duty. Observe your duty to Allah. Lo! Allah is Informed of what ye do.",
+          "transliteration": "Ya ayyuha allatheena amanookoonoo qawwameena lillahi shuhadaa bilqistiwala yajrimannakum shanaanu qawmin AAala allataAAdiloo iAAdiloo huwa aqrabu littaqwa wattaqooAllaha inna Allaha khabeerun bima taAAmaloon",
+          "canonicalRef": "Quran 5:8",
+          "originalLang": "arabic",
+          "translator": "Marmaduke Pickthall (1930)",
+          "sourceUrl": "https://quran.com/5/8",
+          "license": "Arabic: CC BY 3.0 (Tanzil); English: public domain",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "Be just and uphold fairness, even when hatred towards others tempts you to act unjustly; justice brings you closer to God.",
+          "summaryZh": "要公正，即使对某群体的仇恨诱使你偏离公正，也要坚持正义，因为正义更接近敬畏真主。",
+          "similarQuestions": [
+            "How can I stay fair when I dislike someone?",
+            "Should I treat an enemy justly?",
+            "What does it mean to be a just witness?",
+            "How do I balance my emotions with my duty to be fair?"
+          ],
+          "contextNote": "This verse was revealed in Medina, addressing the Muslim community about maintaining justice even towards enemies. It emphasizes that justice is an obligation to God, not based on personal feelings.",
+          "tags": [
+            "justice",
+            "duty",
+            "faith",
+            "community"
+          ],
+          "weight": 4
+        },
+        {
+          "originalText": "مِنْ أَجْلِ ذَٰلِكَ كَتَبْنَا عَلَىٰ بَنِىٓ إِسْرَٰٓءِيلَ أَنَّهُۥ مَن قَتَلَ نَفْسًۢا بِغَيْرِ نَفْسٍ أَوْ فَسَادٍ فِى ٱلْأَرْضِ فَكَأَنَّمَا قَتَلَ ٱلنَّاسَ جَمِيعًا وَمَنْ أَحْيَاهَا فَكَأَنَّمَآ أَحْيَا ٱلنَّاسَ جَمِيعًا ۚ وَلَقَدْ جَآءَتْهُمْ رُسُلُنَا بِٱلْبَيِّنَـٰتِ ثُمَّ إِنَّ كَثِيرًا مِّنْهُم بَعْدَ ذَٰلِكَ فِى ٱلْأَرْضِ لَمُسْرِفُونَ",
+          "englishText": "For that cause We decreed for the Children of Israel that whosoever killeth a human being for other than manslaughter or corruption in the earth, it shall be as if he had killed all mankind, and whoso saveth the life of one, it shall be as if he had saved the life of all mankind. Our messengers came unto them of old with clear proofs (of Allah's Sovereignty), but afterwards lo! many of them became prodigals in the earth.",
+          "transliteration": "Min ajli thalika katabna AAalabanee isra-eela annahu man qatala nafsan bighayri nafsinaw fasadin fee al-ardi fakaannama qatala annasajameeAAan waman ahyaha fakaannama ahyaannasa jameeAAan walaqad jaat-hum rusulunabilbayyinati thumma inna katheeran minhum baAAda thalikafee al-ardi lamusrifoon",
+          "canonicalRef": "Quran 5:32",
+          "originalLang": "arabic",
+          "translator": "Marmaduke Pickthall (1930)",
+          "sourceUrl": "https://quran.com/5/32",
+          "license": "Arabic: CC BY 3.0 (Tanzil); English: public domain",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "Killing one innocent person is as grave as killing all of humanity, and saving one life is as noble as saving all of humanity.",
+          "summaryZh": "杀害一个无辜的人如同杀害全人类，拯救一个人如同拯救全人类。",
+          "similarQuestions": [
+            "Why is every human life so valuable?",
+            "What is the moral weight of taking a life?",
+            "How can I make a difference in the world?",
+            "What does it mean to be responsible for others?"
+          ],
+          "contextNote": "This verse from the Quran (5:32) was revealed in Medina, addressing the Children of Israel but establishing a universal ethical principle. It emphasizes the sanctity of life and the collective responsibility of humanity.",
+          "tags": [
+            "justice",
+            "compassion",
+            "community",
+            "goodness"
+          ],
+          "weight": 5
+        }
+      ]
+    },
+    {
+      "titleEn": "Al-Anʿām (The Cattle)",
+      "titleZh": "牲畜章",
+      "titleOrig": "الأنعام",
+      "passages": [
+        {
+          "originalText": "مَن جَآءَ بِٱلْحَسَنَةِ فَلَهُۥ عَشْرُ أَمْثَالِهَا ۖ وَمَن جَآءَ بِٱلسَّيِّئَةِ فَلَا يُجْزَىٰٓ إِلَّا مِثْلَهَا وَهُمْ لَا يُظْلَمُونَ",
+          "englishText": "Whoso bringeth a good deed will receive tenfold the like thereof, while whoso bringeth an ill-deed will be awarded but the like thereof; and they will not be wronged.",
+          "transliteration": "Man jaa bilhasanatifalahu AAashru amthaliha waman jaa bissayyi-atifala yujza illa mithlaha wahum layuthlamoon",
+          "canonicalRef": "Quran 6:160",
+          "originalLang": "arabic",
+          "translator": "Marmaduke Pickthall (1930)",
+          "sourceUrl": "https://quran.com/6/160",
+          "license": "Arabic: CC BY 3.0 (Tanzil); English: public domain",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "God rewards good deeds ten times over, while evil deeds are repaid only equally, ensuring absolute fairness.",
+          "summaryZh": "行善者将得十倍回报，行恶者仅受同等惩罚，真主绝不亏待任何人。",
+          "similarQuestions": [
+            "Does my good work really matter?",
+            "Will I be punished for my mistakes?",
+            "Is God fair?",
+            "How can I make a difference with my actions?"
+          ],
+          "contextNote": "This verse from the Quran (Meccan period) emphasizes God's abundant mercy and justice, promising multiplication of good deeds while evil is only repaid in kind. It is a central Islamic teaching on divine recompense.",
+          "tags": [
+            "justice",
+            "goodness",
+            "faith",
+            "divinity"
+          ],
+          "weight": 4
+        }
+      ]
+    },
+    {
+      "titleEn": "Al-Isrāʾ (The Night Journey)",
+      "titleZh": "夜行章",
+      "titleOrig": "الإسراء",
+      "passages": [
+        {
+          "originalText": "۞ وَقَضَىٰ رَبُّكَ أَلَّا تَعْبُدُوٓا۟ إِلَّآ إِيَّاهُ وَبِٱلْوَٰلِدَيْنِ إِحْسَـٰنًا ۚ إِمَّا يَبْلُغَنَّ عِندَكَ ٱلْكِبَرَ أَحَدُهُمَآ أَوْ كِلَاهُمَا فَلَا تَقُل لَّهُمَآ أُفٍّ وَلَا تَنْهَرْهُمَا وَقُل لَّهُمَا قَوْلًا كَرِيمًا",
+          "englishText": "Thy Lord hath decreed, that ye worship none save Him, and (that ye show) kindness to parents. If one of them or both of them attain old age with thee, say not \"Fie\" unto them nor repulse them, but speak unto them a gracious word.",
+          "transliteration": "Waqada rabbuka alla taAAbudooilla iyyahu wabilwalidayni ihsananimma yablughanna AAindaka alkibara ahaduhumaaw kilahuma fala taqul lahuma offinwala tanharhuma waqul lahuma qawlan kareema",
+          "canonicalRef": "Quran 17:23",
+          "originalLang": "arabic",
+          "translator": "Marmaduke Pickthall (1930)",
+          "sourceUrl": "https://quran.com/17/23",
+          "license": "Arabic: CC BY 3.0 (Tanzil); English: public domain",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "God commands worship of Him alone and kindness to parents, forbidding even the slightest annoyance and requiring respectful speech.",
+          "summaryZh": "真主命令只崇拜他，并善待父母，即使他们年老也不可表示厌烦或斥责，而要对他们说温和的话。",
+          "similarQuestions": [
+            "What are my duties towards my aging parents?",
+            "How can I show respect to my parents?",
+            "What does Islam say about worship and family?",
+            "How should I treat my parents in their old age?"
+          ],
+          "contextNote": "This verse from the Quran, revealed in Mecca, establishes the fundamental Islamic principles of monotheism and filial piety. It is applicable to all Muslims and emphasizes the importance of respectful care for elderly parents.",
+          "tags": [
+            "divinity",
+            "family",
+            "compassion",
+            "duty"
+          ],
+          "weight": 5
+        },
+        {
+          "originalText": "۞ وَلَقَدْ كَرَّمْنَا بَنِىٓ ءَادَمَ وَحَمَلْنَـٰهُمْ فِى ٱلْبَرِّ وَٱلْبَحْرِ وَرَزَقْنَـٰهُم مِّنَ ٱلطَّيِّبَـٰتِ وَفَضَّلْنَـٰهُمْ عَلَىٰ كَثِيرٍ مِّمَّنْ خَلَقْنَا تَفْضِيلًا",
+          "englishText": "Verily we have honoured the Children of Adam. We carry them on the land and the sea, and have made provision of good things for them, and have preferred them above many of those whom We created with a marked preferment.",
+          "transliteration": "Walaqad karramna banee adamawahamalnahum fee albarri walbahriwarazaqnahum mina attayyibati wafaddalnahumAAala katheerin mimman khalaqna tafdeela",
+          "canonicalRef": "Quran 17:70",
+          "originalLang": "arabic",
+          "translator": "Marmaduke Pickthall (1930)",
+          "sourceUrl": "https://quran.com/17/70",
+          "license": "Arabic: CC BY 3.0 (Tanzil); English: public domain",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "God has honored all human beings by giving them dignity, provision, and superiority over many of His creations.",
+          "summaryZh": "真主赐予人类尊严，让他们在陆地和海洋活动，供给美好事物，并使他们超越许多所造之物。",
+          "similarQuestions": [
+            "What is the value of a human being?",
+            "Why should I feel grateful for life?",
+            "Does every person have inherent dignity?",
+            "What makes humans special in the universe?"
+          ],
+          "contextNote": "This Meccan verse affirms the inherent honor of all humanity regardless of race or status, often cited in Islamic teachings on human dignity and the vicegerency of humankind.",
+          "tags": [
+            "meaning-of-life",
+            "goodness",
+            "divinity",
+            "nature"
+          ],
+          "weight": 4
+        }
+      ]
+    },
+    {
+      "titleEn": "Al-Furqān (The Criterion)",
+      "titleZh": "准则章",
+      "titleOrig": "الفرقان",
+      "passages": [
+        {
+          "originalText": "وَعِبَادُ ٱلرَّحْمَـٰنِ ٱلَّذِينَ يَمْشُونَ عَلَى ٱلْأَرْضِ هَوْنًا وَإِذَا خَاطَبَهُمُ ٱلْجَـٰهِلُونَ قَالُوا۟ سَلَـٰمًا",
+          "englishText": "The (faithful) slaves of the Beneficent are they who walk upon the earth modestly, and when the foolish ones address them answer: Peace;",
+          "transliteration": "WaAAibadu arrahmaniallatheena yamshoona AAala al-ardi hawnanwa-itha khatabahumu aljahiloona qaloosalama",
+          "canonicalRef": "Quran 25:63",
+          "originalLang": "arabic",
+          "translator": "Marmaduke Pickthall (1930)",
+          "sourceUrl": "https://quran.com/25/63",
+          "license": "Arabic: CC BY 3.0 (Tanzil); English: public domain",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "The faithful servants of God walk humbly on earth and respond to ignorant attacks with words of peace.",
+          "summaryZh": "真主的忠实仆人在大地上谦逊行走，当愚人辱骂他们时，他们以和平之言相答。",
+          "similarQuestions": [
+            "How should I respond when someone insults me or acts ignorantly?",
+            "What does it mean to live with humility and grace?",
+            "How can I maintain peace when provoked by others?",
+            "What is the Islamic ideal of character in daily interactions?"
+          ],
+          "contextNote": "This verse from Surah Al-Furqan (The Criterion) describes the 'ibad ar-Rahman (servants of the Most Merciful) as models of humility and peaceful conduct, applicable to all Muslims as an ethical ideal.",
+          "tags": [
+            "faith",
+            "character",
+            "goodness",
+            "practice"
+          ],
+          "weight": 4
+        }
+      ]
+    },
+    {
+      "titleEn": "Al-ʿAnkabūt (The Spider)",
+      "titleZh": "蜘蛛章",
+      "titleOrig": "العنكبوت",
+      "passages": [
+        {
+          "originalText": "وَٱلَّذِينَ جَـٰهَدُوا۟ فِينَا لَنَهْدِيَنَّهُمْ سُبُلَنَا ۚ وَإِنَّ ٱللَّهَ لَمَعَ ٱلْمُحْسِنِينَ",
+          "englishText": "As for those who strive in Us, We surely guide them to Our paths, and lo! Allah is with the good.",
+          "transliteration": "Wallatheena jahadoofeena lanahdiyannahum subulana wa-inna AllahalamaAAa almuhsineen",
+          "canonicalRef": "Quran 29:69",
+          "originalLang": "arabic",
+          "translator": "Marmaduke Pickthall (1930)",
+          "sourceUrl": "https://quran.com/29/69",
+          "license": "Arabic: CC BY 3.0 (Tanzil); English: public domain",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "Those who strive sincerely in God's way will be guided to His paths, and God is always with those who do good.",
+          "summaryZh": "那些为真主而努力奋斗的人，真主必将引导他们走上正道，真主确是与行善者同在的。",
+          "similarQuestions": [
+            "How can I find guidance in my life?",
+            "Does God support those who try to do good?",
+            "What is the reward for striving in faith?",
+            "How can I stay on the right path?"
+          ],
+          "contextNote": "This verse from the Quran (Surah Al-Ankabut) was revealed in Mecca to encourage early Muslims facing persecution to persevere in their faith and good deeds, promising divine guidance and support.",
+          "tags": [
+            "faith",
+            "perseverance",
+            "goodness",
+            "divinity"
+          ],
+          "weight": 4
+        }
+      ]
+    },
+    {
+      "titleEn": "Luqmān (Luqman)",
+      "titleZh": "鲁格曼章",
+      "titleOrig": "لقمان",
+      "passages": [
+        {
+          "originalText": "وَلَا تُصَعِّرْ خَدَّكَ لِلنَّاسِ وَلَا تَمْشِ فِى ٱلْأَرْضِ مَرَحًا ۖ إِنَّ ٱللَّهَ لَا يُحِبُّ كُلَّ مُخْتَالٍ فَخُورٍ",
+          "englishText": "Turn not thy cheek in scorn toward folk, nor walk with pertness in the land. Lo! Allah loveth not each braggart boaster.",
+          "transliteration": "Wala tusaAAAAir khaddaka linnasiwala tamshi fee al-ardi marahan inna Allahala yuhibbu kulla mukhtalin fakhoor",
+          "canonicalRef": "Quran 31:18",
+          "originalLang": "arabic",
+          "translator": "Marmaduke Pickthall (1930)",
+          "sourceUrl": "https://quran.com/31/18",
+          "license": "Arabic: CC BY 3.0 (Tanzil); English: public domain",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "Do not treat people with scorn or walk arrogantly, for God does not love the boastful.",
+          "summaryZh": "不要傲慢地对待他人或趾高气扬地走路，因为真主不喜爱自夸者。",
+          "similarQuestions": [
+            "How can I avoid being arrogant?",
+            "Why is humility important in Islam?",
+            "What does Islam say about pride?",
+            "How should I treat others with respect?"
+          ],
+          "contextNote": "This verse is part of Luqman's advice to his son, emphasizing humility and proper conduct. It applies universally to social interactions.",
+          "tags": [
+            "virtue",
+            "character",
+            "discipline",
+            "community"
+          ],
+          "weight": 4
+        }
+      ]
+    },
+    {
+      "titleEn": "Fuṣṣilat (Explained in Detail)",
+      "titleZh": "奉绥来特章",
+      "titleOrig": "فصلت",
+      "passages": [
+        {
+          "originalText": "وَلَا تَسْتَوِى ٱلْحَسَنَةُ وَلَا ٱلسَّيِّئَةُ ۚ ٱدْفَعْ بِٱلَّتِى هِىَ أَحْسَنُ فَإِذَا ٱلَّذِى بَيْنَكَ وَبَيْنَهُۥ عَدَٰوَةٌ كَأَنَّهُۥ وَلِىٌّ حَمِيمٌ",
+          "englishText": "The good deed and the evil deed are not alike. Repel the evil deed with one which is better, then lo! he, between whom and thee there was enmity (will become) as though he was a bosom friend.",
+          "transliteration": "Wala tastawee alhasanatu walaassayyi-atu idfaAA billatee hiya ahsanufa-itha allathee baynaka wabaynahu AAadawatunkaannahu waliyyun hameem",
+          "canonicalRef": "Quran 41:34",
+          "originalLang": "arabic",
+          "translator": "Marmaduke Pickthall (1930)",
+          "sourceUrl": "https://quran.com/41/34",
+          "license": "Arabic: CC BY 3.0 (Tanzil); English: public domain",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "Good and evil are not equal; respond to evil with what is better, and even an enemy may become a close friend.",
+          "summaryZh": "善与恶不一样，应当以善制恶，化敌为友。",
+          "similarQuestions": [
+            "How can I deal with someone who has wronged me?",
+            "What does Islam say about responding to hostility?",
+            "How do I turn an enemy into a friend?"
+          ],
+          "contextNote": "This verse is from the Meccan surah Fussilat, emphasizing moral conduct and reconciliation; it advises proactive goodness even in the face of enmity, applicable to interpersonal conflicts.",
+          "tags": [
+            "goodness",
+            "compassion",
+            "virtue",
+            "practice"
+          ],
+          "weight": 4
+        }
+      ]
+    },
+    {
+      "titleEn": "Ash-Shūrā (Consultation)",
+      "titleZh": "协商章",
+      "titleOrig": "الشورى",
+      "passages": [
+        {
+          "originalText": "وَلَمَن صَبَرَ وَغَفَرَ إِنَّ ذَٰلِكَ لَمِنْ عَزْمِ ٱلْأُمُورِ",
+          "englishText": "And verily whoso is patient and forgiveth - lo! that, verily, is (of) the steadfast heart of things.",
+          "transliteration": "Walaman sabara waghafara inna thalikalamin AAazmi al-omoor",
+          "canonicalRef": "Quran 42:43",
+          "originalLang": "arabic",
+          "translator": "Marmaduke Pickthall (1930)",
+          "sourceUrl": "https://quran.com/42/43",
+          "license": "Arabic: CC BY 3.0 (Tanzil); English: public domain",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "Patience and forgiveness are signs of true resolve and strength of character.",
+          "summaryZh": "忍耐与宽恕是坚定决心的体现。",
+          "similarQuestions": [
+            "How can I find the strength to forgive someone who has deeply hurt me?",
+            "Why is patience important in dealing with life's difficulties?",
+            "Is it better to forgive or seek revenge when wronged?",
+            "What does it mean to have a steadfast heart in the face of adversity?"
+          ],
+          "contextNote": "This Meccan verse encourages believers to respond to harm with patience and forgiveness, reflecting a core Islamic virtue. It is not a command to tolerate injustice but to elevate one's character.",
+          "tags": [
+            "suffering",
+            "virtue",
+            "compassion",
+            "character"
+          ],
+          "weight": 4
+        }
+      ]
+    },
+    {
+      "titleEn": "At-Taghābun (Mutual Disillusion)",
+      "titleZh": "相欺章",
+      "titleOrig": "التغابن",
+      "passages": [
+        {
+          "originalText": "مَآ أَصَابَ مِن مُّصِيبَةٍ إِلَّا بِإِذْنِ ٱللَّهِ ۗ وَمَن يُؤْمِنۢ بِٱللَّهِ يَهْدِ قَلْبَهُۥ ۚ وَٱللَّهُ بِكُلِّ شَىْءٍ عَلِيمٌ",
+          "englishText": "No calamity befalleth save by Allah's leave. And whosoever believeth in Allah, He guideth his heart. And Allah is Knower of all things.",
+          "transliteration": "Ma asaba min museebatinilla bi-ithni Allahi waman yu/min billahiyahdi qalbahu wallahu bikulli shay-in AAaleem",
+          "canonicalRef": "Quran 64:11",
+          "originalLang": "arabic",
+          "translator": "Marmaduke Pickthall (1930)",
+          "sourceUrl": "https://quran.com/64/11",
+          "license": "Arabic: CC BY 3.0 (Tanzil); English: public domain",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "This verse teaches that no hardship occurs without God's permission, and that faith in God brings inner guidance and peace.",
+          "summaryZh": "这节经文教导说，任何灾难的发生都是出于安拉的许可，信仰安拉的人，其心会得到引导。",
+          "similarQuestions": [
+            "Why do bad things happen to me?",
+            "How can I find peace when facing difficulties?",
+            "Is there a purpose behind my suffering?",
+            "How does faith help in times of trouble?"
+          ],
+          "contextNote": "This verse is from the Quran, the central religious text of Islam. It emphasizes divine sovereignty and the comfort of faith. It is often recited to remind believers that all events are under God's control, and that trust in God brings spiritual guidance.",
+          "tags": [
+            "suffering",
+            "faith",
+            "destiny",
+            "perseverance"
+          ],
+          "weight": 4
+        }
+      ]
+    },
+    {
+      "titleEn": "Aḍ-Ḍuḥā (The Morning Hours)",
+      "titleZh": "上午章",
+      "titleOrig": "الضحى",
+      "passages": [
+        {
+          "originalText": "مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ",
+          "englishText": "Thy Lord hath not forsaken thee nor doth He hate thee,",
+          "transliteration": "Ma waddaAAaka rabbuka wama qala",
+          "canonicalRef": "Quran 93:3",
+          "originalLang": "arabic",
+          "translator": "Marmaduke Pickthall (1930)",
+          "sourceUrl": "https://quran.com/93/3",
+          "license": "Arabic: CC BY 3.0 (Tanzil); English: public domain",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "God assures that He has not left you nor does He hold any hatred towards you.",
+          "summaryZh": "真主没有抛弃你，也没有憎恨你。",
+          "similarQuestions": [
+            "Why does it feel like God has abandoned me?",
+            "Does God hate me when I go through hardship?",
+            "How can I overcome feelings of spiritual emptiness?",
+            "Is God angry with me when I face trials?"
+          ],
+          "contextNote": "This verse was revealed to the Prophet Muhammad after a period of silence in revelation, consoling him and affirming God's continued care. It is often cited to comfort believers feeling divine abandonment.",
+          "tags": [
+            "faith",
+            "suffering",
+            "divinity",
+            "perseverance"
+          ],
+          "weight": 4
+        },
+        {
+          "originalText": "وَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضَىٰٓ",
+          "englishText": "And verily thy Lord will give unto thee so that thou wilt be content.",
+          "transliteration": "Walasawfa yuAAteeka rabbuka fatarda",
+          "canonicalRef": "Quran 93:5",
+          "originalLang": "arabic",
+          "translator": "Marmaduke Pickthall (1930)",
+          "sourceUrl": "https://quran.com/93/5",
+          "license": "Arabic: CC BY 3.0 (Tanzil); English: public domain",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "God promises to give you so much that you will be completely content.",
+          "summaryZh": "真主必将赐予你，直到你满意。",
+          "similarQuestions": [
+            "Will I ever find true contentment in life?",
+            "How can I trust that God will provide for my needs?",
+            "What is the ultimate source of happiness?",
+            "Can I rely on divine promises for peace of mind?"
+          ],
+          "contextNote": "This verse is from Surah Ad-Duha, revealed to comfort Prophet Muhammad during a period of silence in revelation. It emphasizes God's abundant generosity and the ultimate satisfaction of the believer.",
+          "tags": [
+            "faith",
+            "happiness",
+            "destiny",
+            "divinity"
+          ],
+          "weight": 4
+        }
+      ]
+    },
+    {
+      "titleEn": "Surah 99",
+      "titleZh": "第99章",
+      "titleOrig": "",
+      "passages": [
+        {
+          "originalText": "فَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَهُۥ",
+          "englishText": "And whoso doeth good an atom's weight will see it then,",
+          "transliteration": "Faman yaAAmal mithqala tharratinkhayran yarah",
+          "canonicalRef": "Quran 99:7",
+          "originalLang": "arabic",
+          "translator": "Marmaduke Pickthall (1930)",
+          "sourceUrl": "https://quran.com/99/7",
+          "license": "Arabic: CC BY 3.0 (Tanzil); English: public domain",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "Every good deed, no matter how small, will be seen and rewarded by God on the Day of Judgment.",
+          "summaryZh": "行善者将得到其善行的回报，即使小如原子之重。",
+          "similarQuestions": [
+            "Will my small good deeds matter in the grand scheme of things?",
+            "Does God see and acknowledge every good thing I do?",
+            "How can I be sure that my good actions are recognized?",
+            "What is the significance of even the smallest act of kindness?"
+          ],
+          "contextNote": "This verse is from the 99th chapter (Surah Al-Zalzalah) of the Quran, which vividly describes the Day of Resurrection and the precise weighing of deeds. It underscores the Islamic belief in individual moral accountability for even the smallest actions.",
+          "tags": [
+            "goodness",
+            "justice",
+            "destiny",
+            "faith"
+          ],
+          "weight": 4
+        },
+        {
+          "originalText": "وَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَرَهُۥ",
+          "englishText": "And whoso doeth ill an atom's weight will see it then.",
+          "transliteration": "Waman yaAAmal mithqala tharratinsharran yarah",
+          "canonicalRef": "Quran 99:8",
+          "originalLang": "arabic",
+          "translator": "Marmaduke Pickthall (1930)",
+          "sourceUrl": "https://quran.com/99/8",
+          "license": "Arabic: CC BY 3.0 (Tanzil); English: public domain",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "Every person will see the consequences of even the smallest evil deed they have done.",
+          "summaryZh": "每个人所做的哪怕是最微小的恶事，都会在将来看到其后果。",
+          "similarQuestions": [
+            "Will I be held accountable for even my smallest sins?",
+            "Do my minor wrongdoings matter in the grand scheme of things?",
+            "Is there a divine record of all my actions, no matter how trivial?",
+            "What happens to the bad things I do that no one else knows about?"
+          ],
+          "contextNote": "This verse is from the Quran, the central religious text of Islam, revealed to Prophet Muhammad. It emphasizes the absolute justice of God on the Day of Judgment, where no deed, however small, will be overlooked. It applies to believers and serves as a moral warning.",
+          "tags": [
+            "justice",
+            "truth",
+            "destiny",
+            "soul"
+          ],
+          "weight": 5
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,364 @@
+{
+  "work": {
+    "titleEn": "Mencius (Selected Passages)",
+    "titleZh": "孟子（精选）",
+    "titleOrig": "孟子",
+    "language": "classical-chinese",
+    "circaYear": -300,
+    "description": "Selected passages from the Mencius, conversations of Mencius with rulers, disciples and rivals on innate human goodness and humane government. Chinese text from Chinese Wikisource (public domain) with the public-domain English translation of James Legge (The Chinese Classics, vol. II, 1861/1895), via English Wikisource.",
+    "copyright": "public-domain",
+    "sourceUrl": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_2/The_Works_of_Mencius"
+  },
+  "chapters": [
+    {
+      "titleEn": "Liang Hui Wang I (King Hui of Liang, Part 1)",
+      "titleZh": "梁惠王上",
+      "titleOrig": "梁惠王上",
+      "passages": [
+        {
+          "originalText": "孟子對曰：「王！何必曰利？亦有仁義而已矣。王曰：『何以利吾國？』大夫曰：『何以利吾家？』士庶人曰：『何以利吾身？』上下交征利而國危矣。萬乘之國，弒其君者，必千乘之家；千乘之國，弒其君者，必百乘之家。萬取千焉，千取百焉，不為不多矣。苟為後義而先利，不奪不饜。未有仁而遺其親者也，未有義而後其君者也。王亦曰仁義而已矣，何必曰利？」",
+          "englishText": "Mencius replied, 'Why must your Majesty use that word \"profit?\" What I am provided with, are counsels to benevolence and righteousness, and these are my only topics. 'If your Majesty say, \"What is to be done to profit my kingdom?\" the great officers will say, \"What is to be done to profit our families?\" and the inferior officers and the common people will say, \"What is to be done to profit our persons?\" Superiors and inferiors will try to snatch this profit the one from the other, and the kingdom will be endangered. In the kingdom of ten thousand chariots, the murderer of his sovereign shall be the chief of a family of a thousand chariots. In the kingdom of a thousand chariots, the murderer of his prince shall be the chief of a family of a hundred chariots. To have a thousand in ten thousand, and a hundred in a thousand, cannot be said not to be a large allotment, but if righteousness be put last, and profit be put first, they will not be satisfied without snatching all. There never has been a benevolent man who neglected his parents. There never has been a righteous man who made his sovereign an after consideration. Let your Majesty also say, \"Benevolence and righteousness, and let these be your only themes.\" Why must you use that word - \"profit?\".'",
+          "transliteration": null,
+          "canonicalRef": "Mencius 1A1",
+          "originalLang": "classical-chinese",
+          "translator": "James Legge (1861; names in pinyin per the Wikisource transcription)",
+          "sourceUrl": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_2/The_Works_of_Mencius/chapter01",
+          "license": "Chinese: public domain (Wikisource); English: public domain",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "Why speak of profit? Benevolence and righteousness are enough. If ruler, officers and commoners all ask how to profit themselves, they will snatch from one another and the state will be endangered.",
+          "summaryZh": "何必谈利？有仁义就够了。如果君主、大夫、百姓都只问怎样对自己有利，上下互相争夺，国家就危险了。",
+          "similarQuestions": [
+            "Should leaders prioritize profit or ethics?",
+            "How should a nation be governed?",
+            "Is morality more important than wealth?",
+            "What happens when everyone pursues self-interest?"
+          ],
+          "contextNote": "The opening passage of the Mencius. King Hui of Liang has asked whether Mencius brings something to profit his kingdom; this is Mencius’s reply, a direct challenge to the utilitarian statecraft of the Warring States.",
+          "tags": [
+            "governance",
+            "benevolence",
+            "justice"
+          ],
+          "weight": 5
+        }
+      ]
+    },
+    {
+      "titleEn": "Gong Sun Chou I",
+      "titleZh": "公孙丑上",
+      "titleOrig": "公孫丑上",
+      "passages": [
+        {
+          "originalText": "難言也。其為氣也至大至剛，以直養而無害，則塞于天地之間。其為氣也配義與道，無是餒也。是集義所生者，非義襲而取之也。",
+          "englishText": "It is difficult to describe it. This is the passion-nature: It is exceedingly great, and exceedingly strong. Being nourished by rectitude, and sustaining no injury, it fills up all between heaven and earth. This is the passion-nature: It is the mate and assistant of righteousness and reason. Without it, man is in a state of starvation. It is produced by the accumulation of righteous deeds; it is not to be obtained by incidental acts of righteousness.",
+          "transliteration": null,
+          "canonicalRef": "Mencius 2A2",
+          "originalLang": "classical-chinese",
+          "translator": "James Legge (1861; names in pinyin per the Wikisource transcription)",
+          "sourceUrl": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_2/The_Works_of_Mencius/chapter03",
+          "license": "Chinese: public domain (Wikisource); English: public domain",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "The \"flood-like qi\" is hard to describe: supremely great and strong, it fills all between heaven and earth when nourished by uprightness. It accompanies righteousness and the Way, and grows from an accumulation of righteous deeds — it cannot be seized by an occasional righteous act.",
+          "summaryZh": "浩然之气难以言说：它至大至刚，用正直去培养而不加伤害，就能充塞天地之间。它与义和道相配合，是由不断积累的义行所生成的，不是偶然做一件义事就能取得的。",
+          "similarQuestions": [
+            "How do I build inner strength?",
+            "What is moral courage?",
+            "How can I become more confident in doing right?",
+            "How does character grow over time?"
+          ],
+          "contextNote": "Mencius’s answer to his disciple Gongsun Chou, who asked what he meant by 浩然之氣 — Legge renders it \"vast, flowing passion-nature\". The same reply goes on to the parable of the man of Song who pulled up his corn to help it grow (揠苗助長).",
+          "tags": [
+            "courage",
+            "virtue",
+            "discipline"
+          ],
+          "weight": 5
+        },
+        {
+          "originalText": "所以謂人皆有不忍人之心者，今人乍見孺子將入於井，皆有怵惕惻隱之心；非所以內交於孺子之父母也，非所以要譽於鄉黨朋友也，非惡其聲而然也。由是觀之，無惻隱之心，非人也。無羞惡之心，非人也。無辭讓之心，非人也。無是非之心，非人也。惻隱之心，仁之端也；羞惡之心，義之端也；辭讓之心，禮之端也；是非之心，智之端也。人之有是四端也，猶其有四體也。有是四端而自謂不能者，自賊者也；謂其君不能者，賊其君者也。凡有四端於我者，知皆擴而充之矣，若火之始然，泉之始達。茍能充之，足以保四海；茍不充之，不足以事父母。",
+          "englishText": "When I say that all men have a mind which cannot bear to see the sufferings of others, my meaning may be illustrated thus: even now-a-days, if men suddenly see a child about to fall into a well, they will without exception experience a feeling of alarm and distress. They will feel so, not as a ground on which they may gain the favour of the child's parents, nor as a ground on which they may seek the praise of their neighbours and friends, nor from a dislike to the reputation of having been unmoved by such a thing. From this case we may perceive that the feeling of commiseration is essential to man, that the feeling of shame and dislike is essential to man, that the feeling of modesty and complaisance is essential to man, and that the feeling of approving and disapproving is essential to man. The feeling of commiseration is the principle of benevolence. The feeling of shame and dislike is the principle of righteousness. The feeling of modesty and complaisance is the principle of propriety. The feeling of approving and disapproving is the principle of knowledge. Men have these four principles just as they have their four limbs. When men, having these four principles, yet say of themselves that they cannot develop them, they play the thief with themselves, and he who says of his prince that he cannot develop them plays the thief with his prince. Since all men have these four principles in themselves, let them know to give them all their development and completion, and the issue will be like that of fire which has begun to burn, or that of a spring which has begun to find vent. Let them have their complete development, and they will suffice to love and protect all within the four seas. Let them be denied that development, and they will not suffice for a man to serve his parents with.",
+          "transliteration": null,
+          "canonicalRef": "Mencius 2A6",
+          "originalLang": "classical-chinese",
+          "translator": "James Legge (1861; names in pinyin per the Wikisource transcription)",
+          "sourceUrl": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_2/The_Works_of_Mencius/chapter03",
+          "license": "Chinese: public domain (Wikisource); English: public domain",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "Anyone who suddenly sees a child about to fall into a well feels alarm and distress — not to win favour or praise, but spontaneously. Compassion, shame, deference and the sense of right and wrong are the beginnings of benevolence, righteousness, propriety and wisdom; developed, they can protect all within the four seas.",
+          "summaryZh": "任何人突然看见一个小孩将要掉进井里，都会有惊惧同情之心——不是为了结交孩子的父母，也不是为了博取名声。恻隐、羞恶、辞让、是非之心，是仁、义、礼、智的开端；把它们扩充起来，足以安定天下。",
+          "similarQuestions": [
+            "Are humans naturally good or evil?",
+            "Why do we feel empathy?",
+            "Is compassion innate or learned?",
+            "How can I grow my good qualities?"
+          ],
+          "contextNote": "The famous \"child at the well\" thought experiment and the doctrine of the \"four sprouts\" (四端), which Legge translates as four \"principles\". Mencius’s point is that virtue must be cultivated from beginnings everyone already has.",
+          "tags": [
+            "compassion",
+            "goodness",
+            "benevolence"
+          ],
+          "weight": 5
+        }
+      ]
+    },
+    {
+      "titleEn": "Teng Wen Gong I",
+      "titleZh": "滕文公上",
+      "titleOrig": "滕文公上",
+      "passages": [
+        {
+          "originalText": "然則治天下獨可耕且為與？有大人之事，有小人之事。且一人之身，而百工之所為備。如必自為而後用之，是率天下而路也。故曰：或勞心，或勞力。勞心者治人，勞力者治於人。治於人者食人，治人者食於人──天下之通義也。",
+          "englishText": "Then, is it the government of the kingdom which alone can be carried on along with the practice of husbandry? Great men have their proper business, and little men have their proper business. Moreover, in the case of any single individual, whatever articles he can require are ready to his hand, being produced by the various handicraftsmen - if he must first make them for his own use, this way of doing would keep all the people running about upon the roads. Hence, there is the saying, \"Some labour with their minds, and some labour with their strength. Those who labour with their minds govern others; those who labour with their strength are governed by others. Those who are governed by others support them; those who govern others are supported by them.\" This is a principle universally recognised.",
+          "transliteration": null,
+          "canonicalRef": "Mencius 3A4",
+          "originalLang": "classical-chinese",
+          "translator": "James Legge (1861; names in pinyin per the Wikisource transcription)",
+          "sourceUrl": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_2/The_Works_of_Mencius/chapter05",
+          "license": "Chinese: public domain (Wikisource); English: public domain",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "Government cannot be carried on alongside farming any more than a craft can. Great men and small men have their own business: some labour with their minds and govern, others labour with their strength and are governed; the governed support those who govern.",
+          "summaryZh": "治理天下不能一边耕种一边进行，正如各种手艺不能都由一人兼做。有大人之事，有小人之事；劳心者治人，劳力者治于人；治于人者养活人，治人者被人养活，这是天下通行的道理。",
+          "similarQuestions": [
+            "Is social hierarchy natural?",
+            "What is the role of intellectuals in society?",
+            "How should society be organized?",
+            "Why is division of labour necessary?"
+          ],
+          "contextNote": "Mencius argues against Chen Xiang, a follower of the Agriculturalist Xu Xing, who held that rulers should farm alongside their people. The passage has been both celebrated and criticized as a defence of social hierarchy.",
+          "tags": [
+            "governance",
+            "community",
+            "duty"
+          ],
+          "weight": 3
+        }
+      ]
+    },
+    {
+      "titleEn": "Li Lou II",
+      "titleZh": "离娄下",
+      "titleOrig": "離婁下",
+      "passages": [
+        {
+          "originalText": "君子所以異於人者，以其存心也。君子以仁存心，以禮存心。仁者愛人，有禮者敬人。愛人者，人恒愛之；敬人者，人恒敬之。有人於此，其待我以橫逆，則君子必自反也：『我必不仁也，必無禮也，此物奚宜至哉？』其自反而仁矣，自反而有禮矣。其橫逆由是也，君子必自反也：『我必不忠。』自反而忠矣。其橫逆由是也，君子曰：『此亦妄人也已矣。如此則與禽獸奚擇哉？於禽獸又何難焉！』",
+          "englishText": "That whereby the superior man is distinguished from other men is what he preserves in his heart - namely, benevolence and propriety. The benevolent man loves others. The man of propriety shows respect to others. He who loves others is constantly loved by them. He who respects others is constantly respected by them. Here is a man, who treats me in a perverse and unreasonable manner. The superior man in such a case will turn round upon himself, \"I must have been wanting in benevolence; I must have been wanting in propriety - how should this have happened to me?\" He examines himself, and is specially benevolent. He turns round upon himself, and is specially observant of propriety. The perversity and unreasonableness of the other, however, are still the same. The superior man will again turn round on himself, \"I must have been failing to do my utmost.\" He turns round upon himself, and proceeds to do his utmost, but still the perversity and unreasonableness of the other are repeated. On this the superior man says, \"This is a man utterly lost indeed! Since he conducts himself so, what is there to choose between him and a brute? Why should I go to contend with a brute?\"",
+          "transliteration": null,
+          "canonicalRef": "Mencius 4B28",
+          "originalLang": "classical-chinese",
+          "translator": "James Legge (1861; names in pinyin per the Wikisource transcription)",
+          "sourceUrl": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_2/The_Works_of_Mencius/chapter08",
+          "license": "Chinese: public domain (Wikisource); English: public domain",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "The benevolent love others and the courteous respect others; whoever loves others is loved, whoever respects others is respected. When someone treats you badly, first turn back on yourself and ask where you fell short — only then conclude the fault is theirs.",
+          "summaryZh": "仁者爱人，有礼者敬人；爱人的人，别人总会爱他；敬人的人，别人总会敬他。有人蛮横对待我，君子一定先反省自己是否不仁、无礼、不忠，反省之后对方依旧如此，才断定是对方的问题。",
+          "similarQuestions": [
+            "How do I earn respect?",
+            "Why should I be kind to others?",
+            "How do relationships work?",
+            "What should I do when someone treats me badly?"
+          ],
+          "contextNote": "Mencius’s belief in moral reciprocity, joined to the Confucian habit of self-examination (自反). It is not a bargain (\"I give so I get\") but a description of how virtue naturally draws a response — and of what to do when it does not.",
+          "tags": [
+            "love",
+            "benevolence",
+            "character"
+          ],
+          "weight": 4
+        }
+      ]
+    },
+    {
+      "titleEn": "Gaozi I",
+      "titleZh": "告子上",
+      "titleOrig": "告子上",
+      "passages": [
+        {
+          "originalText": "水信無分於東西，無分於上下乎？人性之善也，猶水之就下也。人無有不善，水無有不下。今夫水：搏而躍之，可使過顙；激而行之，可使在山。是豈水之性哉？其勢則然也。人之可使為不善，其性亦猶是也。",
+          "englishText": "Water indeed will flow indifferently to the east or west, but will it flow indifferently up or down? The tendency of man's nature to good is like the tendency of water to flow downwards. There are none but have this tendency to good, just as all water flows downwards. Now by striking water and causing it to leap up, you may make it go over your forehead, and, by damming and leading it you may force it up a hill - but are such movements according to the nature of water? It is the force applied which causes them. When men are made to do what is not good, their nature is dealt with in this way.",
+          "transliteration": null,
+          "canonicalRef": "Mencius 6A2",
+          "originalLang": "classical-chinese",
+          "translator": "James Legge (1861; names in pinyin per the Wikisource transcription)",
+          "sourceUrl": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_2/The_Works_of_Mencius/chapter11",
+          "license": "Chinese: public domain (Wikisource); English: public domain",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "Water may not care whether it flows east or west, but it always flows downward; human nature tends to goodness in the same way. Water can be splashed over your head or forced uphill, but that is force, not its nature — and so it is when people are made to do wrong.",
+          "summaryZh": "水固然不分东西，但难道不分上下吗？人性向善，就像水往低处流。拍水可以使它溅过额头，堵水可以使它流上山岗，但这是外力所迫，不是水的本性；人做坏事，也是同样的道理。",
+          "similarQuestions": [
+            "Is human nature fundamentally good?",
+            "Can people change for the better?",
+            "Why do people do bad things if they are naturally good?"
+          ],
+          "contextNote": "Mencius’s reply in his debate with Gaozi, who had just compared human nature to whirling water that flows east or west wherever a channel is opened — morally neutral. Mencius turns the same image to argue for a natural direction toward goodness.",
+          "tags": [
+            "goodness",
+            "nature",
+            "character"
+          ],
+          "weight": 5
+        },
+        {
+          "originalText": "魚，我所欲也；熊掌，亦我所欲也。二者不可得兼，舍魚而取熊掌者也。生，亦我所欲也；義，亦我所欲也。二者不可得兼，舍生而取義者也。生亦我所欲，所欲有甚於生者，故不為茍得也。死亦我所惡，所惡有甚於死者，故患有所不辟也。如使人之所欲莫甚於生，則凡可以得生者何不用也？使人之所惡莫甚於死者，則凡可以辟患者何不為也？由是則生而有不用也，由是則可以辟患而有不為也。是故所欲有甚於生者，所惡有甚於死者。非獨賢者有是心也，人皆有之，賢者能勿喪耳。",
+          "englishText": "I like fish, and I also like bear's paws. If I cannot have the two together, I will let the fish go, and take the bear's paws. So, I like life, and I also like righteousness. If I cannot keep the two together, I will let life go, and choose righteousness. I like life indeed, but there is that which I like more than life, and therefore, I will not seek to possess it by any improper ways. I dislike death indeed, but there is that which I dislike more than death, and therefore there are occasions when I will not avoid danger. If among the things which man likes there were nothing which he liked more than life, why should he not use every means by which he could preserve it? If among the things which man dislikes there were nothing which he disliked more than death, why should he not do everything by which he could avoid danger? There are cases when men by a certain course might preserve life, and they do not employ it; when by certain things they might avoid danger, and they will not do them. Therefore, men have that which they like more than life, and that which they dislike more than death. They are not men of distinguished talents and virtue only who have this mental nature. All men have it; what belongs to such men is simply that they do not lose it.",
+          "transliteration": null,
+          "canonicalRef": "Mencius 6A10",
+          "originalLang": "classical-chinese",
+          "translator": "James Legge (1861; names in pinyin per the Wikisource transcription)",
+          "sourceUrl": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_2/The_Works_of_Mencius/chapter11",
+          "license": "Chinese: public domain (Wikisource); English: public domain",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "If I cannot have both fish and bear’s paw, I take the bear’s paw; if I cannot keep both life and righteousness, I choose righteousness. There are things we want more than life and hate more than death — everyone has this heart; the worthy simply do not lose it.",
+          "summaryZh": "鱼和熊掌不能兼得，就舍鱼而取熊掌；生命和道义不能兼得，就舍生而取义。人有比生命更想要的东西，有比死亡更厌恶的东西；这种心人人都有，贤者只是能够不丧失它而已。",
+          "similarQuestions": [
+            "Is there anything worth dying for?",
+            "How do I make tough moral choices?",
+            "What should I do when my values conflict with my interests?"
+          ],
+          "contextNote": "One of the most famous analogies in Chinese literature. The everyday choice between two delicacies illuminates the ultimate choice between self-preservation and righteousness. The passage continues with the beggar who refuses food given with contempt.",
+          "tags": [
+            "choice",
+            "virtue",
+            "courage"
+          ],
+          "weight": 5
+        }
+      ]
+    },
+    {
+      "titleEn": "Gaozi II",
+      "titleZh": "告子下",
+      "titleOrig": "告子下",
+      "passages": [
+        {
+          "originalText": "舜發於畎畝之中，傅說舉於版筑之間，膠鬲舉於魚鹽之中，管夷吾舉於士，孫叔敖舉於海，百里奚舉於市。故天將降大任於是人也，必先苦其心志，勞其筋骨，餓其體膚，空乏其身，行拂亂其所為；所以動心忍性，曾益其所不能。人恒過，然後能改。困於心，衡於慮，而後作。徵於色，發於聲，而後喻。入則無法家拂士、出則無敵國外患者，國恒亡。然後知生於憂患，而死於安樂也。",
+          "englishText": "Shun rose from among the channelled fields. Fu Yue was called to office from the midst of his building frames; Jiao Ge from his fish and salt; Guan Yi Wu from the hands of his gaoler; Sun Shu Ao from his hiding by the sea-shore; and Bai Li Xi from the market-place. Thus, when Heaven is about to confer a great office on any man, it first exercises his mind with suffering, and his sinews and bones with toil. It exposes his body to hunger, and subjects him to extreme poverty. It confounds his undertakings. By all these methods it stimulates his mind, hardens his nature, and supplies his incompetencies. Men for the most part err, and are afterwards able to reform. They are distressed in mind and perplexed in their thoughts, and then they arise to vigorous reformation. When things have been evidenced in men's looks, and set forth in their words, then they understand them. If a prince have not about his court families attached to the laws and worthy counsellors, and if abroad there are not hostile States or other external calamities, his kingdom will generally come to ruin. From these things we see how life springs from sorrow and calamity, and death from ease and pleasure.",
+          "transliteration": null,
+          "canonicalRef": "Mencius 6B15",
+          "originalLang": "classical-chinese",
+          "translator": "James Legge (1861; names in pinyin per the Wikisource transcription)",
+          "sourceUrl": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_2/The_Works_of_Mencius/chapter12",
+          "license": "Chinese: public domain (Wikisource); English: public domain",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "Great figures rose from the fields, the building site, the market and prison. When Heaven is about to give someone a great office, it first tries their mind with suffering and their body with toil and hunger, to stir their resolve and supply what they lack. Life springs from sorrow and calamity; death from ease and pleasure.",
+          "summaryZh": "舜出身于田野，傅说、管仲、百里奚等人或起于筑墙，或起于狱中，或起于市井。上天将要把重任交给一个人，必定先使他心志受苦、筋骨劳累、身体饥饿、处境困乏，以此激发他的心志，坚韧他的性情，增加他的能力。由此可知，忧患使人生存，安乐使人灭亡。",
+          "similarQuestions": [
+            "Why do bad things happen to good people?",
+            "How do I grow from adversity?",
+            "Does suffering have a purpose?",
+            "How to deal with setbacks?"
+          ],
+          "contextNote": "Perhaps the most widely quoted passage of the Mencius in modern China, memorized in school; its closing line, 生於憂患，死於安樂, is a proverb in its own right.",
+          "tags": [
+            "suffering",
+            "perseverance",
+            "destiny"
+          ],
+          "weight": 5
+        }
+      ]
+    },
+    {
+      "titleEn": "Jin Xin I",
+      "titleZh": "尽心上",
+      "titleOrig": "盡心上",
+      "passages": [
+        {
+          "originalText": "盡其心者，知其性也。知其性，則知天矣。存其心，養其性，所以事天也。夭壽不貳，修身以俟之，所以立命也。",
+          "englishText": "He who has exhausted all his mental constitution knows his nature. Knowing his nature, he knows Heaven. To preserve one's mental constitution, and nourish one's nature, is the way to serve Heaven. When neither a premature death nor long life causes a man any double-mindedness, but he waits in the cultivation of his personal character for whatever issue; this is the way in which he establishes his Heaven-ordained being.",
+          "transliteration": null,
+          "canonicalRef": "Mencius 7A1",
+          "originalLang": "classical-chinese",
+          "translator": "James Legge (1861; names in pinyin per the Wikisource transcription)",
+          "sourceUrl": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_2/The_Works_of_Mencius/chapter13",
+          "license": "Chinese: public domain (Wikisource); English: public domain",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "Whoever fully realizes their heart knows their nature, and knowing one’s nature one knows Heaven. Preserving the heart and nourishing one’s nature is how one serves Heaven; cultivating oneself and awaiting whatever comes, untroubled by early death or long life, is how one establishes one’s destiny.",
+          "summaryZh": "充分发挥自己的本心，就能认识自己的本性；认识了本性，就认识了天。保存本心、涵养本性，就是侍奉天的方法。不论短命还是长寿都不三心二意，修养自身以等待天命，这就是安身立命的方法。",
+          "similarQuestions": [
+            "How do I find my purpose?",
+            "What is self-knowledge?",
+            "How do I connect with something greater than myself?",
+            "How should I face an uncertain lifespan?"
+          ],
+          "contextNote": "The opening of the \"Jin Xin\" book, outlining a path from self-cultivation to Heaven. Legge translates 心 as \"mental constitution\". The passage deeply influenced later Neo-Confucian thinkers such as Wang Yangming.",
+          "tags": [
+            "self-knowledge",
+            "destiny",
+            "practice"
+          ],
+          "weight": 4
+        },
+        {
+          "originalText": "尊德樂義，則可以囂囂矣。故士窮不失義，達不離道。窮不失義，故士得己焉。達不離道，故民不失望焉。古之人，得志，澤加於民；不得志，修身見於世。窮則獨善其身；達則兼善天下。",
+          "englishText": "Honour virtue and delight in righteousness, and so you may always be perfectly satisfied. Therefore, a scholar, though poor, does not let go his righteousness; though prosperous, he does not leave his own path. Poor and not letting righteousness go - it is thus that the scholar holds possession of himself. Prosperous and not leaving the proper path - it is thus that the expectations of the people from him are not disappointed. When the men of antiquity realized their wishes, benefits were conferred by them on the people. If they did not realize their wishes, they cultivated their personal character, and became illustrious in the world. If poor, they attended to their own virtue in solitude; if advanced to dignity, they made the whole kingdom virtuous as well.",
+          "transliteration": null,
+          "canonicalRef": "Mencius 7A9",
+          "originalLang": "classical-chinese",
+          "translator": "James Legge (1861; names in pinyin per the Wikisource transcription)",
+          "sourceUrl": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_2/The_Works_of_Mencius/chapter13",
+          "license": "Chinese: public domain (Wikisource); English: public domain",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "Honour virtue and delight in righteousness, and you can be content whether or not you are recognized. In poverty a scholar keeps his righteousness; in success he keeps to the Way. Without office, cultivate yourself; with it, make the whole world good.",
+          "summaryZh": "尊崇德行、喜爱道义，就能无论得志与否都自得其乐。士人穷困时不失义，显达时不离道。不得志时修身于世，得志时恩泽于民：穷则独善其身，达则兼善天下。",
+          "similarQuestions": [
+            "What should I do when I have no power to change things?",
+            "How should success change my behavior?",
+            "What is the balance between personal growth and social impact?",
+            "How to stay content without recognition?"
+          ],
+          "contextNote": "Mencius’s advice to Song Goujian, who travelled from court to court seeking office. The closing line (窮則獨善其身，達則兼善天下) became a guiding maxim for Chinese scholar-officials.",
+          "tags": [
+            "virtue",
+            "duty",
+            "character"
+          ],
+          "weight": 5
+        }
+      ]
+    },
+    {
+      "titleEn": "Jin Xin II",
+      "titleZh": "尽心下",
+      "titleOrig": "盡心下",
+      "passages": [
+        {
+          "originalText": "民為貴，社稷次之，君為輕。是故得乎丘民而為天子；得乎天子為諸侯；得乎諸侯為大夫。",
+          "englishText": "The people are the most important element in a nation; the spirits of the land and grain are the next; the sovereign is the lightest. Therefore to gain the peasantry is the way to become sovereign; to gain the sovereign is the way to become a prince of a State; to gain the prince of a State is the way to become a great officer.",
+          "transliteration": null,
+          "canonicalRef": "Mencius 7B14",
+          "originalLang": "classical-chinese",
+          "translator": "James Legge (1861; names in pinyin per the Wikisource transcription)",
+          "sourceUrl": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_2/The_Works_of_Mencius/chapter14",
+          "license": "Chinese: public domain (Wikisource); English: public domain",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "The people matter most, the altars of land and grain come next, and the ruler counts least. Winning the common people is the way to become Son of Heaven.",
+          "summaryZh": "人民最为重要，国家社稷次之，君主最轻。得到百姓拥护的人才能成为天子。",
+          "similarQuestions": [
+            "What is the purpose of government?",
+            "Should leaders serve the people or rule them?",
+            "What makes a legitimate government?"
+          ],
+          "contextNote": "One of the most radical political statements in ancient Chinese thought, placing the people above the ruler. Mencius goes on to say that even the spirits of the land and grain may be replaced if they fail the people. The passage has been cited throughout Chinese history against tyranny.",
+          "tags": [
+            "governance",
+            "power",
+            "community"
+          ],
+          "weight": 5
+        }
+      ]
+    }
+  ]
+}

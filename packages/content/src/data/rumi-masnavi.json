@@ -1,0 +1,49 @@
+{
+  "work": {
+    "titleEn": "Masnavi (Selected Passages)",
+    "titleZh": "玛斯纳维（精选）",
+    "titleOrig": "مثنوی معنوی",
+    "language": "persian",
+    "circaYear": 1260,
+    "description": "Selected passages of Rumi’s Masnavi. Persian text from ganjoor.net with the public-domain English verse translation of E. H. Whinfield (1898), via Wikisource.",
+    "copyright": "public-domain",
+    "sourceUrl": "https://ganjoor.net/moulavi/masnavi"
+  },
+  "chapters": [
+    {
+      "titleEn": "Masnavi, Book I",
+      "titleZh": "玛斯纳维·第一卷",
+      "titleOrig": "دفتر اول",
+      "passages": [
+        {
+          "originalText": "بشنو این نی چون شکایت می‌کند / از جدایی‌ها حکایت می‌کند / کز نِیِستان تا مرا بُبریده‌اند / در نفیرم مرد و زن نالیده‌اند / سینه خواهم شَرحه شَرحه از فراق / تا بگویم شرح درد اشتیاق / هر کسی کو دور ماند از اصلِ خویش / باز جوید روزگارِ وصل خویش / من به هر جمعیّتی نالان شدم / جفت بدحالان و خوش‌حالان شدم / هر کسی از ظّن خود شد یار من / از درون من نجُست اسرار من / سرِّ من از نالهٔ من دور نیست / لیک چشم و گوش را آن نور نیست / تن ز جان و جان ز تن مستور نیست / لیک کس را دیدِ جان دستور نیست / آتش است این بانگِ نای و نیست باد / هر که این آتش ندارد نیست باد",
+          "englishText": "HEARKEN to the reed-flute, how it complains, Lamenting its banishment from its home: \"Ever since they tore me from my osier bed, My plaintive notes have moved men and women to tears. I burst my breast, striving to give vent to sighs, And to express the pangs of my yearning for my home. He who abides far away from his home Is ever longing for the day he shall return. My wailing is heard in every throng, In concert with them that rejoice and them that weep. Each interprets my notes in harmony with his own feelings, But not one fathoms the secrets of my heart. My secrets are not alien from my plaintive notes, Yet they are not manifest to the sensual eye and ear. Body is not veiled from soul, neither soul from body, Yet no man hath ever seen a soul.\" This plaint of the flute is fire, not mere air. Let him who lacks this fire be accounted dead! 'Tis the fire of love that inspires the flute,l 'Tis the ferment of love that possesses the wine. The flute is the confidant of all unhappy lovers; Yea, its strains lay bare my inmost secrets. Who hath seen a poison and an antidote like the flute? Who hath seen a sympathetic consoler like the flute? The flute tells the tale of love's bloodstained path, It recounts the story of Majnun's love toils. None is privy to these feelings save one distracted, As ear inclines to the whispers of the tongue. Through grief my days are as labor and sorrow, My days move on, hand in hand with anguish. Yet,, though my days vanish thus, 'tis no matter, Do thou abide, O Incomparable Pure One! But all who are not fishes are soon tired of water; And they who lack daily bread find the day very long; So the \"Raw\" comprehend not the state of the \"Ripe;\" 3 Therefore it behoves me to shorten my discourse. Arise, O son! burst thy bonds and be free! How long wilt thou be captive to silver and gold? Though thou pour the ocean into thy pitcher, It can hold no more than one day's store. The pitcher of the desire of the covetous never fills, The oyster-shell fills not with pearls till it is content; Only he whose garment is rent by the violence of love Is wholly pure from covetousness and sin. Hail to thee, then, O LOVE, sweet madness! Thou who healest all our infirmities! Who art the physician of our pride and self-conceit! Who art our Plato and our Galen! Love exalts our earthly bodies to heaven, And makes the very hills to dance with joy! O Iover, 'twas love that gave life to Mount Sinai, When \"it quaked, and Moses fell down in a swoon.\" Did my Beloved only touch me with his lips, I too, like the flute, would burst out in melody. But he who is parted from them that speak his tongue, Though he possess a hundred voices, is perforce dumb. When the rose has faded and the garden is withered, The song of the nightingale is no longer to be heard. The BELOVED is all in all, the lover only veils Him; The BELOVED is all that lives, the lover a dead thing. When the lover feels no longer LOVE's quickening, He becomes like a bird who has lost its wings. Alas! How can I retain my senses about me, When the BELOVED shows not the light of His countenance? LOVE desires that this secret should be revealed, For if a mirror reflects not, of what use is it? Knowest thou why thy mirror reflects not? Because the rust has not been scoured from its face. If it were purified from all rust and defilement, It would reflect the shining of the SUN Of GOD. O friends, ye have now heard this tale, Which sets forth the very essence of my case. *NOTES: 1. Love signifies the strong attraction that draws all creatures back to reunion with their Creator. 2. Self-annihilation leads to eternal life in God the universal Noumenon, by whom all phenomena subsist. See Gulshan i Raz, I. 400. 3. \"Raw\" and \"Ripe\" are terms for \"Men of externals\" and \"Men of heart\" or Mystics. 4. Alluding to the giving of the law on Mount Sinai. Koran vii. 139. 5. All phenomenal existences (man included) are but \"veils\" obscuring the face of the Divine Noumenon, the only real existence, and the moment His sustaining presence is withdrawn they at once relapse into their original nothingness. See Gulshan i Raz, I. 165. 6. So Bernard of Clairvaux. See Gulshan i Raz, I. 435.",
+          "transliteration": null,
+          "canonicalRef": "Masnavi I, Proem (Song of the Reed)",
+          "originalLang": "persian",
+          "translator": "E. H. Whinfield (1898)",
+          "sourceUrl": "https://ganjoor.net/moulavi/masnavi/daftar1/sh1",
+          "license": "public-domain",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "The reed flute's lament symbolizes the soul's longing to return to its divine source, expressing that true understanding comes from experiencing the fire of love, not mere intellect.",
+          "summaryZh": "芦笛的哀诉象征灵魂渴望回归神圣本源，真正的理解来自体验爱的火焰而非仅凭理智。",
+          "similarQuestions": [
+            "Why do I feel a deep sense of longing and separation from something I can't name?",
+            "How can I find meaning in the pain and suffering of life?",
+            "What does it mean to be truly connected to the divine or ultimate reality?",
+            "How can I move beyond superficial understanding to deep inner knowing?"
+          ],
+          "contextNote": "Rumi's Masnavi is a masterpiece of Sufi mystical poetry, composed in the 13th century. This opening passage sets the theme of the soul's exile from God and its yearning for reunion, a central concept in Sufism, but it should be understood as metaphor rather than literal doctrine.",
+          "tags": [
+            "meaning-of-life",
+            "suffering",
+            "love",
+            "soul"
+          ],
+          "weight": 5
+        }
+      ]
+    }
+  ]
+}

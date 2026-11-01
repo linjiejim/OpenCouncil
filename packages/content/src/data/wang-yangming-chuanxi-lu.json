@@ -1,0 +1,259 @@
+{
+  "work": {
+    "titleEn": "Instructions for Practical Living (Selected Passages)",
+    "titleZh": "传习录（精选）",
+    "titleOrig": "傳習錄",
+    "language": "classical-chinese",
+    "circaYear": 1518,
+    "description": "Selected passages from the Chuanxi Lu, the record of Wang Yangming's conversations with his disciples and the central text of his school of Neo-Confucianism. Chinese text from Chinese Wikisource (public domain) with the English translation of Frederick Goodrich Henke, \"The Philosophy of Wang Yang-ming\" (1916; public domain in the US), from the archive.org scans of that edition.",
+    "copyright": "PD (English: US, published 1916)",
+    "sourceUrl": "https://archive.org/details/philosophyofwang00wanguoft"
+  },
+  "chapters": [
+    {
+      "titleEn": "Vol. I — Xu Ai’s record",
+      "titleZh": "卷上·徐爱录",
+      "titleOrig": "傳習錄上·徐愛錄",
+      "passages": [
+        {
+          "originalText": "知是行之始，行是知之成。若會得時，只說一個知，已自有行在；只說一個行，已自有知在。",
+          "englishText": "Knowledge is the beginning of practice ; doing is the completion of knowing. If when one knows how to attain the desired end, one speaks only of knowing, the doing is already naturally included; or if he speaks of acting, the knowing is already included.",
+          "transliteration": null,
+          "canonicalRef": "Chuanxi Lu I.5 (a)",
+          "originalLang": "classical-chinese",
+          "translator": "Frederick Goodrich Henke (1916)",
+          "sourceUrl": "https://archive.org/details/philosophyofwang00wanguoft/page/55/mode/1up",
+          "license": "Chinese: public domain (Chinese Wikisource); English: public domain in the US (published 1916)",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "Knowing is the beginning of acting and acting is the completion of knowing. Properly understood, to speak of one is already to include the other.",
+          "summaryZh": "知是行的开端，行是知的完成。真正领会了，说一个“知”，行已在其中；说一个“行”，知也已在其中。",
+          "similarQuestions": [
+            "Why do I know what's right but fail to do it?",
+            "How to bridge the gap between knowing and doing?",
+            "Is knowledge without action valuable?",
+            "What is the relationship between theory and practice?"
+          ],
+          "contextNote": "From the classic statement of the \"unity of knowledge and action\" (知行合一), Wang Yangming's best-known doctrine. It answers his disciple Xu Ai, who held that people often know filial duty yet fail to practise it, so knowing and acting must be two things. Wang was arguing against the prevailing reading of Zhu Xi that knowledge must come first and action follow.",
+          "tags": [
+            "practice",
+            "wisdom",
+            "self-knowledge"
+          ],
+          "weight": 5
+        },
+        {
+          "originalText": "知寒，必已自寒了；知飢，必已自飢了。知行如何分得開？此便是知行的本體，不曾有私意隔斷的。",
+          "englishText": "Likewise to understand cold one must first have endured cold ; and to understand hunger one must have been hungry. How, then, can knowledge and practice be separated? This is their original nature before selfish aims have separated them.",
+          "transliteration": null,
+          "canonicalRef": "Chuanxi Lu I.5 (b)",
+          "originalLang": "classical-chinese",
+          "translator": "Frederick Goodrich Henke (1916)",
+          "sourceUrl": "https://archive.org/details/philosophyofwang00wanguoft/page/54/mode/1up",
+          "license": "Chinese: public domain (Chinese Wikisource); English: public domain in the US (published 1916)",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "To know cold you must have felt cold; to know hunger you must have been hungry. Knowing and doing cannot be pulled apart — that is their original state, before selfish aims divide them.",
+          "summaryZh": "要知道冷，必定自己已经冷过；要知道饿，必定自己已经饿过。知与行怎么分得开？这才是知行的本来面目，只是被私意隔断了。",
+          "similarQuestions": [
+            "Why don't I act on what I know?",
+            "Can I really understand something I have never experienced?",
+            "How to turn knowledge into action?",
+            "Why is self-improvement so hard?"
+          ],
+          "contextNote": "Same conversation as above. Just before this, Wang says \"No one who really has knowledge fails to practice it\" (未有知而不行者) and that knowing without acting is simply not yet knowing (知而不行，只是未知); the analogies of cold and hunger illustrate that claim.",
+          "tags": [
+            "practice",
+            "self-knowledge",
+            "truth"
+          ],
+          "weight": 5
+        },
+        {
+          "originalText": "都只在此心，心即理也。此心無私欲之蔽，即是天理，不須外面添一分。以此純乎天理之心：發之事父，便是孝；發之事君，便是忠；發之交友、治民，便是信與仁。",
+          "englishText": "They are all in the mind, for the mind is itself the embodiment of principles. When the mind is free from the obscuration of selfish aims, it is the embodiment of the principles of Heaven. It is not necessary to add one whit from without. When service of parents emerges from the mind characterized by pure heaven-given principles, we have filial obedience ; when service of prince emerges, faithfulness; when the making of friends or the governing of the people emerge, sincerity and benevolence.",
+          "transliteration": null,
+          "canonicalRef": "Chuanxi Lu I.3",
+          "originalLang": "classical-chinese",
+          "translator": "Frederick Goodrich Henke (1916)",
+          "sourceUrl": "https://archive.org/details/philosophyofwang00wangiala/page/51/mode/1up",
+          "license": "Chinese: public domain (Chinese Wikisource); English: public domain in the US (published 1916)",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "The principles of filial piety, loyalty, sincerity and benevolence are not found in parents, rulers, friends or subjects but in one's own mind, which is itself principle. A mind free of selfish desire needs nothing added from outside; its acts are simply right.",
+          "summaryZh": "孝、忠、信、仁的道理不在父母、君主、朋友、百姓身上，而在自己心中——心即理。心没有私欲遮蔽，就是天理，不必从外面添加一分；由这样的心发出来，自然是孝、是忠、是信与仁。",
+          "similarQuestions": [
+            "Where does morality come from?",
+            "Should I follow my heart?",
+            "How to know right from wrong?",
+            "Do I need external authorities to guide me?"
+          ],
+          "contextNote": "Wang's doctrine that \"the mind is principle\" (心即理) answers Xu Ai's worry that seeking the good only in the mind would neglect the principles of worldly affairs. Earlier in the same exchange Wang asks, \"Is there any law apart from the mind?\" It directly challenged Zhu Xi's view that principle must be investigated in external things.",
+          "tags": [
+            "goodness",
+            "self-knowledge",
+            "virtue"
+          ],
+          "weight": 5
+        }
+      ]
+    },
+    {
+      "titleEn": "Vol. III — Chen Jiuchuan’s record",
+      "titleZh": "卷下·陈九川录",
+      "titleOrig": "傳習錄下·陳九川錄",
+      "passages": [
+        {
+          "originalText": "爾那一點良知，是爾自家底準則。爾意念著處，他是便知是，非便知非，更瞞他一些不得。爾只不要欺他，實實落落依著他做去",
+          "englishText": "The little intuitive knowledge of good you have is your own standard. If your thoughts are right it is aware of it, and if they are wrong it also knows. You must not blind it nor impose upon it, but must truly follow its lead.",
+          "transliteration": null,
+          "canonicalRef": "Chuanxi Lu III.206",
+          "originalLang": "classical-chinese",
+          "translator": "Frederick Goodrich Henke (1916)",
+          "sourceUrl": "https://archive.org/details/philosophyofwang00wanguoft/page/150/mode/1up",
+          "license": "Chinese: public domain (Chinese Wikisource); English: public domain in the US (published 1916)",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "Your innate knowledge of the good is your own standard. Wherever your thoughts go, it knows when they are right and when they are wrong. Do not deceive it — simply follow it, honestly and concretely.",
+          "summaryZh": "你那一点良知，就是你自己的准则。念头起处，是的它便知是，非的它便知非，一点也瞒不过它。只要不欺骗它，老老实实依着它去做。",
+          "similarQuestions": [
+            "How to trust my intuition?",
+            "Should I follow others' advice?",
+            "How to know right from wrong?",
+            "Where do I find wisdom?",
+            "Am I looking in the wrong places for answers?"
+          ],
+          "contextNote": "Chen Jiuchuan visited Wang in Ganzhou in 1520 and complained that he could not find a \"steady and joyful\" place in his practice. Wang's \"secret\" is liangzhi (良知, innate knowing of the good) as an inner standard. This replaces a poem (\"everyone has a compass within\") that is not part of the Chuanxi Lu.",
+          "tags": [
+            "self-knowledge",
+            "honesty",
+            "wisdom"
+          ],
+          "weight": 5
+        }
+      ]
+    },
+    {
+      "titleEn": "Vol. III — Recorded sayings",
+      "titleZh": "卷下·语录",
+      "titleOrig": "傳習錄下",
+      "passages": [
+        {
+          "originalText": "聖人之知，如青天之日；賢人如浮雲天日；愚人如陰霾天日。雖有昏明不同，其能辨黑白則一。",
+          "englishText": "The knowledge of the sage may be compared to the sun on a clear day; that of the virtuous man to the sun on a day of floating clouds ; that of a simple-minded, rustic man to the sun on a dark, foggy day. Though the darkness and clearness vary, they may all equally distinguish between black and white.",
+          "transliteration": null,
+          "canonicalRef": "Chuanxi Lu III.289",
+          "originalLang": "classical-chinese",
+          "translator": "Frederick Goodrich Henke (1916)",
+          "sourceUrl": "https://archive.org/details/philosophyofwang00wangiala/page/190/mode/1up",
+          "license": "Chinese: public domain (Chinese Wikisource); English: public domain in the US (published 1916)",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "The knowing of a sage is like the sun in a clear sky, a worthy person's like the sun behind drifting clouds, an ordinary person's like the sun on a dark, foggy day. The brightness differs, but all can tell black from white.",
+          "summaryZh": "圣人的知如青天中的太阳，贤人的如浮云遮着的太阳，愚人的如阴霾天里的太阳。明暗虽然不同，能分辨黑白这一点却是一样的。",
+          "similarQuestions": [
+            "Do I really know right from wrong?",
+            "Is morality innate or learned?",
+            "Does everyone have a conscience?",
+            "Am I capable of being good?"
+          ],
+          "contextNote": "Wang taught that innate knowing (liangzhi) is present in everyone, sage and ordinary person alike; what differs is how far it is obscured. He goes on to say that even in the dark of night one can still dimly make out black and white. This replaces a definition of liangzhi as Mencius's \"sense of right and wrong\", which comes from Wang's Inquiry on the Great Learning (大學問), not the Chuanxi Lu.",
+          "tags": [
+            "wisdom",
+            "goodness",
+            "equality"
+          ],
+          "weight": 4
+        },
+        {
+          "originalText": "你來看此花時，則此花顏色一時明白起來。便知此花不在你的心外。",
+          "englishText": "When you see them, their colors at once become clear. From this you can know that these flowers are not external to your mind.",
+          "transliteration": null,
+          "canonicalRef": "Chuanxi Lu III.275",
+          "originalLang": "classical-chinese",
+          "translator": "Frederick Goodrich Henke (1916)",
+          "sourceUrl": "https://archive.org/details/philosophyofwang00wanguoft/page/169/mode/1up",
+          "license": "Chinese: public domain (Chinese Wikisource); English: public domain in the US (published 1916)",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "When you look at the flowers, their colours at once become clear — so the flowers are not outside your mind.",
+          "summaryZh": "你来看这花时，花的颜色一下子明白起来——由此便知，这花不在你的心外。",
+          "similarQuestions": [
+            "Does reality exist outside my mind?",
+            "What is the relationship between consciousness and reality?",
+            "Is the world as I perceive it?"
+          ],
+          "contextNote": "The end of the famous \"flowers on the cliff\" exchange at Nanzhen. A friend pointed to flowering trees that bloom and fall on their own deep in the mountains and asked what they had to do with his mind; Wang first replied that before you looked at them, they and your mind were both at rest (同歸於寂). Often compared with Berkeley's idealism, though Wang's point concerns the mind's engagement with things rather than whether they exist.",
+          "tags": [
+            "nature",
+            "self-knowledge",
+            "truth"
+          ],
+          "weight": 5
+        }
+      ]
+    },
+    {
+      "titleEn": "Vol. I — Lu Cheng’s record",
+      "titleZh": "卷上·陆澄录",
+      "titleOrig": "傳習錄上·陸澄錄",
+      "passages": [
+        {
+          "originalText": "須教他省察克治。省察克治之功，則無時而可間。如去盜賊，須有個掃除廓清之意。無事時，將好色、好貨、好名等私，逐一追究搜尋出來；定要拔去病根，永不復起，方始為快。",
+          "englishText": "He should be taught to examine and control himself, and to allow none of the affairs of life to interrupt this task. If one wishes to drive out robbers and thieves, one must proceed with the determination of expelling them and of inaugurating a clean, clear state of things. When one has leisure, salaciousness, covetousness, the desire for honor, and all like passions should be followed up and sought for individually. The root of evil must be pulled out, and never be allowed to appear again. Then first has a condition of joy been instituted.",
+          "transliteration": null,
+          "canonicalRef": "Chuanxi Lu I.39",
+          "originalLang": "classical-chinese",
+          "translator": "Frederick Goodrich Henke (1916)",
+          "sourceUrl": "https://archive.org/details/philosophyofwang00wanguoft/page/84/mode/1up",
+          "license": "Chinese: public domain (Chinese Wikisource); English: public domain in the US (published 1916)",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "Self-examination and self-mastery must never lapse. Like clearing out bandits, you must resolve to sweep them away completely: hunt down lust, greed and love of fame one by one, pull out the root, and never let it grow back.",
+          "summaryZh": "省察克治的功夫一刻也不能间断。就像剿除盗贼，要有扫除廓清的决心：把好色、好货、好名等私欲逐一搜寻出来，拔去病根，永不复起，才算痛快。",
+          "similarQuestions": [
+            "How to maintain self-discipline?",
+            "Why do I keep falling back into bad habits?",
+            "How to overcome my inner demons?",
+            "What is the hardest battle?",
+            "How to break a bad habit for good?"
+          ],
+          "contextNote": "Wang, a successful general who suppressed bandits in Jiangxi, often used military metaphors for self-cultivation. The famous line \"It is easy to defeat the bandits in the mountains, hard to defeat the bandits in the heart\" comes from one of his letters, not the Chuanxi Lu; this is the Chuanxi Lu passage on the same theme. Here he warns that sitting in meditation alone is not enough for beginners.",
+          "tags": [
+            "discipline",
+            "desire",
+            "character"
+          ],
+          "weight": 5
+        },
+        {
+          "originalText": "問：「靜時亦覺意思好，才遇事便不同，如何？」 先生曰：「是徒知養靜，而不用克己工夫也。如此，臨事便要傾倒。人須在事上磨，方立得住，方能靜亦定，動亦定。",
+          "englishText": "I made inquiry saying: \"When I am tranquil I am conscious of good ideas, but when I meet with events (am subject to stimulation) the situation is different. How do you account for this?\" The Teacher said: \"This shows that you know how to cultivate tranquility but do not understand how to control yourself. For this reason you are prostrate whenever you meet with a difficulty. When one has experience in affairs, he is able to stand firmly. Whether at rest or occupied, his purpose is fixed.",
+          "transliteration": null,
+          "canonicalRef": "Chuanxi Lu I.23",
+          "originalLang": "classical-chinese",
+          "translator": "Frederick Goodrich Henke (1916)",
+          "sourceUrl": "https://archive.org/details/philosophyofwang00wangiala/page/76/mode/1up",
+          "license": "Chinese: public domain (Chinese Wikisource); English: public domain in the US (published 1916)",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "Feeling calm in quiet moments but losing it once events arrive means you have only cultivated stillness, not self-mastery. You must be tempered in real affairs; only then can you stand firm, settled both at rest and in action.",
+          "summaryZh": "静时觉得心境不错，一遇事就变了样，说明只知养静，没有下克己的功夫。人要在事上磨炼，才立得住，才能静时也定、动时也定。",
+          "similarQuestions": [
+            "Why do I lose my calm under pressure?",
+            "Is meditation enough?",
+            "How to stay composed in a crisis?",
+            "How to grow through difficulties?"
+          ],
+          "contextNote": "The source of the phrase \"training on actual affairs\" (事上磨练), one of Wang's most practical teachings. Henke renders 事上磨 loosely as \"experience in affairs\"; the Chinese says one must be ground and polished on real tasks.",
+          "tags": [
+            "practice",
+            "discipline",
+            "perseverance"
+          ],
+          "weight": 4
+        }
+      ]
+    }
+  ]
+}

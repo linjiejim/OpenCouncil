@@ -1,0 +1,370 @@
+{
+  "work": {
+    "titleEn": "Zhuangzi (Selected Passages)",
+    "titleZh": "庄子（精选）",
+    "titleOrig": "莊子",
+    "language": "classical-chinese",
+    "circaYear": -300,
+    "description": "Selected passages from the Zhuangzi, the Daoist classic attributed to Zhuang Zhou, known for its parables, paradoxes and play with perspective. Chinese text from Chinese Wikisource (public domain) with the public-domain English translation of Herbert A. Giles (1889), via English Wikisource and Project Gutenberg.",
+    "copyright": "public-domain",
+    "sourceUrl": "https://en.wikisource.org/wiki/Chuang_Tz%C5%AD_(Giles)"
+  },
+  "chapters": [
+    {
+      "titleEn": "Chapter 1: Transcendental Bliss (Xiaoyaoyou)",
+      "titleZh": "逍遥游",
+      "titleOrig": "逍遙遊",
+      "passages": [
+        {
+          "originalText": "北冥有魚，其名爲鯤。鯤之大，不知其幾千里也，化而爲鳥，其名爲鵬。鵬之背，不知其幾千里也，怒而飛，其翼若垂天之雲。",
+          "englishText": "IN the northern ocean there is a fish, called the Leviathan, many thousand li in size. This leviathan changes into a bird, called the Rukh, whose back is many thousand li in breadth. With a mighty effort it rises, and its wings obscure the sky like clouds.",
+          "transliteration": null,
+          "canonicalRef": "Zhuangzi 1 (Xiaoyaoyou): Kun and Peng",
+          "originalLang": "classical-chinese",
+          "translator": "Herbert A. Giles (1889)",
+          "sourceUrl": "https://en.wikisource.org/wiki/Chuang_Tz%C5%AD_(Giles)/Chapter_1",
+          "license": "Chinese: public domain (Wikisource); English: public domain",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "A fish in the northern ocean, thousands of li in size, changes into a vast bird whose wings darken the sky like clouds. The book opens with a scale beyond ordinary measure, and with transformation.",
+          "summaryZh": "北方大海里有一条大鱼，大到不知有几千里；它化而为鸟，展翅高飞时，翅膀如同遮天的云。全书以超出常人尺度的形象和\"化\"的主题开篇。",
+          "similarQuestions": [
+            "How to think bigger?",
+            "What is true freedom?",
+            "How to transcend limitations?",
+            "Can I transform my life completely?",
+            "What does it mean to dream big?"
+          ],
+          "contextNote": "The opening of the Zhuangzi. Giles renders the fish Kun (鯤) as \"Leviathan\" and the bird Peng (鵬) as \"Rukh\". The chapter goes on to contrast the great bird with a cicada and a dove who laugh at it, setting up the theme of small and great perspectives.",
+          "tags": [
+            "freedom",
+            "cosmos",
+            "nature"
+          ],
+          "weight": 5
+        },
+        {
+          "originalText": "小知不及大知，小年不及大年。奚以知其然也？朝菌不知晦朔，蟪蛄不知春秋。此小年也。",
+          "englishText": "Small knowledge has not the compass of great knowledge any more than a short year has the length of a long year. How can we tell that this is so? The mushroom of a morning knows not the alternation of day and night. The chrysalis knows not the alternation of spring and autumn. Theirs are short years.",
+          "transliteration": null,
+          "canonicalRef": "Zhuangzi 1 (Xiaoyaoyou): small and great knowledge",
+          "originalLang": "classical-chinese",
+          "translator": "Herbert A. Giles (1889)",
+          "sourceUrl": "https://en.wikisource.org/wiki/Chuang_Tz%C5%AD_(Giles)/Chapter_1",
+          "license": "Chinese: public domain (Wikisource); English: public domain",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "Small knowledge cannot reach as far as great knowledge, just as a short life cannot span a long one: the morning mushroom never sees night and day pass, the cicada never sees spring and autumn.",
+          "summaryZh": "小智比不上大智，短命比不上长寿：朝生暮死的菌类不知道一天的昼夜，蝉不知道一年的春秋。我们的理解总受限于自身的尺度。",
+          "similarQuestions": [
+            "How limited is my perspective?",
+            "Am I missing the bigger picture?",
+            "How to gain broader understanding?",
+            "What are my blind spots?"
+          ],
+          "contextNote": "This comes right after the cicada and the little dove mock the great bird for flying so far. Zhuangzi uses short-lived and long-lived creatures to show that every being judges from within its own span.",
+          "tags": [
+            "wisdom",
+            "self-knowledge",
+            "doubt"
+          ],
+          "weight": 4
+        },
+        {
+          "originalText": "故曰：「至人无己，神人无功，聖人无名。」",
+          "englishText": "Thus it has been said, \"The perfect man ignores self; the divine man ignores action; the true Sage ignores reputation.\"",
+          "transliteration": null,
+          "canonicalRef": "Zhuangzi 1 (Xiaoyaoyou): the perfect man",
+          "originalLang": "classical-chinese",
+          "translator": "Herbert A. Giles (1889)",
+          "sourceUrl": "https://en.wikisource.org/wiki/Chuang_Tz%C5%AD_(Giles)/Chapter_1",
+          "license": "Chinese: public domain (Wikisource); English: public domain",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "The perfect man has no self, the divine man no achievement, the true sage no name — in Giles’s words, they ignore self, action and reputation.",
+          "summaryZh": "至人没有自我，神人不求功业，圣人不求名声。最高的境界是放下自我、功劳和名誉。",
+          "similarQuestions": [
+            "How to overcome ego?",
+            "Does recognition matter?",
+            "What is spiritual perfection?",
+            "Should I seek fame?",
+            "How to let go of ambition?"
+          ],
+          "contextNote": "This line closes the first part of the chapter: after a man indifferent to praise and blame, and Liezi who could ride the wind but still depended on it, Zhuangzi points to one who depends on nothing. The stories that follow (Yao offering the empire to Xu You, who refuses it) illustrate \"no name\".",
+          "tags": [
+            "freedom",
+            "self-knowledge",
+            "simplicity"
+          ],
+          "weight": 5
+        }
+      ]
+    },
+    {
+      "titleEn": "Chapter 2: The Identity of Contraries (Qiwulun)",
+      "titleZh": "齐物论",
+      "titleOrig": "齊物論",
+      "passages": [
+        {
+          "originalText": "昔者莊周夢爲胡蝶，栩栩然胡蝶也，自喻適志與，不知周也。俄然覺，則蘧蘧然周也。不知周之夢爲胡蝶與？胡蝶之夢爲周與？周與胡蝶，則必有分矣，此之謂物化。",
+          "englishText": "Once upon a time, I, Chuang Tzŭ, dreamt I was a butterfly, fluttering hither and thither, to all intents and purposes a butterfly. I was conscious only of following my fancies as a butterfly, and was unconscious of my individuality as a man. Suddenly, I awaked, and there I lay, myself again. Now I do not know whether I was then a man dreaming I was a butterfly, or whether I am now a butterfly dreaming I am a man. Between a man and a butterfly there is necessarily a barrier. The transition is called Metempsychosis.",
+          "transliteration": null,
+          "canonicalRef": "Zhuangzi 2 (Qiwulun): the butterfly dream",
+          "originalLang": "classical-chinese",
+          "translator": "Herbert A. Giles (1889)",
+          "sourceUrl": "https://en.wikisource.org/wiki/Chuang_Tz%C5%AD_(Giles)/Chapter_2",
+          "license": "Chinese: public domain (Wikisource); English: public domain",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "Zhuangzi dreams he is a butterfly, wholly a butterfly; on waking he cannot tell whether he is a man who dreamt of being a butterfly or a butterfly dreaming of being a man. Yet there is a distinction between them — and the passage from one to the other is the transformation of things.",
+          "summaryZh": "庄周梦见自己是一只蝴蝶，醒来后不知道是庄周梦见了蝴蝶，还是蝴蝶梦见了庄周。二者必定有分别，而从此到彼的转变，就叫\"物化\"。",
+          "similarQuestions": [
+            "What is real?",
+            "Who am I really?",
+            "Is life a dream?",
+            "How do I know what's true?",
+            "What is the nature of identity?",
+            "How to deal with uncertainty about reality?"
+          ],
+          "contextNote": "The closing passage of the Qiwulun and perhaps the most famous in Chinese philosophy. Giles translates 物化 (\"the transformation of things\") as \"Metempsychosis\", a Western term the original does not use.",
+          "tags": [
+            "self-knowledge",
+            "doubt",
+            "impermanence"
+          ],
+          "weight": 5
+        },
+        {
+          "originalText": "雖然，方生方死，方死方生，方可方不可，方不可方可。因是因非，因非因是，是以聖人不由，而照之于天，亦因是也。",
+          "englishText": "Nevertheless, when one is born, the other dies. When one is possible, the other is impossible. When one is affirmative the other is negative. Which being the case, the true sage rejects all distinctions of this and that. He takes his refuge in God, and places himself in subjective relation with all things.",
+          "transliteration": null,
+          "canonicalRef": "Zhuangzi 2 (Qiwulun): this and that",
+          "originalLang": "classical-chinese",
+          "translator": "Herbert A. Giles (1889)",
+          "sourceUrl": "https://en.wikisource.org/wiki/Chuang_Tz%C5%AD_(Giles)/Chapter_2",
+          "license": "Chinese: public domain (Wikisource); English: public domain",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "Opposites arise together: as one is born the other dies, as one is affirmed the other is denied. So the sage does not take sides between \"this\" and \"that\", but sees things in the light of Heaven.",
+          "summaryZh": "对立面相伴而生：方生方死，方可方不可，有是就有非。所以圣人不陷入彼此是非之争，而是以天理观照万物。",
+          "similarQuestions": [
+            "Is there absolute right and wrong?",
+            "How to deal with moral ambiguity?",
+            "Can opposites coexist?",
+            "Why do people disagree about what is right?"
+          ],
+          "contextNote": "A central argument of the Qiwulun: \"this\" (是) and \"that\" (彼) define each other, so no fixed standpoint is final. Giles renders the pair as \"subjective\" and \"objective\", and 天 (Heaven) as \"God\".",
+          "tags": [
+            "truth",
+            "doubt",
+            "wisdom"
+          ],
+          "weight": 4
+        }
+      ]
+    },
+    {
+      "titleEn": "Chapter 3: Nourishment of the Soul (Yangshengzhu)",
+      "titleZh": "养生主",
+      "titleOrig": "養生主",
+      "passages": [
+        {
+          "originalText": "吾生也有涯，而知也无涯。以有涯隨无涯，殆已。已而爲知者，殆而已矣。爲善无近名，爲惡无近刑，緣督以爲經，可以保身，可以全生，可以養親，可以盡年。",
+          "englishText": "My life has a limit, but my knowledge is without limit. To drive the limited in search of the limitless, is fatal; and the knowledge of those who do this is fatally lost. In striving for others, avoid fame. In striving for self, avoid disgrace. Pursue a middle course. Thus you will keep a sound body, and a sound mind, fulfil your duties, and work out your allotted span.",
+          "transliteration": null,
+          "canonicalRef": "Zhuangzi 3 (Yangshengzhu): life has a limit",
+          "originalLang": "classical-chinese",
+          "translator": "Herbert A. Giles (1889)",
+          "sourceUrl": "https://www.gutenberg.org/ebooks/59709",
+          "license": "Chinese: public domain (Wikisource); English: public domain",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "Life is limited but knowledge is not; to chase the limitless with the limited is fatal. Avoid both fame and disgrace, keep to the middle course, and you will preserve body and mind and live out your years.",
+          "summaryZh": "生命有限而知识无限，以有限追逐无限，必然危殆。做好事不求名，做坏事不近刑，顺着中道而行，就能保全身体、养护天性、尽享天年。",
+          "similarQuestions": [
+            "How to avoid burnout?",
+            "Is knowledge worth pursuing endlessly?",
+            "How to prioritize what to learn?",
+            "When should I stop trying to know everything?",
+            "How to accept my limitations?"
+          ],
+          "contextNote": "The opening of the chapter on \"nourishing life\". Zhuangzi warns against the very pursuit of knowledge that philosophy represents, and offers instead the image of following the middle channel (緣督以爲經).",
+          "tags": [
+            "wisdom",
+            "simplicity",
+            "practice"
+          ],
+          "weight": 5
+        },
+        {
+          "originalText": "文惠君曰：「譆！善哉！技蓋至此乎！」庖丁釋刀，對曰：「臣之所好者，道也，進乎技矣。始臣之解牛之時，所見无非牛者。三年之後，未嘗見全牛也。",
+          "englishText": "\"Well done!\" cried the Prince. \"Yours is skill indeed.\" \"Sire,\" replied the cook; \"I have always devoted myself to Tao. It is better than skill. When I first began to cut up bullocks, I saw before me simply whole bullocks. After three years' practice, I saw no more whole animals.",
+          "transliteration": null,
+          "canonicalRef": "Zhuangzi 3 (Yangshengzhu): Cook Ding",
+          "originalLang": "classical-chinese",
+          "translator": "Herbert A. Giles (1889)",
+          "sourceUrl": "https://en.wikisource.org/wiki/Chuang_Tz%C5%AD_(Giles)/Chapter_3",
+          "license": "Chinese: public domain (Wikisource); English: public domain",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "Praised for his skill, the cook replies that what he cares about is the Way (Tao), which goes beyond skill: at first he saw only whole oxen, but after three years he no longer saw the whole animal.",
+          "summaryZh": "文惠君称赞庖丁技艺高超，庖丁答道：我所喜好的是道，已经超过了技术。刚开始解牛时，眼里看到的都是整头牛；三年之后，就再也看不到整头的牛了。",
+          "similarQuestions": [
+            "How to achieve mastery?",
+            "What is the secret of excellence?",
+            "How to work without burnout?",
+            "What is flow state?",
+            "How to make hard work look easy?"
+          ],
+          "contextNote": "From the parable of Cook Ding (Giles: \"Prince Hui’s cook\"). The cook goes on to explain that he now works by spirit rather than sight, follows the natural spaces between the joints, and has used the same blade for nineteen years; the prince concludes that he has learned how to nourish life.",
+          "tags": [
+            "practice",
+            "wisdom",
+            "non-action"
+          ],
+          "weight": 5
+        }
+      ]
+    },
+    {
+      "titleEn": "Chapter 4: Man among Men (Renjianshi)",
+      "titleZh": "人间世",
+      "titleOrig": "人間世",
+      "passages": [
+        {
+          "originalText": "山木，自寇也。膏火，自煎也。桂可食，故伐之。漆可用，故割之。人皆知有用之用，而莫知无用之用也。",
+          "englishText": "Hills suffer from the trees they produce. Fat burns by its own combustibility. Cinnamon trees furnish food: therefore they are cut down. The lacquer tree is felled for use. All men know the use of useful things; but they do not know the use of useless things.",
+          "transliteration": null,
+          "canonicalRef": "Zhuangzi 4 (Renjianshi): the use of the useless",
+          "originalLang": "classical-chinese",
+          "translator": "Herbert A. Giles (1889)",
+          "sourceUrl": "https://en.wikisource.org/wiki/Chuang_Tz%C5%AD_(Giles)/Chapter_4",
+          "license": "Chinese: public domain (Wikisource); English: public domain",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "What is useful invites its own destruction: cinnamon is edible, so the tree is cut down; lacquer is useful, so the tree is gashed. Everyone knows the use of the useful, but no one knows the use of the useless.",
+          "summaryZh": "有用反而招致伤害：桂树可以吃，所以被砍伐；漆树有用，所以被割开。人们都知道有用的用处，却不知道无用的用处。",
+          "similarQuestions": [
+            "Is being ambitious dangerous?",
+            "Should I always try to be useful?",
+            "How to protect myself from being exploited?",
+            "What is the value of doing nothing?",
+            "Is it okay to be ordinary?"
+          ],
+          "contextNote": "The last lines of the chapter, which is full of stories of trees and people saved by being \"useless\". Giles reads these lines as the end of the madman Jieyu’s song to Confucius, and takes 山木自寇 as \"hills suffer from the trees they produce\".",
+          "tags": [
+            "simplicity",
+            "wisdom",
+            "freedom"
+          ],
+          "weight": 5
+        }
+      ]
+    },
+    {
+      "titleEn": "Chapter 6: The Great Supreme (Dazongshi)",
+      "titleZh": "大宗师",
+      "titleOrig": "大宗師",
+      "passages": [
+        {
+          "originalText": "死生，命也；其有夜旦之常，天也。人之有所不得與，皆物之情也。",
+          "englishText": "Life and Death belong to Destiny. Their sequence, like day and night, is of God, beyond the interference of man, an inevitable law.",
+          "transliteration": null,
+          "canonicalRef": "Zhuangzi 6 (Dazongshi): life and death",
+          "originalLang": "classical-chinese",
+          "translator": "Herbert A. Giles (1889)",
+          "sourceUrl": "https://en.wikisource.org/wiki/Chuang_Tz%C5%AD_(Giles)/Chapter_6",
+          "license": "Chinese: public domain (Wikisource); English: public domain",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "Life and death are fated; their succession, like that of night and day, belongs to Heaven. There are things in which human beings can have no say — that is simply how things are.",
+          "summaryZh": "生死是命中注定的，就像昼夜交替一样，是自然之常。有些事是人无法干预的，这就是万物的实情。",
+          "similarQuestions": [
+            "How to accept death?",
+            "How to deal with things I cannot control?",
+            "Is fate real?",
+            "How to find peace with mortality?",
+            "What happens when we die?"
+          ],
+          "contextNote": "From the chapter on the \"great and venerable teacher\". Giles renders 天 (Heaven) as \"God\". Zhuangzi’s serenity about death recurs throughout the book — in Chapter 18 he is found drumming and singing after his wife’s death.",
+          "tags": [
+            "death",
+            "destiny",
+            "nature"
+          ],
+          "weight": 4
+        }
+      ]
+    },
+    {
+      "titleEn": "Chapter 14: The Circling Sky (Tianyun)",
+      "titleZh": "天运",
+      "titleOrig": "天運",
+      "passages": [
+        {
+          "originalText": "夫鵠不日浴而白，烏不日黔而黑。黑白之朴，不足以爲辯；名譽之觀，不足以爲廣。泉涸，魚相與處於陸，相呴以濕，相濡以沫，不若相忘於江湖。",
+          "englishText": "The snow-goose is white without a daily bath. The raven is black without daily colouring itself. The original simplicity of black and of white is beyond the reach of argument. The vista of fame and reputation is not worthy of enlargement. When the pond dries up and the fishes are left upon dry ground, to moisten them with the breath or to damp them with a little spittle is not to be compared with leaving them in the first instance in their native rivers and lakes.",
+          "transliteration": null,
+          "canonicalRef": "Zhuangzi 14 (Tianyun): fish on dry land",
+          "originalLang": "classical-chinese",
+          "translator": "Herbert A. Giles (1889)",
+          "sourceUrl": "https://en.wikisource.org/wiki/Chuang_Tz%C5%AD_(Giles)/Chapter_14",
+          "license": "Chinese: public domain (Wikisource); English: public domain",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "The goose is white and the crow black without effort. When the spring dries up, fish stranded on land keep each other alive with breath and spittle — but far better to leave them to forget one another in the rivers and lakes.",
+          "summaryZh": "天鹅不用天天洗浴也是白的，乌鸦不用天天染也是黑的。泉水干了，鱼困在陆地上，用湿气互相嘘吸，用唾沫互相润湿，不如在江湖里彼此相忘。",
+          "similarQuestions": [
+            "What is true friendship?",
+            "Is codependency healthy?",
+            "How to love without clinging?",
+            "Do we need moral rules to be good?",
+            "What is healthy independence in relationships?"
+          ],
+          "contextNote": "Laozi’s reply to Confucius, who has come to preach benevolence and righteousness: such virtues are like fish moistening each other once the water is gone. The same image appears in Chapter 6 (Dazongshi), and 相忘於江湖 (\"forgetting each other in the rivers and lakes\") has become a common Chinese expression.",
+          "tags": [
+            "friendship",
+            "freedom",
+            "simplicity"
+          ],
+          "weight": 5
+        }
+      ]
+    },
+    {
+      "titleEn": "Chapter 17: Autumn Floods (Qiushui)",
+      "titleZh": "秋水",
+      "titleOrig": "秋水",
+      "passages": [
+        {
+          "originalText": "井蛙不可以語於海者，拘於虛也；夏蟲不可以語於冰者，篤於時也；曲士不可以語於道者，束於教也。",
+          "englishText": "You cannot speak of ocean to a well-frog,—the creature of a narrower sphere. You cannot speak of ice to a summer insect,—the creature of a season. You cannot speak of Tao to a pedagogue: his scope is too restricted.",
+          "transliteration": null,
+          "canonicalRef": "Zhuangzi 17 (Qiushui): the well-frog",
+          "originalLang": "classical-chinese",
+          "translator": "Herbert A. Giles (1889)",
+          "sourceUrl": "https://en.wikisource.org/wiki/Chuang_Tz%C5%AD_(Giles)/Chapter_17",
+          "license": "Chinese: public domain (Wikisource); English: public domain",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "You cannot talk about the ocean to a frog in a well, about ice to a summer insect, or about the Way to a narrow scholar: each is confined by its space, its season, or its teaching.",
+          "summaryZh": "不能和井底之蛙谈论大海，因为它受居处的局限；不能和夏天的虫子谈论冰，因为它受时令的局限；不能和见识浅陋的人谈论道，因为他受所学教条的束缚。",
+          "similarQuestions": [
+            "Why can't people understand each other?",
+            "How to broaden my perspective?",
+            "Am I trapped in my own bubble?",
+            "How to communicate with people who think differently?",
+            "Why are some people closed-minded?"
+          ],
+          "contextNote": "The Spirit of the North Sea speaks to the River Spirit, who has just discovered how small he is. 井底之蛙 (\"the frog at the bottom of the well\") is now a standard idiom for narrow-mindedness. The Chinese is taken from the main text of 南華真經註疏.",
+          "tags": [
+            "wisdom",
+            "education",
+            "self-knowledge"
+          ],
+          "weight": 5
+        }
+      ]
+    }
+  ]
+}

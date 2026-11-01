@@ -1,0 +1,1374 @@
+{
+  "work": {
+    "titleEn": "The Dhammapada (Selected Verses)",
+    "titleZh": "法句经（精选）",
+    "titleOrig": "Dhammapada",
+    "language": "pali",
+    "circaYear": -300,
+    "description": "Verse sayings of the Buddha from the Pali Canon. Pali root text (Mahāsaṅgīti edition) and English translation by Bhikkhu Sujato, both released into the public domain (CC0).",
+    "copyright": "CC0",
+    "sourceUrl": "https://suttacentral.net/dhp"
+  },
+  "chapters": [
+    {
+      "titleEn": "Yamakavagga (Pairs)",
+      "titleZh": "双品",
+      "titleOrig": "Yamakavagga",
+      "passages": [
+        {
+          "originalText": "Manopubbaṅgamā dhammā, manoseṭṭhā manomayā; Manasā ce paduṭṭhena, bhāsati vā karoti vā; Tato naṁ dukkhamanveti, cakkaṁva vahato padaṁ.",
+          "englishText": "Intention shapes experiences; intention is first, they’re made by intention. If with corrupt intent you speak or act, suffering follows you, like a wheel, the ox’s foot.",
+          "transliteration": null,
+          "canonicalRef": "Dhp 1",
+          "originalLang": "pali",
+          "translator": "Bhikkhu Sujato",
+          "sourceUrl": "https://suttacentral.net/dhp1/pli/ms",
+          "license": "CC0",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "Mind precedes all things. Act from a corrupt mind and suffering follows like a cartwheel behind the ox.",
+          "summaryZh": "心是万法的先导。以败坏之心行事，痛苦便如车轮跟随拉车的牛一样随之而来。",
+          "similarQuestions": [
+            "How does my thinking shape my life?",
+            "Why do I keep suffering?",
+            "Can I change my mindset?"
+          ],
+          "contextNote": "The opening verse of the Dhammapada, placing mind at the root of all experience — centuries before modern cognitive psychology.",
+          "tags": [
+            "wisdom",
+            "self-knowledge",
+            "suffering"
+          ],
+          "weight": 5
+        },
+        {
+          "originalText": "Na hi verena verāni, sammantīdha kudācanaṁ; Averena ca sammanti, esa dhammo sanantano.",
+          "englishText": "For never is hatred laid to rest by hate, it’s laid to rest by love: this is an ancient teaching.",
+          "transliteration": null,
+          "canonicalRef": "Dhp 5",
+          "originalLang": "pali",
+          "translator": "Bhikkhu Sujato",
+          "sourceUrl": "https://suttacentral.net/dhp5/pli/ms",
+          "license": "CC0",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "Hatred is never ended by hatred, only by love. This is an ancient, unchanging law.",
+          "summaryZh": "仇恨永远无法止息仇恨，唯有以爱方能止息。这是亘古不变的法则。",
+          "similarQuestions": [
+            "How do I break a cycle of revenge?",
+            "How should I respond to hatred?",
+            "Is forgiveness weakness?"
+          ],
+          "contextNote": "One of the most quoted Buddhist verses. It parallels, yet differs from, the Christian teaching of turning the other cheek.",
+          "tags": [
+            "compassion",
+            "love",
+            "character"
+          ],
+          "weight": 5
+        }
+      ]
+    },
+    {
+      "titleEn": "Pupphavagga (Flowers)",
+      "titleZh": "花品",
+      "titleOrig": "Pupphavagga",
+      "passages": [
+        {
+          "originalText": "Na paresaṁ vilomāni, na paresaṁ katākataṁ; Attanova avekkheyya, katāni akatāni ca.",
+          "englishText": "Don’t find fault with others, with what they’ve done or left undone. You should only watch yourself, what you’ve done or left undone.",
+          "transliteration": null,
+          "canonicalRef": "Dhp 50",
+          "originalLang": "pali",
+          "translator": "Bhikkhu Sujato",
+          "sourceUrl": "https://suttacentral.net/dhp50/pli/ms",
+          "license": "CC0",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "Do not dwell on others’ faults and failings; look instead at what you yourself have done or left undone.",
+          "summaryZh": "不要执着于他人的过失，而应审视自己做了什么、又遗漏了什么。",
+          "similarQuestions": [
+            "Why do I judge others so much?",
+            "How do I stop criticizing people?",
+            "Where should I focus to grow?"
+          ],
+          "contextNote": "A redirection of moral attention from others to oneself — a recurring theme in the Dhammapada.",
+          "tags": [
+            "self-knowledge",
+            "character",
+            "virtue"
+          ],
+          "weight": 4
+        }
+      ]
+    },
+    {
+      "titleEn": "Paṇḍitavagga (The Wise)",
+      "titleZh": "智者品",
+      "titleOrig": "Paṇḍitavagga",
+      "passages": [
+        {
+          "originalText": "Selo yathā ekaghano, vātena na samīrati; Evaṁ nindāpasaṁsāsu, na samiñjanti paṇḍitā.",
+          "englishText": "As the wind cannot stir a solid mass of rock, so too blame and praise do not affect the wise.",
+          "transliteration": null,
+          "canonicalRef": "Dhp 81",
+          "originalLang": "pali",
+          "translator": "Bhikkhu Sujato",
+          "sourceUrl": "https://suttacentral.net/dhp81/pli/ms",
+          "license": "CC0",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "As a solid rock is unmoved by the wind, the wise are unshaken by praise and blame.",
+          "summaryZh": "如同坚岩不为风动，智者不为毁誉所动。",
+          "similarQuestions": [
+            "How do I stop caring what people think?",
+            "How to stay steady under criticism?",
+            "How to handle praise and blame?"
+          ],
+          "contextNote": "The rock-and-wind image is among the most enduring Buddhist metaphors for equanimity.",
+          "tags": [
+            "wisdom",
+            "discipline",
+            "self-knowledge"
+          ],
+          "weight": 4
+        },
+        {
+          "originalText": "Nidhīnaṁva pavattāraṁ, yaṁ passe vajjadassinaṁ; Niggayhavādiṁ medhāviṁ, tādisaṁ paṇḍitaṁ bhaje; Tādisaṁ bhajamānassa, seyyo hoti na pāpiyo.",
+          "englishText": "Regard one who sees your faults as a guide to a hidden treasure. Stay close to one so wise and astute who corrects you when you need it. Sticking close to such an impartial person, things get better, not worse.",
+          "transliteration": null,
+          "canonicalRef": "Dhp 76",
+          "originalLang": "pali",
+          "translator": "Bhikkhu Sujato",
+          "sourceUrl": "https://suttacentral.net/dhp76/pli/ms",
+          "license": "CC0",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "A wise person who corrects your faults should be cherished as a guide to hidden treasure, for associating with such an impartial critic leads to improvement.",
+          "summaryZh": "应当把指出你过错的人视为指引宝藏的向导，亲近这样的智者，与之相处会带来进步而非堕落。",
+          "similarQuestions": [
+            "How should I respond to criticism?",
+            "Why is it important to have honest friends?",
+            "How can I grow from negative feedback?",
+            "What kind of people should I surround myself with?"
+          ],
+          "contextNote": "This verse from the Dhammapada, attributed to the Buddha, emphasizes the value of constructive criticism and wise counsel in the context of spiritual and personal development. It applies broadly to anyone seeking self-improvement, but assumes a relationship of trust and goodwill.",
+          "tags": [
+            "wisdom",
+            "friendship",
+            "self-knowledge",
+            "discipline"
+          ],
+          "weight": 3
+        },
+        {
+          "originalText": "Udakañhi nayanti nettikā, Usukārā namayanti tejanaṁ; Dāruṁ namayanti tacchakā, Attānaṁ damayanti paṇḍitā.",
+          "englishText": "Irrigators guide water, fletchers straighten arrows, carpenters carve timber, the astute tame themselves.",
+          "transliteration": null,
+          "canonicalRef": "Dhp 80",
+          "originalLang": "pali",
+          "translator": "Bhikkhu Sujato",
+          "sourceUrl": "https://suttacentral.net/dhp80/pli/ms",
+          "license": "CC0",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "Just as craftsmen shape their materials, wise people discipline themselves.",
+          "summaryZh": "如同工匠塑造材料，智者调伏自身。",
+          "similarQuestions": [
+            "How can I develop self-discipline?",
+            "What does it mean to master myself?",
+            "How can I take control of my own mind and actions?",
+            "Why is self-control important for a good life?"
+          ],
+          "contextNote": "This verse from the Dhammapada uses everyday analogies from ancient India to illustrate the Buddhist ideal of self-mastery. It applies to anyone seeking personal growth.",
+          "tags": [
+            "discipline",
+            "self-knowledge",
+            "practice",
+            "wisdom"
+          ],
+          "weight": 4
+        },
+        {
+          "originalText": "Appakā te manussesu, ye janā pāragāmino; Athāyaṁ itarā pajā, tīramevānudhāvati.",
+          "englishText": "Few are those among humans who cross to the far shore. The rest just run around on the near shore.",
+          "transliteration": null,
+          "canonicalRef": "Dhp 85",
+          "originalLang": "pali",
+          "translator": "Bhikkhu Sujato",
+          "sourceUrl": "https://suttacentral.net/dhp85/pli/ms",
+          "license": "CC0",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "Very few people achieve true liberation; most remain stuck in the cycle of suffering.",
+          "summaryZh": "很少有人能到达彼岸，大多数人只是在轮回的此岸徘徊。",
+          "similarQuestions": [
+            "Why is it so hard to make real spiritual progress?",
+            "Am I one of the few who truly seek liberation?",
+            "How can I stop running around on the near shore and cross over?",
+            "What keeps most people from attaining freedom from suffering?"
+          ],
+          "contextNote": "This verse from the Dhammapada (verse 85) contrasts the rare enlightened ones with the masses caught in samsara. It underscores the difficulty of attaining nibbana and the need for persistent effort.",
+          "tags": [
+            "suffering",
+            "impermanence",
+            "freedom",
+            "wisdom"
+          ],
+          "weight": 4
+        }
+      ]
+    },
+    {
+      "titleEn": "Sahassavagga (Thousands)",
+      "titleZh": "千品",
+      "titleOrig": "Sahassavagga",
+      "passages": [
+        {
+          "originalText": "Yo sahassaṁ sahassena, saṅgāme mānuse jine; Ekañca jeyyamattānaṁ, sa ve saṅgāmajuttamo.",
+          "englishText": "The supreme conqueror is not he who conquers a million men in battle, but he who conquers a single man: himself.",
+          "transliteration": null,
+          "canonicalRef": "Dhp 103",
+          "originalLang": "pali",
+          "translator": "Bhikkhu Sujato",
+          "sourceUrl": "https://suttacentral.net/dhp103/pli/ms",
+          "license": "CC0",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "Greater than conquering a thousand men in battle is the one who conquers themselves.",
+          "summaryZh": "战胜千军万马，不如战胜自己一人。",
+          "similarQuestions": [
+            "What is the hardest thing to conquer?",
+            "What does real strength mean?",
+            "How do I master myself?"
+          ],
+          "contextNote": "Reframes heroism inward: self-mastery as the supreme victory.",
+          "tags": [
+            "discipline",
+            "courage",
+            "self-knowledge"
+          ],
+          "weight": 5
+        },
+        {
+          "originalText": "Sahassamapi ce vācā, anatthapadasaṁhitā; Ekaṁ atthapadaṁ seyyo, yaṁ sutvā upasammati.",
+          "englishText": "Better than a thousand meaningless sayings is a single meaningful saying, hearing which brings you peace.",
+          "transliteration": null,
+          "canonicalRef": "Dhp 100",
+          "originalLang": "pali",
+          "translator": "Bhikkhu Sujato",
+          "sourceUrl": "https://suttacentral.net/dhp100/pli/ms",
+          "license": "CC0",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "A single meaningful saying that brings peace is better than a thousand meaningless sayings.",
+          "summaryZh": "一句能带来平静的有意义的言语，胜过千句无意义的话语。",
+          "similarQuestions": [
+            "How can I find peace in a world full of noise?",
+            "What's the point of careful speech?",
+            "Why do I feel overwhelmed by too much information?",
+            "How can one saying change my life?"
+          ],
+          "contextNote": "This verse from the Dhammapada (Chapter 8, The Thousands) emphasizes the quality of speech and the importance of words that lead to peace. It is a practical teaching for daily life and applies to anyone seeking tranquility through mindful communication.",
+          "tags": [
+            "wisdom",
+            "simplicity",
+            "truth"
+          ],
+          "weight": 4
+        },
+        {
+          "originalText": "Yo ca vassasataṁ jīve, dussīlo asamāhito; Ekāhaṁ jīvitaṁ seyyo, sīlavantassa jhāyino.",
+          "englishText": "Better to live a single day ethical and absorbed in meditation than to live a hundred years unethical and lacking immersion.",
+          "transliteration": null,
+          "canonicalRef": "Dhp 110",
+          "originalLang": "pali",
+          "translator": "Bhikkhu Sujato",
+          "sourceUrl": "https://suttacentral.net/dhp110/pli/ms",
+          "license": "CC0",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "It is better to live one day with ethical discipline and meditative focus than to live a hundred years without virtue or mental concentration.",
+          "summaryZh": "有道德和禅定地活一天，胜过无道德和散乱地活百年。",
+          "similarQuestions": [
+            "Is it better to live a short, meaningful life or a long, empty one?",
+            "How important is ethical living compared to just existing?",
+            "Can meditation and virtue truly outweigh a long life without them?",
+            "What is the value of discipline in daily life?"
+          ],
+          "contextNote": "This verse from the Dhammapada, a collection of sayings of the Buddha, emphasizes quality over quantity in life, particularly valuing ethical conduct and meditative practice. It is addressed to both monastics and laypeople, urging prioritization of spiritual development.",
+          "tags": [
+            "virtue",
+            "discipline",
+            "practice",
+            "wisdom"
+          ],
+          "weight": 5
+        }
+      ]
+    },
+    {
+      "titleEn": "Pāpavagga (Wickedness)",
+      "titleZh": "恶品",
+      "titleOrig": "Pāpavagga",
+      "passages": [
+        {
+          "originalText": "Māvamaññetha pāpassa, na mantaṁ āgamissati; Udabindunipātena, udakumbhopi pūrati; Bālo pūrati pāpassa, thokaṁ thokampi ācinaṁ.",
+          "englishText": "Think not lightly of evil, that it won’t come back to you. The pot is filled with water falling drop by drop; the fool is filled with wickedness piled up bit by bit.",
+          "transliteration": null,
+          "canonicalRef": "Dhp 121",
+          "originalLang": "pali",
+          "translator": "Bhikkhu Sujato",
+          "sourceUrl": "https://suttacentral.net/dhp121/pli/ms",
+          "license": "CC0",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "Do not make light of small wrongs, thinking they won’t matter; drop by drop the pot is filled.",
+          "summaryZh": "莫轻小恶，以为无碍；点滴累积，恶器自满。",
+          "similarQuestions": [
+            "Do small bad habits matter?",
+            "How do small choices add up?",
+            "Why avoid minor wrongs?"
+          ],
+          "contextNote": "Paired with verse 122 on small goods; together they teach that character is built incrementally.",
+          "tags": [
+            "character",
+            "discipline",
+            "practice"
+          ],
+          "weight": 4
+        },
+        {
+          "originalText": "Māvamaññetha puññassa, na mandaṁ āgamissati; Udabindunipātena, udakumbhopi pūrati; Dhīro pūrati puññassa, thokaṁ thokampi ācinaṁ.",
+          "englishText": "Think not lightly of goodness, that it won’t come back to you. The pot is filled with water falling drop by drop; the attentive one is filled with goodness piled up bit by bit.",
+          "transliteration": null,
+          "canonicalRef": "Dhp 122",
+          "originalLang": "pali",
+          "translator": "Bhikkhu Sujato",
+          "sourceUrl": "https://suttacentral.net/dhp122/pli/ms",
+          "license": "CC0",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "Do not make light of small goods, thinking they won’t matter; drop by drop the pot is filled.",
+          "summaryZh": "莫轻小善，以为无益；点滴累积，善器自满。",
+          "similarQuestions": [
+            "Do small good deeds matter?",
+            "Is it worth doing tiny good things?",
+            "How does goodness accumulate?"
+          ],
+          "contextNote": "The mirror of verse 121: goodness, like harm, is the sum of small repeated acts.",
+          "tags": [
+            "goodness",
+            "practice",
+            "perseverance"
+          ],
+          "weight": 4
+        },
+        {
+          "originalText": "Na antalikkhe na samuddamajjhe, Na pabbatānaṁ vivaraṁ pavissa; Na vijjatī so jagatippadeso, Yatthaṭṭhito mucceyya pāpakammā.",
+          "englishText": "Not in midair, nor mid-ocean, nor hiding in a mountain cleft; you’ll find no place on the planet to escape your wicked deeds.",
+          "transliteration": null,
+          "canonicalRef": "Dhp 127",
+          "originalLang": "pali",
+          "translator": "Bhikkhu Sujato",
+          "sourceUrl": "https://suttacentral.net/dhp127/pli/ms",
+          "license": "CC0",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "No place in the universe can shelter you from the consequences of your own deeds.",
+          "summaryZh": "无论在空中、海中还是山间，都无处可逃避恶行的果报。",
+          "similarQuestions": [
+            "How can I avoid the consequences of my bad actions?",
+            "Is there any way to escape karma?",
+            "Where can I hide from the results of my mistakes?",
+            "Can I run away from my past wrongdoings?"
+          ],
+          "contextNote": "This verse from the Dhammapada emphasizes the principle of kamma (karma) in Buddhism, that the ethical quality of actions inevitably bears fruit. It applies to all beings, regardless of time or place, underscoring personal responsibility and moral law.",
+          "tags": [
+            "justice",
+            "destiny",
+            "truth"
+          ],
+          "weight": 5
+        }
+      ]
+    },
+    {
+      "titleEn": "Buddhavagga (The Buddha)",
+      "titleZh": "佛陀品",
+      "titleOrig": "Buddhavagga",
+      "passages": [
+        {
+          "originalText": "Sabbapāpassa akaraṇaṁ, kusalassa upasampadā; Sacittapariyodapanaṁ, etaṁ buddhāna sāsanaṁ.",
+          "englishText": "Not to do any evil; to embrace the good; to purify one’s mind: this is the instruction of the Buddhas.",
+          "transliteration": null,
+          "canonicalRef": "Dhp 183",
+          "originalLang": "pali",
+          "translator": "Bhikkhu Sujato",
+          "sourceUrl": "https://suttacentral.net/dhp183/pli/ms",
+          "license": "CC0",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "Do no evil, cultivate good, purify your own mind — this is the teaching of all the Buddhas.",
+          "summaryZh": "诸恶莫作，众善奉行，自净其意——是诸佛教。",
+          "similarQuestions": [
+            "What is the essence of Buddhism?",
+            "How should I live well?",
+            "What is the simplest moral rule?"
+          ],
+          "contextNote": "Traditionally regarded as a one-verse summary of the entire Buddhist path.",
+          "tags": [
+            "goodness",
+            "virtue",
+            "practice"
+          ],
+          "weight": 5
+        },
+        {
+          "originalText": "Khantī paramaṁ tapo titikkhā, Nibbānaṁ paramaṁ vadanti buddhā; Na hi pabbajito parūpaghātī, Na samaṇo hoti paraṁ viheṭhayanto.",
+          "englishText": "Patient acceptance is the ultimate fervor. Extinguishment is the ultimate, say the Buddhas. No true renunciate injures another, nor does an ascetic hurt another.",
+          "transliteration": null,
+          "canonicalRef": "Dhp 184",
+          "originalLang": "pali",
+          "translator": "Bhikkhu Sujato",
+          "sourceUrl": "https://suttacentral.net/dhp184/pli/ms",
+          "license": "CC0",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "Patient acceptance is the highest spiritual practice, and harming no one is the mark of a true renunciate.",
+          "summaryZh": "忍辱是最高修行，不伤害他人是真正出家人的标志。",
+          "similarQuestions": [
+            "How can I cultivate patience in difficult situations?",
+            "What does it mean to be a true spiritual practitioner?",
+            "Why is non-harm central to spiritual life?",
+            "How do I know if I am on the right path?"
+          ],
+          "contextNote": "This verse from the Dhammapada, a collection of the Buddha's sayings, emphasizes patience and non-violence as core virtues for spiritual seekers, regardless of tradition.",
+          "tags": [
+            "compassion",
+            "discipline",
+            "virtue",
+            "practice"
+          ],
+          "weight": 4
+        }
+      ]
+    },
+    {
+      "titleEn": "Sukhavagga (Happiness)",
+      "titleZh": "乐品",
+      "titleOrig": "Sukhavagga",
+      "passages": [
+        {
+          "originalText": "Susukhaṁ vata jīvāma, verinesu averino; Verinesu manussesu, viharāma averino.",
+          "englishText": "Let us live so very happily, loving among the hostile. Among hostile humans, let us live with love.",
+          "transliteration": null,
+          "canonicalRef": "Dhp 197",
+          "originalLang": "pali",
+          "translator": "Bhikkhu Sujato",
+          "sourceUrl": "https://suttacentral.net/dhp197/pli/ms",
+          "license": "CC0",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "Happily we live, free of hate among the hateful; among hostile people we dwell without hate.",
+          "summaryZh": "即使身处怀恨的人之中，也能不怀怨恨、安乐地生活。",
+          "similarQuestions": [
+            "How can I be happy among hostile people?",
+            "How to keep peace in conflict?",
+            "Can I be unaffected by others’ anger?"
+          ],
+          "contextNote": "Opens the Happiness chapter with the Buddhist ideal of equanimity amid hostility.",
+          "tags": [
+            "happiness",
+            "compassion",
+            "solitude"
+          ],
+          "weight": 4
+        },
+        {
+          "originalText": "Ārogyaparamā lābhā, Santuṭṭhiparamaṁ dhanaṁ; Vissāsaparamā ñāti, Nibbānaṁ paramaṁ sukhaṁ.",
+          "englishText": "Health is the ultimate blessing; contentment, the ultimate wealth; trust is the ultimate family; extinguishment, the ultimate happiness.",
+          "transliteration": null,
+          "canonicalRef": "Dhp 204",
+          "originalLang": "pali",
+          "translator": "Bhikkhu Sujato",
+          "sourceUrl": "https://suttacentral.net/dhp204/pli/ms",
+          "license": "CC0",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "Health is the greatest gain, contentment the greatest wealth, trust the best kin, and peace the highest happiness.",
+          "summaryZh": "健康是最大的利益，知足是最大的财富，信任是最好的亲人，寂静是最高的快乐。",
+          "similarQuestions": [
+            "What is true wealth?",
+            "What really makes a good life?",
+            "What should I value most?"
+          ],
+          "contextNote": "A compact reordering of priorities: well-being and contentment above material gain.",
+          "tags": [
+            "happiness",
+            "wealth",
+            "desire"
+          ],
+          "weight": 5
+        },
+        {
+          "originalText": "Jayaṁ veraṁ pasavati, dukkhaṁ seti parājito; Upasanto sukhaṁ seti, hitvā jayaparājayaṁ.",
+          "englishText": "Victory breeds enmity; the defeated sleep badly. The peaceful sleep at ease, having left victory and defeat behind.",
+          "transliteration": null,
+          "canonicalRef": "Dhp 201",
+          "originalLang": "pali",
+          "translator": "Bhikkhu Sujato",
+          "sourceUrl": "https://suttacentral.net/dhp201/pli/ms",
+          "license": "CC0",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "This verse teaches that winning creates enemies and losing brings suffering, but inner peace comes from letting go of both victory and defeat.",
+          "summaryZh": "胜利带来仇恨，失败带来痛苦，唯有放下胜负，才能获得内心的安宁。",
+          "similarQuestions": [
+            "Why do I feel empty even after winning?",
+            "How can I find peace after a major failure?",
+            "Is it possible to be content without competing?",
+            "Why does success sometimes feel isolating?"
+          ],
+          "contextNote": "The Dhammapada is a collection of sayings attributed to the Buddha. This verse reflects the Buddhist ideal of equanimity, transcending dualities like win/loss. It is broadly applicable to anyone seeking peace beyond competitive outcomes, but may not resonate with those who view competition as necessary for growth.",
+          "tags": [
+            "suffering",
+            "freedom",
+            "happiness",
+            "wisdom"
+          ],
+          "weight": 4
+        }
+      ]
+    },
+    {
+      "titleEn": "Kodhavagga (Anger)",
+      "titleZh": "忿怒品",
+      "titleOrig": "Kodhavagga",
+      "passages": [
+        {
+          "originalText": "Akkodhena jine kodhaṁ, asādhuṁ sādhunā jine; Jine kadariyaṁ dānena, saccenālikavādinaṁ.",
+          "englishText": "Defeat anger with kindness, villainy with virtue, stinginess with giving, and lies with truth.",
+          "transliteration": null,
+          "canonicalRef": "Dhp 223",
+          "originalLang": "pali",
+          "translator": "Bhikkhu Sujato",
+          "sourceUrl": "https://suttacentral.net/dhp223/pli/ms",
+          "license": "CC0",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "Conquer anger with kindness, evil with good, stinginess with giving, and lies with truth.",
+          "summaryZh": "以慈胜怒，以善胜恶，以施胜悭，以实胜妄。",
+          "similarQuestions": [
+            "How do I deal with anger?",
+            "How to respond to someone cruel?",
+            "How to overcome stinginess?"
+          ],
+          "contextNote": "A practical fourfold antidote — meeting each negative force with its opposite virtue.",
+          "tags": [
+            "compassion",
+            "goodness",
+            "honesty"
+          ],
+          "weight": 4
+        },
+        {
+          "originalText": "Yo ve uppatitaṁ kodhaṁ, rathaṁ bhantaṁva vāraye; Tamahaṁ sārathiṁ brūmi, rasmiggāho itaro jano.",
+          "englishText": "When anger surges like a lurching chariot, keep it in check. That’s what I call a charioteer; others just hold the reins.",
+          "transliteration": null,
+          "canonicalRef": "Dhp 222",
+          "originalLang": "pali",
+          "translator": "Bhikkhu Sujato",
+          "sourceUrl": "https://suttacentral.net/dhp222/pli/ms",
+          "license": "CC0",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "When anger arises, control it like a skilled charioteer reins in a runaway chariot.",
+          "summaryZh": "当愤怒生起时，要像熟练的御者勒住失控的战车一样控制它。",
+          "similarQuestions": [
+            "How can I stop myself from lashing out when I'm angry?",
+            "What does it mean to truly master my emotions?",
+            "Why do I feel out of control when I'm angry?",
+            "How can I respond calmly in heated moments?"
+          ],
+          "contextNote": "This verse from the Dhammapada, a collection of sayings of the Buddha, uses the ancient Indian metaphor of chariot driving to illustrate the importance of self-mastery, particularly over anger. It is applicable to anyone seeking to cultivate emotional regulation and inner peace.",
+          "tags": [
+            "discipline",
+            "virtue",
+            "self-knowledge",
+            "practice"
+          ],
+          "weight": 4
+        }
+      ]
+    },
+    {
+      "titleEn": "Malavagga (Impurities)",
+      "titleZh": "垢秽品",
+      "titleOrig": "Malavagga",
+      "passages": [
+        {
+          "originalText": "Sudassaṁ vajjamaññesaṁ, attano pana duddasaṁ; Paresaṁ hi so vajjāni, opunāti yathā bhusaṁ; Attano pana chādeti, kaliṁva kitavā saṭho.",
+          "englishText": "It’s easy to see the faults of others, hard to see one’s own. For the faults of others are tossed high like hay, while one’s own are hidden, as a cheat hides a bad hand.",
+          "transliteration": null,
+          "canonicalRef": "Dhp 252",
+          "originalLang": "pali",
+          "translator": "Bhikkhu Sujato",
+          "sourceUrl": "https://suttacentral.net/dhp252/pli/ms",
+          "license": "CC0",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "Others’ faults are easy to see; our own are hard. We winnow others’ like chaff but hide our own.",
+          "summaryZh": "他人之过易见，自己之过难知。扬人过如簸糠，掩己过如藏弊。",
+          "similarQuestions": [
+            "Why is it easy to see others’ flaws?",
+            "How do I become more self-aware?",
+            "Why do I excuse my own faults?"
+          ],
+          "contextNote": "A pointed observation on self-deception and the asymmetry of moral perception.",
+          "tags": [
+            "self-knowledge",
+            "honesty",
+            "wisdom"
+          ],
+          "weight": 4
+        },
+        {
+          "originalText": "Anupubbena medhāvī, thokaṁ thokaṁ khaṇe khaṇe; Kammāro rajatasseva, niddhame malamattano.",
+          "englishText": "A smart person would purge their own stains gradually, bit by bit, moment by moment, like a smith smelting silver.",
+          "transliteration": null,
+          "canonicalRef": "Dhp 239",
+          "originalLang": "pali",
+          "translator": "Bhikkhu Sujato",
+          "sourceUrl": "https://suttacentral.net/dhp239/pli/ms",
+          "license": "CC0",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "A wise person gradually cleanses their own impurities over time, just as a silversmith refines silver.",
+          "summaryZh": "智者逐渐清除自己的污垢，一点一滴，就像银匠炼银一样。",
+          "similarQuestions": [
+            "How can I gradually improve myself over time?",
+            "What is the best way to remove my bad habits?",
+            "How do I practice self-purification daily?",
+            "Why is gradual progress important in spiritual practice?"
+          ],
+          "contextNote": "This verse from the Dhammapada emphasizes the gradual nature of self-purification in Buddhist practice. It advises consistent, mindful effort over time, comparing it to the careful craft of a silversmith. The 'stains' refer to mental defilements like greed, hatred, and delusion.",
+          "tags": [
+            "discipline",
+            "self-knowledge",
+            "practice",
+            "perseverance"
+          ],
+          "weight": 4
+        },
+        {
+          "originalText": "Natthi rāgasamo aggi, natthi dosasamo gaho; Natthi mohasamaṁ jālaṁ, natthi taṇhāsamā nadī.",
+          "englishText": "There is no fire like greed, no crime like hate, no net like delusion, no river like craving.",
+          "transliteration": null,
+          "canonicalRef": "Dhp 251",
+          "originalLang": "pali",
+          "translator": "Bhikkhu Sujato",
+          "sourceUrl": "https://suttacentral.net/dhp251/pli/ms",
+          "license": "CC0",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "Greed, hatred, delusion, and craving are the most destructive forces in life, surpassing any external fire, crime, net, or river.",
+          "summaryZh": "贪、嗔、痴、渴爱是生命中最具破坏力的力量，胜过任何外在的火、罪、网、河。",
+          "similarQuestions": [
+            "How can I let go of my greed for more possessions?",
+            "Why do I feel so much anger and how can I overcome it?",
+            "How do I break free from harmful cravings and attachments?",
+            "What is the root cause of my suffering and confusion?"
+          ],
+          "contextNote": "This verse from the Dhammapada emphasizes internal defilements (greed, hate, delusion, craving) as the true dangers, not external phenomena. It is a core teaching on the nature of suffering and the path to liberation.",
+          "tags": [
+            "desire",
+            "suffering",
+            "self-knowledge",
+            "practice"
+          ],
+          "weight": 5
+        }
+      ]
+    },
+    {
+      "titleEn": "Maggavagga (The Path)",
+      "titleZh": "道品",
+      "titleOrig": "Maggavagga",
+      "passages": [
+        {
+          "originalText": "Tumhehi kiccamātappaṁ, akkhātāro tathāgatā; Paṭipannā pamokkhanti, jhāyino mārabandhanā.",
+          "englishText": "You yourselves must do the work, the Realized Ones just show the way. Meditators practicing absorption are released from Māra’s bonds.",
+          "transliteration": null,
+          "canonicalRef": "Dhp 276",
+          "originalLang": "pali",
+          "translator": "Bhikkhu Sujato",
+          "sourceUrl": "https://suttacentral.net/dhp276/pli/ms",
+          "license": "CC0",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "You yourselves must do the work; the awakened ones only point the way.",
+          "summaryZh": "修行须靠自己；觉者仅指示道路。",
+          "similarQuestions": [
+            "Can someone else save me?",
+            "Who is responsible for my growth?",
+            "Is a teacher enough?"
+          ],
+          "contextNote": "A core statement of self-reliance: teachers can show the path, but each person must walk it.",
+          "tags": [
+            "practice",
+            "self-knowledge",
+            "freedom"
+          ],
+          "weight": 5
+        },
+        {
+          "originalText": "“Sabbe saṅkhārā aniccā”ti, yadā paññāya passati; Atha nibbindati dukkhe, esa maggo visuddhiyā.",
+          "englishText": "All conditions are impermanent—when this is seen with wisdom, one grows disillusioned with suffering: this is the path to purity.",
+          "transliteration": null,
+          "canonicalRef": "Dhp 277",
+          "originalLang": "pali",
+          "translator": "Bhikkhu Sujato",
+          "sourceUrl": "https://suttacentral.net/dhp277/pli/ms",
+          "license": "CC0",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "All conditioned things are impermanent — seeing this with wisdom, one turns away from suffering.",
+          "summaryZh": "诸行无常——以智慧观见者，便从苦中转离。",
+          "similarQuestions": [
+            "Why does everything change?",
+            "How to accept impermanence?",
+            "Why can’t I hold onto good things?"
+          ],
+          "contextNote": "The first of the Three Marks of Existence (impermanence, suffering, non-self), verses 277–279.",
+          "tags": [
+            "impermanence",
+            "wisdom",
+            "suffering"
+          ],
+          "weight": 5
+        },
+        {
+          "originalText": "“Sabbe saṅkhārā dukkhā”ti, yadā paññāya passati; Atha nibbindati dukkhe, esa maggo visuddhiyā.",
+          "englishText": "All conditions are suffering—when this is seen with wisdom, one grows disillusioned with suffering: this is the path to purity.",
+          "transliteration": null,
+          "canonicalRef": "Dhp 278",
+          "originalLang": "pali",
+          "translator": "Bhikkhu Sujato",
+          "sourceUrl": "https://suttacentral.net/dhp278/pli/ms",
+          "license": "CC0",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "All conditioned things are suffering — seeing this with wisdom, one turns away from suffering.",
+          "summaryZh": "诸行皆苦——以智慧观见者，便从苦中转离。",
+          "similarQuestions": [
+            "Why is there so much suffering?",
+            "Is life inherently unsatisfying?",
+            "How to find peace with dissatisfaction?"
+          ],
+          "contextNote": "The second of the Three Marks of Existence.",
+          "tags": [
+            "suffering",
+            "wisdom",
+            "impermanence"
+          ],
+          "weight": 4
+        },
+        {
+          "originalText": "“Sabbe dhammā anattā”ti, yadā paññāya passati; Atha nibbindati dukkhe, esa maggo visuddhiyā.",
+          "englishText": "All things are not-self—when this is seen with wisdom, one grows disillusioned with suffering: this is the path to purity.",
+          "transliteration": null,
+          "canonicalRef": "Dhp 279",
+          "originalLang": "pali",
+          "translator": "Bhikkhu Sujato",
+          "sourceUrl": "https://suttacentral.net/dhp279/pli/ms",
+          "license": "CC0",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "All things are not-self — seeing this with wisdom, one turns away from suffering.",
+          "summaryZh": "诸法无我——以智慧观见者，便从苦中转离。",
+          "similarQuestions": [
+            "What is the self?",
+            "Is there a fixed “me”?",
+            "Why does clinging to identity cause pain?"
+          ],
+          "contextNote": "The third of the Three Marks of Existence; the doctrine of non-self (anattā).",
+          "tags": [
+            "self-knowledge",
+            "wisdom",
+            "soul"
+          ],
+          "weight": 5
+        },
+        {
+          "originalText": "Uṭṭhānakālamhi anuṭṭhahāno, Yuvā balī ālasiyaṁ upeto; Saṁsannasaṅkappamano kusīto, Paññāya maggaṁ alaso na vindati.",
+          "englishText": "They don’t get going when it’s time to start; they’re young and strong, but given to sloth. Their mind depressed in sunken thought, lazy and slothful, they can’t discern the path.",
+          "transliteration": null,
+          "canonicalRef": "Dhp 280",
+          "originalLang": "pali",
+          "translator": "Bhikkhu Sujato",
+          "sourceUrl": "https://suttacentral.net/dhp280/pli/ms",
+          "license": "CC0",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "If you are young and strong but lazy, you will miss the opportunity to find the path because you fail to act when it is time.",
+          "summaryZh": "年轻力壮却懒惰懈怠，就会错过时机，无法找到正道。",
+          "similarQuestions": [
+            "Why do I keep putting off what I know I should do?",
+            "How can I overcome laziness to pursue a meaningful life?",
+            "What happens if I don't take action when I have the chance?",
+            "I feel stuck and unmotivated—how do I find the path?"
+          ],
+          "contextNote": "This verse from the Dhammapada (Chapter 21, Miscellaneous) emphasizes the urgency of effort in the Buddhist path, warning that sloth and depression hinder discernment. It applies to anyone struggling with procrastination or lack of discipline in spiritual or worldly pursuits.",
+          "tags": [
+            "discipline",
+            "practice",
+            "perseverance",
+            "wisdom"
+          ],
+          "weight": 4
+        }
+      ]
+    },
+    {
+      "titleEn": "Taṇhāvagga (Craving)",
+      "titleZh": "爱欲品",
+      "titleOrig": "Taṇhāvagga",
+      "passages": [
+        {
+          "originalText": "Muñca pure muñca pacchato, Majjhe muñca bhavassa pāragū; Sabbattha vimuttamānaso, Na punaṁ jātijaraṁ upehisi.",
+          "englishText": "Let go of the past, let go of the future, let go of the present, having gone beyond rebirth. With your heart freed in every respect, you’ll not come again to rebirth and old age.",
+          "transliteration": null,
+          "canonicalRef": "Dhp 348",
+          "originalLang": "pali",
+          "translator": "Bhikkhu Sujato",
+          "sourceUrl": "https://suttacentral.net/dhp348/pli/ms",
+          "license": "CC0",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "Let go of the past, the future, and the present; cross beyond to the far shore, freed from all becoming.",
+          "summaryZh": "放下过去、未来与现在；越渡彼岸，从一切生灭中解脱。",
+          "similarQuestions": [
+            "How do I let go?",
+            "How to stop clinging?",
+            "How to be free of regret and anxiety?"
+          ],
+          "contextNote": "An invitation to release attachment across all three times as the path to liberation.",
+          "tags": [
+            "freedom",
+            "desire",
+            "impermanence"
+          ],
+          "weight": 4
+        }
+      ]
+    },
+    {
+      "titleEn": "Appamādavagga (Heedfulness)",
+      "titleZh": "不放逸品",
+      "titleOrig": "Appamādavagga",
+      "passages": [
+        {
+          "originalText": "Appamādo amatapadaṁ, pamādo maccuno padaṁ; Appamattā na mīyanti, ye pamattā yathā matā.",
+          "englishText": "Heedfulness is the state free of death; heedlessness is the state of death. The heedful do not die, while the heedless are like the dead.",
+          "transliteration": null,
+          "canonicalRef": "Dhp 21",
+          "originalLang": "pali",
+          "translator": "Bhikkhu Sujato",
+          "sourceUrl": "https://suttacentral.net/dhp21/pli/ms",
+          "license": "CC0",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "Heedfulness leads to the deathless state, while heedlessness leads to death; the heedful do not truly die, but the heedless are like the dead.",
+          "summaryZh": "精进是不死之道，放逸是死亡之道；精进者不死，放逸者如同已死。",
+          "similarQuestions": [
+            "How can I live a life that is truly alive and not just drifting?",
+            "What is the difference between being mindful and being careless?",
+            "How do I avoid the spiritual death of complacency?",
+            "What does it mean to die before you die?"
+          ],
+          "contextNote": "This verse from the Dhammapada, an early Buddhist scripture, contrasts heedfulness (appamāda) with heedlessness (pamāda), a core Buddhist virtue. It's from the 'Heedfulness' chapter and is applicable to anyone seeking spiritual awakening, though its language of 'death' is metaphorical.",
+          "tags": [
+            "discipline",
+            "death",
+            "practice",
+            "self-knowledge"
+          ],
+          "weight": 4
+        },
+        {
+          "originalText": "Te jhāyino sātatikā, niccaṁ daḷhaparakkamā; Phusanti dhīrā nibbānaṁ, yogakkhemaṁ anuttaraṁ.",
+          "englishText": "They who regularly meditate, always staunchly vigorous; the attentive realize extinguishment, the supreme sanctuary from the yoke.",
+          "transliteration": null,
+          "canonicalRef": "Dhp 23",
+          "originalLang": "pali",
+          "translator": "Bhikkhu Sujato",
+          "sourceUrl": "https://suttacentral.net/dhp23/pli/ms",
+          "license": "CC0",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "Those who meditate persistently and with vigor will attain the ultimate freedom from suffering, Nibbana.",
+          "summaryZh": "常修禅定、精进不懈的人，能证得涅槃，达到最高的解脱。",
+          "similarQuestions": [
+            "How can I achieve lasting peace?",
+            "What is the purpose of meditation?",
+            "How do I overcome suffering?",
+            "How can I find true freedom?"
+          ],
+          "contextNote": "This verse is from the Dhammapada, a collection of sayings of the Buddha. It emphasizes the importance of sustained meditation and effort to attain Nibbana, the cessation of suffering, which is a central goal in Buddhism.",
+          "tags": [
+            "discipline",
+            "perseverance",
+            "practice",
+            "freedom"
+          ],
+          "weight": 4
+        }
+      ]
+    },
+    {
+      "titleEn": "Cittavagga (The Mind)",
+      "titleZh": "心品",
+      "titleOrig": "Cittavagga",
+      "passages": [
+        {
+          "originalText": "Phandanaṁ capalaṁ cittaṁ, dūrakkhaṁ dunnivārayaṁ; Ujuṁ karoti medhāvī, usukārova tejanaṁ.",
+          "englishText": "The mind quivers and shakes, hard to guard, hard to curb. The discerning straighten it out, like a fletcher straightens an arrow.",
+          "transliteration": null,
+          "canonicalRef": "Dhp 33",
+          "originalLang": "pali",
+          "translator": "Bhikkhu Sujato",
+          "sourceUrl": "https://suttacentral.net/dhp33/pli/ms",
+          "license": "CC0",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "The mind is restless and difficult to control, but wise people can train it to be focused, just as an arrow-maker straightens an arrow.",
+          "summaryZh": "心念飘忽不定，难以防护和约束；智者们调御自心，如同箭匠矫正箭杆。",
+          "similarQuestions": [
+            "How can I calm my restless mind?",
+            "Why is it so hard to control my thoughts?",
+            "What does it mean to have a disciplined mind?",
+            "How do I become more focused and wise?"
+          ],
+          "contextNote": "This verse is from the Dhammapada, a collection of sayings of the Buddha. It emphasizes the importance of mental discipline in Buddhist practice, applicable to anyone seeking inner peace and clarity.",
+          "tags": [
+            "discipline",
+            "self-knowledge",
+            "wisdom"
+          ],
+          "weight": 4
+        },
+        {
+          "originalText": "Dunniggahassa lahuno, yatthakāmanipātino; Cittassa damatho sādhu, cittaṁ dantaṁ sukhāvahaṁ.",
+          "englishText": "Hard to hold back, flighty, alighting where it will; it’s good to tame the mind; a tamed mind leads to bliss.",
+          "transliteration": null,
+          "canonicalRef": "Dhp 35",
+          "originalLang": "pali",
+          "translator": "Bhikkhu Sujato",
+          "sourceUrl": "https://suttacentral.net/dhp35/pli/ms",
+          "license": "CC0",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "Training the mind, which is naturally restless and hard to control, leads to genuine happiness.",
+          "summaryZh": "驯服那难以控制、四处飘忽的心，能带来真正的幸福。",
+          "similarQuestions": [
+            "How can I find happiness?",
+            "Why is my mind so restless?",
+            "What is the key to inner peace?",
+            "How do I gain control over my thoughts?"
+          ],
+          "contextNote": "This verse is from the Dhammapada, a collection of the Buddha's sayings. It emphasizes the importance of mental discipline in Buddhist practice, applicable to anyone seeking peace through mindfulness and meditation.",
+          "tags": [
+            "discipline",
+            "happiness",
+            "self-knowledge",
+            "practice"
+          ],
+          "weight": 4
+        },
+        {
+          "originalText": "Diso disaṁ yaṁ taṁ kayirā, verī vā pana verinaṁ; Micchāpaṇihitaṁ cittaṁ, pāpiyo naṁ tato kare.",
+          "englishText": "A wrongly directed mind would do you more harm than a hater to the hated, or an enemy to their foe.",
+          "transliteration": null,
+          "canonicalRef": "Dhp 42",
+          "originalLang": "pali",
+          "translator": "Bhikkhu Sujato",
+          "sourceUrl": "https://suttacentral.net/dhp42/pli/ms",
+          "license": "CC0",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "A mind that is wrongly directed causes more harm to oneself than any enemy or hater could.",
+          "summaryZh": "错误引导的心，对自己造成的伤害，远超过任何敌人或仇敌。",
+          "similarQuestions": [
+            "Why do I sometimes feel like my own thoughts are my worst enemy?",
+            "How can I stop harming myself through negative thinking?",
+            "What is the greatest source of suffering in my life?",
+            "How can I protect myself from inner turmoil more than from external threats?"
+          ],
+          "contextNote": "This verse from the Dhammapada, a collection of sayings of the Buddha, emphasizes the internal nature of harm and the importance of mental discipline. It applies broadly to anyone seeking to understand the root of suffering.",
+          "tags": [
+            "suffering",
+            "self-knowledge",
+            "discipline",
+            "wisdom"
+          ],
+          "weight": 4
+        },
+        {
+          "originalText": "Na taṁ mātā pitā kayirā, aññe vāpi ca ñātakā; Sammāpaṇihitaṁ cittaṁ, seyyaso naṁ tato kare. Cittavaggo tatiyo.",
+          "englishText": "A rightly directed mind would do you more good than your mother or father or any other relative.",
+          "transliteration": null,
+          "canonicalRef": "Dhp 43",
+          "originalLang": "pali",
+          "translator": "Bhikkhu Sujato",
+          "sourceUrl": "https://suttacentral.net/dhp43/pli/ms",
+          "license": "CC0",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "A well-directed mind is more beneficial to you than any family member.",
+          "summaryZh": "一个正确引导的心比你的父母或任何其他亲戚更能利益你。",
+          "similarQuestions": [
+            "How can I improve my life most effectively?",
+            "What is the most important thing to cultivate?",
+            "Why does my mind matter more than my family's support?"
+          ],
+          "contextNote": "This verse from the Dhammapada emphasizes the supreme importance of mental cultivation in Buddhism, where the mind is the source of all actions and their results. It is not dismissing family, but highlighting that inner development surpasses external support.",
+          "tags": [
+            "self-knowledge",
+            "discipline",
+            "wisdom",
+            "practice"
+          ],
+          "weight": 4
+        }
+      ]
+    },
+    {
+      "titleEn": "Bālavagga (The Fool)",
+      "titleZh": "愚品",
+      "titleOrig": "Bālavagga",
+      "passages": [
+        {
+          "originalText": "Puttā matthi dhanaṁ matthi, iti bālo vihaññati; Attā hi attano natthi, kuto puttā kuto dhanaṁ.",
+          "englishText": "“Sons are mine, wealth is mine”—thus the fool frets. For even your self is not your own, let alone your sons or wealth.",
+          "transliteration": null,
+          "canonicalRef": "Dhp 62",
+          "originalLang": "pali",
+          "translator": "Bhikkhu Sujato",
+          "sourceUrl": "https://suttacentral.net/dhp62/pli/ms",
+          "license": "CC0",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "Those who cling to their children and wealth as 'mine' are foolish, because even the self is not ultimately one's own, let alone external possessions.",
+          "summaryZh": "执着于‘我的儿子，我的财富’是愚痴的，因为连自我都不是真正属于自己，更何况子女和钱财。",
+          "similarQuestions": [
+            "Why do I feel so attached to my family and possessions?",
+            "How can I let go of my fear of losing what I have?",
+            "What does it mean that nothing truly belongs to me?",
+            "Is it wrong to love my children and work for wealth?"
+          ],
+          "contextNote": "This verse from the Dhammapada, a foundational Buddhist text, teaches the principle of anatta (non-self) and non-attachment. It warns against the suffering caused by clinging to transient things, encouraging a deeper understanding of impermanence.",
+          "tags": [
+            "impermanence",
+            "suffering",
+            "self-knowledge",
+            "desire"
+          ],
+          "weight": 4
+        }
+      ]
+    },
+    {
+      "titleEn": "Arahantavagga (The Perfected)",
+      "titleZh": "阿罗汉品",
+      "titleOrig": "Arahantavagga",
+      "passages": [
+        {
+          "originalText": "Santaṁ tassa manaṁ hoti, santā vācā ca kamma ca; Sammadaññāvimuttassa, upasantassa tādino.",
+          "englishText": "Their mind is peaceful, peaceful are their speech and deeds. Such a one is at peace, rightly freed through enlightenment.",
+          "transliteration": null,
+          "canonicalRef": "Dhp 96",
+          "originalLang": "pali",
+          "translator": "Bhikkhu Sujato",
+          "sourceUrl": "https://suttacentral.net/dhp96/pli/ms",
+          "license": "CC0",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "The peaceful person, whose mind, speech, and actions are calm, has achieved true freedom through enlightenment.",
+          "summaryZh": "心灵平静、言语和行动也平静的人，通过觉悟获得了真正的解脱。",
+          "similarQuestions": [
+            "How can I cultivate lasting inner peace?",
+            "What does it mean to be truly free from suffering?",
+            "How can my thoughts, words, and actions become more harmonious?",
+            "What is the ultimate goal of spiritual practice?"
+          ],
+          "contextNote": "This verse from the Dhammapada describes the state of an arahant (enlightened being) who has attained nibbana. It emphasizes inner peace as the fruit of liberation, applicable to anyone seeking tranquility through wisdom and ethical living.",
+          "tags": [
+            "freedom",
+            "wisdom",
+            "practice",
+            "simplicity"
+          ],
+          "weight": 4
+        }
+      ]
+    },
+    {
+      "titleEn": "Daṇḍavagga (The Rod)",
+      "titleZh": "刀杖品",
+      "titleOrig": "Daṇḍavagga",
+      "passages": [
+        {
+          "originalText": "Sabbe tasanti daṇḍassa, sabbe bhāyanti maccuno; Attānaṁ upamaṁ katvā, na haneyya na ghātaye.",
+          "englishText": "All tremble at the rod, all fear death. Treating others like oneself, neither kill nor incite to kill.",
+          "transliteration": null,
+          "canonicalRef": "Dhp 129",
+          "originalLang": "pali",
+          "translator": "Bhikkhu Sujato",
+          "sourceUrl": "https://suttacentral.net/dhp129/pli/ms",
+          "license": "CC0",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "Because all beings fear death and punishment, one should not kill or cause harm to others, just as one would not want to be harmed oneself.",
+          "summaryZh": "众生都害怕死亡和惩罚，因此不应杀害或伤害他人，如同自己不愿被伤害一样。",
+          "similarQuestions": [
+            "How can I stop wanting to harm others?",
+            "Why should I care about the suffering of others?",
+            "What is the basis for non-violence?",
+            "If I fear death, doesn't everyone?"
+          ],
+          "contextNote": "This verse from the Dhammapada, a collection of sayings attributed to the Buddha, emphasizes the universality of the fear of death and the principle of empathy as the foundation for moral restraint. It applies to all situations where one might be tempted to harm others.",
+          "tags": [
+            "compassion",
+            "death",
+            "non-action",
+            "self-knowledge"
+          ],
+          "weight": 4
+        },
+        {
+          "originalText": "Udakañhi nayanti nettikā, Usukārā namayanti tejanaṁ; Dāruṁ namayanti tacchakā, Attānaṁ damayanti subbatā. Daṇḍavaggo dasamo.",
+          "englishText": "While irrigators guide water, fletchers shape arrows, and carpenters carve timber—those true to their vows tame themselves.",
+          "transliteration": null,
+          "canonicalRef": "Dhp 145",
+          "originalLang": "pali",
+          "translator": "Bhikkhu Sujato",
+          "sourceUrl": "https://suttacentral.net/dhp145/pli/ms",
+          "license": "CC0",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "Just as skilled workers expertly shape natural materials, those committed to spiritual discipline master themselves.",
+          "summaryZh": "正如工匠巧妙地塑造材料，持戒者驯服自身。",
+          "similarQuestions": [
+            "How can I develop self-discipline?",
+            "What does it mean to tame myself?",
+            "Why is self-mastery important?",
+            "How can I stay true to my vows?"
+          ],
+          "contextNote": "This verse from the Dhammapada uses everyday craftsmanship as a metaphor for the inner work of self-discipline. It contrasts external skills with the inner skill of taming oneself, emphasizing that self-mastery is a cultivated art.",
+          "tags": [
+            "discipline",
+            "virtue",
+            "practice",
+            "self-knowledge"
+          ],
+          "weight": 4
+        }
+      ]
+    },
+    {
+      "titleEn": "Jarāvagga (Old Age)",
+      "titleZh": "老品",
+      "titleOrig": "Jarāvagga",
+      "passages": [
+        {
+          "originalText": "Anekajātisaṁsāraṁ, sandhāvissaṁ anibbisaṁ; Gahakāraṁ gavesanto, dukkhā jāti punappunaṁ.",
+          "englishText": "Transmigrating through countless rebirths, I’ve journeyed without reward, searching for the house-builder; painful is birth again and again.",
+          "transliteration": null,
+          "canonicalRef": "Dhp 153",
+          "originalLang": "pali",
+          "translator": "Bhikkhu Sujato",
+          "sourceUrl": "https://suttacentral.net/dhp153/pli/ms",
+          "license": "CC0",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "The verse looks back on countless births spent searching for the \"builder of the house\" — craving — and calls repeated birth painful.",
+          "summaryZh": "这一偈回顾在无数次轮回中寻找\"造屋者\"（即渴爱）的历程，并说一再出生是苦。",
+          "similarQuestions": [
+            "Why is life full of suffering?",
+            "How can I escape the cycle of rebirth?",
+            "What is the cause of my endless striving?",
+            "Is there an end to the pain of existence?"
+          ],
+          "contextNote": "The 'house-builder' is craving, which constructs the house of individual existence (the body-mind). This verse is the Buddha's exclamation upon enlightenment, realizing the end of samsara. It's central to Buddhist teachings on suffering, impermanence, and liberation.",
+          "tags": [
+            "suffering",
+            "impermanence",
+            "freedom",
+            "self-knowledge"
+          ],
+          "weight": 5
+        },
+        {
+          "originalText": "Gahakāraka diṭṭhosi, puna gehaṁ na kāhasi; Sabbā te phāsukā bhaggā, gahakūṭaṁ visaṅkhataṁ; Visaṅkhāragataṁ cittaṁ, taṇhānaṁ khayamajjhagā.",
+          "englishText": "I’ve seen you, house-builder! You won’t build a house again! Your rafters are all broken, your roof-peak demolished. The mind, set on demolition, has reached the end of cravings.",
+          "transliteration": null,
+          "canonicalRef": "Dhp 154",
+          "originalLang": "pali",
+          "translator": "Bhikkhu Sujato",
+          "sourceUrl": "https://suttacentral.net/dhp154/pli/ms",
+          "license": "CC0",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "This passage celebrates the attainment of enlightenment, where the causes of reincarnation are destroyed and craving ends.",
+          "summaryZh": "此偈颂觉悟者已摧毁轮回之因，不再造作新业，贪爱彻底止息。",
+          "similarQuestions": [
+            "How can I free myself from the cycle of suffering?",
+            "What does it mean to end craving?",
+            "How do I achieve lasting peace?",
+            "What is the ultimate goal of spiritual practice?"
+          ],
+          "contextNote": "This verse is attributed to the Buddha upon his enlightenment, using the metaphor of a house-builder to represent craving that constructs successive lives. It marks the final liberation (nibbāna) from samsara.",
+          "tags": [
+            "freedom",
+            "suffering",
+            "impermanence",
+            "wisdom"
+          ],
+          "weight": 5
+        }
+      ]
+    },
+    {
+      "titleEn": "Attavagga (The Self)",
+      "titleZh": "自己品",
+      "titleOrig": "Attavagga",
+      "passages": [
+        {
+          "originalText": "Attā hi attano nātho, ko hi nātho paro siyā; Attanā hi sudantena, nāthaṁ labhati dullabhaṁ.",
+          "englishText": "One is indeed the lord of oneself, for who else would be one’s lord? By means of a well-tamed self, one gains a lord that’s rare indeed.",
+          "transliteration": null,
+          "canonicalRef": "Dhp 160",
+          "originalLang": "pali",
+          "translator": "Bhikkhu Sujato",
+          "sourceUrl": "https://suttacentral.net/dhp160/pli/ms",
+          "license": "CC0",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "You are your own master; by taming yourself, you attain a rare and true refuge.",
+          "summaryZh": "自己是自己的主人；通过调伏自己，就能获得难得的依靠。",
+          "similarQuestions": [
+            "Who can I truly rely on in life?",
+            "How can I become the master of my own life?",
+            "What does it mean to be self-reliant and disciplined?"
+          ],
+          "contextNote": "This verse from the Dhammapada emphasizes personal responsibility and self-discipline in early Buddhist ethics. It teaches that ultimate refuge lies within oneself, not in external authorities.",
+          "tags": [
+            "self-knowledge",
+            "discipline",
+            "virtue",
+            "wisdom"
+          ],
+          "weight": 5
+        },
+        {
+          "originalText": "Attanā hi kataṁ pāpaṁ, attanā saṅkilissati; Attanā akataṁ pāpaṁ, attanāva visujjhati; Suddhī asuddhi paccattaṁ, nāñño aññaṁ visodhaye.",
+          "englishText": "For it is by oneself that evil’s done, one is corrupted by oneself. It’s by oneself that evil’s not done, one is purified by oneself. Purity and impurity are personal matters, no one can purify another.",
+          "transliteration": null,
+          "canonicalRef": "Dhp 165",
+          "originalLang": "pali",
+          "translator": "Bhikkhu Sujato",
+          "sourceUrl": "https://suttacentral.net/dhp165/pli/ms",
+          "license": "CC0",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "You alone are responsible for your own moral purity or impurity; no one else can purify you.",
+          "summaryZh": "自己的恶自己染污，自己的善自己清净，净化在于个人，别人无法替代。",
+          "similarQuestions": [
+            "How can I become a better person if I keep making mistakes?",
+            "Why does it feel like I have to change myself from within?",
+            "Can other people really cleanse me of my faults?",
+            "What is the point of taking responsibility for my own actions?"
+          ],
+          "contextNote": "This verse from the Dhammapada emphasizes individual responsibility in Buddhist ethics, countering the idea of external salvation. It reflects the Buddha's teaching that purification depends on one's own actions, not on priests or rituals.",
+          "tags": [
+            "choice",
+            "self-knowledge",
+            "virtue",
+            "practice"
+          ],
+          "weight": 4
+        }
+      ]
+    },
+    {
+      "titleEn": "Piyavagga (Affection)",
+      "titleZh": "喜爱品",
+      "titleOrig": "Piyavagga",
+      "passages": [
+        {
+          "originalText": "Taṇhāya jāyatī soko, taṇhāya jāyatī bhayaṁ; Taṇhāya vippamuttassa, natthi soko kuto bhayaṁ.",
+          "englishText": "Sorrow springs from craving, fear springs from craving; one free from craving has no sorrow, let alone fear.",
+          "transliteration": null,
+          "canonicalRef": "Dhp 216",
+          "originalLang": "pali",
+          "translator": "Bhikkhu Sujato",
+          "sourceUrl": "https://suttacentral.net/dhp216/pli/ms",
+          "license": "CC0",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "Sorrow and fear arise from craving; by becoming free from craving, one can be free from sorrow and fear.",
+          "summaryZh": "忧伤和恐惧源于渴望；摆脱渴望，便无忧伤与恐惧。",
+          "similarQuestions": [
+            "Why am I always anxious or afraid?",
+            "How can I find lasting peace?",
+            "What is the root of my suffering?",
+            "How can I overcome my attachments?"
+          ],
+          "contextNote": "This verse is from the Dhammapada, a collection of sayings of the Buddha. It reflects the core Buddhist teaching that craving (tanha) is the origin of suffering and fear, and liberation from craving brings peace.",
+          "tags": [
+            "suffering",
+            "desire",
+            "freedom",
+            "happiness"
+          ],
+          "weight": 5
+        }
+      ]
+    },
+    {
+      "titleEn": "Bhikkhuvagga (The Mendicant)",
+      "titleZh": "比丘品",
+      "titleOrig": "Bhikkhuvagga",
+      "passages": [
+        {
+          "originalText": "Natthi jhānaṁ apaññassa, paññā natthi ajhāyato; Yamhi jhānañca paññā ca, sa ve nibbānasantike.",
+          "englishText": "No absorption for one without wisdom, no wisdom for one without absorption. But one with absorption and wisdom—they have truly drawn near to extinguishment.",
+          "transliteration": null,
+          "canonicalRef": "Dhp 372",
+          "originalLang": "pali",
+          "translator": "Bhikkhu Sujato",
+          "sourceUrl": "https://suttacentral.net/dhp372/pli/ms",
+          "license": "CC0",
+          "verificationStatus": "verified",
+          "metadataSource": "deepseek-v4-flash",
+          "summaryEn": "Wisdom and deep meditative concentration depend on each other, and together they bring one close to liberation.",
+          "summaryZh": "智慧与禅定相辅相成，拥有两者便能接近解脱。",
+          "similarQuestions": [
+            "How can I cultivate both wisdom and meditation in my life?",
+            "What is the relationship between mindfulness and true understanding?",
+            "How do I know if my spiritual practice is leading to freedom?",
+            "Why is it important to combine meditation with insight?"
+          ],
+          "contextNote": "This verse from the Dhammapada emphasizes the mutual necessity of samatha (calm) and vipassana (insight) in Buddhist practice, a core teaching for those on the path to nibbana.",
+          "tags": [
+            "wisdom",
+            "practice",
+            "freedom"
+          ],
+          "weight": 4
+        }
+      ]
+    }
+  ]
+}

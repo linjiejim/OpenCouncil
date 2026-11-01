@@ -1,0 +1,311 @@
+{
+  "work": {
+    "titleEn": "The Dialogues (Selected Passages)",
+    "titleZh": "对话录（精选）",
+    "titleOrig": "Διάλογοι",
+    "language": "ancient-greek",
+    "circaYear": -380,
+    "description": "Selected passages from Plato’s dialogues — the Apology, Crito, Republic, Symposium, Phaedrus and Meno — presenting the method and teachings of Socrates. Greek text (ed. Burnet) from the Perseus Digital Library (CC BY-SA 4.0) with the public-domain English translations of Benjamin Jowett, via Project Gutenberg.",
+    "copyright": "Greek CC BY-SA 4.0 · English PD",
+    "sourceUrl": "https://www.gutenberg.org/ebooks/author/93"
+  },
+  "chapters": [
+    {
+      "titleEn": "The Apology (Defence of Socrates)",
+      "titleZh": "申辩篇",
+      "titleOrig": "Ἀπολογία Σωκράτους",
+      "passages": [
+        {
+          "originalText": "ἴσως οὖν ἄν τις εἴποι· σιγῶν δὲ καὶ ἡσυχίαν ἄγων, ὦ Σώκρατες, οὐχ οἷός τʼ ἔσῃ ἡμῖν ἐξελθὼν ζῆν; τουτὶ δή ἐστι πάντων χαλεπώτατον πεῖσαί τινας ὑμῶν. ἐάντε γὰρ λέγω ὅτι τῷ θεῷ ἀπειθεῖν τοῦτʼ ἐστὶν καὶ διὰ τοῦτʼ ἀδύνατον ἡσυχίαν ἄγειν, οὐ πείσεσθέ μοι ὡς εἰρωνευομένῳ· ἐάντʼ αὖ λέγω ὅτι καὶ τυγχάνει μέγιστον ἀγαθὸν ὂν ἀνθρώπῳ τοῦτο, ἑκάστης ἡμέρας περὶ ἀρετῆς τοὺς λόγους ποιεῖσθαι καὶ τῶν ἄλλων περὶ ὧν ὑμεῖς ἐμοῦ ἀκούετε διαλεγομένου καὶ ἐμαυτὸν καὶ ἄλλους ἐξετάζοντος, ὁ δὲ ἀνεξέταστος βίος οὐ βιωτὸς ἀνθρώπῳ, ταῦτα δʼ ἔτι ἧττον πείσεσθέ μοι λέγοντι. τὰ δὲ ἔχει μὲν οὕτως, ὡς ἐγώ φημι, ὦ ἄνδρες, πείθειν δὲ οὐ ῥᾴδιον.",
+          "englishText": "Some one will say: Yes, Socrates, but cannot you hold your tongue, and then you may go into a foreign city, and no one will interfere with you? Now I have great difficulty in making you understand my answer to this. For if I tell you that to do as you say would be a disobedience to the God, and therefore that I cannot hold my tongue, you will not believe that I am serious; and if I say again that daily to discourse about virtue, and of those other things about which you hear me examining myself and others, is the greatest good of man, and that the unexamined life is not worth living, you are still less likely to believe me. Yet I say what is true, although a thing of which it is hard for me to persuade you.",
+          "transliteration": null,
+          "canonicalRef": "Apology 37e–38a",
+          "originalLang": "ancient-greek",
+          "translator": "Benjamin Jowett (1871–1892)",
+          "sourceUrl": "https://www.gutenberg.org/ebooks/1656",
+          "license": "Greek: CC BY-SA 4.0 (Perseus); English: public domain",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "Asked why he will not simply keep quiet and live in exile, Socrates answers that discussing virtue and examining himself and others every day is the greatest good for a human being: the unexamined life is not worth living.",
+          "summaryZh": "有人问苏格拉底为何不能闭口不言、去别处平安度日。他回答：每天谈论美德、审视自己和他人，是人最大的善；未经审视的人生不值得过。",
+          "similarQuestions": [
+            "What makes life worth living?",
+            "Why should I reflect on my life?",
+            "Is self-awareness important?",
+            "How to live a meaningful life?",
+            "What is the point of philosophy?"
+          ],
+          "contextNote": "Spoken at Socrates’ trial in 399 BCE, after the guilty verdict, when he was 70 and was invited to propose his own penalty. Exile was an option; he refused to stop philosophising. Jowett renders the famous sentence (ὁ δὲ ἀνεξέταστος βίος οὐ βιωτὸς ἀνθρώπῳ) as “the unexamined life is not worth living.”",
+          "tags": [
+            "self-knowledge",
+            "meaning-of-life",
+            "virtue"
+          ],
+          "weight": 5
+        },
+        {
+          "originalText": "καὶ πολὺν μὲν χρόνον ἠπόρουν τί ποτε λέγει· ἔπειτα μόγις πάνυ ἐπὶ ζήτησιν αὐτοῦ τοιαύτην τινὰ ἐτραπόμην. ἦλθον ἐπί τινα τῶν δοκούντων σοφῶν εἶναι, ὡς ἐνταῦθα εἴπερ που ἐλέγξων τὸ μαντεῖον καὶ ἀποφανῶν τῷ χρησμῷ ὅτι οὑτοσὶ ἐμοῦ σοφώτερός ἐστι, σὺ δʼ ἐμὲ ἔφησθα. διασκοπῶν οὖν τοῦτον—ὀνόματι γὰρ οὐδὲν δέομαι λέγειν, ἦν δέ τις τῶν πολιτικῶν πρὸς ὃν ἐγὼ σκοπῶν τοιοῦτόν τι ἔπαθον, ὦ ἄνδρες Ἀθηναῖοι, καὶ διαλεγόμενος αὐτῷ—ἔδοξέ μοι οὗτος ὁ ἀνὴρ δοκεῖν μὲν εἶναι σοφὸς ἄλλοις τε πολλοῖς ἀνθρώποις καὶ μάλιστα ἑαυτῷ, εἶναι δʼ οὔ· κἄπειτα ἐπειρώμην αὐτῷ δεικνύναι ὅτι οἴοιτο μὲν εἶναι σοφός, εἴη δʼ οὔ. ἐντεῦθεν οὖν τούτῳ τε ἀπηχθόμην καὶ πολλοῖς τῶν παρόντων· πρὸς ἐμαυτὸν δʼ οὖν ἀπιὼν ἐλογιζόμην ὅτι τούτου μὲν τοῦ ἀνθρώπου ἐγὼ σοφώτερός εἰμι· κινδυνεύει μὲν γὰρ ἡμῶν οὐδέτερος οὐδὲν καλὸν κἀγαθὸν εἰδέναι, ἀλλʼ οὗτος μὲν οἴεταί τι εἰδέναι οὐκ εἰδώς, ἐγὼ δέ, ὥσπερ οὖν οὐκ οἶδα, οὐδὲ οἴομαι· ἔοικα γοῦν τούτου γε σμικρῷ τινι αὐτῷ τούτῳ σοφώτερος εἶναι, ὅτι ἃ μὴ οἶδα οὐδὲ οἴομαι εἰδέναι.",
+          "englishText": "After long consideration, I thought of a method of trying the question. I reflected that if I could only find a man wiser than myself, then I might go to the god with a refutation in my hand. I should say to him, “Here is a man who is wiser than I am; but you said that I was the wisest.” Accordingly I went to one who had the reputation of wisdom, and observed him—his name I need not mention; he was a politician whom I selected for examination—and the result was as follows: When I began to talk with him, I could not help thinking that he was not really wise, although he was thought wise by many, and still wiser by himself; and thereupon I tried to explain to him that he thought himself wise, but was not really wise; and the consequence was that he hated me, and his enmity was shared by several who were present and heard me. So I left him, saying to myself, as I went away: Well, although I do not suppose that either of us knows anything really beautiful and good, I am better off than he is,—for he knows nothing, and thinks that he knows; I neither know nor think that I know. In this latter particular, then, I seem to have slightly the advantage of him.",
+          "transliteration": null,
+          "canonicalRef": "Apology 21b–d",
+          "originalLang": "ancient-greek",
+          "translator": "Benjamin Jowett (1871–1892)",
+          "sourceUrl": "https://www.gutenberg.org/ebooks/1656",
+          "license": "Greek: CC BY-SA 4.0 (Perseus); English: public domain",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "To test the oracle that called him the wisest of men, Socrates questions a politician reputed to be wise and finds he is not. Neither of them knows anything truly fine and good, but Socrates is wiser in one small respect: he does not think he knows what he does not know.",
+          "summaryZh": "为了检验称他为最智慧之人的神谕，苏格拉底去盘问一位以智慧著称的政治家，发现此人并不智慧。两人都不真正懂得美与善，但苏格拉底在一点上略胜一筹：自己不知道的，他不自以为知道。",
+          "similarQuestions": [
+            "What is wisdom?",
+            "How to be humble?",
+            "Am I as smart as I think?",
+            "Why is intellectual humility important?",
+            "How much do I really know?"
+          ],
+          "contextNote": "The popular slogan “I know that I know nothing” is not in Plato; this is the passage it loosely paraphrases. Socrates’ claim is narrower: he does not suppose he knows what he does not know. The Delphic oracle had told his friend Chaerephon that no one was wiser than Socrates, and these cross-examinations earned him the enmity that led to his trial.",
+          "tags": [
+            "wisdom",
+            "doubt",
+            "self-knowledge"
+          ],
+          "weight": 5
+        },
+        {
+          "originalText": "οὐδὲν γὰρ ἄλλο πράττων ἐγὼ περιέρχομαι ἢ πείθων ὑμῶν καὶ νεωτέρους καὶ πρεσβυτέρους μήτε σωμάτων ἐπιμελεῖσθαι μήτε χρημάτων πρότερον μηδὲ οὕτω σφόδρα ὡς τῆς ψυχῆς ὅπως ὡς ἀρίστη ἔσται, λέγων ὅτι οὐκ ἐκ χρημάτων ἀρετὴ γίγνεται, ἀλλʼ ἐξ ἀρετῆς χρήματα καὶ τὰ ἄλλα ἀγαθὰ τοῖς ἀνθρώποις ἅπαντα καὶ ἰδίᾳ καὶ δημοσίᾳ.",
+          "englishText": "For I do nothing but go about persuading you all, old and young alike, not to take thought for your persons or your properties, but first and chiefly to care about the greatest improvement of the soul. I tell you that virtue is not given by money, but that from virtue comes money and every other good of man, public as well as private.",
+          "transliteration": null,
+          "canonicalRef": "Apology 30a–b",
+          "originalLang": "ancient-greek",
+          "translator": "Benjamin Jowett (1871–1892)",
+          "sourceUrl": "https://www.gutenberg.org/ebooks/1656",
+          "license": "Greek: CC BY-SA 4.0 (Perseus); English: public domain",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "Socrates says his whole activity is urging people to care first for the improvement of the soul rather than for their bodies or property: virtue does not come from money, but money and every other good come from virtue.",
+          "summaryZh": "苏格拉底说，他所做的不过是劝人首先关心灵魂的完善，而不是身体和财产：美德不来自金钱，金钱和人的其他一切好东西，无论公私，都来自美德。",
+          "similarQuestions": [
+            "Should I chase money or virtue?",
+            "Does wealth make you a better person?",
+            "What should I prioritize — career or character?",
+            "What brings true prosperity?"
+          ],
+          "contextNote": "From Socrates’ defence speech. He presents his questioning of fellow citizens as a service to the god, and he himself lived in poverty. The sentence can also be read as “virtue makes money and everything else good for people” — translators differ on the grammar.",
+          "tags": [
+            "virtue",
+            "wealth",
+            "soul"
+          ],
+          "weight": 4
+        }
+      ]
+    },
+    {
+      "titleEn": "The Republic, Book VII",
+      "titleZh": "理想国 · 第七卷",
+      "titleOrig": "Πολιτεία Ζ",
+      "passages": [
+        {
+          "originalText": "μετὰ ταῦτα δή, εἶπον, ἀπείκασον τοιούτῳ πάθει τὴν ἡμετέραν φύσιν παιδείας τε πέρι καὶ ἀπαιδευσίας. ἰδὲ γὰρ ἀνθρώπους οἷον ἐν καταγείῳ οἰκήσει σπηλαιώδει, ἀναπεπταμένην πρὸς τὸ φῶς τὴν εἴσοδον ἐχούσῃ μακρὰν παρὰ πᾶν τὸ σπήλαιον, ἐν ταύτῃ ἐκ παίδων ὄντας ἐν δεσμοῖς καὶ τὰ σκέλη καὶ τοὺς αὐχένας, ὥστε μένειν τε αὐτοὺς εἴς τε τὸ πρόσθεν μόνον ὁρᾶν, κύκλῳ δὲ τὰς κεφαλὰς ὑπὸ τοῦ δεσμοῦ ἀδυνάτους περιάγειν, φῶς δὲ αὐτοῖς πυρὸς ἄνωθεν καὶ πόρρωθεν καόμενον ὄπισθεν αὐτῶν, μεταξὺ δὲ τοῦ πυρὸς καὶ τῶν δεσμωτῶν ἐπάνω ὁδόν, παρʼ ἣν ἰδὲ τειχίον παρῳκοδομημένον, ὥσπερ τοῖς θαυματοποιοῖς πρὸ τῶν ἀνθρώπων πρόκειται τὰ παραφράγματα, ὑπὲρ ὧν τὰ θαύματα δεικνύασιν. ὁρῶ, ἔφη. ὅρα τοίνυν παρὰ τοῦτο τὸ τειχίον φέροντας ἀνθρώπους σκεύη τε παντοδαπὰ ὑπερέχοντα τοῦ τειχίου καὶ ἀνδριάντας καὶ ἄλλα ζῷα λίθινά τε καὶ ξύλινα καὶ παντοῖα εἰργασμένα, οἷον εἰκὸς τοὺς μὲν φθεγγομένους, τοὺς δὲ σιγῶντας τῶν παραφερόντων. ἄτοπον, ἔφη, λέγεις εἰκόνα καὶ δεσμώτας ἀτόπους. ὁμοίους ἡμῖν, ἦν δʼ ἐγώ· τοὺς γὰρ τοιούτους πρῶτον μὲν ἑαυτῶν τε καὶ ἀλλήλων οἴει ἄν τι ἑωρακέναι ἄλλο πλὴν τὰς σκιὰς τὰς ὑπὸ τοῦ πυρὸς εἰς τὸ καταντικρὺ αὐτῶν τοῦ σπηλαίου προσπιπτούσας; πῶς γάρ, ἔφη, εἰ ἀκινήτους γε τὰς κεφαλὰς ἔχειν ἠναγκασμένοι εἶεν διὰ βίου; τί δὲ τῶν παραφερομένων; οὐ ταὐτὸν τοῦτο; τί μήν; εἰ οὖν διαλέγεσθαι οἷοί τʼ εἶεν πρὸς ἀλλήλους, οὐ ταῦτα ἡγῇ ἂν τὰ ὄντα αὐτοὺς νομίζειν ἅπερ ὁρῷεν; ἀνάγκη. τί δʼ εἰ καὶ ἠχὼ τὸ δεσμωτήριον ἐκ τοῦ καταντικρὺ ἔχοι; ὁπότε τις τῶν παριόντων φθέγξαιτο, οἴει ἂν ἄλλο τι αὐτοὺς ἡγεῖσθαι τὸ φθεγγόμενον ἢ τὴν παριοῦσαν σκιάν; μὰ Δίʼ οὐκ ἔγωγʼ, ἔφη. παντάπασι δή, ἦν δʼ ἐγώ, οἱ τοιοῦτοι οὐκ ἂν ἄλλο τι νομίζοιεν τὸ ἀληθὲς ἢ τὰς τῶν σκευαστῶν σκιάς. πολλὴ ἀνάγκη, ἔφη.",
+          "englishText": "And now, I said, let me show in a figure how far our nature is enlightened or unenlightened:—Behold! human beings living in a underground den, which has a mouth open towards the light and reaching all along the den; here they have been from their childhood, and have their legs and necks chained so that they cannot move, and can only see before them, being prevented by the chains from turning round their heads. Above and behind them a fire is blazing at a distance, and between the fire and the prisoners there is a raised way; and you will see, if you look, a low wall built along the way, like the screen which marionette players have in front of them, over which they show the puppets. I see. And do you see, I said, men passing along the wall carrying all sorts of vessels, and statues and figures of animals made of wood and stone and various materials, which appear over the wall? Some of them are talking, others silent. You have shown me a strange image, and they are strange prisoners. Like ourselves, I replied; and they see only their own shadows, or the shadows of one another, which the fire throws on the opposite wall of the cave? True, he said; how could they see anything but the shadows if they were never allowed to move their heads? And of the objects which are being carried in like manner they would only see the shadows? Yes, he said. And if they were able to converse with one another, would they not suppose that they were naming what was actually before them? Very true. And suppose further that the prison had an echo which came from the other side, would they not be sure to fancy when one of the passers-by spoke that the voice which they heard came from the passing shadow? No question, he replied. To them, I said, the truth would be literally nothing but the shadows of the images. That is certain.",
+          "transliteration": null,
+          "canonicalRef": "Republic 514a–515c",
+          "originalLang": "ancient-greek",
+          "translator": "Benjamin Jowett (1871–1892)",
+          "sourceUrl": "https://www.gutenberg.org/cache/epub/1497/pg1497-images.html#link2H_4_0010",
+          "license": "Greek: CC BY-SA 4.0 (Perseus); English: public domain",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "The opening of the allegory of the cave: prisoners chained since childhood see only shadows cast on a wall by objects carried before a fire, and they take those shadows for the whole of reality. “Like ourselves,” Socrates says.",
+          "summaryZh": "洞穴寓言的开头：一群从小被锁住的囚徒，只能看到火光把身后搬运的器物投在墙上的影子，并把这些影子当作全部的真实。苏格拉底说：“他们就像我们。”",
+          "similarQuestions": [
+            "Am I living in an illusion?",
+            "How to see reality clearly?",
+            "Why do people resist the truth?",
+            "What is the nature of reality?",
+            "Why is it painful to grow?"
+          ],
+          "contextNote": "Republic VII opens with this image of “our nature in its education and want of education.” The allegory continues beyond this excerpt: a freed prisoner is painfully led up into the sunlight, and if he returned to tell the others they would laugh at him and might even kill him. It is often read alongside Socrates’ own fate.",
+          "tags": [
+            "truth",
+            "education",
+            "wisdom"
+          ],
+          "weight": 5
+        }
+      ]
+    },
+    {
+      "titleEn": "The Republic, Book IV",
+      "titleZh": "理想国 · 第四卷",
+      "titleOrig": "Πολιτεία Δ",
+      "passages": [
+        {
+          "originalText": "ἀλλʼ, ἦν δʼ ἐγώ, ἄκουε εἴ τι ἄρα λέγω. ὃ γὰρ ἐξ ἀρχῆς ἐθέμεθα δεῖν ποιεῖν διὰ παντός, ὅτε τὴν πόλιν κατῳκίζομεν, τοῦτό ἐστιν, ὡς ἐμοὶ δοκεῖ, ἤτοι τούτου τι εἶδος ἡ δικαιοσύνη. ἐθέμεθα δὲ δήπου καὶ πολλάκις ἐλέγομεν, εἰ μέμνησαι, ὅτι ἕνα ἕκαστον ἓν δέοι ἐπιτηδεύειν τῶν περὶ τὴν πόλιν, εἰς ὃ αὐτοῦ ἡ φύσις ἐπιτηδειοτάτη πεφυκυῖα εἴη. ἐλέγομεν γάρ. καὶ μὴν ὅτι γε τὸ τὰ αὑτοῦ πράττειν καὶ μὴ πολυπραγμονεῖν δικαιοσύνη ἐστί, καὶ τοῦτο ἄλλων τε πολλῶν ἀκηκόαμεν καὶ αὐτοὶ πολλάκις εἰρήκαμεν. εἰρήκαμεν γάρ. τοῦτο τοίνυν, ἦν δʼ ἐγώ, ὦ φίλε, κινδυνεύει τρόπον τινὰ γιγνόμενον ἡ δικαιοσύνη εἶναι, τὸ τὰ αὑτοῦ πράττειν.",
+          "englishText": "Well then, tell me, I said, whether I am right or not: You remember the original principle which we were always laying down at the foundation of the State, that one man should practise one thing only, the thing to which his nature was best adapted;—now justice is this principle or a part of it. Yes, we often said that one man should do one thing only. Further, we affirmed that justice was doing one’s own business, and not being a busybody; we said so again and again, and many others have said the same to us. Yes, we said so. Then to do one’s own business in a certain way may be assumed to be justice.",
+          "transliteration": null,
+          "canonicalRef": "Republic 433a–b",
+          "originalLang": "ancient-greek",
+          "translator": "Benjamin Jowett (1871–1892)",
+          "sourceUrl": "https://www.gutenberg.org/cache/epub/1497/pg1497-images.html#link2H_4_0007",
+          "license": "Greek: CC BY-SA 4.0 (Perseus); English: public domain",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "Justice turns out to be the principle laid down when the city was founded: each person should practise the one thing their nature is best suited for. Justice is doing one’s own business and not being a busybody.",
+          "summaryZh": "正义原来就是建城之初定下的原则：每个人只做最适合自己天性的那一件事。正义就是做自己分内的事，不多管闲事。",
+          "similarQuestions": [
+            "What is justice?",
+            "How should society be organized?",
+            "Should everyone do what they are best at?",
+            "What is my role in society?"
+          ],
+          "contextNote": "Having found wisdom, courage and temperance in the ideal city, Socrates identifies justice as the remaining virtue that makes the others possible. He goes on to apply the same principle to the soul, where justice is each part (reason, spirit, appetite) doing its own work.",
+          "tags": [
+            "justice",
+            "governance",
+            "duty"
+          ],
+          "weight": 4
+        }
+      ]
+    },
+    {
+      "titleEn": "Symposium",
+      "titleZh": "会饮篇",
+      "titleOrig": "Συμπόσιον",
+      "passages": [
+        {
+          "originalText": "ὅταν δή τις ἀπὸ τῶνδε διὰ τὸ ὀρθῶς παιδεραστεῖν ἐπανιὼν ἐκεῖνο τὸ καλὸν ἄρχηται καθορᾶν, σχεδὸν ἄν τι ἅπτοιτο τοῦ τέλους. τοῦτο γὰρ δή ἐστι τὸ ὀρθῶς ἐπὶ τὰ ἐρωτικὰ ἰέναι ἢ ὑπʼ ἄλλου ἄγεσθαι, ἀρχόμενον ἀπὸ τῶνδε τῶν καλῶν ἐκείνου ἕνεκα τοῦ καλοῦ ἀεὶ ἐπανιέναι, ὥσπερ ἐπαναβασμοῖς χρώμενον, ἀπὸ ἑνὸς ἐπὶ δύο καὶ ἀπὸ δυοῖν ἐπὶ πάντα τὰ καλὰ σώματα, καὶ ἀπὸ τῶν καλῶν σωμάτων ἐπὶ τὰ καλὰ ἐπιτηδεύματα, καὶ ἀπὸ τῶν ἐπιτηδευμάτων ἐπὶ τὰ καλὰ μαθήματα, καὶ ἀπὸ τῶν μαθημάτων ἐπʼ ἐκεῖνο τὸ μάθημα τελευτῆσαι, ὅ ἐστιν οὐκ ἄλλου ἢ αὐτοῦ ἐκείνου τοῦ καλοῦ μάθημα, καὶ γνῷ αὐτὸ τελευτῶν ὃ ἔστι καλόν.",
+          "englishText": "He who from these ascending under the influence of true love, begins to perceive that beauty, is not far from the end. And the true order of going, or being led by another, to the things of love, is to begin from the beauties of earth and mount upwards for the sake of that other beauty, using these as steps only, and from one going on to two, and from two to all fair forms, and from fair forms to fair practices, and from fair practices to fair notions, until from fair notions he arrives at the notion of absolute beauty, and at last knows what the essence of beauty is.",
+          "transliteration": null,
+          "canonicalRef": "Symposium 211b–c",
+          "originalLang": "ancient-greek",
+          "translator": "Benjamin Jowett (1871–1892)",
+          "sourceUrl": "https://www.gutenberg.org/ebooks/1600",
+          "license": "Greek: CC BY-SA 4.0 (Perseus); English: public domain",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "The right way of love is to use beautiful things as steps: from one beautiful body to all, from bodies to beautiful practices, from practices to beautiful kinds of knowledge, and finally to knowledge of beauty itself.",
+          "summaryZh": "爱的正确道路，是把美的事物当作阶梯：从一个美的身体到所有美的身体，从身体到美的行为，从行为到美的学问，最终认识美本身。",
+          "similarQuestions": [
+            "What is love?",
+            "Is love more than physical attraction?",
+            "How does love help us grow?",
+            "What is the highest form of love?",
+            "Can love lead to wisdom?"
+          ],
+          "contextNote": "From Socrates’ speech in the Symposium, where he recounts what the priestess Diotima of Mantinea taught him about love — the “ladder of love.” The Greek speaks of loving boys rightly (paiderastein), set in the customs of Athenian upper-class society; Jowett renders it “true love.”",
+          "tags": [
+            "love",
+            "wisdom",
+            "soul"
+          ],
+          "weight": 5
+        }
+      ]
+    },
+    {
+      "titleEn": "Crito",
+      "titleZh": "克力同篇",
+      "titleOrig": "Κρίτων",
+      "passages": [
+        {
+          "originalText": "οὐκ ἄρα, ὦ βέλτιστε, πάνυ ἡμῖν οὕτω φροντιστέον τί ἐροῦσιν οἱ πολλοὶ ἡμᾶς, ἀλλʼ ὅτι ὁ ἐπαΐων περὶ τῶν δικαίων καὶ ἀδίκων, ὁ εἷς καὶ αὐτὴ ἡ ἀλήθεια. ὥστε πρῶτον μὲν ταύτῃ οὐκ ὀρθῶς εἰσηγῇ, εἰσηγούμενος τῆς τῶν πολλῶν δόξης δεῖν ἡμᾶς φροντίζειν περὶ τῶν δικαίων καὶ καλῶν καὶ ἀγαθῶν καὶ τῶν ἐναντίων. ἀλλὰ μὲν δή, φαίη γʼ ἄν τις, οἷοί τέ εἰσιν ἡμᾶς οἱ πολλοὶ ἀποκτεινύναι. ΚΡ. δῆλα δὴ καὶ ταῦτα· φαίη γὰρ ἄν, ὦ Σώκρατες. ἀληθῆ λέγεις. ΣΩ. ἀλλʼ, ὦ θαυμάσιε, οὗτός τε ὁ λόγος ὃν διεληλύθαμεν ἔμοιγε δοκεῖ ἔτι ὅμοιος εἶναι καὶ πρότερον· καὶ τόνδε δὲ αὖ σκόπει εἰ ἔτι μένει ἡμῖν ἢ οὔ, ὅτι οὐ τὸ ζῆν περὶ πλείστου ποιητέον ἀλλὰ τὸ εὖ ζῆν. ΚΡ. ἀλλὰ μένει. ΣΩ. τὸ δὲ εὖ καὶ καλῶς καὶ δικαίως ὅτι ταὐτόν ἐστιν, μένει ἢ οὐ μένει; ΚΡ. μένει.",
+          "englishText": "Then, my friend, we must not regard what the many say of us: but what he, the one man who has understanding of just and unjust, will say, and what the truth will say. And therefore you begin in error when you advise that we should regard the opinion of the many about just and unjust, good and evil, honorable and dishonorable.--'Well,' some one will say, 'but the many can kill us.' CRITO: Yes, Socrates; that will clearly be the answer. SOCRATES: And it is true; but still I find with surprise that the old argument is unshaken as ever. And I should like to know whether I may say the same of another proposition--that not life, but a good life, is to be chiefly valued? CRITO: Yes, that also remains unshaken. SOCRATES: And a good life is equivalent to a just and honorable one--that holds also? CRITO: Yes, it does.",
+          "transliteration": null,
+          "canonicalRef": "Crito 48a–b",
+          "originalLang": "ancient-greek",
+          "translator": "Benjamin Jowett (1871–1892)",
+          "sourceUrl": "https://www.gutenberg.org/ebooks/1657",
+          "license": "Greek: CC BY-SA 4.0 (Perseus); English: public domain",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "What matters is not what the many say but what the one who understands justice says, and the truth itself. Even if the many can kill us, the principle stands: not life, but a good life, is to be chiefly valued — and a good life is a just and honourable one.",
+          "summaryZh": "要紧的不是众人怎么说，而是懂得正义的那个人和真理本身怎么说。即使众人能置我们于死地，原则依然成立：最该看重的不是活着，而是活得好；而活得好就是活得正当、高尚。",
+          "similarQuestions": [
+            "What matters more — length of life or quality?",
+            "How to live a good life?",
+            "Is it worth compromising principles to survive?",
+            "Should I care what others think of me?"
+          ],
+          "contextNote": "In prison awaiting execution, Socrates is urged by his friend Crito to escape. He insists on reasoning from these agreed principles; the dialogue concludes that escaping would be unjust, and he stays to die.",
+          "tags": [
+            "virtue",
+            "justice",
+            "meaning-of-life"
+          ],
+          "weight": 5
+        }
+      ]
+    },
+    {
+      "titleEn": "Phaedrus",
+      "titleZh": "斐德罗篇",
+      "titleOrig": "Φαῖδρος",
+      "passages": [
+        {
+          "originalText": "περὶ δὲ τῆς ἰδέας αὐτῆς ὧδε λεκτέον. οἷον μέν ἐστι, πάντῃ πάντως θείας εἶναι καὶ μακρᾶς διηγήσεως, ᾧ δὲ ἔοικεν, ἀνθρωπίνης τε καὶ ἐλάττονος· ταύτῃ οὖν λέγωμεν. ἐοικέτω δὴ συμφύτῳ δυνάμει ὑποπτέρου ζεύγους τε καὶ ἡνιόχου. θεῶν μὲν οὖν ἵπποι τε καὶ ἡνίοχοι πάντες αὐτοί τε ἀγαθοὶ καὶ ἐξ ἀγαθῶν, τὸ δὲ τῶν ἄλλων μέμεικται. καὶ πρῶτον μὲν ἡμῶν ὁ ἄρχων συνωρίδος ἡνιοχεῖ, εἶτα τῶν ἵππων ὁ μὲν αὐτῷ καλός τε καὶ ἀγαθὸς καὶ ἐκ τοιούτων, ὁ δʼ ἐξ ἐναντίων τε καὶ ἐναντίος· χαλεπὴ δὴ καὶ δύσκολος ἐξ ἀνάγκης ἡ περὶ ἡμᾶς ἡνιόχησις.",
+          "englishText": "Of the nature of the soul, though her true form be ever a theme of large and more than mortal discourse, let me speak briefly, and in a figure. And let the figure be composite--a pair of winged horses and a charioteer. Now the winged horses and the charioteers of the gods are all of them noble and of noble descent, but those of other races are mixed; the human charioteer drives his in a pair; and one of them is noble and of noble breed, and the other is ignoble and of ignoble breed; and the driving of them of necessity gives a great deal of trouble to him.",
+          "transliteration": null,
+          "canonicalRef": "Phaedrus 246a–b",
+          "originalLang": "ancient-greek",
+          "translator": "Benjamin Jowett (1871–1892)",
+          "sourceUrl": "https://www.gutenberg.org/ebooks/1636",
+          "license": "Greek: CC BY-SA 4.0 (Perseus); English: public domain",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "The soul is pictured as a charioteer with a pair of winged horses. The gods’ horses are all good, but the human charioteer drives one noble horse and one ignoble one, so driving them is necessarily hard.",
+          "summaryZh": "灵魂被比作一位驾着两匹带翼骏马的御者。诸神的马都是好马，人的御者却驾着一匹高贵、一匹卑劣的马，所以驾驭起来必然艰难。",
+          "similarQuestions": [
+            "Why am I conflicted about what to do?",
+            "How to control my impulses?",
+            "Why do I want things I know are bad for me?",
+            "What is self-control?"
+          ],
+          "contextNote": "From Socrates’ second speech in the Phaedrus. The charioteer is commonly read as reason, the noble horse as spirited emotion and the unruly horse as appetite, matching the three-part soul of the Republic; the myth goes on to tell how souls lose their wings and fall into bodies.",
+          "tags": [
+            "soul",
+            "desire",
+            "discipline"
+          ],
+          "weight": 4
+        }
+      ]
+    },
+    {
+      "titleEn": "Meno",
+      "titleZh": "美诺篇",
+      "titleOrig": "Μένων",
+      "passages": [
+        {
+          "originalText": "ἅτε οὖν ἡ ψυχὴ ἀθάνατός τε οὖσα καὶ πολλάκις γεγονυῖα, καὶ ἑωρακυῖα καὶ τὰ ἐνθάδε καὶ τὰ ἐν Ἅιδου καὶ πάντα χρήματα, οὐκ ἔστιν ὅτι οὐ μεμάθηκεν· ὥστε οὐδὲν θαυμαστὸν καὶ περὶ ἀρετῆς καὶ περὶ ἄλλων οἷόν τʼ εἶναι αὐτὴν ἀναμνησθῆναι, ἅ γε καὶ πρότερον ἠπίστατο. ἅτε γὰρ τῆς φύσεως ἁπάσης συγγενοῦς οὔσης, καὶ μεμαθηκυίας τῆς ψυχῆς ἅπαντα, οὐδὲν κωλύει ἓν μόνον ἀναμνησθέντα—ὃ δὴ μάθησιν καλοῦσιν ἄνθρωποι—τἆλλα πάντα αὐτὸν ἀνευρεῖν, ἐάν τις ἀνδρεῖος ᾖ καὶ μὴ ἀποκάμνῃ ζητῶν· τὸ γὰρ ζητεῖν ἄρα καὶ τὸ μανθάνειν ἀνάμνησις ὅλον ἐστίν.",
+          "englishText": "The soul, then, as being immortal, and having been born again many times, and having seen all things that exist, whether in this world or in the world below, has knowledge of them all; and it is no wonder that she should be able to call to remembrance all that she ever knew about virtue, and about everything; for as all nature is akin, and the soul has learned all things; there is no difficulty in her eliciting or as men say learning, out of a single recollection all the rest, if a man is strenuous and does not faint; for all enquiry and all learning is but recollection.",
+          "transliteration": null,
+          "canonicalRef": "Meno 81c–d",
+          "originalLang": "ancient-greek",
+          "translator": "Benjamin Jowett (1871–1892)",
+          "sourceUrl": "https://www.gutenberg.org/ebooks/1643",
+          "license": "Greek: CC BY-SA 4.0 (Perseus); English: public domain",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "Because the soul is immortal and has seen all things, it already has knowledge of them; what we call learning is recollection. Having recalled one thing, a person can find out all the rest, if they are strenuous and do not give up the search.",
+          "summaryZh": "灵魂不朽，见过一切，所以本就拥有关于万物的知识；我们所谓的学习其实是回忆。只要回想起一件事，人就能找出其余的一切，前提是他勇于探究、不半途而废。",
+          "similarQuestions": [
+            "How does real learning happen?",
+            "Do I already have the answers within me?",
+            "Is knowledge innate or learned?",
+            "What makes a great teacher?",
+            "Why keep searching when it is hard?"
+          ],
+          "contextNote": "Socrates’ reply to “Meno’s paradox” — that one can neither seek what one knows nor what one does not know. He then demonstrates the theory of recollection (anamnesis) by leading an untaught slave boy, through questions, to a geometrical truth. The dialogue’s larger question is whether virtue can be taught.",
+          "tags": [
+            "education",
+            "soul",
+            "perseverance"
+          ],
+          "weight": 4
+        }
+      ]
+    }
+  ]
+}

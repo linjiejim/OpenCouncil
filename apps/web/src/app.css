@@ -1,0 +1,242 @@
+@import 'tailwindcss';
+
+/* ============================================================
+   OpenCouncil — Design System v2
+   Hybrid: Round Table (ceremony) · Reading Room (typography)
+           · Pocket Oracle (mobile-first warmth)
+   ============================================================ */
+
+@theme {
+  --font-serif: 'Crimson Pro', Georgia, 'Songti SC', serif;
+  --font-sans: 'Inter', system-ui, -apple-system, sans-serif;
+
+  /* --- Light "gallery" surfaces (browsing) --- */
+  --color-parchment: #f6f1e8;
+  --color-parchment-dark: #e7dcc9;
+  --color-surface: #fffdf9;
+  --color-ink: #2a1c12;
+  --color-ink-light: #6d5a47;
+  --color-ink-faint: #9c8b78;
+
+  /* --- Antique brass accent (refined from brassy gold) --- */
+  --color-gold: #a87b35;
+  --color-gold-light: #c39a52;
+  --color-gold-soft: #d9c39a;
+
+  --color-sage: #6b8e6b;
+  --color-sage-light: #8fbc8f;
+
+  /* --- Chamber: the convened-council dark surface --- */
+  --color-chamber: #1d1610;
+  --color-chamber-soft: #2a2017;
+  --color-chamber-line: #463829;
+  --color-candle: #e6b964;
+  --color-chamber-ink: #f3e9d8;
+  --color-chamber-ink-soft: #b8a589;
+}
+
+body {
+  font-family: var(--font-sans);
+  background-color: var(--color-parchment);
+  color: var(--color-ink);
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+.font-serif {
+  font-family: var(--font-serif);
+}
+
+/* ============================================================
+   Typography scale
+   ============================================================ */
+
+/* Eyebrow / section label */
+.eyebrow {
+  font-size: 0.6875rem;
+  font-weight: 600;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--color-ink-faint);
+}
+
+/* The hero original-text pull-quote — the soul of the product */
+.quote-hero {
+  font-family: var(--font-serif);
+  font-size: clamp(1.4rem, 1rem + 2.2vw, 2.1rem);
+  line-height: 1.5;
+  font-weight: 500;
+  letter-spacing: 0.005em;
+}
+
+/* Plain-language gloss (reading body) */
+.gloss {
+  font-size: 1.0625rem;
+  line-height: 1.78;
+}
+@media (max-width: 640px) {
+  .gloss { font-size: 1rem; line-height: 1.75; }
+}
+
+/* Passage original text styling (reading pages) */
+.passage-original {
+  font-family: var(--font-serif);
+  font-size: 1.2rem;
+  line-height: 1.85;
+  color: var(--color-ink);
+}
+
+/* Search highlight */
+mark {
+  background-color: #f3dd9e;
+  color: var(--color-ink);
+  padding: 0 2px;
+  border-radius: 2px;
+}
+
+/* ============================================================
+   Portrait — unified medallion treatment
+   ============================================================ */
+.portrait {
+  object-fit: cover;
+  background: var(--color-chamber-soft);
+}
+/* Subtle warm harmonization so mixed sources read as one set */
+.portrait-img {
+  filter: saturate(0.94) contrast(1.02);
+}
+
+/* ============================================================
+   Chamber surface (council answer view)
+   ============================================================ */
+.chamber {
+  background:
+    radial-gradient(120% 80% at 50% -10%, rgba(230, 185, 100, 0.10), transparent 60%),
+    linear-gradient(180deg, var(--color-chamber-soft), var(--color-chamber));
+  color: var(--color-chamber-ink);
+}
+.chamber-card {
+  background: linear-gradient(180deg, rgba(255, 250, 240, 0.04), rgba(255, 250, 240, 0.015));
+  border: 1px solid var(--color-chamber-line);
+}
+.candle-divider {
+  height: 1px;
+  background: linear-gradient(to right, transparent, var(--color-chamber-line) 20%, var(--color-chamber-line) 80%, transparent);
+}
+
+/* Decorative quote mark */
+.quote-mark::before {
+  content: '\201C';
+  font-family: var(--font-serif);
+  color: var(--color-gold);
+  opacity: 0.55;
+}
+
+/* ============================================================
+   Card scroll (kept for any horizontal contexts)
+   ============================================================ */
+.cards-scroll-container {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  scroll-snap-type: x proximity;
+  scrollbar-width: thin;
+  scrollbar-color: var(--color-parchment-dark) transparent;
+}
+.cards-scroll-container::-webkit-scrollbar { height: 6px; }
+.cards-scroll-container::-webkit-scrollbar-track { background: transparent; }
+.cards-scroll-container::-webkit-scrollbar-thumb {
+  background: var(--color-parchment-dark);
+  border-radius: 3px;
+}
+
+/* Line clamps */
+.line-clamp-2 {
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.line-clamp-3 {
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+/* ============================================================
+   Animations
+   ============================================================ */
+@keyframes fadeInUp {
+  from { opacity: 0; transform: translateY(16px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+@keyframes fadeInScale {
+  from { opacity: 0; transform: scale(0.96); }
+  to   { opacity: 1; transform: scale(1); }
+}
+@keyframes slideDown {
+  from { opacity: 0; transform: translateY(-8px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+/* Speaker "takes the floor" entrance */
+@keyframes speakerReveal {
+  from { opacity: 0; transform: translateY(22px) scale(0.985); }
+  to   { opacity: 1; transform: translateY(0) scale(1); }
+}
+/* Candle breathing glow for portraits while deliberating */
+@keyframes candleBreathe {
+  0%, 100% { box-shadow: 0 0 0 0 rgba(230, 185, 100, 0.0); transform: scale(1); }
+  50%      { box-shadow: 0 0 28px 6px rgba(230, 185, 100, 0.22); transform: scale(1.03); }
+}
+@keyframes flicker {
+  0%, 100% { opacity: 0.35; }
+  50%      { opacity: 1; }
+}
+@keyframes seatPulse {
+  0%, 100% { opacity: 0.5; transform: scale(1); }
+  50%      { opacity: 1; transform: scale(1.12); }
+}
+
+.animate-fade-in-up    { animation: fadeInUp 0.5s ease-out both; }
+.animate-fade-in-scale { animation: fadeInScale 0.4s ease-out both; }
+.animate-slide-down    { animation: slideDown 0.3s ease-out both; }
+.animate-breathe       { animation: candleBreathe 3s ease-in-out infinite; }
+.speaker-reveal        { animation: speakerReveal 0.6s cubic-bezier(0.22, 1, 0.36, 1) both; }
+.user-bubble-enter     { animation: fadeInScale 0.3s ease-out both; }
+
+@media (prefers-reduced-motion: reduce) {
+  .animate-fade-in-up, .animate-fade-in-scale, .animate-slide-down,
+  .speaker-reveal, .user-bubble-enter { animation-duration: 0.01ms; }
+  .animate-breathe { animation: none; }
+}
+
+/* ============================================================
+   Timeline (Thinkers page)
+   ============================================================ */
+.timeline-wrapper { position: relative; }
+.timeline-wrapper::before {
+  content: '';
+  position: absolute;
+  left: 50%;
+  top: 0;
+  bottom: 0;
+  width: 2px;
+  background: linear-gradient(to bottom, transparent 0%, var(--color-gold) 5%, var(--color-gold) 95%, transparent 100%);
+  transform: translateX(-50%);
+  opacity: 0.3;
+}
+@media (max-width: 768px) {
+  .timeline-wrapper::before { left: 32px; }
+}
+
+/* ============================================================
+   D3 force graph (Themes page)
+   ============================================================ */
+.force-graph-container { width: 100%; cursor: grab; }
+.force-graph-container:active { cursor: grabbing; }
+.force-graph-container .node-label { pointer-events: none; user-select: none; }
+.force-graph-container .theme-node { cursor: pointer; transition: filter 0.2s; }
+.force-graph-container .theme-node:hover { filter: brightness(1.15); }
+.force-graph-container .thinker-node { cursor: pointer; }
+.force-graph-container .link { stroke-opacity: 0.3; transition: stroke-opacity 0.2s; }
+.force-graph-container .link.highlighted { stroke-opacity: 0.8; }

@@ -1,0 +1,292 @@
+{
+  "work": {
+    "titleEn": "Discourses and Enchiridion (Selected Passages)",
+    "titleZh": "论说集与手册（精选）",
+    "titleOrig": "Διατριβαί / Ἐγχειρίδιον",
+    "language": "ancient-greek",
+    "circaYear": 108,
+    "description": "Selected passages from the teachings of Epictetus as recorded by his student Arrian: the Discourses and the Enchiridion (Manual). Greek text of Heinrich Schenkl’s edition from the Perseus Digital Library (CC BY-SA 4.0), with the public-domain English translation of George Long, via Project Gutenberg (and, for Enchiridion 1, Perseus’s digitisation of the same translation).",
+    "copyright": "Greek CC BY-SA 4.0 · English PD",
+    "sourceUrl": "https://www.gutenberg.org/ebooks/10661"
+  },
+  "chapters": [
+    {
+      "titleEn": "Enchiridion (The Manual)",
+      "titleZh": "手册",
+      "titleOrig": "Ἐγχειρίδιον",
+      "passages": [
+        {
+          "originalText": "τῶν ὄντων τὰ μέν ἐστιν ἐφʼ ἡμῖν, τὰ δὲ οὐκ ἐφʼ ἡμῖν. ἐφʼ ἡμῖν μὲν ὑπόληψις, ὁρμή, ὄρεξις, ἔκκλισις καὶ ἑνὶ λόγῳ ὅσα ἡμέτερα ἔργα· οὐκ ἐφʼ ἡμῖν δὲ τὸ σῶμα, ἡ κτῆσις, δόξαι, ἀρχαὶ καὶ ἑνὶ λόγῳ ὅσα οὐχ ἡμέτερα ἔργα. καὶ τὰ μὲν ἐφʼ ἡμῖν ἐστι φύσει ἐλεύθερα, ἀκώλυτα, ἀπαραπόδιστα, τὰ δὲ οὐκ ἐφʼ ἡμῖν ἀσθενῆ, δοῦλα, κωλυτά, ἀλλότρια. μέμνησο οὖν, ὅτι, ἐὰν τὰ φύσει δοῦλα ἐλεύθερα οἰηθῇς καὶ τὰ ἀλλότρια ἴδια, ἐμποδισθήσῃ, πενθήσεις, ταραχθήσῃ, μέμψῃ καὶ θεοὺς καὶ ἀνθρώπους, ἐὰν δὲ τὸ σὸν μόνον οἰηθῇς σὸν εἶναι, τὸ δὲ ἀλλότριον, ὥσπερ ἐστίν, ἀλλότριον, οὐδείς σε ἀναγκάσει οὐδέποτε, οὐδείς σε κωλύσει, οὐ μέμψῃ οὐδένα, οὐκ ἐγκαλέσεις τινί, ἄκων πράξεις οὐδὲ ἕν, οὐδείς σε βλάψει, ἐχθρὸν οὐχ ἕξεις, οὐδὲ γὰρ βλαβερόν τι πείσῃ.",
+          "englishText": "OF things some are in our power, and others are not. In our power are opinion (ὑπόληψις), movement towards a thing (ὁρμή), desire, aversion (ἔκκλισις, turning from a thing); and in a word, whatever are our own acts: not in our power are the body, property, reputation, offices (magisterial power), and in a word, whatever are not our own acts. And the things in our power are by nature free, not subject to restraint nor hindrance: but the things not in our power are weak, slavish, subject to restraint, in the power of others. Remember then that if you think the things which are by nature slavish to be free, and the things which are in the power of others to be your own, you will be hindered, you will lament, you will be disturbed, you will blame both gods and men: but if you think that only which is your own to be your own, and if you think that what is another’s, as it really is, belongs to another, no man will ever compel you, no man will hinder you, you will never blame any man, you will accuse no man, you will do nothing involuntarily (against your will), no man will harm you, you will have no enemy, for you will not suffer any harm.",
+          "transliteration": null,
+          "canonicalRef": "Enchiridion 1.1–3",
+          "originalLang": "ancient-greek",
+          "translator": "George Long (1877)",
+          "sourceUrl": "https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0557.tlg002.perseus-eng3:1/",
+          "license": "Greek: CC BY-SA 4.0 (Perseus); English: public domain translation, Perseus digitisation (CC BY-SA 4.0)",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "Some things are in our power — opinion, impulse, desire, aversion, our own acts — and some are not: body, property, reputation, office. Treat only what is yours as yours and nothing can compel, hinder or harm you.",
+          "summaryZh": "有些事在我们能力之内——看法、意向、欲望、厌恶，总之是我们自己的行为；有些则不在——身体、财产、名声、官职。只把属于自己的当作自己的，就没有什么能强迫、阻碍或伤害你。",
+          "similarQuestions": [
+            "How do I stop worrying about things I cannot change?",
+            "What should I focus my energy on?",
+            "How do I deal with things outside my control?"
+          ],
+          "contextNote": "The opening of the Enchiridion, the short handbook that Arrian distilled from Epictetus’ lectures. This “dichotomy of control” is the foundation of Epictetus’ teaching and is often cited as a forerunner of cognitive behavioural therapy.",
+          "tags": [
+            "freedom",
+            "choice",
+            "self-knowledge"
+          ],
+          "weight": 5
+        },
+        {
+          "originalText": "ταράσσει τοὺς ἀνθρώπους οὐ τὰ πράγματα, ἀλλὰ τὰ περὶ τῶν πραγμάτων δόγματα· οἷον ὁ θάνατος οὐδὲν δεινόν (ἐπεὶ καὶ Σωκράτει ἂν ἐφαίνετο), ἀλλὰ τὸ δόγμα τὸ περὶ τοῦ θανάτου, διότι δεινόν, ἐκεῖνο τὸ δεινόν ἐστιν. ὅταν οὖν ἐμποδιζώμεθα ἢ ταρασσώμεθα ἢ λυπώμεθα, μηδέποτε ἄλλον αἰτιώμεθα, ἀλλʼ ἑαυτούς, τοῦτʼ ἔστι τὰ ἑαυτῶν δόγματα. ἀπαιδεύτου ἔργον τὸ ἄλλοις ἐγκαλεῖν, ἐφʼ οἷς αὐτὸς πράσσει κακῶς· ἠργμένου παιδεύεσθαι τὸ ἑαυτῷ· πεπαιδευμένου τὸ μήτε ἄλλῳ μήτε ἑαυτῷ.",
+          "englishText": "Men are disturbed not by the things which happen, but by the opinions about the things; for example, death is nothing terrible, for if it were it would have seemed so to Socrates; for the opinion about death that it is terrible, is the terrible thing. When then we are impeded, or disturbed, or grieved, let us never blame others, but ourselves—that is, our opinions. It is the act of an ill-instructed man to blame others for his own bad condition; it is the act of one who has begun to be instructed, to lay the blame on himself; and of one whose instruction is completed, neither to blame another, nor himself.",
+          "transliteration": null,
+          "canonicalRef": "Enchiridion 5",
+          "originalLang": "ancient-greek",
+          "translator": "George Long (1877)",
+          "sourceUrl": "https://www.gutenberg.org/ebooks/10661",
+          "license": "Greek: CC BY-SA 4.0 (Perseus); English: public domain",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "We are disturbed not by events but by our opinions about them. Death is not terrible — the opinion that it is terrible is the terrible thing — so when troubled, look to your own judgments rather than blaming others.",
+          "summaryZh": "扰乱人的不是事情本身，而是人对事情的看法。死亡并不可怕——认为死亡可怕的看法才可怕。所以受困扰时，要检查自己的判断，而不是责怪他人。",
+          "similarQuestions": [
+            "Why do I feel so anxious?",
+            "How can I change my perspective on problems?",
+            "Is my suffering caused by reality or my thoughts?",
+            "Who is to blame when I am upset?"
+          ],
+          "contextNote": "Enchiridion 5. Albert Ellis and Aaron Beck both acknowledged this principle as an ancestor of cognitive therapy. The closing lines sketch three stages of progress: blaming others, blaming oneself, blaming no one.",
+          "tags": [
+            "suffering",
+            "self-knowledge",
+            "death"
+          ],
+          "weight": 5
+        },
+        {
+          "originalText": "μὴ ζήτει τὰ γινόμενα γίνεσθαι ὡς θέλεις, ἀλλὰ θέλε τὰ γινόμενα ὡς γίνεται καὶ εὐροήσεις.",
+          "englishText": "Seek not that the things which happen should happen as you wish; but wish the things which happen to be as they are, and you will have a tranquil flow of life.",
+          "transliteration": null,
+          "canonicalRef": "Enchiridion 8",
+          "originalLang": "ancient-greek",
+          "translator": "George Long (1877)",
+          "sourceUrl": "https://www.gutenberg.org/ebooks/10661",
+          "license": "Greek: CC BY-SA 4.0 (Perseus); English: public domain",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "Do not demand that events happen as you wish; wish them to happen as they do, and your life will flow smoothly.",
+          "summaryZh": "不要要求事情按你的意愿发生，而要愿意事情如其所是地发生，这样你的生活就会顺畅安宁。",
+          "similarQuestions": [
+            "How do I accept what I cannot change?",
+            "How do I stop being disappointed?",
+            "What is the secret to inner peace?",
+            "How do I let go of expectations?"
+          ],
+          "contextNote": "Enchiridion 8. The Stoics held that events unfold by the reason of the cosmos; peace comes from aligning one’s will with that order rather than resisting it.",
+          "tags": [
+            "nature",
+            "desire",
+            "happiness"
+          ],
+          "weight": 5
+        },
+        {
+          "originalText": "ἐφʼ ἑκάστου τῶν προσπιπτόντων μέμνησο ἐπιστρέφων ἐπὶ σεαυτὸν ζητεῖν, τίνα δύναμιν ἔχεις πρὸς τὴν χρῆσιν αὐτοῦ. ἐὰν καλὸν ἴδῃς ἢ καλήν, εὑρήσεις δύναμιν πρὸς ταῦτα ἐγκράτειαν· ἐὰν πόνος προσφέρηται, εὑρήσεις καρτερίαν· ἂν λοιδορία, εὑρήσεις ἀνεξικακίαν. καὶ οὕτως ἐθιζόμενόν σε οὐ συναρπάσουσιν αἱ φαντασίαι.",
+          "englishText": "On the occasion of every accident (event) that befalls you, remember to turn to yourself and inquire what power you have for turning it to use. If you see a fair man or a fair woman, you will find that the power to resist is temperance (continence). If labor (pain) be presented to you, you will find that it is endurance. If it be abusive words, you will find it to be patience. And if you have been thus formed to the (proper) habit, the appearances will not carry you along with them.",
+          "transliteration": null,
+          "canonicalRef": "Enchiridion 10",
+          "originalLang": "ancient-greek",
+          "translator": "George Long (1877)",
+          "sourceUrl": "https://www.gutenberg.org/ebooks/10661",
+          "license": "Greek: CC BY-SA 4.0 (Perseus); English: public domain",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "For everything that befalls you, ask what power you have to meet it: temptation calls for self-control, hardship for endurance, insults for patience. Trained this way, impressions will not sweep you away.",
+          "summaryZh": "遇到任何事，都要反问自己有什么能力去应对它：面对诱惑用自制，面对劳苦用坚忍，面对辱骂用忍耐。这样训练成习惯，表象就不会把你卷走。",
+          "similarQuestions": [
+            "How do I develop self-discipline?",
+            "How should I handle pain and temptation?",
+            "What is the secret to resilience?"
+          ],
+          "contextNote": "Enchiridion 10. The famous two-word motto “bear and forbear” (anechou kai apechou) is reported for Epictetus only by Aulus Gellius (Attic Nights 17.19); this chapter, which pairs endurance with self-restraint, is the closest passage in the Enchiridion.",
+          "tags": [
+            "discipline",
+            "perseverance",
+            "practice"
+          ],
+          "weight": 4
+        },
+        {
+          "originalText": "κύριος ἑκάστου ἐστὶν ὁ τῶν ὑπʼ ἐκείνου θελομένων ἢ μὴ θελομένων ἔχων τὴν ἐξουσίαν εἰς τὸ περιποιῆσαι ἢ ἀφελέσθαι. ὅστις οὖν ἐλεύθερος εἶναι βούλεται, μήτε θελέτω τι μήτε φευγέτω τι τῶν ἐπʼ ἄλλοις· εἰ δὲ μή, δουλεύειν ἀνάγκη.",
+          "englishText": "He is the master of every man who has the power over the things which another person wishes or does not wish, the power to confer them on him or to take them away. Whoever then wishes to be free let him neither wish for anything nor avoid anything which depends on others: if he does not observe this rule, he must be a slave.",
+          "transliteration": null,
+          "canonicalRef": "Enchiridion 14.2",
+          "originalLang": "ancient-greek",
+          "translator": "George Long (1877)",
+          "sourceUrl": "https://www.gutenberg.org/ebooks/10661",
+          "license": "Greek: CC BY-SA 4.0 (Perseus); English: public domain",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "Whoever controls what you want or fear is your master. To be free, neither desire nor avoid anything that depends on others.",
+          "summaryZh": "谁掌握着你想要或害怕的东西，谁就是你的主人。想要自由，就不要渴求或逃避任何取决于他人的东西。",
+          "similarQuestions": [
+            "What is true freedom?",
+            "Why do I feel controlled by others?",
+            "Am I free if my happiness depends on other people?"
+          ],
+          "contextNote": "Enchiridion 14. The saying often quoted as “No man is free who is not master of himself” is not in the Discourses or the Enchiridion; this chapter is the closest genuine statement of the idea. Epictetus spent his youth as a slave in Rome.",
+          "tags": [
+            "freedom",
+            "desire",
+            "discipline"
+          ],
+          "weight": 5
+        },
+        {
+          "originalText": "μέμνησο, ὅτι ὑποκριτὴς εἶ δράματος, οἵου ἂν θέλῃ ὁ διδάσκαλος· ἂν βραχύ, βραχέος· ἂν μακρόν, μακροῦ· ἂν πτωχὸν ὑποκρίνασθαί σε θέλῃ, ἵνα καὶ τοῦτον εὐφυῶς ὑποκρίνῃ ἂν χωλόν, ἂν ἄρχοντα, ἂν ἰδιώτην. σὸν γὰρ τοῦτʼ ἔστι, τὸ δοθὲν ὑποκρίνασθαι πρόσωπον καλῶς· ἐκλέξασθαι δʼ αὐτὸ ἄλλου.",
+          "englishText": "Remember that thou art an actor in a play, of such a kind as the teacher (author) may choose; if short, of a short one; if long, of a long one: if he wishes you to act the part of a poor man, see that you act the part naturally; if the part of a lame man, of a magistrate, of a private person, (do the same). For this is your duty, to act well the part that is given to you; but to select the part, belongs to another.",
+          "transliteration": null,
+          "canonicalRef": "Enchiridion 17",
+          "originalLang": "ancient-greek",
+          "translator": "George Long (1877)",
+          "sourceUrl": "https://www.gutenberg.org/ebooks/10661",
+          "license": "Greek: CC BY-SA 4.0 (Perseus); English: public domain",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "You are an actor in a play whose author chooses the part — short or long, poor man, lame man, magistrate or private person. Your job is to play the given part well; choosing it belongs to another.",
+          "summaryZh": "你是一出戏里的演员，角色由作者决定——戏长戏短，演穷人、跛子、官员还是平民。你的本分是演好分给你的角色，挑选角色则是别人的事。",
+          "similarQuestions": [
+            "How do I accept my circumstances?",
+            "What if I am dealt a bad hand in life?",
+            "How do I find meaning in an unchosen situation?"
+          ],
+          "contextNote": "Enchiridion 17. The theatrical metaphor: circumstances are given, but how you respond to them is yours. Epictetus, born a slave and lame, spoke from experience.",
+          "tags": [
+            "duty",
+            "destiny",
+            "character"
+          ],
+          "weight": 4
+        },
+        {
+          "originalText": "ἐάν ποτέ σοι γένηται ἔξω στραφῆναι πρὸς τὸ βούλεσθαι ἀρέσαι τινί, ἴσθι ὅτι ἀπώλεσας τὴν ἔνστασιν. ἀρκοῦ οὖν ἐν παντὶ τῷ εἶναι φιλόσοφος",
+          "englishText": "If it should ever happen to you to be turned to externals in order to please some person, you must know that you have lost your purpose in life. Be satisfied then in everything with being a philosopher",
+          "transliteration": null,
+          "canonicalRef": "Enchiridion 23",
+          "originalLang": "ancient-greek",
+          "translator": "George Long (1877)",
+          "sourceUrl": "https://www.gutenberg.org/ebooks/10661",
+          "license": "Greek: CC BY-SA 4.0 (Perseus); English: public domain",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "If you ever turn outward in order to please someone, you have lost your purpose. Be content in everything simply with being a philosopher.",
+          "summaryZh": "一旦你为了讨好别人而转向外物，你就失去了自己的立足点。在一切事上，满足于做一个哲学家就够了。",
+          "similarQuestions": [
+            "How do I stop caring about what others think?",
+            "How do I build self-confidence?",
+            "Why do I need validation from others?"
+          ],
+          "contextNote": "Enchiridion 23 (the excerpt stops before the last clause, where the Greek edition marks two words as deleted). The chapter goes on: if you also want to seem a philosopher, seem one to yourself — philosophy is lived, not performed for an audience.",
+          "tags": [
+            "self-knowledge",
+            "character",
+            "virtue"
+          ],
+          "weight": 3
+        },
+        {
+          "originalText": "μέτρον κτήσεως τὸ σῶμα ἑκάστῳ ὡς ὁ ποὺς ὑποδήματος. ἐὰν μὲν οὖν ἐπὶ τούτου στῇς, φυλάξεις τὸ μέτρον· ἐὰν δὲ ὑπερβῇς, ὡς κατὰ κρημνοῦ λοιπὸν ἀνάγκη φέρεσθαι· καθάπερ καὶ ἐπὶ τοῦ ὑποδήματος, ἐὰν ὑπὲρ τὸν πόδα ὑπερβῇς, γίνεται κατάχρυσον ὑπόδημα, εἶτα πορφυροῦν, κεντητόν. τοῦ γὰρ ἅπαξ ὑπὲρ τὸ μέτρον ὅρος οὐθείς ἐστιν.",
+          "englishText": "The measure of possession (property) is to every man the body, as the foot is of the shoe. If then you stand on this rule (the demands of the body), you will maintain the measure; but if you pass beyond it, you must then of necessity be hurried as it were down a precipice. As also in the matter of the shoe, if you go beyond the (necessities of the) foot, the shoe is gilded, then of a purple color, then embroidered; for there is no limit to that which has once passed the true measure.",
+          "transliteration": null,
+          "canonicalRef": "Enchiridion 39",
+          "originalLang": "ancient-greek",
+          "translator": "George Long (1877)",
+          "sourceUrl": "https://www.gutenberg.org/ebooks/10661",
+          "license": "Greek: CC BY-SA 4.0 (Perseus); English: public domain",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "The body’s needs are the right measure of possessions, as the foot is the measure of the shoe. Once you pass that measure there is no limit: the shoe becomes gilded, then purple, then embroidered.",
+          "summaryZh": "身体的需要是财物的尺度，正如脚是鞋的尺度。一旦越过这个尺度就再无止境：鞋先镀金，再染紫，再绣花。",
+          "similarQuestions": [
+            "How do I become content with what I have?",
+            "Is wealth the key to happiness?",
+            "How do I stop wanting more?",
+            "How much is enough?"
+          ],
+          "contextNote": "Enchiridion 39. The popular line “Wealth consists not in having great possessions, but in having few wants” does not appear in the Discourses or the Enchiridion; this chapter is Epictetus’ own image for the limits of wanting.",
+          "tags": [
+            "wealth",
+            "desire",
+            "simplicity"
+          ],
+          "weight": 4
+        }
+      ]
+    },
+    {
+      "titleEn": "Discourses, Book I",
+      "titleZh": "论说集·第一卷",
+      "titleOrig": "Διατριβαί Α",
+      "passages": [
+        {
+          "originalText": "τί οὖν δεῖ πρόχειρον ἔχειν ἐν τοῖς τοιούτοις; τί γὰρ ἄλλο ἢ τί ἐμὸν καὶ τί οὐκ ἐμὸν καὶ τί μοι ἔξεστιν καὶ τί μοι οὐκ ἔξεστιν; ἀποθανεῖν με δεῖ· μή τι οὖν καὶ στένοντα; δεθῆναι· μή τι καὶ θρηνοῦντα; φυγαδευθῆναι· μή τις οὖν κωλύει γελῶντα καὶ εὐθυμοῦντα καὶ εὐροοῦντα; εἰπὲ τὰ ἀπόρρητα. οὐ λέγω· τοῦτο γὰρ ἐπʼ ἐμοί ἐστιν. ἀλλὰ δήσω σε. ἄνθρωπε. τί λέγεις; ἐμέ; τὸ σκέλος μου δήσεις, τὴν προαίρεσιν δὲ οὐδʼ ὁ Ζεὺς νικῆσαι δύναται. εἰς φυλακήν σε βαλῶ. τὸ σωμάτιον. ἀποκεφαλίσω σε. πότε οὖν σοὶ εἶπον, ὅτι μόνου ἐμοῦ ὁ τράχηλος ἀναπότμητός ἐστιν; ταῦτα ἔδει μελετᾶν τοὺς φιλοσοφοῦντας, ταῦτα καθʼ ἡμέραν γράφειν, ἐν τούτοις γυμνάζεσθαι.",
+          "englishText": "What then should a man have in readiness in such circumstances? What else than this? What is mine, and what is not mine; and what is permitted to me, and what is not permitted to me. I must die. Must I then die lamenting? I must be put in chains. Must I then also lament? I must go into exile. Does any man then hinder me from going with smiles and cheerfulness and contentment? Tell me the secret which you possess. I will not, for this is in my power. But I will put you in chains. Man, what are you talking about? Me, in chains? You may fetter my leg, but my will not even Zeus himself can overpower. I will throw you into prison. My poor body, you mean. I will cut your head off. When then have I told you that my head alone cannot be cut off? These are the things which philosophers should meditate on, which they should write daily, in which they should exercise themselves.",
+          "transliteration": null,
+          "canonicalRef": "Discourses 1.1.21–25",
+          "originalLang": "ancient-greek",
+          "translator": "George Long (1877)",
+          "sourceUrl": "https://www.gutenberg.org/ebooks/10661",
+          "license": "Greek: CC BY-SA 4.0 (Perseus); English: public domain",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "Keep ready the distinction between what is mine and what is not. A tyrant can chain my leg, imprison my body or cut off my head, but not even Zeus can overpower my will.",
+          "summaryZh": "随时备好这个区分：什么是我的，什么不是我的。暴君可以锁住我的腿、囚禁我的身体、砍下我的头，但我的意志连宙斯也无法征服。",
+          "similarQuestions": [
+            "What is true freedom?",
+            "Can anyone take away my inner freedom?",
+            "How do I stay free under pressure?",
+            "How do I face threats calmly?"
+          ],
+          "contextNote": "Discourses I.1, “Of the things which are in our power and not in our power”. Epictetus, who spent his youth as a slave of Nero’s freedman Epaphroditus, locates freedom in the will (prohairesis), which no external force can reach.",
+          "tags": [
+            "freedom",
+            "courage",
+            "choice"
+          ],
+          "weight": 5
+        },
+        {
+          "originalText": "αἱ περιστάσεις εἰσὶν αἱ τοὺς ἄνδρας δεικνύουσαι. λοιπὸν ὅταν ἐμπέσῃ περίστασις, μέμνησο ὅτι ὁ θεός σε ὡς ἀλείπτης τραχεῖ νεανίσκῳ συμβέβληκεν. — ἵνα τί; φησίν. — ἵνα Ὀλυμπιονίκης γένῃ· δίχα δʼ ἱδρῶτος οὐ γίγνεται. ἐμοὶ μὲν οὐδεὶς δοκεῖ κρείσσονα ἐσχηκέναι περίστασιν ἧς σὺ ἔσχηκας, ἂν θέλῃς ὡς ἀθλητὴς νεανίσκῳ χρῆσθαι.",
+          "englishText": "It is circumstances (difficulties) which show what men are. Therefore when a difficulty falls upon you, remember that God, like a trainer of wrestlers, has matched you with a rough young man. For what purpose? you may say. Why, that you may become an Olympic conqueror; but it is not accomplished without sweat. In my opinion no man has had a more profitable difficulty than you have had, if you choose to make use of it as an athlete would deal with a young antagonist.",
+          "transliteration": null,
+          "canonicalRef": "Discourses 1.24.1–2",
+          "originalLang": "ancient-greek",
+          "translator": "George Long (1877)",
+          "sourceUrl": "https://www.gutenberg.org/ebooks/10661",
+          "license": "Greek: CC BY-SA 4.0 (Perseus); English: public domain",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "Difficulties show what people are. When one falls on you, remember that God, like a wrestling trainer, has matched you with a tough young opponent so that you may become an Olympic victor — which cannot happen without sweat.",
+          "summaryZh": "困境显出一个人的本色。困难降临时，要记得：神像摔跤教练一样，给你配了一个强悍的年轻对手，好让你成为奥林匹亚的胜者——而这离不开汗水。",
+          "similarQuestions": [
+            "Why is life so hard?",
+            "How can I grow from challenges?",
+            "Is there purpose in my struggles?"
+          ],
+          "contextNote": "Discourses I.24, “How we should struggle with circumstances”. The athletic metaphor was central to Stoic teaching: the philosopher is an athlete of the soul, and hardships are the training.",
+          "tags": [
+            "perseverance",
+            "suffering",
+            "courage"
+          ],
+          "weight": 4
+        }
+      ]
+    }
+  ]
+}

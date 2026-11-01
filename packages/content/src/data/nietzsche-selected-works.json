@@ -1,0 +1,257 @@
+{
+  "work": {
+    "titleEn": "Zarathustra, Beyond Good and Evil & Twilight of the Idols (Selected Passages)",
+    "titleZh": "查拉图斯特拉如是说、善恶的彼岸与偶像的黄昏（精选）",
+    "titleOrig": "Also sprach Zarathustra · Jenseits von Gut und Böse · Götzen-Dämmerung",
+    "language": "german",
+    "circaYear": 1885,
+    "description": "Selected passages from Thus Spoke Zarathustra (1883–85), Beyond Good and Evil (1886) and Twilight of the Idols (1889). German texts from Project Gutenberg; public-domain English translations by Thomas Common (Thus Spake Zarathustra, 1909, via Project Gutenberg; The Twilight of the Idols, 1896, via an archive.org scan) and Helen Zimmern (Beyond Good and Evil, 1907, via Project Gutenberg).",
+    "copyright": "public-domain",
+    "sourceUrl": "https://www.gutenberg.org/ebooks/1998"
+  },
+  "chapters": [
+    {
+      "titleEn": "Thus Spoke Zarathustra — Prologue",
+      "titleZh": "查拉图斯特拉如是说·前言",
+      "titleOrig": "Also sprach Zarathustra — Vorrede",
+      "passages": [
+        {
+          "originalText": "Als Zarathustra aber allein war, sprach er also zu seinem Herzen: „Sollte es denn möglich sein! Dieser alte Heilige hat in seinem Walde noch Nichts davon gehört, dass Gott todt ist!“",
+          "englishText": "When Zarathustra was alone, however, he said to his heart: “Could it be possible! This old saint in the forest hath not yet heard of it, that GOD IS DEAD!”",
+          "transliteration": null,
+          "canonicalRef": "Thus Spoke Zarathustra, Prologue 2",
+          "originalLang": "german",
+          "translator": "Thomas Common (1909)",
+          "sourceUrl": "https://www.gutenberg.org/ebooks/1998",
+          "license": "German: public domain (Project Gutenberg); English: public domain",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "Leaving an old hermit who still praises God in the forest, Zarathustra marvels that the saint has not yet heard that God is dead.",
+          "summaryZh": "查拉图斯特拉告别了仍在林中赞美上帝的老隐士，心中惊叹：这位圣者竟然还没有听说，上帝已经死了。",
+          "similarQuestions": [
+            "What happens when we lose our faith?",
+            "Where do values come from without religion?",
+            "How do I create meaning in a meaningless world?"
+          ],
+          "contextNote": "The first announcement of the death of God in Zarathustra (1883); Nietzsche had introduced the theme a year earlier in The Gay Science §125 (\"The Madman\"). It is not a triumphant slogan but a diagnosis: the belief that grounded Western values has lost its hold, and new values must be created.",
+          "tags": [
+            "faith",
+            "divinity",
+            "meaning-of-life"
+          ],
+          "weight": 5
+        },
+        {
+          "originalText": "Ich lehre euch den Übermenschen. Der Mensch ist Etwas, das überwunden werden soll. Was habt ihr gethan, ihn zu überwinden? „Alle Wesen bisher schufen etwas über sich hinaus: und ihr wollt die Ebbe dieser großen Flut sein und lieber noch zum Thiere zurückgehen, als den Menschen zu überwinden?“ Was ist der Affe für den Menschen? Ein Gelächter oder eine schmerzliche Scham. Und ebendas soll der Mensch für den Übermenschen sein: ein Gelächter oder eine schmerzliche Scham.",
+          "englishText": "I TEACH YOU THE SUPERMAN. Man is something that is to be surpassed. What have ye done to surpass man? All beings hitherto have created something beyond themselves: and ye want to be the ebb of that great tide, and would rather go back to the beast than surpass man? What is the ape to man? A laughing-stock, a thing of shame. And just the same shall man be to the Superman: a laughing-stock, a thing of shame.",
+          "transliteration": null,
+          "canonicalRef": "Thus Spoke Zarathustra, Prologue 3",
+          "originalLang": "german",
+          "translator": "Thomas Common (1909)",
+          "sourceUrl": "https://www.gutenberg.org/ebooks/1998",
+          "license": "German: public domain (Project Gutenberg); English: public domain",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "Man is something to be surpassed. All beings so far have created something beyond themselves; as the ape is to man, so man shall be to the Superman.",
+          "summaryZh": "人是应当被超越的东西。迄今一切存在者都创造了超越自身的东西；猿猴之于人是什么，人之于超人也将是什么。",
+          "similarQuestions": [
+            "What should I aspire to become?",
+            "Is human nature fixed?",
+            "How do I transcend my limitations?"
+          ],
+          "contextNote": "Zarathustra's first speech to the crowd in the market-place. The Übermensch (Common: \"Superman\"; often \"Overman\") is not a political or racial ideal but a call to self-overcoming — to surpass what one is and create new values.",
+          "tags": [
+            "meaning-of-life",
+            "character",
+            "freedom"
+          ],
+          "weight": 5
+        },
+        {
+          "originalText": "Ich sage euch: man muss noch Chaos in sich haben, um einen tanzenden Stern gebären zu können. Ich sage euch: ihr habt noch Chaos in euch.",
+          "englishText": "I tell you: one must still have chaos in one, to give birth to a dancing star. I tell you: ye have still chaos in you.",
+          "transliteration": null,
+          "canonicalRef": "Thus Spoke Zarathustra, Prologue 5",
+          "originalLang": "german",
+          "translator": "Thomas Common (1909)",
+          "sourceUrl": "https://www.gutenberg.org/ebooks/1998",
+          "license": "German: public domain (Project Gutenberg); English: public domain",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "One must still have chaos within oneself to give birth to a dancing star — and, Zarathustra tells the crowd, you still have chaos in you.",
+          "summaryZh": "人必须在自身中仍有混沌，才能孕育出一颗跳舞的星——查拉图斯特拉告诉人群：你们身上还有混沌。",
+          "similarQuestions": [
+            "Is struggle necessary for creativity?",
+            "Can order and chaos coexist?",
+            "Is my inner turmoil a bad thing?"
+          ],
+          "contextNote": "Spoken just before Zarathustra describes the \"last man\", who has made life small, safe and comfortable and no longer longs for anything beyond himself. Inner chaos is the raw material of creation, which the last man has lost.",
+          "tags": [
+            "suffering",
+            "character",
+            "freedom"
+          ],
+          "weight": 4
+        }
+      ]
+    },
+    {
+      "titleEn": "Thus Spoke Zarathustra — Part IV, The Drunken Song",
+      "titleZh": "查拉图斯特拉如是说·第四部·醉歌",
+      "titleOrig": "Also sprach Zarathustra — Das trunkne Lied",
+      "passages": [
+        {
+          "originalText": "Sagtet ihr jemals ja zu Einer Lust? Oh, meine Freunde, so sagtet ihr Ja auch zu allem Wehe. Alle Dinge sind verkettet, verfädelt, verliebt,— —wolltet ihr jemals Ein Mal Zwei Mal, spracht ihr jemals „du gefällst mir, Glück! Husch! Augenblick!“ so wolltet ihr Alles zurück! —Alles von neuem, Alles ewig, Alles verkettet, verfädelt, verliebt, oh so liebtet ihr die Welt,— —ihr Ewigen, liebt sie ewig und allezeit: und auch zum Weh sprecht ihr: vergeh, aber komm zurück! Denn alle Lust will—Ewigkeit!",
+          "englishText": "Said ye ever Yea to one joy? O my friends, then said ye Yea also unto ALL woe. All things are enlinked, enlaced and enamoured,— —Wanted ye ever once to come twice; said ye ever: “Thou pleasest me, happiness! Instant! Moment!” then wanted ye ALL to come back again! —All anew, all eternal, all enlinked, enlaced and enamoured, Oh, then did ye LOVE the world,— —Ye eternal ones, ye love it eternally and for all time: and also unto woe do ye say: Hence! Go! but come back! FOR JOYS ALL WANT—ETERNITY!",
+          "transliteration": null,
+          "canonicalRef": "Thus Spoke Zarathustra IV, The Drunken Song 10",
+          "originalLang": "german",
+          "translator": "Thomas Common (1909)",
+          "sourceUrl": "https://www.gutenberg.org/ebooks/1998",
+          "license": "German: public domain (Project Gutenberg); English: public domain",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "To say yes to a single joy is to say yes to all woe, because all things are chained together. Whoever has wished a moment to return has wished everything to come back — and so has loved the world.",
+          "summaryZh": "对一种快乐说\"是\"，就是对一切痛苦说\"是\"，因为万物彼此相连。谁曾希望某一刻重来，谁就希望一切都回来——于是他爱了这个世界。",
+          "similarQuestions": [
+            "How do I accept my past?",
+            "Can I learn to love my life as it is?",
+            "How do I stop regretting my choices?"
+          ],
+          "contextNote": "Near the end of Zarathustra, at midnight. It is Nietzsche's poetic expression of the eternal recurrence and of what he elsewhere calls amor fati (love of fate): affirming life means affirming all of it, suffering included.",
+          "tags": [
+            "destiny",
+            "happiness",
+            "suffering"
+          ],
+          "weight": 5
+        }
+      ]
+    },
+    {
+      "titleEn": "Beyond Good and Evil — Apophthegms and Interludes",
+      "titleZh": "善恶的彼岸·格言与插曲",
+      "titleOrig": "Jenseits von Gut und Böse — Sprüche und Zwischenspiele",
+      "passages": [
+        {
+          "originalText": "Es giebt gar keine moralischen Phänomene, sondern nur eine moralische Ausdeutung von Phänomenen…..",
+          "englishText": "There is no such thing as moral phenomena, but only a moral interpretation of phenomena.",
+          "transliteration": null,
+          "canonicalRef": "Beyond Good and Evil 108",
+          "originalLang": "german",
+          "translator": "Helen Zimmern (1907)",
+          "sourceUrl": "https://www.gutenberg.org/ebooks/4363",
+          "license": "German: public domain (Project Gutenberg); English: public domain",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "There are no moral phenomena at all, only a moral interpretation of phenomena.",
+          "summaryZh": "根本不存在道德现象，只存在对现象的道德解释。",
+          "similarQuestions": [
+            "Is morality objective or subjective?",
+            "Who decides what is right and wrong?",
+            "Are moral judgments just opinions?"
+          ],
+          "contextNote": "Beyond Good and Evil (1886), §108. Nietzsche denies that moral values are found in events themselves; they are interpretations that people project onto them — a key step in his \"genealogical\" questioning of morality.",
+          "tags": [
+            "goodness",
+            "truth",
+            "doubt"
+          ],
+          "weight": 4
+        },
+        {
+          "originalText": "Wer mit Ungeheuern kämpft, mag zusehn, dass er nicht dabei zum Ungeheuer wird. Und wenn du lange in einen Abgrund blickst, blickt der Abgrund auch in dich hinein.",
+          "englishText": "He who fights with monsters should be careful lest he thereby become a monster. And if thou gaze long into an abyss, the abyss will also gaze into thee.",
+          "transliteration": null,
+          "canonicalRef": "Beyond Good and Evil 146",
+          "originalLang": "german",
+          "translator": "Helen Zimmern (1907)",
+          "sourceUrl": "https://www.gutenberg.org/ebooks/4363",
+          "license": "German: public domain (Project Gutenberg); English: public domain",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "Whoever fights monsters should take care not to become one; if you gaze long into an abyss, the abyss also gazes into you.",
+          "summaryZh": "与怪物搏斗的人，要当心自己不要因此变成怪物；你久久凝视深渊时，深渊也在凝视你。",
+          "similarQuestions": [
+            "How do I fight injustice without becoming bitter?",
+            "Can fighting evil corrupt you?",
+            "How do I maintain my integrity in conflict?"
+          ],
+          "contextNote": "Beyond Good and Evil, §146 — one of Nietzsche's most quoted aphorisms. It warns of the psychological cost of long engagement with darkness: what we oppose can reshape us.",
+          "tags": [
+            "character",
+            "self-knowledge",
+            "suffering"
+          ],
+          "weight": 5
+        }
+      ]
+    },
+    {
+      "titleEn": "Beyond Good and Evil — Our Virtues",
+      "titleZh": "善恶的彼岸·我们的美德",
+      "titleOrig": "Jenseits von Gut und Böse — Unsere Tugenden",
+      "passages": [
+        {
+          "originalText": "Fast Alles, was wir \"höhere Cultur\" nennen, beruht auf der Vergeistigung und Vertiefung der Grausamkeit - dies ist mein Satz; jenes \"wilde Thier\" ist gar nicht abgetödtet worden, es lebt, es blüht, es hat sich nur - vergöttlicht.",
+          "englishText": "Almost everything that we call \"higher culture\" is based upon the spiritualising and intensifying of CRUELTY--this is my thesis; the \"wild beast\" has not been slain at all, it lives, it flourishes, it has only been--transfigured.",
+          "transliteration": null,
+          "canonicalRef": "Beyond Good and Evil 229",
+          "originalLang": "german",
+          "translator": "Helen Zimmern (1907)",
+          "sourceUrl": "https://www.gutenberg.org/ebooks/4363",
+          "license": "German: public domain (Project Gutenberg); English: public domain",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "Almost everything we call \"higher culture\" rests on the spiritualising and deepening of cruelty. The \"wild beast\" in us was never killed; it lives on, transfigured.",
+          "summaryZh": "我们所说的\"高等文化\"几乎全都建立在对残酷的精神化与深化之上。我们身上的那头\"野兽\"从未被杀死；它依然活着，只是被神化了。",
+          "similarQuestions": [
+            "Is civilization built on violence?",
+            "Why is self-discipline so hard?",
+            "What is the cost of progress?"
+          ],
+          "contextNote": "Beyond Good and Evil, §229. Nietzsche goes on to find this sublimated cruelty in tragedy, religious self-denial and even the search for knowledge, which forces the mind to say no where it would like to believe. He develops the theme in On the Genealogy of Morals (1887): \"without cruelty, no festival\".",
+          "tags": [
+            "suffering",
+            "self-knowledge",
+            "power"
+          ],
+          "weight": 3
+        }
+      ]
+    },
+    {
+      "titleEn": "Twilight of the Idols — Maxims and Arrows",
+      "titleZh": "偶像的黄昏·箴言与箭",
+      "titleOrig": "Götzen-Dämmerung — Sprüche und Pfeile",
+      "passages": [
+        {
+          "originalText": "Aus der Kriegsschule des Lebens. - Was mich nicht umbringt, macht mich stärker.",
+          "englishText": "From the military school of life. — What does not kill me, strengthens me.",
+          "transliteration": null,
+          "canonicalRef": "Twilight of the Idols, Maxims and Arrows 8",
+          "originalLang": "german",
+          "translator": "Thomas Common (1896)",
+          "sourceUrl": "https://archive.org/details/casewagnertwili00commgoog",
+          "license": "German: public domain (Project Gutenberg); English: public domain",
+          "verificationStatus": "verified",
+          "metadataSource": "editorial",
+          "summaryEn": "From the military school of life: what does not kill me makes me stronger.",
+          "summaryZh": "来自生命的军校：杀不死我的，使我更强大。",
+          "similarQuestions": [
+            "How do I recover from setbacks?",
+            "Does suffering make you stronger?",
+            "How do I build resilience?"
+          ],
+          "contextNote": "Twilight of the Idols (1888/89), \"Maxims and Arrows\" §8 — Common (1896) titles the chapter \"Apophthegms and Darts\". Perhaps Nietzsche's most famous line, written in his last productive year while he was in chronically poor health.",
+          "tags": [
+            "perseverance",
+            "suffering",
+            "courage"
+          ],
+          "weight": 5
+        }
+      ]
+    }
+  ]
+}

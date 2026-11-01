@@ -1,0 +1,41 @@
+{
+  "name": "opencouncil",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "An AI-powered council of history's greatest thinkers — faithful to original texts, traceable, cross-tradition.",
+  "scripts": {
+    "dev": "concurrently -n web,api -c blue,green \"pnpm web:dev\" \"pnpm api:dev\"",
+    "api:dev": "tsx watch apps/api/src/index.ts",
+    "web:dev": "pnpm --filter @opencouncil/web dev",
+    "build": "turbo run build",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "typecheck": "tsc --noEmit",
+    "lint": "eslint apps/ packages/",
+    "db:generate": "drizzle-kit generate",
+    "db:migrate": "drizzle-kit migrate",
+    "db:push": "drizzle-kit push",
+    "db:studio": "drizzle-kit studio",
+    "content:collect": "tsx packages/content/src/collect.ts",
+    "content:excerpt-check": "tsx packages/content/src/excerpt-check.ts",
+    "content:expand": "tsx packages/content/src/expand.ts",
+    "content:import": "tsx packages/content/src/import.ts",
+    "content:notice": "tsx packages/content/src/notice.ts",
+    "agent:mint-key": "tsx apps/api/scripts/mint-agent-key.ts"
+  },
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "@types/node": "^22.0.0",
+    "concurrently": "^9.1.0",
+    "drizzle-kit": "^0.31.10",
+    "eslint": "^9.27.0",
+    "globals": "^16.1.0",
+    "tsx": "^4.19.0",
+    "turbo": "^2.5.0",
+    "typescript": "^5.8.0",
+    "typescript-eslint": "^8.32.0",
+    "vitest": "^3.2.1"
+  },
+  "packageManager": "pnpm@10.27.0"
+}

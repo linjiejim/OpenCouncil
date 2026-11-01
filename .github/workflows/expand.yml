@@ -1,0 +1,112 @@
+name: Daily content expansion
+
+# Self-sustaining corpus growth. Each run walks the un-collected frontier of the
+# already-aligned canons (see packages/content/src/works.ts), fetches the next N
+# verses VERBATIM from their authoritative public-domain/CC0 sources, runs them
+# through the verify gate, enriches editorial metadata, and APPENDS them to the
+# committed data/*.json. The commit diff is the audit trail; the integrity test is
+# the gate; nothing un-verified ever lands.
+#
+# Runs only where the repository variable DEPLOY_ENVIRONMENT is set (never in forks).
+# Secrets on that environment:
+#   DEEPSEEK_API_KEY   — for editorial-metadata enrichment (NOT for the texts)
+#   DEV_SERVER_HOST / DEV_SERVER_PORT / DEV_SERVER_USERNAME / DEV_SERVER_SSH_KEY / DEPLOY_APP_DIR
+#                      — same as deploy.yml
+
+on:
+  # ⚠️ The daily schedule is intentionally DISABLED for now. Re-enable automatic
+  # corpus growth by uncommenting the two lines below. Until then, the engine runs
+  # only on demand via the "Run workflow" button (workflow_dispatch).
+  # schedule:
+  #   - cron: '17 3 * * *' # daily at 03:17 UTC
+  workflow_dispatch:
+    inputs:
+      per_source:
+        description: 'Max new passages per source'
+        required: false
+        default: '5'
+
+permissions:
+  contents: write
+
+# Same group as the deploy job: never run two imports against the server at once.
+concurrency:
+  group: deploy
+  cancel-in-progress: false
+
+jobs:
+  expand:
+    if: vars.DEPLOY_ENVIRONMENT != ''
+    runs-on: ubuntu-latest
+    environment: ${{ vars.DEPLOY_ENVIRONMENT }}
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          # Keep the GITHUB_TOKEN credentials so we can push the new data back.
+          persist-credentials: true
+      - uses: pnpm/action-setup@v6
+      - uses: actions/setup-node@v6
+        with:
+          node-version: 22
+          cache: pnpm
+      - run: pnpm install --frozen-lockfile
+
+      - name: Expand the frontier
+        id: expand
+        env:
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+          EXPAND_PER_SOURCE: ${{ github.event.inputs.per_source || '5' }}
+        run: pnpm content:expand
+
+      # Gate: every committed passage must still be verified + fully sourced.
+      - name: Verify corpus integrity
+        if: steps.expand.outputs.added != '0'
+        run: pnpm test
+
+      - name: Commit the new passages
+        if: steps.expand.outputs.added != '0'
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add packages/content/src/data/*.json
+          git commit -m "chore(content): daily expansion +${{ steps.expand.outputs.added }} passages [skip ci]"
+          git push origin HEAD:main
+
+      # Sync the freshly-grown corpus onto the live server (import is idempotent).
+      # We do this inline rather than relying on the push to trigger deploy.yml,
+      # because pushes made with GITHUB_TOKEN do not cascade to other workflows.
+      - name: Deploy content to server
+        if: steps.expand.outputs.added != '0'
+        uses: appleboy/ssh-action@v1
+        with:
+          host: ${{ secrets.DEV_SERVER_HOST }}
+          port: ${{ secrets.DEV_SERVER_PORT }}
+          username: ${{ secrets.DEV_SERVER_USERNAME }}
+          key: ${{ secrets.DEV_SERVER_SSH_KEY }}
+          script: |
+            set -e
+            export NVM_DIR="$HOME/.nvm"; source "$NVM_DIR/nvm.sh"; nvm use 22 >/dev/null
+            APP_DIR="${{ secrets.DEPLOY_APP_DIR }}"
+            [ -n "$APP_DIR" ] || { echo "DEPLOY_APP_DIR is not set"; exit 1; }
+            cd "$APP_DIR"
+            export CI=true
+            if [ -f .env ]; then set -a; source .env; set +a; fi
+
+            echo "📥 Pulling latest main (with new passages)..."
+            git fetch -q origin main
+            git reset -q --hard origin/main
+
+            echo "📚 Importing content (idempotent reseed + replace)..."
+            pnpm content:import
+
+            echo "🔄 Reloading..."
+            # PM2 prints every process on the host; keep that out of public run logs.
+            pm2 startOrRestart ecosystem.config.cjs --update-env >/dev/null
+            pm2 save >/dev/null
+
+            echo "🏥 Health check..."
+            for i in 1 2 3 4 5; do
+              if curl -fsS "localhost:${API_PORT:-3001}/api/health" >/dev/null 2>&1; then echo "✅ healthy"; exit 0; fi
+              sleep 3
+            done
+            echo "❌ health check failed (see logs/error.log on the server)"; exit 1
