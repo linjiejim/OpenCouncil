@@ -48,3 +48,38 @@ export class DailyCounter {
     return { ok: s.count <= quota, remaining: Math.max(0, quota - s.count) };
   }
 }
+
+/**
+ * A single site-wide daily allowance (resets at 00:00 UTC). Unlike DailyCounter it
+ * never counts a refused use, so `used()` is the number of calls actually made.
+ */
+export class DailyBudget {
+  private day = -1;
+  private count = 0;
+
+  constructor(readonly limit: number) {}
+
+  private roll(now: number) {
+    const day = Math.floor(now / 86_400_000);
+    if (day !== this.day) {
+      this.day = day;
+      this.count = 0;
+    }
+  }
+
+  use(now: number = Date.now()): boolean {
+    this.roll(now);
+    if (this.count >= this.limit) return false;
+    this.count += 1;
+    return true;
+  }
+
+  used(now: number = Date.now()): number {
+    this.roll(now);
+    return this.count;
+  }
+
+  remaining(now: number = Date.now()): number {
+    return Math.max(0, this.limit - this.used(now));
+  }
+}

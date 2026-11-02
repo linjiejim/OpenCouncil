@@ -1,6 +1,6 @@
 import { useState, useRef, useCallback, useEffect } from 'react';
 import { useI18n } from '../lib/i18n';
-import { api } from '../lib/api';
+import { api, ApiError, REPO_URL } from '../lib/api';
 import { Logo } from '../components/brand/Logo';
 import { Portrait } from '../components/common/Portrait';
 import { SpeakerBlock } from '../components/council/SpeakerBlock';
@@ -41,6 +41,7 @@ export function Home() {
   const [loading, setLoading] = useState(false);
   const [conversation, setConversation] = useState<ConversationMessage[]>([]);
   const [error, setError] = useState('');
+  const [limitNotice, setLimitNotice] = useState<'daily_limit' | 'rate_limited' | null>(null);
   const [mentionedThinkers, setMentionedThinkers] = useState<any[]>([]);
   const [showMentionPopup, setShowMentionPopup] = useState(false);
   const [mentionQuery, setMentionQuery] = useState('');
@@ -71,6 +72,7 @@ export function Home() {
 
     setLoading(true);
     setError('');
+    setLimitNotice(null);
 
     const history = conversation.map((m) => ({
       role: m.role,
@@ -92,17 +94,21 @@ export function Home() {
       setDeepDiveSlug(null);
       setMentionedThinkers([]);
     } catch (e: any) {
-      setError(e.message);
+      // Trial limits and model failures get a friendly note instead of a raw error.
+      const code = e instanceof ApiError ? e.code : undefined;
+      if (code === 'daily_limit' || code === 'rate_limited') setLimitNotice(code);
+      else setError(code === 'llm_failed' ? t('error.llm') : e.message);
     } finally {
       setLoading(false);
       setQuestion('');
     }
-  }, [question, lang, conversation, mentionedThinkers, deepDiveSlug]);
+  }, [question, lang, conversation, mentionedThinkers, deepDiveSlug, t]);
 
   const handleReset = () => {
     setConversation([]);
     setQuestion('');
     setError('');
+    setLimitNotice(null);
     setMentionedThinkers([]);
     setDeepDiveSlug(null);
   };
@@ -335,6 +341,23 @@ export function Home() {
 
         {/* Thinking */}
         {loading && <div className="mt-6"><ThinkingAnimation thinkerSlugs={activeThinkerSlugs} /></div>}
+
+        {/* Trial limit reached */}
+        {limitNotice && (
+          <div data-testid="limit-notice" className="bg-[var(--color-surface)] border border-[var(--color-parchment-dark)] rounded-xl p-5 my-6 animate-fade-in-scale text-center">
+            <p className="text-[var(--color-ink)] text-sm leading-relaxed">
+              {t(limitNotice === 'daily_limit' ? 'limit.daily' : 'limit.rate')}
+            </p>
+            <a
+              href={REPO_URL}
+              target="_blank"
+              rel="noreferrer"
+              className="inline-block mt-2 text-sm text-[var(--color-gold)] underline underline-offset-4 hover:opacity-80"
+            >
+              {t('limit.selfHost')}
+            </a>
+          </div>
+        )}
 
         {/* Error */}
         {error && (

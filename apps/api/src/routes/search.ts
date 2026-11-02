@@ -1,8 +1,10 @@
 import { Hono } from 'hono';
 import { sql } from 'drizzle-orm';
 import type { Database } from '@opencouncil/db';
-import OpenAI from 'openai';
-import { NO_THINKING } from '../lib/deepseek.js';
+import { TtlCache } from '../lib/cache.js';
+import { createLlm, type Llm } from '../lib/llm.js';
+import { LlmGuard, requestIp } from '../lib/llm-guard.js';
+import { TokenBucket } from '../lib/rate-limit.js';
 import { asRows } from '../lib/rows.js';
 import { toOrTsQuery } from '../lib/search-query.js';
 
@@ -11,16 +13,11 @@ function containsChinese(text: string): boolean {
   return /[\u4e00-\u9fff\u3400-\u4dbf]/.test(text);
 }
 
-/** Translate Chinese query to English using DeepSeek for better search */
-async function translateToEnglish(text: string): Promise<string> {
+/** Translate a Chinese query to English for better search; falls back to the original on any failure. */
+async function translateToEnglish(text: string, llm: Llm): Promise<string> {
   try {
-    const client = new OpenAI({
-      apiKey: process.env.DEEPSEEK_API_KEY ?? '',
-      baseURL: (process.env.DEEPSEEK_BASE_URL ?? 'https://api.deepseek.com') + '/v1',
-    });
-
-    const completion = await client.chat.completions.create({
-      model: 'deepseek-v4-flash',
+    const completion = await llm.client.chat.completions.create({
+      model: llm.model,
       messages: [
         {
           role: 'system',
@@ -30,18 +27,39 @@ async function translateToEnglish(text: string): Promise<string> {
       ],
       temperature: 0.1,
       max_tokens: 200,
-      ...NO_THINKING,
+      ...llm.extraBody,
     });
 
-    return completion.choices[0]?.message?.content?.trim() ?? text;
+    return completion.choices[0]?.message?.content?.trim() || text;
   } catch (err) {
     console.error('Translation failed, falling back to original:', err);
     return text;
   }
 }
 
-export function searchRoute(db: Database) {
+export interface SearchDeps {
+  llm?: Llm;
+  guard?: LlmGuard;
+}
+
+export function searchRoute(db: Database, deps: SearchDeps = {}) {
   const app = new Hono();
+  const llm = deps.llm ?? createLlm();
+  const guard = deps.guard ?? new LlmGuard();
+  // Translation is a nicety: cached, separately rate-limited per IP (30/hour), and
+  // skipped (search runs on the original text) when the IP or the site budget is out.
+  const translations = new TtlCache<string>(24 * 3_600_000, 1000);
+  const ipBucket = new TokenBucket(10, 30 / 3600);
+
+  async function maybeTranslate(q: string, ip: string): Promise<string> {
+    const key = q.trim().toLowerCase();
+    const hit = translations.get(key);
+    if (hit) return hit;
+    if (!ipBucket.take(ip) || !guard.useCall()) return q;
+    const en = await translateToEnglish(q, llm);
+    if (en !== q) translations.set(key, en);
+    return en;
+  }
 
   app.get('/', async (c) => {
     const q = c.req.query('q');
@@ -58,7 +76,7 @@ export function searchRoute(db: Database) {
     let translatedFrom: string | undefined;
     if (containsChinese(q)) {
       translatedFrom = q;
-      searchQuery = await translateToEnglish(q);
+      searchQuery = await maybeTranslate(q, requestIp(c));
     }
 
     const orQuery = toOrTsQuery(searchQuery);
@@ -114,7 +132,7 @@ export function searchRoute(db: Database) {
       });
     } catch (err: any) {
       console.error('Search error:', err);
-      return c.json({ error: 'Search failed', details: err.message }, 500);
+      return c.json({ error: 'Search failed' }, 500);
     }
   });
 

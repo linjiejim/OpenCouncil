@@ -1,11 +1,28 @@
 const BASE = '/api';
 
+export const REPO_URL = 'https://github.com/linjiejim/OpenCouncil';
+
+/** A failed API call; `code` is the machine-readable error code from the body, if any. */
+export class ApiError extends Error {
+  constructor(message: string, readonly status: number, readonly code?: string) {
+    super(message);
+  }
+}
+
 async function fetchJSON<T>(path: string, init?: RequestInit): Promise<T> {
   const res = await fetch(`${BASE}${path}`, {
     ...init,
     headers: { 'Content-Type': 'application/json', ...init?.headers },
   });
-  if (!res.ok) throw new Error(`API ${res.status}: ${res.statusText}`);
+  if (!res.ok) {
+    let code: string | undefined;
+    try {
+      code = ((await res.json()) as { code?: string })?.code;
+    } catch {
+      code = undefined;
+    }
+    throw new ApiError(`API ${res.status}: ${res.statusText}`, res.status, code);
+  }
   return res.json();
 }
 

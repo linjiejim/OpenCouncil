@@ -13,24 +13,29 @@ import { searchRoute } from './routes/search.js';
 import { councilRoute } from './routes/council.js';
 import { themesRoute } from './routes/themes.js';
 import { agentRoute } from './routes/agent.js';
+import { createLlm } from './lib/llm.js';
+import { guardFromEnv } from './lib/llm-guard.js';
 
 const DATABASE_URL = process.env.DATABASE_URL ?? 'postgresql://opencouncil:opencouncil@localhost:5432/opencouncil';
 const PORT = Number(process.env.API_PORT ?? 3001);
 
 const db = createDatabase(DATABASE_URL);
 const app = new Hono();
+// One model client and one spending guard shared by every public route that calls the model.
+const llm = createLlm();
+const guard = guardFromEnv();
 
 app.use('*', cors({ origin: ['http://localhost:5173', 'http://localhost:3000'] }));
 
-// Health check
-app.get('/api/health', (c) => c.json({ status: 'ok', time: new Date().toISOString() }));
+// Health check (probed by monitoring): liveness plus today's model usage — no keys, no paths.
+app.get('/api/health', (c) => c.json({ ok: true, llm: guard.stats() }));
 
 // Mount routes
 app.route('/api/thinkers', thinkersRoute(db));
 app.route('/api/works', worksRoute(db));
 app.route('/api/passages', passagesRoute(db));
-app.route('/api/search', searchRoute(db));
-app.route('/api/council', councilRoute(db));
+app.route('/api/search', searchRoute(db, { llm, guard }));
+app.route('/api/council', councilRoute(db, { llm, guard }));
 app.route('/api/themes', themesRoute(db));
 app.route('/api/agent', agentRoute(db)); // authed (bearer key), rate-limited, cached
 

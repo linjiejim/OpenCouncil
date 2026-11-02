@@ -1,10 +1,12 @@
 import { Hono } from 'hono';
 import { sql } from 'drizzle-orm';
 import type { Database } from '@opencouncil/db';
-import OpenAI from 'openai';
+import type OpenAI from 'openai';
 import { asRows } from '../lib/rows.js';
 import { toOrTsQuery } from '../lib/search-query.js';
-import { NO_THINKING } from '../lib/deepseek.js';
+import { TtlCache } from '../lib/cache.js';
+import { createLlm, type Llm } from '../lib/llm.js';
+import { LIMIT_CODES, LlmGuard, requestIp } from '../lib/llm-guard.js';
 import { isScripture } from '@opencouncil/types';
 
 /** Detect if a string contains CJK characters */
@@ -12,12 +14,21 @@ function containsNonLatin(text: string): boolean {
   return /[\u4e00-\u9fff\u3400-\u4dbf\u3040-\u30ff\uac00-\ud7af\u0400-\u04ff\u0600-\u06ff]/.test(text);
 }
 
+/**
+ * Cache key for an identical question: whitespace collapsed, case folded, trailing
+ * punctuation dropped, plus everything else that changes the answer.
+ */
+export function councilCacheKey(q: { question: string; lang: string; thinkerSlugs?: string[]; deepDiveSlug?: string }): string {
+  const question = q.question.normalize('NFKC').trim().toLowerCase().replace(/\s+/g, ' ').replace(/[\s?？!！.。…]+$/u, '');
+  return JSON.stringify([question, q.lang, [...(q.thinkerSlugs ?? [])].sort(), q.deepDiveSlug ?? '']);
+}
+
 /** Expand a search query: translate non-English, extract keywords */
-async function expandSearchQuery(text: string, client: OpenAI): Promise<string> {
+async function expandSearchQuery(text: string, llm: Llm): Promise<string> {
   // Always translate/expand for better search recall
   try {
-    const completion = await client.chat.completions.create({
-      model: 'deepseek-v4-flash',
+    const completion = await llm.client.chat.completions.create({
+      model: llm.model,
       messages: [
         {
           role: 'system',
@@ -27,7 +38,7 @@ async function expandSearchQuery(text: string, client: OpenAI): Promise<string> 
       ],
       temperature: 0.1,
       max_tokens: 100,
-      ...NO_THINKING,
+      ...llm.extraBody,
     });
     return completion.choices[0]?.message?.content?.trim() ?? text;
   } catch {
@@ -35,12 +46,18 @@ async function expandSearchQuery(text: string, client: OpenAI): Promise<string> 
   }
 }
 
-export function councilRoute(db: Database) {
+export interface CouncilDeps {
+  llm?: Llm;
+  guard?: LlmGuard;
+  cache?: TtlCache<unknown>;
+}
+
+export function councilRoute(db: Database, deps: CouncilDeps = {}) {
   const app = new Hono();
-  const client = new OpenAI({
-    apiKey: process.env.DEEPSEEK_API_KEY ?? '',
-    baseURL: (process.env.DEEPSEEK_BASE_URL ?? 'https://api.deepseek.com') + '/v1',
-  });
+  const llm = deps.llm ?? createLlm();
+  const guard = deps.guard ?? new LlmGuard();
+  // Identical questions within a day are answered from cache — no model call, no quota used.
+  const cache = deps.cache ?? new TtlCache<unknown>(24 * 3_600_000, 500);
 
   // POST /ask — ask the council (supports multi-turn and @ mentions)
   app.post('/ask', async (c) => {
@@ -56,8 +73,26 @@ export function councilRoute(db: Database) {
     // Scriptures are described, never voiced — so there is no one-on-one deep dive with them.
     if (isScripture(deepDiveSlug)) return c.json({ error: 'Deep dive is not available for scriptures' }, 400);
 
+    // Follow-ups depend on the conversation, so only first questions are cached.
+    const cacheKey = conversationHistory?.length ? null : councilCacheKey({ question, lang, thinkerSlugs, deepDiveSlug });
+    const cached = cacheKey ? cache.get(cacheKey) : undefined;
+    if (cached) {
+      c.header('X-Cache', 'HIT');
+      return c.json(cached as Record<string, unknown>);
+    }
+
+    // Spending limits: per-IP allowance, then the site-wide daily budget (two model calls per question).
+    if (!guard.allowIp(requestIp(c))) {
+      c.header('Retry-After', '600');
+      return c.json({ error: 'Too many questions from this address; try again later', code: LIMIT_CODES.rateLimited }, 429);
+    }
+    if (!guard.hasBudget(2)) {
+      return c.json({ error: "Today's trial quota is used up", code: LIMIT_CODES.dailyLimit }, 429);
+    }
+
     // Step 0: Expand search query (always translate/expand to English keywords)
-    const expandedQuery = await expandSearchQuery(question, client);
+    guard.useCall();
+    const expandedQuery = await expandSearchQuery(question, llm);
     const orQuery = toOrTsQuery(expandedQuery);
 
     const noPassages = () =>
@@ -109,7 +144,7 @@ export function councilRoute(db: Database) {
       rows = asRows<any>(searchResults);
     } catch (err: any) {
       console.error('Council search error:', err);
-      return c.json({ error: 'Search failed', details: err?.message }, 500);
+      return c.json({ error: 'Search failed' }, 500);
     }
 
     if (rows.length === 0) return noPassages();
@@ -226,17 +261,25 @@ Output format (JSON):
       content: `Question: "${question}"\n\nRelevant passages:\n\n${passageContext}`,
     });
 
+    if (!guard.useCall()) {
+      return c.json({ error: "Today's trial quota is used up", code: LIMIT_CODES.dailyLimit }, 429);
+    }
     try {
-      const completion = await client.chat.completions.create({
-        model: 'deepseek-v4-flash',
+      const completion = await llm.client.chat.completions.create({
+        model: llm.model,
         messages,
         temperature: 0.7,
         max_tokens: deepDiveSlug ? 6000 : 4000,
         response_format: { type: 'json_object' },
-        ...NO_THINKING,
+        ...llm.extraBody,
       });
 
-      const content = completion.choices[0]?.message?.content ?? '{}';
+      const content = completion.choices[0]?.message?.content ?? '';
+      if (!content.trim()) {
+        // e.g. a reasoning model spent the whole max_tokens budget thinking
+        console.error('Council LLM returned no content; finish_reason =', completion.choices[0]?.finish_reason);
+        return c.json({ error: 'The council could not answer this time', code: 'llm_failed' }, 502);
+      }
       let parsed;
       try { parsed = JSON.parse(content); } catch { parsed = { questionAbstract: question, perspectives: [], raw: content }; }
 
@@ -278,7 +321,7 @@ Output format (JSON):
             }
           : null;
 
-      return c.json({
+      const result = {
         questionAbstract: parsed.questionAbstract ?? question,
         questionAbstractZh: parsed.questionAbstractZh ?? '',
         takeaway: parsed.takeaway ?? '',
@@ -289,10 +332,12 @@ Output format (JSON):
           lang === 'zh'
             ? '⚠️ 以上回答基于思想家原著的 AI 推演。点击「查看详情」可核实引用。'
             : '⚠️ AI interpretations grounded in original texts. Click "View details" to verify citations.',
-      });
+      };
+      if (cacheKey && perspectives.length > 0) cache.set(cacheKey, result);
+      return c.json(result);
     } catch (error: any) {
       console.error('Council LLM error:', error);
-      return c.json({ error: 'Failed to generate council response', details: error.message }, 500);
+      return c.json({ error: 'Failed to generate council response', code: 'llm_failed' }, 502);
     }
   });
 

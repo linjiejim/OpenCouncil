@@ -7,7 +7,8 @@
 | 进程 | PM2 `opencouncil`（`ecosystem.config.cjs`，用 tsx 运行 `apps/api/src/index.ts`，工作目录是仓库所在目录） |
 | 端口 | `.env` 里的 `API_PORT`（默认 3001），只听本机，由反向代理对外 |
 | 数据库 | `docker compose` 的 `opencouncil-db`，只绑 `127.0.0.1:${OC_DB_PORT:-5433}` |
-| 密钥 | 服务器上的 `.env`（不进仓库）。`DEEPSEEK_API_KEY` 必填，否则议事厅和中文检索不可用 |
+| 密钥 | 服务器上的 `.env`（不进仓库）。模型密钥必填（`DEEPSEEK_API_KEY`，或 `LLM_BASE_URL` / `LLM_API_KEY` / `LLM_MODEL` 指向任意 OpenAI 兼容接口），否则议事厅和中文检索不可用 |
+| 花费上限 | 公开接口每个 IP 突发 5 次、之后每小时 20 次；全站每天的模型调用数由 `COUNCIL_DAILY_LIMIT` 控制（默认 300，按 UTC 日重置），超出返回 429，前端提示“今天的试用额度用完了”。相同的问题 24 小时内直接返回缓存 |
 | 内容 | 部署时跑 `pnpm content:import`：幂等，读仓库里的 `packages/content/src/data/*.json`，**不联网、不调用模型** |
 
 ## 第一次上线
@@ -39,7 +40,7 @@
    npx drizzle-kit push --force
    pnpm content:import
    mkdir -p logs && pm2 start ecosystem.config.cjs && pm2 save
-   curl -s localhost:3001/api/health     # 期望 {"status":"ok",...}
+   curl -s localhost:3001/api/health     # 期望 {"ok":true,"llm":{"callsToday":0,"dailyLimit":300}}
    ```
 
    有的主机会跳过 esbuild 的安装脚本，启动报 esbuild 相关的错时补一句 `pnpm rebuild esbuild`。

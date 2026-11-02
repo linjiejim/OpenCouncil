@@ -95,7 +95,7 @@ export function agentRoute(db: Database) {
       return respond(passages);
     } catch (err: any) {
       console.error('Agent passages error:', err);
-      return c.json({ error: 'Retrieval failed', details: err?.message }, 500);
+      return c.json({ error: 'Retrieval failed' }, 500);
     }
   });
 
