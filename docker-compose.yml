@@ -7,6 +7,7 @@ services:
       POSTGRES_PASSWORD: opencouncil
       POSTGRES_DB: opencouncil
     restart: unless-stopped
+    mem_limit: 256m
     ports:
       # Bind to loopback only — the DB must never be reachable from the public
       # internet; apps connect via localhost. Host port overridable via OC_DB_PORT.

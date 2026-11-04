@@ -6,7 +6,11 @@ module.exports = {
     {
       name: 'opencouncil',
       script: 'apps/api/src/index.ts',
-      interpreter: './node_modules/.bin/tsx',
+      // `node --import tsx` instead of the tsx CLI: the CLI spawns a second node process and
+      // pm2 only measures the outer one (~3–10 MB), so max_memory_restart would never fire.
+      // The host has ~3.6 GB RAM shared by every site (see the jim-server deploy notes).
+      interpreter: 'node',
+      interpreter_args: '--import tsx',
       cwd: __dirname,
       env: {
         NODE_ENV: 'production',
@@ -16,6 +20,7 @@ module.exports = {
       merge_logs: true,
       max_restarts: 10,
       restart_delay: 3000,
+      max_memory_restart: '300M',
     },
   ],
 };
